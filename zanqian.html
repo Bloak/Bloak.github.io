@@ -1,0 +1,504 @@
+<html>
+	<body>
+		<h1 id="header">攒钱</h1>
+		<button id="restart" onclick="restart()">重新开始</button>
+		<h2 id="player_info">你有0块钱，0把刀，2条命，进过0次监狱</h2>
+		<h2 id="ai_info">对方有0块钱，0把刀，2条命，进过0次监狱</h2>
+		<button id="zanqian" onclick="operation(player,0)">攒钱</button>
+		<button id="maidao" onclick="operation(player,1)">买刀</button>
+		<button id="qiangjie" onclick="operation(player,2)">抢劫</button>
+		<button id="wuli" onclick="operation(player,3)">武力</button>
+		<h2 id="announcer">请出招</h2>
+		<button id="confirm" onclick="confirm()">确定</button>
+		<h2 id="win_lose"></h2>
+
+		<script>
+			var r = 0; //随机数
+			var i = 0; //循环计数器
+
+			var skills = ["攒钱","买刀","抢劫","武力"];
+			skills[null] = "什么也不做";
+
+			var player = {
+				money: 0,
+				knife: 0,
+				hp: 2,
+				injail: false,
+				protect: false,
+				jail_count: 0,
+				operation: null,
+				win: false
+			}
+			var ai = {
+				money: 0,
+				knife: 0,
+				hp: 2,
+				injail: false,
+				protect: false,
+				jail_count: 0,
+				operation: null,
+				win: false
+			}
+
+			function warning(you, message){
+				if (you === player){
+					document.getElementById("announcer").innerHTML=message;
+				}
+			}
+
+			function refresh(){
+				document.getElementById("player_info").innerHTML="你有"+player.money+"块钱，"+player.knife+"把刀，"+player.hp+"条命，进过"+player.jail_count+"次监狱";
+				document.getElementById("ai_info").innerHTML="对方有"+ai.money+"块钱，"+ai.knife+"把刀，"+ai.hp+"条命，进过"+ai.jail_count+"次监狱";
+			}
+
+			function restart(){
+				player.money = 0;
+				player.knife = 0;
+				player.hp = 2;
+				player.injail = false;
+				player.protect = false;
+				player.jail_count = 0;
+				player.operation = null;
+				player.win = false;
+				ai.money = 0;
+				ai.knife = 0;
+				ai.hp = 2;
+				ai.injail = false;
+				ai.protect = false;
+				ai.jail_count = 0;
+				ai.operation = null;
+				ai.win = false;
+				refresh();
+				warning(player, "请出招");
+				document.getElementById("win_lose").innerHTML="";
+			}
+
+			function operation(you, number){
+				you.operation = number;
+				if (you.money === 0 && number === 1){
+					you.operation = null;
+					warning(you, "你没钱买刀");
+				}
+				if (you.injail){
+					you.operation = null;
+					warning(you, "你在监狱");
+				}
+			}
+
+			function confirm(){
+				if (ai.injail){
+					operation(ai, null);
+				}
+				else{
+					if (ai.money === 0){
+						if (player.money === 0){
+							if (ai.knife === 0){
+								if (player.knife === 0){
+									operation(ai, 0);
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.8){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+							else{
+								if (player.knife === 0){
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.6){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.33){
+											operation(ai, 0);
+										}
+										else if (r < 0.67){
+											operation(ai, 2);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+						}
+						else{
+							if (ai.knife === 0){
+								if (player.knife === 0){
+									operation(ai, 0);
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.8){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+							else{
+								if (player.knife === 0){
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.5){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.4){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+						}
+					}
+					else{
+						if (player.money === 0){
+							if (ai.knife === 0){
+								if (player.knife === 0){
+									r = Math.random();
+										if (r < 0.5){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 1);
+										}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.25){
+											operation(ai, 0);
+										}
+										else if (r < 0.5){
+											operation(ai, 1);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 1);
+									}
+								}
+							}
+							else{
+								if (player.knife === 0){
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.8){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.25){
+											operation(ai, 0);
+										}
+										else if (r < 0.5){
+											operation(ai, 2);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+						}
+						else{
+							if (ai.knife === 0){
+								if (player.knife === 0){
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.33){
+											operation(ai, 0);
+										}
+										else if (r < 0.67){
+											operation(ai, 1);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 1);
+									}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.2){
+											operation(ai, 0);
+										}
+										else if (r < 0.6){
+											operation(ai, 1);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 1);
+									}
+								}
+							}
+							else{
+								if (player.knife === 0){
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.5){
+											operation(ai, 0);
+										}
+										else{
+											operation(ai, 2);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+								else{
+									if (!player.injail){
+										r = Math.random();
+										if (r < 0.33){
+											operation(ai, 0);
+										}
+										else if (r < 0.67){
+											operation(ai, 2);
+										}
+										else{
+											operation(ai, 3);
+										}
+									}
+									else{
+										operation(ai, 0);
+									}
+								}
+							}
+						}
+					}
+				}
+				//operation(ai, 0);
+				settle();
+			}
+
+			function settle(){
+				warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]);
+				if (player.injail){
+					player.injail = false;
+					player.protect = true;
+				}
+				if (ai.injail){
+					ai.injail = false;
+					ai.protect = true;
+				}
+				if (player.operation === 0){
+					player.money += 1;
+				}
+				if (ai.operation === 0){
+					ai.money += 1;
+				}
+				if (player.operation === 1){
+					player.money -= 1;
+				}
+				if (ai.operation === 1){
+					ai.money -= 1;
+				}
+				if (player.operation === 2 && ai.operation === 2){
+					if (player.knife >= 1 && ai.knife >= 1){
+						r = Math.floor(Math.random() * 2)
+						if (r === 0){
+							rob(player, ai, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫成功");
+						}
+						else{
+							rob(ai, player, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫失败");
+						}
+					}
+					else if (player.knife >= 1){
+						rob(player, ai, true);
+						warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫成功");
+					}
+					else if (ai.knife >= 1){
+						rob(ai, player, true);
+						warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫失败");
+					}
+					else{
+						r = Math.floor(Math.random() * 2)
+						if (r === 0){
+							rob(player, ai, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫成功");
+						}
+						else{
+							rob(ai, player, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫失败");
+						}
+					}
+				}
+				if (player.operation === 2 && ai.operation === 3){
+					trial(player, false);
+				}
+				if (ai.operation === 2 && player.operation === 3){
+					trial(ai, false);
+				}
+				if (player.operation === 2 && ai.operation !== 2 && ai.operation !== 3 && !ai.protect){
+					if (player.knife >= 1){
+						rob(player, ai, false);
+					}
+					else{
+						r = Math.floor(Math.random() * 2)
+						if (r === 0){
+							rob(player, ai, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫成功");
+						}
+						else{
+							rob(ai, player, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，你抢劫失败");
+						}
+					}
+				}
+				if (ai.operation === 2 && player.operation !== 2 && player.operation !== 3 && !player.protect){
+					if (ai.knife >= 1){
+						rob(ai, player, false);
+					}
+					else{
+						r = Math.floor(Math.random() * 2)
+						if (r === 0){
+							rob(ai, player, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，对方抢劫成功");
+						}
+						else{
+							rob(player, ai, true);
+							warning(player, "你使用了"+skills[player.operation]+"，对方使用了"+skills[ai.operation]+"，对方抢劫失败");
+						}
+					}
+				}
+				if (player.operation === 3 && ai.operation !== 2){
+					trial(player, true);
+				}
+				if (ai.operation === 3 && player.operation !== 2){
+					trial(ai, true);
+				}
+				if (player.operation === 1){
+					player.knife += 1;
+				}
+				if (ai.operation === 1){
+					ai.knife += 1;
+				}
+				if (player.protect){
+					player.protect = false;
+				}
+				if (ai.protect){
+					ai.protect = false;
+				}
+				judge(player, ai);
+				judge(ai, player);
+				if (player.win && ai.win){
+					document.getElementById("win_lose").innerHTML="平局";
+				}
+				else if (player.win){
+					document.getElementById("win_lose").innerHTML="你赢了";
+				}
+				else if (ai.win){
+					document.getElementById("win_lose").innerHTML="你输了";
+				}
+				player.operation = null;
+				ai.operation = null;
+				refresh();
+			}
+
+			function rob(you, enemy, enemy_is_robber){
+				if (enemy.money === 0){
+					enemy.hp -= 1;
+				}
+				else{
+					you.money += enemy.money;
+					enemy.money = 0;
+					if (!enemy_is_robber){
+						you.knife += enemy.knife;
+						enemy.knife = 0;
+					}
+				}
+			}
+
+			function trial(you, use_wuli){
+				you.injail = true;
+				you.jail_count += 1;
+				if (!use_wuli){
+					you.money = 0;
+					you.knife = 0;
+				}
+			}
+
+			function judge(you, enemy){
+				if (you.money >= 10){
+					you.win = true;
+				}
+				if (enemy.hp <= 0){
+					you.win = true;
+				}
+				if (enemy.jail_count >= 3){
+					you.win = true;
+				}
+			}
+
+		</script>
+	</body>
+</html>
