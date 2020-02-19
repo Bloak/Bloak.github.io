@@ -13,6 +13,17 @@
 		<p id="score">分数 3:3</p>
 		<p id="step">你的行动力 0</p>
 		<script type="text/javascript">
+			// 玩家初始化
+			var player = {
+				'turn': false,
+				'step': 0,
+				'chess': 3
+			}
+			var ai = {
+				'turn': false,
+				'step': 0,
+				'chess': 3
+			}
 			// 画布
 			var width = 500;
 			var height = 500;
@@ -131,6 +142,9 @@
 					board[possible_place[random_number]].color = 'blue';
 					board[possible_place[random_number]].new = false;
 					draw_circle(board[possible_place[random_number]]);
+					ai.chess += 1;
+					refresh();
+					possible_place.splice(random_number, 1);
 				}
 			// 画图
 			function new_color(color){
@@ -167,18 +181,6 @@
 				for (column = 1; column <= size * 2 - 1 - Math.abs(row - size); column++) {
 					draw_circle(board[[row, column]])
 				}
-			}
-
-			// 玩家初始化
-			var player = {
-				'turn': false,
-				'step': 0,
-				'chess': 3
-			}
-			var ai = {
-				'turn': false,
-				'step': 0,
-				'chess': 3
 			}
 
 			function refresh(){
@@ -257,7 +259,8 @@
 						draw_circle(board[possible_move[random_number]]);
 						ai.step -= 1;
 						ai.chess += 1;
-						refresh()
+						refresh();
+						possible_move.splice(random_number, 1);
 					}
 				}
 				//玩家回合开始
