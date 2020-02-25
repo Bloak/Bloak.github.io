@@ -26,19 +26,20 @@
 			// 初始点，正三角形三顶点和一个随机点
 			dots = [[10, 490], [490, 490], [250, 490 - 240 * Math.sqrt(3)], [Math.random() * 500, Math.random() * 500]];
 			// 画初始点
+			color = ['red', 'green', 'blue', 'black'];
 			var i;
 			for (i = 0; i < 4; i ++){
-				draw(dots[i], 'black');
+				draw(dots[i], color[i]);
 			}
 			// 添加新点
 			async function append_dot(){
 				var j;
-				var random_dot;
-				for (j = 4; j < 1000; j ++){
-					random_dot = dots[Math.floor(Math.random() * 3)]; // 随机取三顶点之一
-					dots[j] = [(dots[j - 1][0] + random_dot[0]) / 2, (dots[j - 1][1] + random_dot[1]) / 2]; // 取上一个点与该顶点的中点，作为下一个点
-					await sleep(100);
-					draw(dots[j], 'black');
+				var random_number;
+				for (j = 4; j < 10000; j ++){
+					random_number = Math.floor(Math.random() * 3)
+					dots[j] = [(dots[j - 1][0] + dots[random_number][0]) / 2, (dots[j - 1][1] + dots[random_number][1]) / 2]; // 取上一个点与该顶点的中点，作为下一个点
+					// await sleep(100);
+					draw(dots[j], color[random_number]);
 				}
 			}
 			append_dot();
