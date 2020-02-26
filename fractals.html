@@ -1,0 +1,75 @@
+<html>
+	<head>
+		<style>
+		canvas {
+    		border: 1px solid #d3d3d3;
+    		background-color: #f1f1f1;
+		}
+		</style>
+	</head>
+	<body>
+		<h1>分形生成器</h1>
+		<canvas id="myCanvas" width="500" height="500"></canvas>
+		<form action="/action_page.php">
+  			<label for="size">边数:</label>
+  			<input type="text" id="size" name="size"><br><br>
+  			<label for="radius">半径:</label>
+  			<input type="text" id="radius" name="radius"><br><br>
+  			<label for="parameter">点函数参数:</label>
+  			<input type="text" id="parameter" name="parameter"><br><br>
+		</form>
+		<button id="run" onclick="run()">运行</button>
+		<script type="text/javascript">
+			document.getElementById("size").value = 3;
+			document.getElementById("radius").value = 240;
+			document.getElementById("parameter").value = 0.5;
+
+			var canvas = document.getElementById('myCanvas');
+			var context = canvas.getContext('2d');
+			// 画点函数
+			function draw(pos, color){
+				context.beginPath();
+				context.arc(pos[0], pos[1], 1, 0, 2 * Math.PI, false);
+				context.fillStyle = color;
+				context.fill();
+			}
+			var dots = [];
+			// 初始点，正三角形三顶点和一个随机点
+			function initial(n, r){
+				dots = [];
+				var i;
+				for (i = 0; i < n; i ++){
+					angle = 2 * Math.PI / n;
+					dots[i] = [250 + r * Math.cos(Math.PI / 2 - i * angle), 250 - r * Math.sin(Math.PI / 2 - i * angle)]
+				}
+				dots[n] = [Math.random() * 500, Math.random() * 500];
+				// 画初始点
+				for (i = 0; i <= n; i ++){
+					draw(dots[i], 'black');
+				}
+			}
+			// 添加新点
+			function append_dot(n, k){
+				var j;
+				var random_number;
+				for (j = n + 1; j < 100000; j ++){
+					random_number = Math.floor(Math.random() * n); // 随机取顶点之一
+					dots[j] = [dots[j - 1][0] * k + dots[random_number][0] * (1 - k), dots[j - 1][1] * k + dots[random_number][1] * (1 - k)]; // 生成点函数
+					draw(dots[j], 'black');
+				}
+			}
+			// 清屏
+			function clear(){
+				context.clearRect(0, 0, 500, 500);
+			}
+			function run(){
+				var size = parseInt(document.getElementById("size").value);
+				var radius = parseFloat(document.getElementById("radius").value);
+				var parameter = parseFloat(document.getElementById("parameter").value);
+				clear();
+				initial(size, radius);
+				append_dot(size, parameter);
+			}
+		</script>
+	</body>
+</html>
