@@ -1,0 +1,161 @@
+<html>
+	<head>
+		<style>
+		canvas {
+    		border: 1px solid #d3d3d3;
+    		background-color: #808080;
+		}
+		</style>
+	</head>
+	<body>
+		<h1>物理沙盒：阴阳</h1>
+		<canvas id="myCanvas" width="500" height="500"></canvas>
+		<p></p>
+		<button id="yin" onclick="create('yin')">阴</button>
+		<button id="yang" onclick="create('yang')">阳</button>
+		<button id="run" onclick="run()">运行</button>
+		<button id="stop" onclick="stop()">暂停</button>
+		<button id="refresh" onclick="refresh()">刷新</button>
+		<p></p>
+		<form action="/action_page.php">
+  			<label for="radius">半径:</label>
+  			<input type="text" id="radius" name="radius"><br><br>
+		</form>
+		<p>注意：</p>
+		<p>选择阴/阳后请点击画布某处，不要重复选择</p>
+		<p>点击画布生成物体后，请再次选择阴/阳，不要重复点击</p>
+		<p>不要连续运行/连续暂停</p>
+		<p>刷新前请先暂停</p>
+		<script type="text/javascript">
+			var canvas = document.getElementById('myCanvas');
+			var context = canvas.getContext('2d');
+
+			document.getElementById("radius").value = 5;
+			
+			var balls = [];
+			var lock = false;
+			function create(pole){
+				if (lock === false){
+					radius = parseFloat(document.getElementById("radius").value);
+					balls.push({
+						"pole": pole,
+						"radius": radius,
+						"mass": radius ** 3 / 125,
+						"pos": null,
+						"vel": [0, 0],
+						"acc": [0, 0]
+					})
+					lock = true;
+				}
+			}
+
+			function draw(ball){
+				context.beginPath();
+				context.arc(ball.pos[0], ball.pos[1], ball.radius, 0, 2 * Math.PI, false);
+				if (ball.pole == 'yin'){
+					context.fillStyle='black';
+				}
+				else{
+					context.fillStyle='white';
+				}
+				context.fill();
+			}
+
+			document.addEventListener("DOMContentLoaded", init, false);
+
+			function init(){
+				canvas.addEventListener("mousedown", getPosition, false);
+			}
+
+			function getPosition(event){
+				var x = new Number();
+				var y = new Number();
+				x = event.x;
+				y = event.y;
+				x -= canvas.offsetLeft;
+				y -= canvas.offsetTop;
+				console.log(x, y);
+				balls[balls.length - 1].pos = [x, y];
+				draw(balls[balls.length - 1]);
+				lock = false;
+			}
+
+			var interval;
+			function run(){
+				interval = setInterval(move, 20);
+			}
+
+			function stop(){
+				clearInterval(interval);
+			}
+
+			function refresh(){
+				balls = [];
+				clear();
+				console.log('refresh');
+			}
+
+			function clear(){
+				context.clearRect(0, 0, 500, 500);
+			}
+
+			const G = 500;
+
+			function move(){
+				clear();
+				var i;
+				for (i = 0; i < balls.length; i++){
+					balls[i].acc = [0, 0];
+					for (j = 0; j < balls.length; j++){
+						if (j !== i){
+							var r = ((balls[j].pos[0] - balls[i].pos[0]) ** 2 + (balls[j].pos[1] - balls[i].pos[1]) ** 2) ** 0.5;
+							if (balls[j].pole === balls[i].pole){
+								balls[i].acc[0] += G * balls[j].mass * (balls[i].pos[0] - balls[j].pos[0]) / r ** 3;
+								balls[i].acc[1] += G * balls[j].mass * (balls[i].pos[1] - balls[j].pos[1]) / r ** 3;
+							}
+							else{
+								balls[i].acc[0] += G * balls[j].mass * (balls[j].pos[0] - balls[i].pos[0]) / r ** 3;
+								balls[i].acc[1] += G * balls[j].mass * (balls[j].pos[1] - balls[i].pos[1]) / r ** 3;
+							}
+						}
+					}
+
+					balls[i].vel[0] += balls[i].acc[0];
+					balls[i].vel[1] += balls[i].acc[1];
+
+					balls[i].pos[0] += balls[i].vel[0];
+					for (j = 0; j < balls.length; j++){
+						if (j !== i){
+							var r = ((balls[j].pos[0] - balls[i].pos[0]) ** 2 + (balls[j].pos[1] - balls[i].pos[1]) ** 2) ** 0.5;
+							if (r < balls[i].radius + balls[j].radius){
+								balls[i].pos[0] -= balls[i].vel[0];
+								balls[i].vel[0] = 0;
+							}
+						}
+					}
+					if (balls[i].pos[0] < balls[i].radius || balls[i].pos[0] > 500 - balls[i].radius){
+						balls[i].pos[0] -= balls[i].vel[0];
+						balls[i].vel[0] = 0;
+					}
+					balls[i].pos[1] += balls[i].vel[1];
+					for (j = 0; j < balls.length; j++){
+						if (j !== i){
+							var r = ((balls[j].pos[0] - balls[i].pos[0]) ** 2 + (balls[j].pos[1] - balls[i].pos[1]) ** 2) ** 0.5;
+							if (r < balls[i].radius + balls[j].radius){
+								balls[i].pos[1] -= balls[i].vel[1];
+								balls[i].vel[1] = 0;
+							}
+						}
+					}
+					if (balls[i].pos[1] < balls[i].radius || balls[i].pos[1] > 500 - balls[i].radius){
+						balls[i].pos[1] -= balls[i].vel[1];
+						balls[i].vel[1] = 0;
+					}
+
+					draw(balls[i]);
+				}
+			}
+			
+		</script>
+	</body>
+</html>
