@@ -20,6 +20,8 @@
 		<form action="/action_page.php">
   			<label for="radius">半径:</label>
   			<input type="text" id="radius" name="radius"><br><br>
+  			<label for="gravity">引力常数:</label>
+  			<input type="text" id="gravity" name="gravity"><br><br>
 		</form>
 		<p>注意：</p>
 		<p>选择阴/阳后请点击画布某处，不要重复选择</p>
@@ -31,6 +33,7 @@
 			var context = canvas.getContext('2d');
 
 			document.getElementById("radius").value = 5;
+			document.getElementById("gravity").value = 500;
 			
 			var balls = [];
 			var lock = false;
@@ -99,9 +102,8 @@
 				context.clearRect(0, 0, 500, 500);
 			}
 
-			const G = 500;
-
 			function move(){
+				var G = parseFloat(document.getElementById("gravity").value)
 				clear();
 				var i;
 				for (i = 0; i < balls.length; i++){
@@ -129,13 +131,16 @@
 							var r = ((balls[j].pos[0] - balls[i].pos[0]) ** 2 + (balls[j].pos[1] - balls[i].pos[1]) ** 2) ** 0.5;
 							if (r < balls[i].radius + balls[j].radius){
 								balls[i].pos[0] -= balls[i].vel[0];
-								balls[i].vel[0] = 0;
+								var temp = balls[i].vel[0];
+								balls[i].vel[0] = balls[j].vel[0] * balls[j].mass / balls[i].mass;
+								balls[j].vel[0] = temp * balls[i].mass / balls[j].mass;
+								temp = 0;
 							}
 						}
 					}
 					if (balls[i].pos[0] < balls[i].radius || balls[i].pos[0] > 500 - balls[i].radius){
 						balls[i].pos[0] -= balls[i].vel[0];
-						balls[i].vel[0] = 0;
+						balls[i].vel[0] *= (-1);
 					}
 					balls[i].pos[1] += balls[i].vel[1];
 					for (j = 0; j < balls.length; j++){
@@ -143,13 +148,16 @@
 							var r = ((balls[j].pos[0] - balls[i].pos[0]) ** 2 + (balls[j].pos[1] - balls[i].pos[1]) ** 2) ** 0.5;
 							if (r < balls[i].radius + balls[j].radius){
 								balls[i].pos[1] -= balls[i].vel[1];
-								balls[i].vel[1] = 0;
+								var temp = balls[i].vel[1];
+								balls[i].vel[1] = balls[j].vel[1] * balls[j].mass / balls[i].mass;
+								balls[j].vel[1] = temp * balls[i].mass / balls[j].mass;
+								temp = 0;
 							}
 						}
 					}
 					if (balls[i].pos[1] < balls[i].radius || balls[i].pos[1] > 500 - balls[i].radius){
 						balls[i].pos[1] -= balls[i].vel[1];
-						balls[i].vel[1] = 0;
+						balls[i].vel[1] *= (-1);
 					}
 
 					draw(balls[i]);
