@@ -1,0 +1,114 @@
+<html>
+	<head>
+		<style>
+		canvas {
+    		border: 1px solid #d3d3d3;
+    		background-color: #d0d0d0;
+		}
+		</style>
+	</head>
+	<body>
+		<canvas id="myCanvas" width="500" height="500"></canvas>
+		<p></p>
+		<p id="position">位置:</p>
+		<p id="velocity">速度:</p>
+		<p id="acceleration">加速度:</p>
+		<button id="run" onclick="run()">运行</button>
+		<button id="stop" onclick="stop()">暂停</button>
+		<button id="refresh" onclick="refresh()">刷新</button>
+		<script type="text/javascript">
+			var canvas = document.getElementById('myCanvas');
+			var context = canvas.getContext('2d');
+
+			var enemy = {
+				"radius": 5,
+				"color": "black",
+				"pos": [250, 250],
+				"vel": [0, 0],
+				"speed": 0,
+				"maxSpeed": 2,
+				"acc": [0, 0]
+			}
+
+			function draw(ball){
+				context.beginPath();
+				context.arc(ball.pos[0], ball.pos[1], ball.radius, 0, 2 * Math.PI, false);
+				context.fillStyle=ball.color;
+				context.fill();
+				ball.drawn = true;
+			}
+
+			var interval;
+			var fps = 50;
+			var running = false;
+			function run(){
+				if (running === false){
+					running = true;
+					interval = setInterval(move, 1000 / fps);
+				}
+			}
+
+			function stop(){
+				running = false;
+				clearInterval(interval);
+			}
+
+			function clear(){
+				context.clearRect(0, 0, 500, 500);
+			}
+
+			function refresh(){
+				enemy.pos = [250, 250];
+				enemy.vel = [0, 0];
+				enemy.speed = 0;
+				enemy.acc = [0, 0];
+				clear();
+				stop();
+			}
+
+			function randint(x, y){
+				return x + Math.floor(Math.random() * (y - x + 1))
+			}
+
+			function move(){
+				clear();
+				enemy.acc = [Math.random() - 0.5, Math.random() - 0.5];
+				enemy.vel[0] += enemy.acc[0];
+				enemy.vel[1] += enemy.acc[1];
+
+				enemy.speed = Math.sqrt(enemy.vel[0]**2 + enemy.vel[1]**2);
+
+				if (enemy.speed > enemy.maxSpeed){
+					enemy.vel[0] *= enemy.maxSpeed / enemy.speed;
+					enemy.vel[1] *= enemy.maxSpeed / enemy.speed;
+				}
+
+				enemy.pos[0] += enemy.vel[0];
+				enemy.pos[1] += enemy.vel[1];
+
+				if (enemy.pos[0] <= enemy.radius){
+					enemy.vel[0] = 0;
+					enemy.pos[0] = enemy.radius;
+				}
+				else if (enemy.pos[0] >= 499 - enemy.radius){
+					enemy.vel[0] = 0;
+					enemy.pos[0] = 499 - enemy.radius;
+				}
+				if (enemy.pos[1] <= enemy.radius){
+					enemy.vel[1] = 0;
+					enemy.pos[1] = enemy.radius;
+				}
+				else if (enemy.pos[1] >= 499 - enemy.radius){
+					enemy.vel[1] = 0;
+					enemy.pos[1] = 499 - enemy.radius;
+				}
+
+				draw(enemy);
+
+				document.getElementById("position").innerHTML = "位置: " + enemy.pos[0].toFixed(2) + ", " + enemy.pos[1].toFixed(2);
+				document.getElementById("velocity").innerHTML = "速度: " + enemy.vel[0].toFixed(2) + ", " + enemy.vel[1].toFixed(2) + "; 速率: " + enemy.speed.toFixed(2);
+				document.getElementById("acceleration").innerHTML = "加速度: " + enemy.acc[0].toFixed(2) + ", " + enemy.acc[1].toFixed(2);
+			}
+		</script>
+	</body>
+</html>
