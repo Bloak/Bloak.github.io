@@ -1,7 +1,11 @@
-var width = 500;
-var height = 500;
 var canvas = document.getElementById('canvas');
 var context = canvas.getContext('2d');
+canvas.width = window.innerWidth * 0.6;
+canvas.height = window.innerWidth * 0.6;
+var width = canvas.width;
+var height = canvas.height;
+var board_size = 4;
+var standard_radius = width / (board_size * 2 - 1) / 2;
 //[x, y] <--> 'x_y' conversion
 function list_to_string(pos) {
     return pos[0].toString() + '_' + pos[1].toString();
@@ -17,7 +21,7 @@ var Board = /** @class */ (function () {
         var column;
         for (row = 1; row <= size * 2 - 1; row++) {
             for (column = 1; column <= size * 2 - 1 - Math.abs(row - size); column++) {
-                var radius = width / (size * 2 - 1) / 2;
+                var radius = standard_radius;
                 var x = (width / (size * 2 - 1) / 2) * (1 + Math.abs(row - size) + 2 * (column - 1));
                 var y = height / 2 + (row - size) * (width / (size * 2 - 1) / 2) * Math.sqrt(3);
                 this.content[list_to_string([row, column])] = new Space(row, column, radius, x, y);
@@ -93,7 +97,7 @@ var color_table = {
 };
 var Unit = /** @class */ (function () {
     function Unit(name, owner, board, position, radius) {
-        if (radius === void 0) { radius = 20; }
+        if (radius === void 0) { radius = standard_radius * 0.5; }
         this.name = name;
         this.owner = owner;
         this.board = board;
@@ -115,10 +119,10 @@ var Unit = /** @class */ (function () {
     return Unit;
 }());
 //initialize
-var board = new Board(4);
+var board = new Board(board_size);
 function start() {
     clear();
-    board = new Board(4);
+    board = new Board(board_size);
     board.initialize();
     board.draw();
 }
