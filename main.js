@@ -71,6 +71,15 @@ var Space = /** @class */ (function () {
             this.unit.draw(this.x, this.y);
         }
     };
+    Space.prototype.select_draw = function () {
+        context.beginPath();
+        context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI, false);
+        context.fillStyle = '#ffff99';
+        context.fill();
+        if (this.unit !== null) {
+            this.unit.draw(this.x, this.y);
+        }
+    };
     Space.prototype.specialize = function (title) {
         this.special = title;
     };
@@ -115,17 +124,47 @@ function start() {
 }
 var objective = false;
 //click event detection
-document.addEventListener("DOMContentLoaded", init, false);
+canvas.addEventListener("click", getClickPosition, false);
+function getClickPosition(e) {
+    var parentPosition = getPosition(e.currentTarget);
+    var x = e.clientX - parentPosition.x;
+    var y = e.clientY - parentPosition.y;
+    click_event(x, y);
+}
+function getPosition(el) {
+    var xPos = 0;
+    var yPos = 0;
+    while (el) {
+        if (el.tagName == "BODY") {
+            var xScroll = el.scrollLeft || document.documentElement.scrollLeft;
+            var yScroll = el.scrollTop || document.documentElement.scrollTop;
+            xPos += (el.offsetLeft - xScroll + el.clientLeft);
+            yPos += (el.offsetTop - yScroll + el.clientTop);
+        }
+        else {
+            xPos += (el.offsetLeft - el.scrollLeft + el.clientLeft);
+            yPos += (el.offsetTop - el.scrollTop + el.clientTop);
+        }
+        el = el.offsetParent;
+    }
+    return {
+        x: xPos,
+        y: yPos
+    };
+}
+/*document.addEventListener("DOMContentLoaded", init, false);
+
 function init() {
     canvas.addEventListener("mousedown", getPosition, false);
 }
+
 function getPosition(event) {
-    var x = event.x;
-    var y = event.y;
+    let x: number = event.x;
+    let y: number = event.y;
     x -= canvas.offsetLeft;
     y -= canvas.offsetTop;
     click_event(x, y);
-}
+}*/
 var command_recorder = null;
 function click_event(x, y) {
     console.log(x, y);
@@ -133,6 +172,7 @@ function click_event(x, y) {
     console.log(pos);
     if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
         command_recorder = pos;
+        board.content[pos].select_draw();
         console.log('ready to move');
     }
     else if (command_recorder !== null) {
