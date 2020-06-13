@@ -42,6 +42,7 @@ var Board = /** @class */ (function () {
         this.content['7_4'].unit = new Unit('cocoon', 'hive', this, '7_4');
     };
     Board.prototype.draw = function () {
+        clear();
         for (var key in this.content) {
             this.content[key].draw();
         }
@@ -58,21 +59,41 @@ var Space = /** @class */ (function () {
         this.y = y;
         this.special = null;
     }
+    Space.prototype.visible = function () {
+        var result = false;
+        for (var row = 1; row <= board.size * 2 - 1; row++) {
+            for (var column = 1; column <= board.size * 2 - 1 - Math.abs(row - board.size); column++) {
+                if ((row === this.row && column === this.column) || neighbor(board, list_to_string([row, column]), list_to_string([this.row, this.column]))) {
+                    if (board.content[list_to_string([row, column])].unit !== null && board.content[list_to_string([row, column])].unit.owner === 'player') {
+                        result = true;
+                        return result;
+                    }
+                    if (board.content[list_to_string([row, column])].special === 'home') {
+                        result = true;
+                        return result;
+                    }
+                }
+            }
+        }
+        return result;
+    };
     Space.prototype.draw = function () {
-        context.beginPath();
-        context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI, false);
-        if (this.special === null) {
-            context.fillStyle = 'white';
-        }
-        else if (this.special === 'home') {
-            context.fillStyle = '#34ebe5';
-        }
-        else if (this.special === 'objective') {
-            context.fillStyle = '#eb34d5';
-        }
-        context.fill();
-        if (this.unit !== null) {
-            this.unit.draw(this.x, this.y);
+        if (this.visible()) {
+            context.beginPath();
+            context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI, false);
+            if (this.special === null) {
+                context.fillStyle = 'white';
+            }
+            else if (this.special === 'home') {
+                context.fillStyle = '#34ebe5';
+            }
+            else if (this.special === 'objective') {
+                context.fillStyle = '#eb34d5';
+            }
+            context.fill();
+            if (this.unit !== null) {
+                this.unit.draw(this.x, this.y);
+            }
         }
     };
     Space.prototype.select_draw = function () {
@@ -83,9 +104,6 @@ var Space = /** @class */ (function () {
         if (this.unit !== null) {
             this.unit.draw(this.x, this.y);
         }
-    };
-    Space.prototype.specialize = function (title) {
-        this.special = title;
     };
     return Space;
 }());
@@ -121,7 +139,6 @@ var Unit = /** @class */ (function () {
 //initialize
 var board = new Board(board_size);
 function start() {
-    clear();
     board = new Board(board_size);
     board.initialize();
     board.draw();
@@ -191,7 +208,6 @@ function click_event(x, y) {
                     win();
                     return null;
                 }
-                clear();
                 board.draw();
                 console.log('moved');
                 hive_move();
@@ -237,7 +253,6 @@ function hive_move() {
             board.content[destination].unit = new Unit('bee', 'hive', board, destination);
         }
     }
-    clear();
     board.draw();
 }
 function position(board, x, y) {
@@ -282,11 +297,11 @@ function neighbor(board, pos1_str, pos2_str) {
     return result;
 }
 function clear() {
-    context.clearRect(0, 0, 500, 500);
+    context.clearRect(0, 0, width, height);
 }
 function win() {
     console.log('you win');
-    clear();
+    board = undefined;
     context.font = "30px Comic Sans MS";
     context.fillStyle = "blue";
     context.textAlign = "center";
@@ -294,7 +309,7 @@ function win() {
 }
 function lose() {
     console.log('you lose');
-    clear();
+    board = undefined;
     context.font = "30px Comic Sans MS";
     context.fillStyle = "red";
     context.textAlign = "center";
