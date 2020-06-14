@@ -6,6 +6,10 @@ var width = canvas.width;
 var height = canvas.height;
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
+var start_button = document.getElementById('start');
+if (start_button.width < 200) {
+    start_button.width = 200;
+}
 //[x, y] <--> 'x_y' conversion
 function list_to_string(pos) {
     return pos[0].toString() + '_' + pos[1].toString();
@@ -214,6 +218,7 @@ function click_event(x, y) {
             }
         }
         command_recorder = null;
+        board.draw();
     }
 }
 function hive_move() {
