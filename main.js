@@ -7,8 +7,10 @@ var height = canvas.height;
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
 var start_button = document.getElementById('start');
-if (start_button.width < 200) {
-    start_button.width = 200;
+if (window.innerWidth < 800) {
+    start_button.style.width = 0.4 * window.innerWidth;
+    start_button.style.marginLeft = 0.3 * window.innerWidth;
+    start_button.style.marginRight = 0.3 * window.innerWidth;
 }
 //[x, y] <--> 'x_y' conversion
 function list_to_string(pos) {
