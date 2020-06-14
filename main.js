@@ -1,16 +1,16 @@
 var canvas = document.getElementById('canvas');
 var context = canvas.getContext('2d');
-canvas.width = window.innerWidth * 0.6;
-canvas.height = window.innerWidth * 0.6;
+canvas.width = screen.width * 0.6;
+canvas.height = screen.width * 0.6;
 var width = canvas.width;
 var height = canvas.height;
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
 var start_button = document.getElementById('start');
-if (window.innerWidth < 800) {
-    start_button.style.width = 0.4 * window.innerWidth;
-    start_button.style.marginLeft = 0.3 * window.innerWidth;
-    start_button.style.marginRight = 0.3 * window.innerWidth;
+if (screen.width < 800) {
+    start_button.style.width = 0.4 * screen.width;
+    start_button.style.marginLeft = 0.3 * screen.width;
+    start_button.style.marginRight = 0.3 * screen.width;
 }
 //[x, y] <--> 'x_y' conversion
 function list_to_string(pos) {
