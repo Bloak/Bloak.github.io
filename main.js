@@ -1,9 +1,9 @@
 var canvas = document.getElementById('canvas');
-var context = canvas.getContext('2d');
-canvas.width = window.innerWidth * 0.6;
-canvas.height = window.innerWidth * 0.6;
 var width = canvas.width;
 var height = canvas.height;
+canvas.style.width = window.innerWidth * 0.6;
+canvas.style.height = window.innerWidth * 0.6;
+var context = canvas.getContext('2d');
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
 var standard_font_size = width / 40;
@@ -162,6 +162,8 @@ function getClickPosition(e) {
     var parentPosition = getPosition(e.currentTarget);
     var x = e.clientX - parentPosition.x;
     var y = e.clientY - parentPosition.y;
+    x *= width / parseInt(canvas.style.width.slice(0, -2));
+    y *= height / parseInt(canvas.style.height.slice(0, -2));
     click_event(x, y);
 }
 function getPosition(el) {
