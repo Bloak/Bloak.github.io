@@ -6,6 +6,11 @@ var width = canvas.width;
 var height = canvas.height;
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
+var standard_font_size = width / 40;
+function font(size) {
+    return size.toString() + "px Comic Sans MS";
+}
+var standard_font = font(standard_font_size);
 /*const start_button: any = document.getElementById('start');
 if (screen.width < 800) {
     start_button.style.width = 0.4 * screen.width;
@@ -200,16 +205,16 @@ function click_event(x, y) {
     console.log(pos);
     board.draw();
     if (board.content[pos].special !== null) {
-        context.font = "10px Comic Sans MS";
+        context.font = standard_font;
         context.fillStyle = "white";
         //context.textAlign = "center";
-        context.fillText("Space: " + board.content[pos].special, 10, 10);
+        context.fillText("Space: " + board.content[pos].special, standard_font_size, standard_font_size);
     }
     if (board.content[pos].unit !== null) {
-        context.font = "10px Comic Sans MS";
+        context.font = standard_font;
         context.fillStyle = "white";
         //context.textAlign = "center";
-        context.fillText("Unit: " + board.content[pos].unit.name, 10, 30);
+        context.fillText("Unit: " + board.content[pos].unit.name, standard_font_size, standard_font_size * 3);
     }
     if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
         command_recorder = pos;
@@ -330,7 +335,7 @@ function clear() {
 }
 function win() {
     console.log('you win');
-    context.font = "20px Comic Sans MS";
+    context.font = font(standard_font_size * 2);
     context.fillStyle = "blue";
     context.textAlign = "center";
     context.fillText("You win. You took " + board.step.toString() + " steps.", canvas.width / 2, canvas.height / 2);
@@ -338,7 +343,7 @@ function win() {
 }
 function lose() {
     console.log('you lose');
-    context.font = "30px Comic Sans MS";
+    context.font = font(standard_font_size * 3);
     context.fillStyle = "red";
     context.textAlign = "center";
     context.fillText("You Lose", canvas.width / 2, canvas.height / 2);
