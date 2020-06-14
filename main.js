@@ -1,17 +1,17 @@
 var canvas = document.getElementById('canvas');
 var context = canvas.getContext('2d');
-canvas.width = screen.width * 0.6;
-canvas.height = screen.width * 0.6;
+canvas.width = window.innerWidth * 0.6;
+canvas.height = window.innerWidth * 0.6;
 var width = canvas.width;
 var height = canvas.height;
 var board_size = 4;
 var standard_radius = width / (board_size * 2 - 1) / 2;
-var start_button = document.getElementById('start');
+/*const start_button: any = document.getElementById('start');
 if (screen.width < 800) {
     start_button.style.width = 0.4 * screen.width;
     start_button.style.marginLeft = 0.3 * screen.width;
     start_button.style.marginRight = 0.3 * screen.width;
-}
+}*/
 //[x, y] <--> 'x_y' conversion
 function list_to_string(pos) {
     return pos[0].toString() + '_' + pos[1].toString();
@@ -33,6 +33,8 @@ var Board = /** @class */ (function () {
                 this.content[list_to_string([row, column])] = new Space(row, column, radius, x, y);
             }
         }
+        this.step = 0;
+        this.achievement = 0;
     }
     Board.prototype.initialize = function () {
         this.content['4_1'].special = 'home';
@@ -149,7 +151,6 @@ function start() {
     board.initialize();
     board.draw();
 }
-var objective = false;
 //click event detection
 canvas.addEventListener("click", getClickPosition, false);
 function getClickPosition(e) {
@@ -197,6 +198,19 @@ function click_event(x, y) {
     console.log(x, y);
     var pos = position(board, x, y);
     console.log(pos);
+    board.draw();
+    if (board.content[pos].special !== null) {
+        context.font = "10px Comic Sans MS";
+        context.fillStyle = "white";
+        //context.textAlign = "center";
+        context.fillText("Space: " + board.content[pos].special, 10, 10);
+    }
+    if (board.content[pos].unit !== null) {
+        context.font = "10px Comic Sans MS";
+        context.fillStyle = "white";
+        //context.textAlign = "center";
+        context.fillText("Unit: " + board.content[pos].unit.name, 10, 30);
+    }
     if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
         command_recorder = pos;
         board.content[pos].select_draw();
@@ -205,17 +219,25 @@ function click_event(x, y) {
     else if (command_recorder !== null) {
         if (neighbor(board, pos, command_recorder)) {
             if ((board.content[pos].unit === null) || (board.content[command_recorder].unit.name === 'hero' && board.content[pos].unit.name === 'cocoon')) {
-                board.content[command_recorder].unit.move(pos);
-                if (board.content[pos].unit.name === 'hero' && board.content[pos].special === 'objective') {
-                    objective = true;
+                if (board.content[command_recorder].unit.name === 'hero' && board.content[pos].special === 'objective') {
+                    board.achievement += 1;
                     board.content[pos].special = null;
+                    board.content[pos].unit = new Unit('hero', 'player', board, pos);
                 }
-                else if (board.content[pos].unit.name === 'hero' && board.content[pos].special === 'home' && objective === true) {
-                    win();
-                    return null;
+                else {
+                    board.content[command_recorder].unit.move(pos);
+                    if (board.content[pos].unit.name === 'hero' && board.content[pos].special === 'home' && board.achievement >= 1) {
+                        board.achievement += 1;
+                        board.content[pos].unit = null;
+                    }
                 }
                 board.draw();
                 console.log('moved');
+                board.step += 1;
+                if (board.achievement === 3) {
+                    win();
+                    return null;
+                }
                 hive_move();
             }
         }
@@ -308,19 +330,19 @@ function clear() {
 }
 function win() {
     console.log('you win');
-    board = undefined;
-    context.font = "30px Comic Sans MS";
+    context.font = "20px Comic Sans MS";
     context.fillStyle = "blue";
     context.textAlign = "center";
-    context.fillText("You Win", canvas.width / 2, canvas.height / 2);
+    context.fillText("You win. You took " + board.step.toString() + " steps.", canvas.width / 2, canvas.height / 2);
+    board = undefined;
 }
 function lose() {
     console.log('you lose');
-    board = undefined;
     context.font = "30px Comic Sans MS";
     context.fillStyle = "red";
     context.textAlign = "center";
     context.fillText("You Lose", canvas.width / 2, canvas.height / 2);
+    board = undefined;
 }
 function randint(max) {
     return Math.floor(Math.random() * Math.floor(max));
