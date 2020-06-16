@@ -16,6 +16,7 @@
 		<button id="run" onclick="run()">运行</button>
 		<button id="stop" onclick="stop()">暂停</button>
 		<button id="refresh" onclick="refresh()">刷新</button>
+		<button id="trace" onclick="turn_trace()">轨迹</button>
 		<script type="text/javascript">
 			var canvas = document.getElementById('myCanvas');
 			var context = canvas.getContext('2d');
@@ -70,8 +71,16 @@
 				return x + Math.floor(Math.random() * (y - x + 1))
 			}
 
+			var trace = false;
+
+			function turn_trace(){
+				trace = !trace;
+			}
+
 			function move(){
-				clear();
+				if (!trace){
+					clear();
+				}
 				enemy.acc = [Math.random() - 0.5, Math.random() - 0.5];
 				enemy.vel[0] += enemy.acc[0];
 				enemy.vel[1] += enemy.acc[1];
