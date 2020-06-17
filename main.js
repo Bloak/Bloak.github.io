@@ -1,10 +1,10 @@
 var canvas = document.getElementById('canvas');
 var width = canvas.width;
 var height = canvas.height;
-canvas.style.width = window.innerWidth * 0.6;
-canvas.style.height = window.innerWidth * 0.6;
+canvas.style.width = Math.min(window.innerWidth, window.innerHeight) * 0.8;
+canvas.style.height = canvas.style.width;
 var context = canvas.getContext('2d');
-var board_size = 4;
+var board_size = 6;
 var standard_radius = width / (board_size * 2 - 1) / 2;
 var standard_font_size = width / 40;
 function font(size) {
@@ -40,19 +40,86 @@ var Board = /** @class */ (function () {
         }
         this.step = 0;
         this.achievement = 0;
+        this.walls = [];
     }
     Board.prototype.initialize = function () {
-        this.content['4_1'].special = 'home';
+        var home_spawn = [];
+        for (var key in this.content) {
+            var row = string_to_list(key)[0];
+            var column = string_to_list(key)[1];
+            if (row === 1 || column === 1 || row === this.size * 2 - 1 || column === this.size * 2 - 1 - Math.abs(row - this.size)) {
+                home_spawn.push(key);
+            }
+        }
+        var home_pos = shuffle(home_spawn);
+        this.content[home_pos].special = 'home';
+        this.content[home_pos].unit = new Unit('hero', 'player', this, home_pos);
+        var home_pos_list = string_to_list(home_pos);
+        var objective_pos_list = [this.size * 2 - home_pos_list[0], this.size * 2 - Math.abs(home_pos_list[0] - this.size) - home_pos_list[1]];
+        var objective_pos = list_to_string(objective_pos_list);
+        this.content[objective_pos].special = 'objective';
+        var minion_spawn = [];
+        for (var key in this.content) {
+            if (neighbor(this, key, home_pos)) {
+                minion_spawn.push(key);
+            }
+        }
+        for (var minion_number = 1; minion_number <= 3; minion_number++) {
+            var minion_pos = shuffle(minion_spawn);
+            //console.log(minion_pos);
+            this.content[minion_pos].unit = new Unit('minion', 'player', this, minion_pos);
+            minion_spawn = remove(minion_spawn, minion_pos);
+        }
+        var bee_pos_list = [this.size, this.size];
+        var bee_pos = list_to_string(bee_pos_list);
+        this.content[bee_pos].unit = new Unit('bee', 'hive', this, bee_pos);
+        var cocoon_spawn = [];
+        for (var key in this.content) {
+            if (this.content[key].unit === null && this.content[key].special === null) {
+                cocoon_spawn.push(key);
+            }
+        }
+        for (var cocoon_number = 1; cocoon_number <= 4; cocoon_number++) {
+            var cocoon_pos = shuffle(cocoon_spawn);
+            this.content[cocoon_pos].unit = new Unit('cocoon', 'hive', this, cocoon_pos);
+            cocoon_spawn = remove(cocoon_spawn, cocoon_pos);
+        }
+        for (var wall_number = 1; wall_number <= 5; wall_number++) {
+            var side1 = shuffle(Object.keys(this.content));
+            var neighbors = [];
+            for (var key in this.content) {
+                if (neighbor(this, side1, key)) {
+                    neighbors.push(key);
+                }
+            }
+            var side2 = shuffle(neighbors);
+            this.walls.push([side1, side2]);
+        }
+        var solid_wall_spawn = [];
+        for (var key in this.content) {
+            if (this.content[key].unit === null && this.content[key].special === null) {
+                solid_wall_spawn.push(key);
+            }
+        }
+        var wall_pos = shuffle(solid_wall_spawn);
+        for (var key in this.content) {
+            if (neighbor(this, wall_pos, key)) {
+                this.walls.push([wall_pos, key]);
+            }
+        }
+        /*this.content['4_1'].special = 'home';
         this.content['4_7'].special = 'objective';
+
         this.content['4_1'].unit = new Unit('hero', 'player', this, '4_1');
         this.content['3_1'].unit = new Unit('minion', 'player', this, '3_1');
         this.content['4_2'].unit = new Unit('minion', 'player', this, '4_2');
         this.content['5_1'].unit = new Unit('minion', 'player', this, '5_1');
+
         this.content['4_4'].unit = new Unit('bee', 'hive', this, '4_4');
         this.content['1_1'].unit = new Unit('cocoon', 'hive', this, '1_1');
         this.content['1_4'].unit = new Unit('cocoon', 'hive', this, '1_4');
         this.content['7_1'].unit = new Unit('cocoon', 'hive', this, '7_1');
-        this.content['7_4'].unit = new Unit('cocoon', 'hive', this, '7_4');
+        this.content['7_4'].unit = new Unit('cocoon', 'hive', this, '7_4');*/
     };
     Board.prototype.draw = function () {
         clear();
@@ -210,13 +277,13 @@ function click_event(x, y) {
         context.font = standard_font;
         context.fillStyle = "white";
         //context.textAlign = "center";
-        context.fillText("Space: " + board.content[pos].special, standard_font_size, standard_font_size);
+        context.fillText("Space: " + board.content[pos].special, standard_font_size, standard_font_size * 2);
     }
     if (board.content[pos].unit !== null) {
         context.font = standard_font;
         context.fillStyle = "white";
         //context.textAlign = "center";
-        context.fillText("Unit: " + board.content[pos].unit.name, standard_font_size, standard_font_size * 3);
+        context.fillText("Unit: " + board.content[pos].unit.name, standard_font_size, standard_font_size * 4);
     }
     if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
         command_recorder = pos;
@@ -278,10 +345,25 @@ function hive_move() {
                         lose();
                         return null;
                     }
+                    else if (board.content[pos].unit.name === 'minion') {
+                        var opposite_list = [string_to_list(bees[n].position)[0] * 2 - string_to_list(pos)[0], null];
+                        if (string_to_list(bees[n].position)[0] === board.size) {
+                            opposite_list[1] = string_to_list(bees[n].position)[1] * 2 - string_to_list(pos)[1] - 1;
+                        }
+                        else {
+                            opposite_list[1] = string_to_list(bees[n].position)[1] * 2 - string_to_list(pos)[1];
+                        }
+                        var opposite = list_to_string(opposite_list);
+                        if (opposite in board.content && board.content[opposite].unit !== null && board.content[opposite].unit.name === 'minion') {
+                            board.content[pos].unit = null;
+                            board.content[opposite].unit = null;
+                            console.log('a bee killed two minions');
+                        }
+                    }
                 }
             }
         }
-        var destination = possible_destinations[randint(possible_destinations.length)];
+        var destination = shuffle(possible_destinations);
         if (board.content[destination].unit === null) {
             bees[n].move(destination);
         }
@@ -330,6 +412,11 @@ function neighbor(board, pos1_str, pos2_str) {
             result = true;
         }
     }
+    for (var index = 0; index < board.walls.length; index++) {
+        if ((this.board.walls[index][0] === pos1_str && this.board.walls[index][1] === pos2_str) || (this.board.walls[index][0] === pos2_str && this.board.walls[index][1] === pos1_str)) {
+            result = false;
+        }
+    }
     return result;
 }
 function clear() {
@@ -353,4 +440,15 @@ function lose() {
 }
 function randint(max) {
     return Math.floor(Math.random() * Math.floor(max));
+}
+function shuffle(list) {
+    return list[randint(list.length)];
+}
+function remove(list, element) {
+    for (var index = 0; index < list.length; index++) {
+        if (list[index] === element) {
+            return list.slice(0, index).concat(list.slice(index + 1, list.length));
+        }
+    }
+    return list;
 }
