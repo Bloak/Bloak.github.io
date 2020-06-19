@@ -38,7 +38,6 @@ var Board = /** @class */ (function () {
                 this.content[list_to_string([row, column])] = new Space(row, column, radius, x, y);
             }
         }
-        this.step = 0;
         this.achievement = 0;
         this.walls = [];
     }
@@ -84,6 +83,30 @@ var Board = /** @class */ (function () {
             this.content[cocoon_pos].unit = new Unit('cocoon', 'hive', this, cocoon_pos);
             cocoon_spawn = remove(cocoon_spawn, cocoon_pos);
         }
+        var sentry_spawn = [];
+        for (var key in this.content) {
+            if (this.content[key].unit === null && this.content[key].special === null) {
+                sentry_spawn.push(key);
+            }
+        }
+        var sentry_pos = shuffle(sentry_spawn);
+        this.content[sentry_pos].special = 'sentry';
+        var shelter_spawn = [];
+        for (var key in this.content) {
+            if (this.content[key].unit === null && this.content[key].special === null) {
+                shelter_spawn.push(key);
+            }
+        }
+        var shelter_pos = shuffle(shelter_spawn);
+        this.content[shelter_pos].special = 'shelter';
+        var treasure_spawn = [];
+        for (var key in this.content) {
+            if (this.content[key].unit === null && this.content[key].special === null) {
+                treasure_spawn.push(key);
+            }
+        }
+        var treasure_pos = shuffle(treasure_spawn);
+        this.content[treasure_pos].special = 'treasure';
         for (var wall_number = 1; wall_number <= 5; wall_number++) {
             var side1 = shuffle(Object.keys(this.content));
             var neighbors = [];
@@ -107,24 +130,17 @@ var Board = /** @class */ (function () {
                 this.walls.push([wall_pos, key]);
             }
         }
-        /*this.content['4_1'].special = 'home';
-        this.content['4_7'].special = 'objective';
-
-        this.content['4_1'].unit = new Unit('hero', 'player', this, '4_1');
-        this.content['3_1'].unit = new Unit('minion', 'player', this, '3_1');
-        this.content['4_2'].unit = new Unit('minion', 'player', this, '4_2');
-        this.content['5_1'].unit = new Unit('minion', 'player', this, '5_1');
-
-        this.content['4_4'].unit = new Unit('bee', 'hive', this, '4_4');
-        this.content['1_1'].unit = new Unit('cocoon', 'hive', this, '1_1');
-        this.content['1_4'].unit = new Unit('cocoon', 'hive', this, '1_4');
-        this.content['7_1'].unit = new Unit('cocoon', 'hive', this, '7_1');
-        this.content['7_4'].unit = new Unit('cocoon', 'hive', this, '7_4');*/
     };
     Board.prototype.draw = function () {
         clear();
         for (var key in this.content) {
             this.content[key].draw();
+        }
+        context.font = standard_font;
+        context.fillStyle = "white";
+        context.fillText("Resource: " + resource.toString(), width - standard_font_size * 7, standard_font_size * 2);
+        for (var key in buttons) {
+            buttons[key].draw();
         }
     };
     return Board;
@@ -155,6 +171,22 @@ var Space = /** @class */ (function () {
                 }
             }
         }
+        for (var key in board.content) {
+            if (board.content[key].special === 'sentry' && board.content[key].unit !== null && board.content[key].unit.owner === 'player') {
+                var neighbors = [];
+                for (var key1 in board.content) {
+                    if (neighbor(board, key1, key)) {
+                        neighbors.push(key1);
+                    }
+                }
+                for (var index = 0; index < neighbors.length; index++) {
+                    if (neighbor(board, neighbors[index], list_to_string([this.row, this.column]))) {
+                        result = true;
+                        return true;
+                    }
+                }
+            }
+        }
         return result;
     };
     Space.prototype.draw = function () {
@@ -164,11 +196,8 @@ var Space = /** @class */ (function () {
             if (this.special === null) {
                 context.fillStyle = 'white';
             }
-            else if (this.special === 'home') {
-                context.fillStyle = '#34ebe5';
-            }
-            else if (this.special === 'objective') {
-                context.fillStyle = '#eb34d5';
+            else {
+                context.fillStyle = color_table[this.special];
             }
             context.fill();
             if (this.unit !== null) {
@@ -191,7 +220,12 @@ var color_table = {
     'hero': 'blue',
     'minion': 'green',
     'bee': 'red',
-    'cocoon': 'yellow'
+    'cocoon': 'yellow',
+    'home': '#34ebe5',
+    'objective': '#eb34d5',
+    'sentry': '#ff9966',
+    'shelter': '#99ff99',
+    'treasure': '#ffff66'
 };
 var Unit = /** @class */ (function () {
     function Unit(name, owner, board, position, radius) {
@@ -218,7 +252,9 @@ var Unit = /** @class */ (function () {
 }());
 //initialize
 var board = new Board(board_size);
+var resource = 0;
 function start() {
+    resource = 80;
     board = new Board(board_size);
     board.initialize();
     board.draw();
@@ -270,53 +306,89 @@ function getPosition(event) {
 var command_recorder = null;
 function click_event(x, y) {
     console.log(x, y);
-    var pos = position(board, x, y);
-    console.log(pos);
-    board.draw();
-    if (board.content[pos].special !== null) {
-        context.font = standard_font;
-        context.fillStyle = "white";
-        //context.textAlign = "center";
-        context.fillText("Space: " + board.content[pos].special, standard_font_size, standard_font_size * 2);
+    var skip = false;
+    for (var key in buttons) {
+        if (buttons[key].clicked(x, y)) {
+            context.font = standard_font;
+            context.fillStyle = "white";
+            context.fillText("Buying: " + buttons[key].name, standard_font_size, standard_font_size * 6);
+            command_recorder = buttons[key].name;
+            skip = true;
+        }
     }
-    if (board.content[pos].unit !== null) {
-        context.font = standard_font;
-        context.fillStyle = "white";
-        //context.textAlign = "center";
-        context.fillText("Unit: " + board.content[pos].unit.name, standard_font_size, standard_font_size * 4);
-    }
-    if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
-        command_recorder = pos;
-        board.content[pos].select_draw();
-        console.log('ready to move');
-    }
-    else if (command_recorder !== null) {
-        if (neighbor(board, pos, command_recorder)) {
-            if ((board.content[pos].unit === null) || (board.content[command_recorder].unit.name === 'hero' && board.content[pos].unit.name === 'cocoon')) {
-                if (board.content[command_recorder].unit.name === 'hero' && board.content[pos].special === 'objective') {
-                    board.achievement += 1;
-                    board.content[pos].special = null;
-                    board.content[pos].unit = new Unit('hero', 'player', board, pos);
-                }
-                else {
-                    board.content[command_recorder].unit.move(pos);
-                    if (board.content[pos].unit.name === 'hero' && board.content[pos].special === 'home' && board.achievement >= 1) {
-                        board.achievement += 1;
-                        board.content[pos].unit = null;
+    if (!skip) {
+        var pos = position(board, x, y);
+        console.log(pos);
+        board.draw();
+        if (pos !== undefined) {
+            if (board.content[pos].special !== null) {
+                context.font = standard_font;
+                context.fillStyle = "white";
+                context.fillText("Space: " + board.content[pos].special, standard_font_size, standard_font_size * 2);
+            }
+            if (board.content[pos].unit !== null) {
+                context.font = standard_font;
+                context.fillStyle = "white";
+                context.fillText("Unit: " + board.content[pos].unit.name, standard_font_size, standard_font_size * 4);
+            }
+            if (command_recorder === null && pos !== undefined && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
+                command_recorder = pos;
+                board.content[pos].select_draw();
+                console.log('ready to move');
+            }
+            else if (command_recorder !== null) {
+                if (isNaN(Number(command_recorder[0]))) {
+                    if (command_recorder === 'minion') {
+                        if (board.content[pos].special === 'home' && board.content[pos].unit === null) {
+                            board.content[pos].unit = new Unit('minion', 'player', board, pos);
+                            resource -= price_table['minion'];
+                        }
+                    }
+                    else {
+                        if (board.content[pos].special === null && board.content[pos].unit !== null && board.content[pos].unit.owner === 'player') {
+                            board.content[pos].special = command_recorder;
+                            resource -= price_table[command_recorder];
+                        }
                     }
                 }
-                board.draw();
-                console.log('moved');
-                board.step += 1;
-                if (board.achievement === 3) {
-                    win();
-                    return null;
+                else if (neighbor(board, pos, command_recorder) && board.content[command_recorder].unit !== null) {
+                    if ((board.content[pos].unit === null) || (board.content[command_recorder].unit.name === 'hero' && board.content[pos].unit.name === 'cocoon')) {
+                        if (board.content[command_recorder].unit.name === 'hero' && board.content[pos].special === 'objective') {
+                            board.achievement += 1;
+                            board.content[pos].special = null;
+                            board.content[pos].unit = new Unit('hero', 'player', board, pos);
+                        }
+                        else {
+                            board.content[command_recorder].unit.move(pos);
+                            if (board.content[pos].unit.name === 'hero' && board.content[pos].special === 'home' && board.achievement >= 1) {
+                                board.achievement += 1;
+                                board.content[pos].unit = null;
+                            }
+                            if (board.content[pos].special === 'treasure') {
+                                resource += randint(40);
+                                board.content[pos].special = null;
+                            }
+                        }
+                        board.draw();
+                        console.log('moved');
+                        if (resource > 0) {
+                            resource -= 1;
+                        }
+                        else {
+                            lose();
+                            return null;
+                        }
+                        if (board.achievement === 3) {
+                            win();
+                            return null;
+                        }
+                        hive_move();
+                    }
                 }
-                hive_move();
+                command_recorder = null;
+                board.draw();
             }
         }
-        command_recorder = null;
-        board.draw();
     }
 }
 function hive_move() {
@@ -338,14 +410,14 @@ function hive_move() {
                         lose();
                         return null;
                     }
-                    if (board.content[pos].unit === null || board.content[pos].unit.name === 'cocoon') {
+                    if ((board.content[pos].unit === null || board.content[pos].unit.name === 'cocoon') && (board.content[pos].special !== 'shelter')) {
                         possible_destinations.push(pos);
                     }
-                    else if (board.content[pos].unit.name === 'hero') {
+                    else if (board.content[pos].unit !== null && board.content[pos].unit.name === 'hero' && board.content[pos].special !== 'shelter') {
                         lose();
                         return null;
                     }
-                    else if (board.content[pos].unit.name === 'minion') {
+                    else if (board.content[pos].unit !== null && board.content[pos].unit.name === 'minion') {
                         var opposite_list = [string_to_list(bees[n].position)[0] * 2 - string_to_list(pos)[0], null];
                         if (string_to_list(bees[n].position)[0] === board.size) {
                             opposite_list[1] = string_to_list(bees[n].position)[1] * 2 - string_to_list(pos)[1] - 1;
@@ -425,15 +497,15 @@ function clear() {
 function win() {
     console.log('you win');
     context.font = font(standard_font_size * 2);
-    context.fillStyle = "blue";
+    context.fillStyle = "99bbff";
     context.textAlign = "center";
-    context.fillText("You win. You took " + board.step.toString() + " steps.", canvas.width / 2, canvas.height / 2);
+    context.fillText("You win.", canvas.width / 2, canvas.height / 2);
     board = undefined;
 }
 function lose() {
     console.log('you lose');
     context.font = font(standard_font_size * 3);
-    context.fillStyle = "red";
+    context.fillStyle = "#ff8080";
     context.textAlign = "center";
     context.fillText("You Lose", canvas.width / 2, canvas.height / 2);
     board = undefined;
@@ -452,3 +524,44 @@ function remove(list, element) {
     }
     return list;
 }
+var price_table = {
+    'minion': 2,
+    'sentry': 3,
+    'shelter': 3
+};
+var Button = /** @class */ (function () {
+    function Button(name, x, y, radius) {
+        this.name = name;
+        this.x = x;
+        this.y = y;
+        this.radius = radius;
+        this.color = color_table[this.name];
+        this.price = price_table[this.name];
+    }
+    Button.prototype.draw = function () {
+        context.beginPath();
+        context.arc(this.x, this.y, this.radius, 0, 2 * Math.PI, false);
+        context.fillStyle = this.color;
+        context.fill();
+        context.font = standard_font;
+        context.fillStyle = "white";
+        context.fillText(this.name + ': ' + this.price.toString() + 'R', this.x + standard_font_size, this.y);
+    };
+    Button.prototype.clicked = function (x, y) {
+        var delta_x = Math.abs(x - this.x);
+        var delta_y = Math.abs(y - this.y);
+        var distance = Math.sqrt(Math.pow(delta_x, 2) + Math.pow(delta_y, 2));
+        if (distance < this.radius) {
+            return true;
+        }
+        else {
+            return false;
+        }
+    };
+    return Button;
+}());
+var buttons = [
+    new Button('minion', standard_font_size * 2, width - standard_font_size * 6, standard_font_size),
+    new Button('sentry', standard_font_size * 2, width - standard_font_size * 4, standard_font_size),
+    new Button('shelter', standard_font_size * 2, width - standard_font_size * 2, standard_font_size)
+];
