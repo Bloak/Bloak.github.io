@@ -12,9 +12,9 @@ function font(size) {
 }
 var standard_font = font(standard_font_size);
 var start_button = document.getElementById('start');
-start_button.style.fontSize = standard_font_size / 2;
+start_button.style.fontSize = window.innerWidth / 40;
 var tutorial_button = document.getElementById('tutorial');
-tutorial_button.style.fontSize = standard_font_size / 2;
+tutorial_button.style.fontSize = window.innerWidth / 40;
 /*const start_button: any = document.getElementById('start');
 if (screen.width < 800) {
     start_button.style.width = 0.4 * screen.width;
