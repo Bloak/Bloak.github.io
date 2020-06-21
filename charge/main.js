@@ -4,13 +4,27 @@ var height = canvas.height;
 canvas.style.width = Math.min(window.innerWidth, window.innerHeight) * 0.8;
 canvas.style.height = canvas.style.width;
 var context = canvas.getContext('2d');
-var board_size = 7;
-var standard_side_length = width / board_size;
+var board_size;
+var standard_side_length;
+var black_number;
+var white_number;
+var size_input = document.getElementById('size');
+var white_input = document.getElementById('white');
+var black_input = document.getElementById('black');
+size_input.value = 7;
+white_input.value = 3;
+black_input.value = 3;
 var standard_font_size = width / 40;
 function font(size) {
     return size.toString() + "px Comic Sans MS";
 }
 var standard_font = font(standard_font_size);
+var start_button = document.getElementById('start');
+start_button.style.fontSize = window.innerWidth / 40;
+start_button.style.textAlign = 'center';
+var tutorial_button = document.getElementById('tutorial');
+tutorial_button.style.fontSize = window.innerWidth / 40;
+tutorial_button.style.textAlign = 'center';
 function list_to_string(pos) {
     return pos[0].toString() + '_' + pos[1].toString();
 }
@@ -38,13 +52,13 @@ var Board = /** @class */ (function () {
         this.content[white_objective].special = 'white objective';
         objective_spawn = remove(objective_spawn, white_objective);
         var white_small;
-        for (var i = 1; i <= 3; i++) {
+        for (var i = 1; i <= white_number; i++) {
             white_small = shuffle(objective_spawn);
             this.content[white_small].unit = new Unit('white small', this, white_small, 'white', 0.25);
             objective_spawn = remove(objective_spawn, white_small);
         }
         var black_small;
-        for (var i = 1; i <= 3; i++) {
+        for (var i = 1; i <= black_number; i++) {
             black_small = shuffle(objective_spawn);
             this.content[black_small].unit = new Unit('black small', this, black_small, 'black', 0.25);
             objective_spawn = remove(objective_spawn, black_small);
@@ -288,10 +302,8 @@ var Unit = /** @class */ (function () {
             console.log(direction, new_position);
             if (new_position in this.board.content) {
                 if ((this.name === 'white small' && this.board.content[new_position].special === 'black objective') || (this.name === 'black small' && this.board.content[new_position].special === 'white objective')) {
-                    this.board.content[this.position].unit = null;
-                    this.position = new_position;
-                    this.board.content[new_position].unit = this;
-                    this.moved = true;
+                    this.color = 'red';
+                    this.board.content[this.position].draw();
                     lose();
                     return null;
                 }
@@ -301,6 +313,8 @@ var Unit = /** @class */ (function () {
                     this.position = null;
                 }
                 else if ((this.name === 'white small' && this.board.content[new_position].unit !== null && this.board.content[new_position].unit.name === 'black small') || (this.name === 'black small' && this.board.content[new_position].unit !== null && this.board.content[new_position].unit.name === 'white small')) {
+                    this.color = 'red';
+                    this.board.content[this.position].draw();
                     lose();
                     return null;
                 }
@@ -338,6 +352,10 @@ var board = new Board();
 var lost = false;
 function start() {
     lost = false;
+    board_size = parseInt(size_input.value);
+    standard_side_length = width / board_size;
+    white_number = parseInt(white_input.value);
+    black_number = parseInt(black_input.value);
     board = new Board();
     board.initialize();
     board.draw();
@@ -384,7 +402,7 @@ function click_event(x, y) {
         board.content[command_recorder].unit.command_move(pos);
         command_recorder = null;
         board.apply_force();
-        if (!lose) {
+        if (!lost) {
             board.win_detect();
         }
     }
@@ -417,7 +435,6 @@ function win() {
 function lose() {
     lost = true;
     console.log('you lose');
-    board.draw();
     context.font = font(standard_font_size * 3);
     context.fillStyle = "#ff8080";
     context.textAlign = "center";

@@ -28,3 +28,22 @@ button {
   	display: inline-block;
   	font-size: 16px;
 }
+
+div {
+    margin-top: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+}
+
+label {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 16px;
+}
+
+input {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+}
