@@ -41,8 +41,10 @@ function generateLocation(){
 	if (locks['generateLocation'] === false){
 		createBoard();
 		for (button in buttons){
-			buttons[button][0] = button_size/3 + Math.random() * (width - button_size);
-			buttons[button][1] = button_size*2/3 + Math.random() * (height - button_size);
+			var row = Math.floor(Math.random() * 3 + 1);
+			var column = Math.floor(Math.random() * 3 + 1);
+			buttons[button][0] = button_size/3 + width * (column-1) / 3 + Math.random() * (width/3 - button_size);
+			buttons[button][1] = button_size*2/3 + height * (row-1) / 3 + Math.random() * (height/3 - button_size);
 			context.fillText(button, buttons[button][0] - button_size/3, buttons[button][1] + button_size/3);
 		}
 		locks['generateLocation'] = true;
