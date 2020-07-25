@@ -1,0 +1,53 @@
+body {
+	background-color: #f1f1f1;
+	color: #333333;
+}
+
+canvas {
+    border: 1px solid #333333;
+    background-color: #f1f1f1;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    background-color: #f44336;
+  	border: none;
+  	color: white;
+  	padding: 10px 0px;
+  	margin-top: 30px;
+  	margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
+
+ul {
+    margin-top: 30px;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+}
+
+label {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 16px;
+}
+
+textarea {
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+}

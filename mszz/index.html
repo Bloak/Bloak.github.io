@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="style.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	</head>
+	<body>
+		<canvas id="canvas" width=1000 height=1000></canvas>
+		<button id="generateLocation" onclick="generateLocation()">生成地图</button>
+		<button id="generateRole" onclick="generateRole()">生成身份</button>
+		<ul id="roles">
+			<li id="a">a</li>
+			<li id="b">b</li>
+			<li id="c">c</li>
+			<li id="d">d</li>
+			<li id="e">e</li>
+			<li id="f">f</li>
+			<li id="g">g</li>
+		</ul>
+		<button id="roll" onclick="roll()">六面骰</button>
+		<p id="dice"></p>
+		<label for="note">记事本，记录迷主身份、旧印位置、挖掘信息等</label>
+		<textarea id="note" name="note"></textarea>
+		<button id="restart" onclick="restart()">重置</button>
+		<script type="text/javascript" src="main.js"></script>
+	</body>
+</html>
