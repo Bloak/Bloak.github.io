@@ -12,7 +12,7 @@ function preload() {
 function setup() {
   createCanvas(400, 400);
   classifier.classify(img, gotResult);
-  image(img, 0, 0);
+  image(img, 0, 0, 400, 400);
 }
 
 // A function to run when we get any errors and the results
