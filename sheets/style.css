@@ -1,0 +1,11 @@
+#parent {
+	white-space: nowrap;
+}
+
+#parent > li {
+	display: inline-block;
+}
+
+#parent p {
+	display: inline;
+}
