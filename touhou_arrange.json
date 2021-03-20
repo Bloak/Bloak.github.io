@@ -119,6 +119,14 @@
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1Rb4y1X7BK"
 	},
+	"th06_10":{
+		"title":"メイドと血の懐中時計",
+		"keywords":["メイドと血の懐中時計","女仆与血之怀表","十六夜咲夜"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=kQknzKl9ym8"
+	},
 	"th06_11":{
 		"title":"月時計　～ ルナ・ダイアル",
 		"keywords":["月時計","月时计","十六夜咲夜"],
@@ -141,7 +149,7 @@
 		"arrange":"abab",
 		"transcribe":"",
 		"difficulty":5,
-		"audio":"https://www.youtube.com/watch?v=KtqbmE8H8uE"
+		"audio":"https://www.youtube.com/watch?v=baJ2Z9gDQgM"
 	},
 	"th06_17":{
 		"title":"紅楼　～ Eastern Dream...",
@@ -255,6 +263,22 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=K6mfDJh5Vx0"
 	},
+	"th07_18":{
+		"title":"ネクロファンタジア（Necro-Fantasia）",
+		"keywords":["ネクロファンタジア","Necro-Fantasia","死亡幻想曲","八云紫"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=-yNATRuEvsE"
+	},
+	"th07_20":{
+		"title":"さくらさくら　～ Japanize Dream...",
+		"keywords":["さくらさくら","Japanize Dream","樱花樱花"],
+		"arrange":"TAM",
+		"transcribe":"Quellatalo",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=Wstd7k23J8E"
+	},
 	"TFM-001b_17":{
 		"title":"東方萃夢想",
 		"keywords":["東方萃夢想","东方萃梦想","砕月","碎月","伊吹萃香"],
@@ -294,6 +318,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=z1oQsVANDKA"
+	},
+	"th08_06_2":{
+		"title":"懐かしき東方の血　～ Old World",
+		"keywords":["懐かしき東方の血","Old World","东方之血","上白泽慧音"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=-HnfQwhW7JY"
 	},
 	"th08_07":{
 		"title":"プレインエイジア（Plain Asia）",
@@ -359,6 +391,14 @@
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=xcM1cxfI6fU"
 	},
+	"th08_18_2":{
+		"title":"エクステンドアッシュ　～ 蓬莱人",
+		"keywords":["エクステンドアッシュ","Extend Ash","蓬莱人","上白泽慧音"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=0npqC1UDsTQ"
+	},
 	"th08_19":{
 		"title":"月まで届け、不死の煙",
 		"keywords":["不死の煙","不死之烟","藤原妹红"],
@@ -371,7 +411,7 @@
 		"title":"春色小径　～ Colorful Path",
 		"keywords":["春色小径","博丽灵梦"],
 		"arrange":"綾野うどんげ",
-		"transcribe":"Kirijiki",
+		"transcribe":"Kijiriki",
 		"difficulty":1,
 		"audio":"https://www.bilibili.com/video/BV1b54y1s7o7/"
 	},
@@ -387,8 +427,8 @@
 		"title":"今昔幻想郷　～ Flower Land",
 		"keywords":["今昔幻想郷","今昔幻想乡","风见幽香"],
 		"arrange":"mino",
-		"transcribe":"Kirijiki",
-		"difficulty":4,
+		"transcribe":"Kijiriki",
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=4FH0kSf30pk"
 	},
 	"th09_15":{
@@ -431,6 +471,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Pn-2ayiUecU"
 	},
+	"th11_08":{
+		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
+		"keywords":["ハートフェルトファンシー","Heartfelt Fancy","heartfelt fancy"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=mAmoNMTJQKA"
+	},
 	"th11_09":{
 		"title":"少女さとり ～ 3rd eye",
 		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
@@ -438,6 +486,14 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1Gx411i7iN"
+	},
+	"th11_11":{
+		"title":"死体旅行　～ Be of good cheer!",
+		"keywords":["死体旅行","尸体旅行","火焰猫燐"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=-aVdSbc9zb0"
 	},
 	"th11_14":{
 		"title":"ラストリモート（Last Remote）",
