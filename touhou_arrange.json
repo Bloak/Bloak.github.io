@@ -519,6 +519,14 @@
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
 	},
+	"th15_05":{
+		"title":"九月のパンプキン",
+		"keywords":["九月のパンプキン","九月的南瓜","铃瑚"],
+		"arrange":"willow",
+		"transcribe":"Kijiriki",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=CSflRv18QOA"
+	},
 	"th15_06":{
 		"title":"宇宙を飛ぶ不思議な巫女",
 		"keywords":["宇宙を飛ぶ不思議な巫女","飞翔于宇宙的","哆来咪"],
@@ -526,6 +534,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=v3n2Jv38iZI"
+	},
+	"th15_07":{
+		"title":"永遠の春夢",
+		"keywords":["永遠の春夢","永远的春梦","哆来咪"],
+		"arrange":"Williatico",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=IBHx4V-Vt9E"
 	},
 	"th15_08":{
 		"title":"凍り付いた永遠の都",
@@ -550,6 +566,22 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=fBTvJ27158M"
+	},
+	"hr05_05":{
+		"title":"Demystify Feast",
+		"keywords":["Demystify Feast","demystify feast"],
+		"arrange":"イルカ",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=lPB88JLLS88"
+	},
+	"hr05_08":{
+		"title":"大空魔術　～ Magical Astronomy",
+		"keywords":["大空魔術","大空魔术","Magical Astronomy"],
+		"arrange":"イルカ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=WjqVa7RzSEc"
 	}
 }
 
