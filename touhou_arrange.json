@@ -199,6 +199,14 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=AV5YAxeheaQ"
 	},
+	"th07_06":{
+		"title":"ブクレシュティの人形師",
+		"keywords":["ブクレシュティの人形師","布加勒斯特","玛格特洛伊德"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=cY-7tf7HP70"
+	},
 	"th07_07":{
 		"title":"人形裁判　～ 人の形弄びし少女",
 		"keywords":["人形裁判","玛格特洛伊德"],
@@ -445,7 +453,7 @@
 		"arrange":"senka",
 		"transcribe":"",
 		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=Cbv2ivtO_O0"
+		"audio":"https://www.bilibili.com/video/BV12x41157FW"
 	},
 	"th10_04":{
 		"title":"厄神様の通り道　～ Dark Road",
