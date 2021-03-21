@@ -23,13 +23,21 @@
 		"difficulty":1,
 		"audio":"https://www.youtube.com/watch?v=TyairUWTMBY"
 	},
+	"th03_08":{
+		"title":"夢消失　～Lost Dream",
+		"keywords":["夢消失","梦消失","安娜贝拉尔"],
+		"arrange":"イルカ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.bilibili.com/video/BV1Gx411i7Zg"
+	},
 	"th04_07":{
 		"title":"Bad Apple!!（原版）",
 		"keywords":["Bad Apple","bad apple","坏苹果","艾丽"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
 		"difficulty":4,
-		"audio":"https://www.youtube.com/watch?v=KLU4_EWFdwE"
+		"audio":"https://www.bilibili.com/video/BV19z4y127q9"
 	},
 	"th04_15":{
 		"title":"幽夢　～ Inanimate Dream",
@@ -125,7 +133,7 @@
 		"arrange":"abab",
 		"transcribe":"",
 		"difficulty":6,
-		"audio":"https://www.youtube.com/watch?v=kQknzKl9ym8"
+		"audio":"https://www.bilibili.com/video/BV1cs411F7GD"
 	},
 	"th06_11":{
 		"title":"月時計　～ ルナ・ダイアル",
@@ -133,7 +141,7 @@
 		"arrange":"abab",
 		"transcribe":"",
 		"difficulty":5,
-		"audio":"https://www.youtube.com/watch?v=mln4gtMVQMY"
+		"audio":"https://www.bilibili.com/video/BV1j5411K7xw"
 	},
 	"th06_13":{
 		"title":"亡き王女の為のセプテット",
@@ -149,7 +157,7 @@
 		"arrange":"abab",
 		"transcribe":"",
 		"difficulty":5,
-		"audio":"https://www.youtube.com/watch?v=baJ2Z9gDQgM"
+		"audio":"https://www.bilibili.com/video/BV1g5411K7xq"
 	},
 	"th06_17":{
 		"title":"紅楼　～ Eastern Dream...",
@@ -439,6 +447,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Cbv2ivtO_O0"
 	},
+	"th10_04":{
+		"title":"厄神様の通り道　～ Dark Road",
+		"keywords":["厄神様の通り道","Dark Road","dark road","厄神降临之路","键山雏"],
+		"arrange":"ヒョギフ",
+		"transcribe":"Kijiriki",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=Fvff_GRTyo8"
+	},
 	"th10_05":{
 		"title":"運命のダークサイド",
 		"keywords":["運命のダークサイド","命运的黑暗面","dark side","键山雏"],
@@ -454,6 +470,14 @@
 		"transcribe":"Quellatalo",
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=YX4-nexuTN4"
+	},
+	"th10_08":{
+		"title":"フォールオブフォール　～ 秋めく滝",
+		"keywords":["フォールオブフォール","Fall of Fall","秋天的瀑布","犬走椛"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=tDzBDPGIyNA"
 	},
 	"th10_09":{
 		"title":"妖怪の山　～ Mysterious Mountain",
