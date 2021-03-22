@@ -84,7 +84,7 @@
 		"keywords":["ルーネイトエルフ","Lunate Elf","新月般的妖精","lunate elf","大妖精"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":2,
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=OC5Wnr-nzPs"
 	},
 	"th06_05":{
@@ -423,6 +423,14 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=hV-9hJ89B1U"
 	},
+	"th08_20":{
+		"title":"東方妖怪小町",
+		"keywords":["東方妖怪小町","东方妖怪小町"],
+		"arrange":"senka",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=m0J6XHEt7-o"
+	},
 	"th09_02":{
 		"title":"春色小径　～ Colorful Path",
 		"keywords":["春色小径","博丽灵梦"],
@@ -444,7 +452,7 @@
 		"keywords":["今昔幻想郷","今昔幻想乡","风见幽香"],
 		"arrange":"mino",
 		"transcribe":"Kijiriki",
-		"difficulty":3,
+		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=4FH0kSf30pk"
 	},
 	"th09_15":{
@@ -526,6 +534,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=-aVdSbc9zb0"
+	},
+	"th11_13":{
+		"title":"霊知の太陽信仰　～ Nuclear Fusion",
+		"keywords":["霊知の太陽信仰","灵知的太阳信仰","灵乌路空"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=4OJ0NSlsrpo"
 	},
 	"th11_14":{
 		"title":"ラストリモート（Last Remote）",
