@@ -26,7 +26,7 @@
 	"th03_08":{
 		"title":"夢消失　～Lost Dream",
 		"keywords":["夢消失","梦消失","安娜贝拉尔"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1Gx411i7Zg"
@@ -50,7 +50,7 @@
 	"th05_06":{
 		"title":"Romantic Children",
 		"keywords":["Romantic Children","romantic children","玛格特洛伊德"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=4FH0kSf30pk"
@@ -98,10 +98,18 @@
 	"th06_05_2":{
 		"title":"チルノのパーフェクトさんすう教室",
 		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Epretroll",
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=RC3lkysZuvA"
+	},
+	"th06_05_3":{
+		"title":"おてんば恋娘",
+		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺"],
+		"arrange":"abab",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=D8tYauLKqWs"
 	},
 	"th06_06":{
 		"title":"上海紅茶館　～ Chinese Tea",
@@ -114,7 +122,7 @@
 	"th06_07":{
 		"title":"明治十七年の上海アリス",
 		"keywords":["明治十七年の上海アリス","明治十七年的上海爱丽丝","红美铃"],
-		"arrange":"いんぷれ",
+		"arrange":"inpure",
 		"transcribe":"",
 		"difficulty":"?",
 		"audio":"https://www.bilibili.com/video/BV1it411k71N"
@@ -130,7 +138,7 @@
 	"th06_09":{
 		"title":"ラクトガール　～ 少女密室",
 		"keywords":["少女密室","帕秋莉"],
-		"arrange":"いんぷれ",
+		"arrange":"inpure",
 		"transcribe":"Kijiriki",
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1Rb4y1X7BK"
@@ -226,7 +234,7 @@
 	"th07_08":{
 		"title":"天空の花の都",
 		"keywords":["天空の花の都","天空的花之都","莉莉白","莉莉黑"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=29457249"
@@ -266,7 +274,7 @@
 	"th07_14":{
 		"title":"ボーダーオブライフ（Border of Life）",
 		"keywords":["ボーダーオブライフ","Border of Life","西行寺幽幽子"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"InterpretMedia",
 		"difficulty":"?",
 		"audio":"https://music.163.com/#/song?id=29457255"
@@ -282,7 +290,7 @@
 	"th07_16":{
 		"title":"マヨヒガの夜 ~ Night Fantasy（原曲：少女幻葬）",
 		"keywords":["マヨヒガの夜","少女幻葬","迷途之家的夜晚","八云蓝"],
-		"arrange":"戦ピー",
+		"arrange":"senpi",
 		"transcribe":"",
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=K6mfDJh5Vx0"
@@ -319,6 +327,22 @@
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1tV411y7HT"
 	},
+	"th08_02_2":{
+		"title":"幻視の夜 ～ Ghostly Eyes",
+		"keywords":["幻视之夜","幻視の夜","Ghostly Eyes","莉格露"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=NFGUNyjlzD8"
+	},
+	"th08_03":{
+		"title":"蠢々秋月　～ Mooned Insect",
+		"keywords":["蠢々秋月","蠢蠢秋月","蠢蠢的秋月","莉格露"],
+		"arrange":"廿秒",
+		"transcribe":"Kijiriki",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=8WUtpUaI05g"
+	},
 	"th08_04":{
 		"title":"夜雀の歌声　～ Night Bird",
 		"keywords":["夜雀の歌声","Night Bird","夜雀的歌声","米斯蒂娅"],
@@ -334,6 +358,14 @@
 		"transcribe":"UnknownEX1",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=p_ODRIyVGnA"
+	},
+	"th08_05":{
+		"title":"もう歌しか聞こえない",
+		"keywords":["もう歌しか聞こえない","已经只能听见歌声了","米斯蒂娅"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=PB1Uq91WNj4"
 	},
 	"th08_06":{
 		"title":"懐かしき東方の血　～ Old World",
@@ -359,10 +391,18 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=K88XMWvnOqg"
 	},
+	"th08_08":{
+		"title":"永夜の報い　～ Imperishable Night",
+		"keywords":["永夜の報い","永夜的报应"],
+		"arrange":"kituneyuu",
+		"transcribe":"",
+		"difficulty":"?",
+		"audio":"https://www.youtube.com/watch?v=TCVhDitQ3Uo"
+	},
 	"th08_09":{
 		"title":"少女綺想曲　～ Dream Battle",
 		"keywords":["少女綺想曲","少女绮想曲","Dream Battle","博丽灵梦"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":6,
 		"audio":"https://music.163.com/#/song?id=29449508"
@@ -383,6 +423,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=aYV0IVLcYNQ"
 	},
+	"th08_11":{
+		"title":"シンデレラケージ　～ Kagome-Kagome",
+		"keywords":["シンデレラケージ","Kagome","灰姑娘的笼子","笼中鸟","因幡帝"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":"?",
+		"audio":"https://www.youtube.com/watch?v=u8MDM8vJeSw"
+	},
 	"th08_12":{
 		"title":"狂気の瞳　～ Invisible Full Moon",
 		"keywords":["狂気の瞳","狂气之瞳","lunatic eyes","Lunatic Eyes","铃仙"],
@@ -394,10 +442,18 @@
 	"th08_13":{
 		"title":"ヴォヤージュ1969",
 		"keywords":["1969"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":6,
 		"audio":"https://music.163.com/#/song?id=29449512"
+	},
+	"th08_14":{
+		"title":"千年幻想郷　～ History of the Moon",
+		"keywords":["千年幻想郷","千年幻想乡","八意永琳"],
+		"arrange":"朧月輝月",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"http://kituki.kachoufuugetu.net/sennnenn.mp3"
 	},
 	"th08_15":{
 		"title":"竹取飛翔　～ Lunatic Princess",
@@ -450,7 +506,7 @@
 	"th09_04":{
 		"title":"フラワリングナイト（Flowering Night）",
 		"keywords":["フラワリングナイト","Flowering Night","花开夜","十六夜咲夜"],
-		"arrange":"ようか",
+		"arrange":"Yukino Asiato",
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=-PwcukM3LPo"
@@ -470,6 +526,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV12x41157FW"
+	},
+	"th09_18":{
+		"title":"花は幻想のままに",
+		"keywords":["花は幻想のままに","花如幻想一般"],
+		"arrange":"DO",
+		"transcribe":"",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=L1BwxgAcOoY"
 	},
 	"th10_04":{
 		"title":"厄神様の通り道　～ Dark Road",
@@ -506,7 +570,7 @@
 	"th10_09":{
 		"title":"妖怪の山　～ Mysterious Mountain",
 		"keywords":["妖怪山","妖怪の山","Mysterious Mountain","mysterious mountain","射命丸文"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":3,
 		"audio":"https://music.163.com/#/song?id=29932636"
@@ -530,10 +594,18 @@
 	"th11_09":{
 		"title":"少女さとり ～ 3rd eye",
 		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1Gx411i7iN"
+	},
+	"th11_10":{
+		"title":"廃獄ララバイ",
+		"keywords":["廃獄ララバイ","废狱摇篮曲","火焰猫燐"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=k2fhhMOB_eM"
 	},
 	"th11_11":{
 		"title":"死体旅行　～ Be of good cheer!",
@@ -554,7 +626,7 @@
 	"th11_14":{
 		"title":"ラストリモート（Last Remote）",
 		"keywords":["ラストリモート","Last Remote","last remote","古明地恋"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=xpaf5F-qdLA"
@@ -570,7 +642,7 @@
 	"th12_13":{
 		"title":"感情の摩天楼　～ Cosmic Mind",
 		"keywords":["感情の摩天楼","感情的摩天楼","圣白莲"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
@@ -610,7 +682,7 @@
 	"th16_15":{
 		"title":"秘神マターラ　～ Hidden Star in All Seasons.",
 		"keywords":["秘神マターラ","摩多罗"],
-		"arrange":"まらしぃ",
+		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":6,
 		"audio":"https://www.bilibili.com/video/BV1vb411h7GB"
@@ -626,7 +698,7 @@
 	"hr05_05":{
 		"title":"Demystify Feast",
 		"keywords":["Demystify Feast","demystify feast"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=lPB88JLLS88"
@@ -634,7 +706,7 @@
 	"hr05_08":{
 		"title":"大空魔術　～ Magical Astronomy",
 		"keywords":["大空魔術","大空魔术","Magical Astronomy"],
-		"arrange":"イルカ",
+		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=WjqVa7RzSEc"
