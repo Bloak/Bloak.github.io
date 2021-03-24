@@ -463,6 +463,22 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=5bv0k72-3u0"
 	},
+	"th08_16":{
+		"title":"ヴォヤージュ1970",
+		"keywords":["1970"],
+		"arrange":"senka",
+		"transcribe":"Kijiriki",
+		"difficulty":6,
+		"audio":"https://www.bilibili.com/video/BV1ks411D7QY"
+	},
+	"th08_17":{
+		"title":"Eternal Dream　～ 幽玄の槭樹",
+		"keywords":["幽玄の槭樹","幽玄的枫树"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=ozwZy6RomPM"
+	},
 	"th08_18":{
 		"title":"エクステンドアッシュ　～ 蓬莱人",
 		"keywords":["エクステンドアッシュ","Extend Ash","蓬莱人","上白泽慧音"],
