@@ -444,8 +444,16 @@
 		"keywords":["1969"],
 		"arrange":"marasy",
 		"transcribe":"Alfetite",
-		"difficulty":6,
+		"difficulty":5,
 		"audio":"https://music.163.com/#/song?id=29449512"
+	},
+	"th08_13_2":{
+		"title":"ヴォヤージュ1969",
+		"keywords":["1969"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=7n_E3v7uqHE"
 	},
 	"th08_14":{
 		"title":"千年幻想郷　～ History of the Moon",
@@ -510,6 +518,14 @@
 		"transcribe":"Kijiriki",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=m0J6XHEt7-o"
+	},
+	"th08_20_2":{
+		"title":"東方妖怪小町",
+		"keywords":["東方妖怪小町","东方妖怪小町"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=eUVNFNrnqZ0"
 	},
 	"th09_02":{
 		"title":"春色小径　～ Colorful Path",
