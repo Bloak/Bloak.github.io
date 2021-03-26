@@ -471,7 +471,7 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=5bv0k72-3u0"
 	},
-	"th08_16":{
+	"th08_13b":{
 		"title":"ヴォヤージュ1970",
 		"keywords":["1970"],
 		"arrange":"senka",
@@ -479,7 +479,7 @@
 		"difficulty":6,
 		"audio":"https://www.bilibili.com/video/BV1ks411D7QY"
 	},
-	"th08_17":{
+	"th08_16":{
 		"title":"Eternal Dream　～ 幽玄の槭樹",
 		"keywords":["幽玄の槭樹","幽玄的枫树"],
 		"arrange":"BZ.esmun",
@@ -500,7 +500,7 @@
 		"keywords":["エクステンドアッシュ","Extend Ash","蓬莱人","上白泽慧音"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
-		"difficulty":4,
+		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=0npqC1UDsTQ"
 	},
 	"th08_19":{
@@ -566,6 +566,22 @@
 		"transcribe":"",
 		"difficulty":1,
 		"audio":"https://www.youtube.com/watch?v=L1BwxgAcOoY"
+	},
+	"th095_04":{
+		"title":"東の国の眠らない夜",
+		"keywords":["東の国の眠らない夜","东之国的不眠夜"],
+		"arrange":"senka",
+		"transcribe":"Kijiriki",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=Cxp6wLtxKTA"
+	},
+	"th095_05":{
+		"title":"レトロスペクティブ京都",
+		"keywords":["レトロスペクティブ京都","回忆京都","Retrospective Kyoto"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=U6ATjjAAwlQ"
 	},
 	"th10_04":{
 		"title":"厄神様の通り道　～ Dark Road",
