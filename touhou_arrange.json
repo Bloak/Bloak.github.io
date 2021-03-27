@@ -2,10 +2,10 @@
 	"th01_02":{
 		"title":"永遠の巫女",
 		"keywords":["永遠の巫女","永远的巫女","永远之巫女","博丽灵梦"],
-		"arrange":"雲音ゆこ",
+		"arrange":"senka",
 		"transcribe":"",
 		"difficulty":1,
-		"audio":"https://www.youtube.com/watch?v=A1VqVozlTNs"
+		"audio":"https://www.bilibili.com/video/BV1i7411L71y"
 	},
 	"th02_11":{
 		"title":"Complete Darkness",
@@ -77,7 +77,7 @@
 		"arrange":"すめらぎ紫蓮",
 		"transcribe":"UnknownEX1",
 		"difficulty":2,
-		"audio":"https://music.163.com/#/song?id=849373"
+		"audio":"https://www.bilibili.com/video/BV11K4y1U7EF/"
 	},
 	"th06_04":{
 		"title":"ルーネイトエルフ（Lunate Elf）",
@@ -631,6 +631,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Pn-2ayiUecU"
 	},
+	"TFM-003O_18":{
+		"title":"東方緋想天",
+		"keywords":["東方緋想天","东方绯想天"],
+		"arrange":"kituneyuu",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=D7XMeDD6-Q8"
+	},
 	"th11_08":{
 		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
 		"keywords":["ハートフェルトファンシー","Heartfelt Fancy","heartfelt fancy","古明地觉"],
@@ -646,6 +654,22 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1Gx411i7iN"
+	},
+	"th11_09_2":{
+		"title":"ピアノ独奏「少女さとり」",
+		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
+		"arrange":"葉月悠",
+		"transcribe":"",
+		"difficulty":"?",
+		"audio":"http://rebaro.jp/arr.htm"
+	},
+	"th11_09_3":{
+		"title":"少女さとり ～ 3rd eye",
+		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
+		"arrange":"abab",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=-aVdSbc9zb0"
 	},
 	"th11_10":{
 		"title":"廃獄ララバイ",
@@ -686,6 +710,14 @@
 		"transcribe":"",
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=mlu4I55GTcY"
+	},
+	"th11_15_2":{
+		"title":"ハルトマンの妖怪少女",
+		"keywords":["ハルトマンの妖怪少女","哈德曼的妖怪少女","古明地恋"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=W03DiWAbgtc"
 	},
 	"th12_13":{
 		"title":"感情の摩天楼　～ Cosmic Mind",
