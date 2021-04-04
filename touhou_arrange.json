@@ -85,7 +85,7 @@
 		"arrange":"senka",
 		"transcribe":"",
 		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=OC5Wnr-nzPs"
+		"audio":"https://www.bilibili.com/video/BV1Ly4y1b7gU/"
 	},
 	"th06_05":{
 		"title":"氷のピアノ（原曲：おてんば恋娘）",
@@ -646,6 +646,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=D7XMeDD6-Q8"
+	},
+	"th105_03":{
+		"title":"地の色は黄色",
+		"keywords":["地の色は黄色","地之色乃黄色","博丽灵梦"],
+		"arrange":"kituneyuu",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=w1cBQR7glNI"
 	},
 	"th11_08":{
 		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
