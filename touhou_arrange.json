@@ -791,6 +791,14 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=fBTvJ27158M"
 	},
+	"hr01_01":{
+		"title":"蓬莱伝説",
+		"keywords":["蓬莱伝説","蓬莱传说"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=rqA_6ESdBpQ"
+	},
 	"hr05_05":{
 		"title":"Demystify Feast",
 		"keywords":["Demystify Feast","demystify feast"],
