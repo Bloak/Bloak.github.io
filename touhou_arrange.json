@@ -7,6 +7,14 @@
 		"difficulty":1,
 		"audio":"https://www.bilibili.com/video/BV1i7411L71y"
 	},
+	"th02_06":{
+		"title":"Boisterous Dance（原曲：東方封魔録　～幽幻乱舞）",
+		"keywords":["Boisterous Dance","幽幻乱舞"],
+		"arrange":"maritumix",
+		"transcribe":"黑披风",
+		"difficulty":3,
+		"audio":""
+	},
 	"th02_11":{
 		"title":"Complete Darkness",
 		"keywords":["Complete Darkness","complete darkness","魅魔"],
@@ -242,10 +250,10 @@
 	"th07_09":{
 		"title":"幽霊楽団　～ Phantom Ensemble",
 		"keywords":["幽霊楽団","幽灵乐团","普利斯姆利巴"],
-		"arrange":"雲音ゆこ",
-		"transcribe":"Kijiriki",
+		"arrange":"kituneyuu",
+		"transcribe":"",
 		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=fwg_6y3tvG4"
+		"audio":""
 	},
 	"th07_10":{
 		"title":"東方妖々夢 ～ Ancient Temple",
@@ -326,6 +334,14 @@
 		"transcribe":"Huy Nguyen",
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=849739"
+	},
+	"TFM-001b_17_2":{
+		"title":"東方萃夢想 砕月",
+		"keywords":["東方萃夢想","东方萃梦想","砕月","碎月","伊吹萃香"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":3,
+		"audio":""
 	},
 	"th08_02":{
 		"title":"Blue Tears Night（原曲：幻視の夜）",
