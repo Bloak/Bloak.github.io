@@ -12,7 +12,7 @@
 		"keywords":["Boisterous Dance","幽幻乱舞"],
 		"arrange":"maritumix",
 		"transcribe":"黑披风",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":""
 	},
 	"th02_11":{
@@ -20,7 +20,7 @@
 		"keywords":["Complete Darkness","complete darkness","魅魔"],
 		"arrange":"kituneyuu",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=bpEXWk8SAx4"
 	},
 	"th03_04":{
@@ -78,6 +78,14 @@
 		"transcribe":"Quellatalo",
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1io4y1d7i9/"
+	},
+	"sh02_06":{
+		"title":"桜花之恋塚　～ Flower of Japan",
+		"keywords":["桜花之恋塚","樱花之恋塚","幽香"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=a82x940dIg0"
 	},
 	"th06_02":{
 		"title":"ほおずきみたいに紅い魂",
@@ -223,6 +231,14 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=AV5YAxeheaQ"
 	},
+	"th07_05":{
+		"title":"ティアオイエツォン（凋叶棕）",
+		"keywords":["ティアオイエツォン","凋叶棕","Withered Leaf","橙"],
+		"arrange":"JLam",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=B_D7ZMyDmCQ"
+	},
 	"th07_06":{
 		"title":"ブクレシュティの人形師",
 		"keywords":["ブクレシュティの人形師","布加勒斯特","玛格特洛伊德"],
@@ -278,6 +294,14 @@
 		"transcribe":"",
 		"difficulty":1,
 		"audio":"https://www.youtube.com/watch?v=FP7urgXpAtI"
+	},
+	"th07_12_2":{
+		"title":"アルティメットトゥルース（Ultimate Truth）",
+		"keywords":["アルティメットトゥルース","Ultimate Truth","究极的真实","ultimate truth","魂魄妖梦"],
+		"arrange":"青汁",
+		"transcribe":"Wiilly",
+		"difficulty":"?",
+		"audio":"https://music.163.com/#/song?id=849159"
 	},
 	"th07_13":{
 		"title":"幽雅に咲かせ、墨染の桜　～ Border of Life",
@@ -575,6 +599,14 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=4FH0kSf30pk"
 	},
+	"th09_14":{
+		"title":"彼岸帰航　～ Riverside View",
+		"keywords":["彼岸帰航","彼岸归航","小野塚小町"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=OBGeA1KA-sQ"
+	},
 	"th09_15":{
 		"title":"六十年目の東方裁判　～ Fate of Sixty Years",
 		"keywords":["六十年","四季映姬"],
@@ -606,6 +638,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=U6ATjjAAwlQ"
+	},
+	"hr04_11":{
+		"title":"最も澄みわたる空と海（東方夢終劇 版本）",
+		"keywords":["最も澄みわたる空と海","最澄澈的空与海"],
+		"arrange":"BusiedGem",
+		"transcribe":"calculust00n",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=_Tz9KVFpTuE"
 	},
 	"th10_04":{
 		"title":"厄神様の通り道　～ Dark Road",
@@ -655,6 +695,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Pn-2ayiUecU"
 	},
+	"TFM-003O_13":{
+		"title":"黒い海に紅く　～ Legendary Fish",
+		"keywords":["黒い海に紅く","黑海中的绯红","永江衣玖"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=jH3c3P1HtP0"
+	},
 	"TFM-003O_18":{
 		"title":"東方緋想天",
 		"keywords":["東方緋想天","东方绯想天"],
@@ -670,6 +718,22 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=w1cBQR7glNI"
+	},
+	"th11_02":{
+		"title":"暗闇の風穴",
+		"keywords":["暗闇の風穴","昏暗的风穴","琪斯美"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=6rWO1Uwz96g"
+	},
+	"th11_03":{
+		"title":"封じられた妖怪 ～ Lost Place",
+		"keywords":["封じられた妖怪","被封印的妖怪","黑谷山女"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":"?",
+		"audio":"https://www.youtube.com/watch?v=BkVWsL9fV_Y"
 	},
 	"th11_08":{
 		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
@@ -791,9 +855,17 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=BCkY8vUigAg"
 	},
+	"th16_13":{
+		"title":"秘匿されたフォーシーズンズ",
+		"keywords":["秘匿されたフォーシーズンズ","被秘匿的四个季节","摩多罗隐岐奈"],
+		"arrange":"moonfire18",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=qNLNjbfuyWs"
+	},
 	"th16_15":{
 		"title":"秘神マターラ　～ Hidden Star in All Seasons.",
-		"keywords":["秘神マターラ","摩多罗"],
+		"keywords":["秘神マターラ","秘神摩多罗","摩多罗隐岐奈"],
 		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":6,
