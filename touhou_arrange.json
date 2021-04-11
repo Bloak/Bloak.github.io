@@ -47,6 +47,22 @@
 		"difficulty":4,
 		"audio":"https://www.bilibili.com/video/BV19z4y127q9"
 	},
+	"th04_11":{
+		"title":"星の器　～ Casket of Star",
+		"keywords":["星の器","星之器","Casket of Star","雾雨魔理沙"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=qWT2v6Jk3sA"
+	},
+	"th04_13":{
+		"title":"眠れる恐怖　～Sleeping Terror",
+		"keywords":["眠れる恐怖","沉睡的恐怖","Sleeping Terror","sleeping terror","幽香"],
+		"arrange":"廿秒",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=e_3BZgczFMU"
+	},
 	"th04_15":{
 		"title":"幽夢　～ Inanimate Dream",
 		"keywords":["幽夢","幽梦","Inanimate Dream","inanimate dream","幽香"],
