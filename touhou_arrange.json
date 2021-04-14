@@ -95,6 +95,14 @@
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1io4y1d7i9/"
 	},
+	"sh01_18":{
+		"title":"二色蓮花蝶　～ Ancients",
+		"keywords":["二色蓮花蝶","二色莲花蝶","博丽灵梦"],
+		"arrange":"iruka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=-gnvu3Tk8_k"
+	},
 	"sh02_06":{
 		"title":"桜花之恋塚　～ Flower of Japan",
 		"keywords":["桜花之恋塚","樱花之恋塚","幽香"],
@@ -375,13 +383,29 @@
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=849739"
 	},
-	"TFM-001b_17_2":{
-		"title":"東方萃夢想 砕月",
+	"TFM-003A_11":{
+		"title":"砕月（东方绯想天版本）",
 		"keywords":["東方萃夢想","东方萃梦想","砕月","碎月","伊吹萃香"],
 		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":3,
-		"audio":""
+		"audio":"https://www.youtube.com/watch?v=jCdMgJhNep0"
+	},
+	"TFM-001b_18":{
+		"title":"御伽の国の鬼が島　～ Missing Power",
+		"keywords":["御伽の国の鬼が島","Missing Power","missing power","御伽之国的鬼岛","伊吹萃香"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=fMTsDEx3AFE"
+	},
+	"TFM-001b_22":{
+		"title":"御伽の国の鬼が島　～ Missing Power（U2改编版本）",
+		"keywords":["御伽の国の鬼が島","Missing Power","missing power","御伽之国的鬼岛","伊吹萃香"],
+		"arrange":"akikiki",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.nicovideo.jp/watch/sm6908457"
 	},
 	"th08_02":{
 		"title":"Blue Tears Night（原曲：幻視の夜）",
@@ -863,6 +887,14 @@
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
 	},
+	"th15_03":{
+		"title":"兎は舞い降りた",
+		"keywords":["兎は舞い降りた","兔已着陆","清兰"],
+		"arrange":"Williatico",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=THI42M90gTk"
+	},
 	"th15_05":{
 		"title":"九月のパンプキン",
 		"keywords":["九月のパンプキン","九月的南瓜","铃瑚"],
@@ -918,6 +950,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=fBTvJ27158M"
+	},
+	"th18_03":{
+		"title":"大吉キトゥン",
+		"keywords":["大吉キトゥン","大吉猫咪","豪德寺三花"],
+		"arrange":"Epretroll",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.bilibili.com/video/BV1j54y1h7jz"
 	},
 	"hr01_01":{
 		"title":"蓬莱伝説",
