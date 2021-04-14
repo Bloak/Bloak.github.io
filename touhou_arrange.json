@@ -751,6 +751,30 @@
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=BkVWsL9fV_Y"
 	},
+	"th11_05":{
+		"title":"緑眼のジェラシー",
+		"keywords":["緑眼のジェラシー","绿眼的嫉妒","水桥帕露西"],
+		"arrange":"Arcade Rabbit",
+		"transcribe":"",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=joQE7Y5wv7k"
+	},
+	"th11_05_2":{
+		"title":"緑眼のジェラシー",
+		"keywords":["緑眼のジェラシー","绿眼的嫉妒","水桥帕露西"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"Kijiriki",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=Xfre63_xbhs"
+	},
+	"th11_05_3":{
+		"title":"緑眼のジェラシー",
+		"keywords":["緑眼のジェラシー","绿眼的嫉妒","水桥帕露西"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=f7Dt2cPqhKE"
+	},
 	"th11_08":{
 		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
 		"keywords":["ハートフェルトファンシー","Heartfelt Fancy","heartfelt fancy","古明地觉"],
