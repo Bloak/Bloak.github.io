@@ -119,6 +119,14 @@
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV11K4y1U7EF/"
 	},
+	"th06_03":{
+		"title":"妖魔夜行",
+		"keywords":["妖魔夜行","露米娅"],
+		"arrange":"廿秒",
+		"transcribe":"Kijiriki",
+		"difficulty":6,
+		"audio":"https://www.bilibili.com/video/BV1N5411K7b5"
+	},
 	"th06_04":{
 		"title":"ルーネイトエルフ（Lunate Elf）",
 		"keywords":["ルーネイトエルフ","Lunate Elf","新月般的妖精","lunate elf","大妖精"],
@@ -199,6 +207,14 @@
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1j5411K7xw"
 	},
+	"th06_12":{
+		"title":"ツェペシュの幼き末裔",
+		"keywords":["特佩斯的年幼末裔","ツェペシュの幼き末裔","蕾米莉亚"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=2RZeermj_BM"
+	},
 	"th06_13":{
 		"title":"亡き王女の為のセプテット",
 		"keywords":["亡き王女の為のセプテット","七重奏","蕾米莉亚"],
@@ -206,6 +222,14 @@
 		"transcribe":"",
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=CZzbk_2SuDA"
+	},
+	"th06_14":{
+		"title":"魔法少女達の百年祭",
+		"keywords":["魔法少女達の百年祭","魔法少女们的百年祭","帕秋莉"],
+		"arrange":"ありおと",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.bilibili.com/video/BV17s411q7Mf"
 	},
 	"th06_15":{
 		"title":"U.N.オーエンは彼女なのか？",
@@ -229,7 +253,7 @@
 		"arrange":"凛々神",
 		"transcribe":"Kijiriki",
 		"difficulty":2,
-		"audio":"https://www.youtube.com/watch?v=EbFaS0Zg2hg"
+		"audio":"https://www.bilibili.com/video/BV1u54y1h7S5"
 	},
 	"th07_02":{
 		"title":"無何有の郷　～ Deep Mountain",
@@ -367,6 +391,14 @@
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=-yNATRuEvsE"
 	},
+	"th07_19":{
+		"title":"春風の夢",
+		"keywords":["春風の夢","春风之梦"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=zvrQeCUyo6E"
+	},
 	"th07_20":{
 		"title":"さくらさくら　～ Japanize Dream...",
 		"keywords":["さくらさくら","Japanize Dream","樱花樱花"],
@@ -406,6 +438,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.nicovideo.jp/watch/sm6908457"
+	},
+	"th08_01":{
+		"title":"永夜抄　～ Eastern Night.",
+		"keywords":["永夜抄","Eastern Night"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=dUDRs59-IZU"
 	},
 	"th08_02":{
 		"title":"Blue Tears Night（原曲：幻視の夜）",
@@ -568,6 +608,14 @@
 		"audio":"https://www.bilibili.com/video/BV1ks411D7QY"
 	},
 	"th08_16":{
+		"title":"月見草",
+		"keywords":["月見草","月见草"],
+		"arrange":"NYO",
+		"transcribe":"UnknownEX1",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=VOLqVTdjCas&t=0s"
+	},
+	"th08_17":{
 		"title":"Eternal Dream　～ 幽玄の槭樹",
 		"keywords":["幽玄の槭樹","幽玄的枫树"],
 		"arrange":"BZ.esmun",
