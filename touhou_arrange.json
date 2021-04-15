@@ -8,10 +8,10 @@
 		"audio":"https://www.bilibili.com/video/BV1i7411L71y"
 	},
 	"th02_06":{
-		"title":"Boisterous Dance（原曲：東方封魔録　～幽幻乱舞）",
+		"title":"Boisterous Dance（maritumix改编版本。原曲：東方封魔録　～幽幻乱舞）",
 		"keywords":["Boisterous Dance","幽幻乱舞"],
-		"arrange":"maritumix",
-		"transcribe":"黑披风",
+		"arrange":"黑披风",
+		"transcribe":"",
 		"difficulty":1,
 		"audio":""
 	},
@@ -137,7 +137,7 @@
 	},
 	"th06_05_2":{
 		"title":"チルノのパーフェクトさんすう教室",
-		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺"],
+		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺","完美算数教室"],
 		"arrange":"marasy",
 		"transcribe":"Epretroll",
 		"difficulty":"?",
