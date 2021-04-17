@@ -503,14 +503,6 @@
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1eA411T7c5/"
 	},
-	/*"th08_06_2":{
-		"title":"懐かしき東方の血　～ Old World",
-		"keywords":["懐かしき東方の血","Old World","东方之血","上白泽慧音"],
-		"arrange":"雲音ゆこ",
-		"transcribe":"Kijiriki",
-		"difficulty":2,
-		"audio":"https://www.youtube.com/watch?v=-HnfQwhW7JY"
-	},*/
 	"th08_07":{
 		"title":"プレインエイジア（Plain Asia）",
 		"keywords":["プレインエイジア","Plain Asia","东方平原","上白泽慧音"],
@@ -631,14 +623,6 @@
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=xcM1cxfI6fU"
 	},
-	/*"th08_18_2":{
-		"title":"エクステンドアッシュ　～ 蓬莱人",
-		"keywords":["エクステンドアッシュ","Extend Ash","蓬莱人","上白泽慧音"],
-		"arrange":"雲音ゆこ",
-		"transcribe":"",
-		"difficulty":5,
-		"audio":"https://www.youtube.com/watch?v=0npqC1UDsTQ"
-	},*/
 	"th08_19":{
 		"title":"月まで届け、不死の煙",
 		"keywords":["不死の煙","不死之烟","藤原妹红"],
