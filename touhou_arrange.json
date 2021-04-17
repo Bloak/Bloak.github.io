@@ -27,9 +27,9 @@
 		"title":"Reincarnation",
 		"keywords":["Reincarnation","reincarnation","魅魔"],
 		"arrange":"雲音ゆこ",
-		"transcribe":"",
+		"transcribe":"Kijiriki",
 		"difficulty":1,
-		"audio":"https://www.youtube.com/watch?v=TyairUWTMBY"
+		"audio":"https://www.bilibili.com/video/BV1iN411X7ah"
 	},
 	"th03_08":{
 		"title":"夢消失　～Lost Dream",
@@ -53,7 +53,7 @@
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
 		"difficulty":2,
-		"audio":"https://www.youtube.com/watch?v=qWT2v6Jk3sA"
+		"audio":"https://www.bilibili.com/video/BV1Ai4y1T78P"
 	},
 	"th04_13":{
 		"title":"眠れる恐怖　～Sleeping Terror",
@@ -85,7 +85,7 @@
 		"arrange":"シュークリーム製造機",
 		"transcribe":"",
 		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=dwL5c93yPyM"
+		"audio":"https://www.bilibili.com/video/BV1K54y1e7C1"
 	},
 	"th05_16":{
 		"title":"不思議の国のアリス",
@@ -394,10 +394,10 @@
 	"th07_19":{
 		"title":"春風の夢",
 		"keywords":["春風の夢","春风之梦"],
-		"arrange":"BZ.esmun",
+		"arrange":"黑披风",
 		"transcribe":"",
-		"difficulty":6,
-		"audio":"https://www.youtube.com/watch?v=zvrQeCUyo6E"
+		"difficulty":2,
+		"audio":""
 	},
 	"th07_20":{
 		"title":"さくらさくら　～ Japanize Dream...",
@@ -503,14 +503,14 @@
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1eA411T7c5/"
 	},
-	"th08_06_2":{
+	/*"th08_06_2":{
 		"title":"懐かしき東方の血　～ Old World",
 		"keywords":["懐かしき東方の血","Old World","东方之血","上白泽慧音"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"Kijiriki",
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=-HnfQwhW7JY"
-	},
+	},*/
 	"th08_07":{
 		"title":"プレインエイジア（Plain Asia）",
 		"keywords":["プレインエイジア","Plain Asia","东方平原","上白泽慧音"],
@@ -631,14 +631,14 @@
 		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=xcM1cxfI6fU"
 	},
-	"th08_18_2":{
+	/*"th08_18_2":{
 		"title":"エクステンドアッシュ　～ 蓬莱人",
 		"keywords":["エクステンドアッシュ","Extend Ash","蓬莱人","上白泽慧音"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=0npqC1UDsTQ"
-	},
+	},*/
 	"th08_19":{
 		"title":"月まで届け、不死の煙",
 		"keywords":["不死の煙","不死之烟","藤原妹红"],
@@ -705,7 +705,7 @@
 	},
 	"th09_18":{
 		"title":"花は幻想のままに",
-		"keywords":["花は幻想のままに","花如幻想一般"],
+		"keywords":["花は幻想のままに","花如幻想"],
 		"arrange":"DO",
 		"transcribe":"",
 		"difficulty":1,
@@ -745,7 +745,7 @@
 	},
 	"th10_05":{
 		"title":"運命のダークサイド",
-		"keywords":["運命のダークサイド","命运的黑暗面","dark side","键山雏"],
+		"keywords":["運命のダークサイド","命运的黑暗面","命运的阴暗面","dark side","键山雏"],
 		"arrange":"senka",
 		"transcribe":"",
 		"difficulty":6,
