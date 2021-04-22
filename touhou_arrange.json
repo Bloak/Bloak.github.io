@@ -5,7 +5,7 @@
 		"arrange":"senka",
 		"transcribe":"",
 		"difficulty":1,
-		"audio":"https://www.bilibili.com/video/BV1i7411L71y"
+		"audio":"https://www.bilibili.com/video/bv1Dv41177QC"
 	},
 	"th02_06":{
 		"title":"Boisterous Dance（maritumix改编版本。原曲：東方封魔録　～幽幻乱舞）",
@@ -767,6 +767,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Pn-2ayiUecU"
 	},
+	"th10_15":{
+		"title":"ネイティブフェイス (Native Faith)",
+		"keywords":["ネイティブフェイス","Native Faith","native faith","土著神的信仰","土著信仰","洩矢诹访子"],
+		"arrange":"凛々神",
+		"transcribe":"Kijiriki",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=EXJxv_Ls9p0"
+	},
 	"TFM-003O_13":{
 		"title":"黒い海に紅く　～ Legendary Fish",
 		"keywords":["黒い海に紅く","黑海中的绯红","永江衣玖"],
@@ -1006,6 +1014,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=rqA_6ESdBpQ"
+	},
+	"hr03_09":{
+		"title":"夢と現の境界",
+		"keywords":["夢と現の境界","梦境与现实的境界"],
+		"arrange":"シュークリーム製造機",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.nicovideo.jp/watch/sm20236180"
 	},
 	"hr05_05":{
 		"title":"Demystify Feast",
