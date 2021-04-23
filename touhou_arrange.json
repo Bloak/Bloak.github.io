@@ -804,8 +804,16 @@
 		"keywords":["封じられた妖怪","被封印的妖怪","黑谷山女"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"Kijiriki",
-		"difficulty":"?",
+		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=BkVWsL9fV_Y"
+	},
+	"th11_04":{
+		"title":"渡る者の途絶えた橋",
+		"keywords":["渡る者の途絶えた橋","阻绝人迹之桥","水桥帕露西"],
+		"arrange":"A'",
+		"transcribe":"Quellatalo",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=kjrOOIUkUno"
 	},
 	"th11_05":{
 		"title":"緑眼のジェラシー",
@@ -1007,6 +1015,38 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=rqA_6ESdBpQ"
 	},
+	"hr01_02":{
+		"title":"永遠の巫女",
+		"keywords":["永遠の巫女","永远的巫女","永远之巫女"],
+		"arrange":"恶之员",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.bilibili.com/video/BV1sK411K7PF"
+	},
+	"hr02_02":{
+		"title":"少女秘封倶楽部",
+		"keywords":["少女秘封倶楽部","少女秘封俱乐部","宇佐见莲子","玛艾露贝莉"],
+		"arrange":"DO",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=vkRDmOjPAog"
+	},
+	"hr03_01":{
+		"title":"童祭　～ Innocent Treasures",
+		"keywords":["童祭","ZUN"],
+		"arrange":"wag",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=W7Lu8a5HHwM"
+	},
+	"hr03_02":{
+		"title":"華胥の夢",
+		"keywords":["華胥の夢","华胥之梦"],
+		"arrange":"Reptilianer",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.bilibili.com/video/BV155411K77P"
+	},
 	"hr03_09":{
 		"title":"夢と現の境界",
 		"keywords":["夢と現の境界","梦境与现实的境界"],
@@ -1014,6 +1054,14 @@
 		"transcribe":"",
 		"difficulty":6,
 		"audio":"https://www.nicovideo.jp/watch/sm20236180"
+	},
+	"hr04_01":{
+		"title":"【Etude Ⅰ】 - ヒロシゲ36号",
+		"keywords":["ヒロシゲ36号","广重36号"],
+		"arrange":"柊秀雪",
+		"transcribe":"Quellatalo",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=ORzpYdWflAk"
 	},
 	"hr04_11":{
 		"title":"最も澄みわたる空と海（東方夢終劇 版本）",
