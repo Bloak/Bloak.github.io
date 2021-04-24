@@ -415,6 +415,14 @@
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=849739"
 	},
+	"TFM-001b_23":{
+		"title":"東方萃夢想（Arrange）",
+		"keywords":["東方萃夢想","东方萃梦想"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=skCWECSGQps"
+	},
 	"TFM-003A_11":{
 		"title":"砕月（东方绯想天版本）",
 		"keywords":["砕月","碎月"],
@@ -1016,7 +1024,7 @@
 		"audio":"https://www.youtube.com/watch?v=rqA_6ESdBpQ"
 	},
 	"hr01_02":{
-		"title":"永遠の巫女",
+		"title":"永遠の巫女（蓬莱人形 版本）",
 		"keywords":["永遠の巫女","永远的巫女","永远之巫女"],
 		"arrange":"恶之员",
 		"transcribe":"",
