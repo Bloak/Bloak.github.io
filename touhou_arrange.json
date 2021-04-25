@@ -1007,6 +1007,14 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=fBTvJ27158M"
 	},
+	"th18_01":{
+		"title":"虹の架かる幻想郷",
+		"keywords":["虹の架かる幻想郷","架起虹桥的幻想乡"],
+		"arrange":"Ponjoh",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=pZEwb0Im6k4"
+	},
 	"th18_03":{
 		"title":"大吉キトゥン",
 		"keywords":["大吉キトゥン","大吉猫咪","豪德寺三花"],
@@ -1079,12 +1087,20 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=_Tz9KVFpTuE"
 	},
-	"hr05_05":{
+	"hr05_04":{
+		"title":"車椅子の未来宇宙",
+		"keywords":["車椅子の未来宇宙","车椅子的未来宇宙","轮椅上的未来宇宙"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=mwBEOxxMxTk"
+	},
+	"TFM-001b_14":{
 		"title":"Demystify Feast",
 		"keywords":["Demystify Feast","demystify feast"],
 		"arrange":"iruka",
 		"transcribe":"",
-		"difficulty":6,
+		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=lPB88JLLS88"
 	},
 	"hr05_08":{
