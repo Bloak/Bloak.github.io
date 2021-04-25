@@ -39,7 +39,7 @@ function search() {
 			    }
 			    addText(`难度：${data.difficulty}${(data.difficulty==='?')?'':'★'}`);
 			    addLink("五线谱",`./${result}.pdf`);
-			    addText('  ');
+			    addNewLine();
 			    addLink("演奏",arranges[result].audio);
 			}
 			else {
@@ -76,5 +76,11 @@ function addLink(text, link) {
 	a.rel="noopener noreferrer";
 	var div = document.getElementById('result');
 	div.appendChild(a);
+}
+
+function addNewLine() {
+	var br = document.createElement("br");
+	var div = document.getElementById('result');
+	div.appendChild(br);
 }
 
