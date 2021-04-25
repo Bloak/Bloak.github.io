@@ -677,7 +677,7 @@
 		"arrange":"mino",
 		"transcribe":"Kijiriki",
 		"difficulty":4,
-		"audio":"https://www.youtube.com/watch?v=4FH0kSf30pk"
+		"audio":"https://www.youtube.com/watch?v=XLwpOR4hLHs"
 	},
 	"th09_14":{
 		"title":"彼岸帰航　～ Riverside View",
@@ -902,6 +902,14 @@
 		"transcribe":"",
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=Dz-j1I-tpIg"
+	},
+	"th11_12":{
+		"title":"日常系業火マントル",
+		"keywords":["業火マントル","业火地幔","灵乌路空"],
+		"arrange":"ミドリ虫",
+		"transcribe":"黑披风",
+		"difficulty":3,
+		"audio":"https://www.nicovideo.jp/watch/nm22157870"
 	},
 	"th11_13":{
 		"title":"霊知の太陽信仰　～ Nuclear Fusion",
