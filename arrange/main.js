@@ -31,13 +31,20 @@ function search() {
 			if (result){
 				clear();
 			    var data = arranges[result];
-			    console.log(data);
-			    // 显示相关信息
+			    //console.log(data);
+			    addText(`曲名：${data.title}`);
+			    addText(`改编：${data.arrange}`);
+			    if (data.transcribe) {
+			    	addText(`制谱：${data.transcribe}`);
+			    }
+			    addText(`难度：${data.difficulty}${(data.difficulty==='?')?'':'★'}`);
+			    addLink("五线谱",`./${result}.pdf`);
+			    addLink("演奏",arranges[result].audio);
 			}
 			else {
 				clear();
-				console.log("没有找到相关曲谱");
-				// 没有找到相关曲谱
+				//console.log("没有找到相关曲谱");
+				addText("没有找到相关曲谱");
 			}
 		})
 }
@@ -49,5 +56,22 @@ function clear() {
 	while(div.firstChild){
     	div.removeChild(div.firstChild);
 	}
+}
+
+function addText(text) {
+	var para = document.createElement("p");
+	var node = document.createTextNode(text);
+	para.appendChild(node);
+	var div = document.getElementById('result');
+	div.appendChild(para);
+}
+
+function addLink(text, link) {
+	var a = document.createElement("a");
+	var node = document.createTextNode(text);
+	a.appendChild(node);
+	a.href = link;
+	var div = document.getElementById('result');
+	div.appendChild(para);
 }
 
