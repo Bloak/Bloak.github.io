@@ -39,7 +39,7 @@ function search() {
 			    }
 			    addText(`难度：${data.difficulty}${(data.difficulty==='?')?'':'★'}`);
 			    addLink("五线谱",`./${result}.pdf`);
-			    addText(' | ');
+			    addText('  ');
 			    addLink("演奏",arranges[result].audio);
 			}
 			else {
