@@ -72,6 +72,6 @@ function addLink(text, link) {
 	a.appendChild(node);
 	a.href = link;
 	var div = document.getElementById('result');
-	div.appendChild(para);
+	div.appendChild(a);
 }
 
