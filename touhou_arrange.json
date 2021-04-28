@@ -212,7 +212,7 @@
 		"keywords":["特佩斯的年幼末裔","ツェペシュの幼き末裔","蕾米莉亚"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=2RZeermj_BM"
 	},
 	"th06_13":{
@@ -334,6 +334,14 @@
 		"transcribe":"Quellatalo",
 		"difficulty":3,
 		"audio":"https://music.163.com/#/song?id=849158"
+	},
+	"th07_11_2":{
+		"title":"広有射怪鳥事 ～ Till When?",
+		"keywords":["広有射怪鳥事","广有射怪鸟事","魂魄妖梦"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=GjwuXRksxGw"
 	},
 	"th07_12":{
 		"title":"アルティメットトゥルース（Ultimate Truth）",
@@ -701,7 +709,7 @@
 		"arrange":"DO",
 		"transcribe":"",
 		"difficulty":1,
-		"audio":"https://www.youtube.com/watch?v=L1BwxgAcOoY"
+		"audio":"https://www.bilibili.com/video/BV1b54y1j7bm"
 	},
 	"th095_04":{
 		"title":"東の国の眠らない夜",
