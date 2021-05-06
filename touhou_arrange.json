@@ -319,6 +319,14 @@
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=29457249"
 	},
+	"th07_08_2":{
+		"title":"天空の悲恋歌",
+		"keywords":["天空の悲恋歌","天空之悲恋歌","天空の花の都","天空的花之都","莉莉白","莉莉黑"],
+		"arrange":"A'",
+		"transcribe":"Wayfinder",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=w6xyJvMQ4uM"
+	},
 	"th07_09":{
 		"title":"幽霊楽団　～ Phantom Ensemble",
 		"keywords":["幽霊楽団","幽灵乐团","普利斯姆利巴"],
@@ -1070,6 +1078,14 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1sK411K7PF"
+	},
+	"hr01_10":{
+		"title":"リーインカーネイション（Reincarnation, 蓬莱人形 版本）",
+		"keywords":["リーインカーネイション","Reincarnation","reincarnation","魅魔"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=D-Q9TTIRRP8"
 	},
 	"hr02_02":{
 		"title":"少女秘封倶楽部",
