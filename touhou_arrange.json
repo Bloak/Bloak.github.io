@@ -1080,12 +1080,12 @@
 		"audio":"https://www.bilibili.com/video/BV1sK411K7PF"
 	},
 	"hr01_10":{
-		"title":"リーインカーネーション（Reincarnation, 蓬莱人形 版本）",
+		"title":"Reincarnation（蓬莱人形 版本）",
 		"keywords":["リーインカーネーション","リーインカーネイション","Reincarnation","reincarnation","魅魔"],
-		"arrange":"雲音ゆこ",
+		"arrange":"inpure",
 		"transcribe":"",
-		"difficulty":2,
-		"audio":"https://www.youtube.com/watch?v=D-Q9TTIRRP8"
+		"difficulty":"?",
+		"audio":"https://www.nicovideo.jp/watch/sm16432792"
 	},
 	"hr02_02":{
 		"title":"少女秘封倶楽部",
