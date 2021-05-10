@@ -554,10 +554,10 @@
 	"th08_09":{
 		"title":"少女綺想曲　～ Dream Battle",
 		"keywords":["少女綺想曲","少女绮想曲","Dream Battle","博丽灵梦"],
-		"arrange":"marasy",
-		"transcribe":"Alfetite",
+		"arrange":"柊秀雪",
+		"transcribe":"",
 		"difficulty":6,
-		"audio":"https://music.163.com/#/song?id=29449508"
+		"audio":"https://www.bilibili.com/video/BV1MT4y1E7yR"
 	},
 	"th08_10":{
 		"title":"恋色マスタースパーク",
@@ -580,7 +580,7 @@
 		"keywords":["シンデレラケージ","Kagome","灰姑娘的笼子","笼中鸟","因幡帝"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
-		"difficulty":"?",
+		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=u8MDM8vJeSw"
 	},
 	"th08_12":{
@@ -599,6 +599,14 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=7n_E3v7uqHE"
 	},
+	"th08_13_2":{
+		"title":"ヴォヤージュ1969",
+		"keywords":["1969"],
+		"arrange":"BZ.esmun",
+		"transcribe":"",
+		"difficulty":"?",
+		"audio":"https://www.youtube.com/watch?v=7ijXvbMzARM"
+	},
 	"th08_14":{
 		"title":"千年幻想郷　～ History of the Moon",
 		"keywords":["千年幻想郷","千年幻想乡","八意永琳"],
@@ -610,10 +618,10 @@
 	"th08_15":{
 		"title":"竹取飛翔　～ Lunatic Princess",
 		"keywords":["竹取飛翔","竹取飞翔","Lunatic Princess","lunatic princess","蓬莱山辉夜"],
-		"arrange":"DMBN",
+		"arrange":"柊秀雪",
 		"transcribe":"",
 		"difficulty":6,
-		"audio":"https://www.youtube.com/watch?v=5bv0k72-3u0"
+		"audio":"https://www.bilibili.com/video/BV1Sh41197b3"
 	},
 	"th08_13b":{
 		"title":"ヴォヤージュ1970",
@@ -890,10 +898,10 @@
 	"th11_10":{
 		"title":"廃獄ララバイ",
 		"keywords":["廃獄ララバイ","废狱摇篮曲","火焰猫燐"],
-		"arrange":"marasy",
-		"transcribe":"Alfetite",
-		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=k2fhhMOB_eM"
+		"arrange":"朧月輝月",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=WZf1OacFi40"
 	},
 	"th11_11":{
 		"title":"死体旅行　～ Be of good cheer!",
