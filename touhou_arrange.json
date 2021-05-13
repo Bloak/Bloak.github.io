@@ -313,7 +313,7 @@
 	},
 	"th07_08":{
 		"title":"天空の花の都",
-		"keywords":["天空の花の都","天空的花之都","莉莉白","莉莉黑"],
+		"keywords":["天空の花の都","天空的花之都","莉莉白"],
 		"arrange":"marasy",
 		"transcribe":"Alfetite",
 		"difficulty":4,
@@ -321,11 +321,11 @@
 	},
 	"th07_08_2":{
 		"title":"天空の悲恋歌",
-		"keywords":["天空の悲恋歌","天空之悲恋歌","天空の花の都","天空的花之都","莉莉白","莉莉黑"],
+		"keywords":["天空の悲恋歌","天空之悲恋歌","天空の花の都","天空的花之都","莉莉白"],
 		"arrange":"A'",
 		"transcribe":"Wayfinder",
 		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=w6xyJvMQ4uM"
+		"audio":"https://www.bilibili.com/video/BV1fs411i7bF"
 	},
 	"th07_09":{
 		"title":"幽霊楽団　～ Phantom Ensemble",
