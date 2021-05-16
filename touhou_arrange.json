@@ -44,7 +44,7 @@
 		"keywords":["Bad Apple","bad apple","坏苹果","艾丽"],
 		"arrange":"雲音ゆこ",
 		"transcribe":"",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV19z4y127q9"
 	},
 	"th04_07_2":{
@@ -68,7 +68,7 @@
 		"keywords":["眠れる恐怖","沉睡的恐怖","Sleeping Terror","sleeping terror","幽香"],
 		"arrange":"廿秒",
 		"transcribe":"",
-		"difficulty":5,
+		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=e_3BZgczFMU"
 	},
 	"th04_15":{
@@ -92,7 +92,7 @@
 		"keywords":["プラスチックマインド","Plastic Mind","plastic mind","玛格特洛伊德"],
 		"arrange":"シュークリーム製造機",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1K54y1e7C1"
 	},
 	"th05_16":{
@@ -116,7 +116,7 @@
 		"keywords":["桜花之恋塚","樱花之恋塚","幽香"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=a82x940dIg0"
 	},
 	"th06_02":{
@@ -132,7 +132,7 @@
 		"keywords":["妖魔夜行","露米娅"],
 		"arrange":"廿秒",
 		"transcribe":"Kijiriki",
-		"difficulty":6,
+		"difficulty":4,
 		"audio":"https://www.bilibili.com/video/BV1N5411K7b5"
 	},
 	"th06_04":{
@@ -140,7 +140,7 @@
 		"keywords":["ルーネイトエルフ","Lunate Elf","新月般的妖精","lunate elf","大妖精"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1Ly4y1b7gU/"
 	},
 	"th06_05":{
@@ -180,7 +180,7 @@
 		"keywords":["明治十七年の上海アリス","明治十七年的上海爱丽丝","红美铃"],
 		"arrange":"inpure",
 		"transcribe":"",
-		"difficulty":"?",
+		"difficulty":6,
 		"audio":"https://www.bilibili.com/video/BV1it411k71N"
 	},
 	"th06_08":{
@@ -196,7 +196,7 @@
 		"keywords":["少女密室","帕秋莉"],
 		"arrange":"inpure",
 		"transcribe":"Kijiriki",
-		"difficulty":3,
+		"difficulty":4,
 		"audio":"https://www.bilibili.com/video/BV1Rb4y1X7BK"
 	},
 	"th06_10":{
@@ -234,7 +234,7 @@
 	"th06_14":{
 		"title":"魔法少女達の百年祭",
 		"keywords":["魔法少女達の百年祭","魔法少女们的百年祭","帕秋莉"],
-		"arrange":"Alioth",
+		"arrange":"セイジ",
 		"transcribe":"",
 		"difficulty":6,
 		"audio":"https://www.bilibili.com/video/BV17s411q7Mf"
@@ -292,7 +292,7 @@
 		"keywords":["ティアオイエツォン","凋叶棕","Withered Leaf","橙"],
 		"arrange":"JLam",
 		"transcribe":"",
-		"difficulty":4,
+		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=B_D7ZMyDmCQ"
 	},
 	"th07_06":{
@@ -300,7 +300,7 @@
 		"keywords":["ブクレシュティの人形師","布加勒斯特","玛格特洛伊德"],
 		"arrange":"海老福",
 		"transcribe":"",
-		"difficulty":5,
+		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=cY-7tf7HP70"
 	},
 	"th07_07":{
@@ -324,8 +324,8 @@
 		"keywords":["天空の悲恋歌","天空之悲恋歌","天空の花の都","天空的花之都","莉莉白"],
 		"arrange":"A'",
 		"transcribe":"Wayfinder",
-		"difficulty":3,
-		"audio":"https://www.bilibili.com/video/BV1fs411i7bF"
+		"difficulty":1,
+		"audio":"https://music.163.com/#/song?id=720340"
 	},
 	"th07_09":{
 		"title":"幽霊楽団　～ Phantom Ensemble",
@@ -356,7 +356,7 @@
 		"keywords":["広有射怪鳥事","广有射怪鸟事","魂魄妖梦"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=GjwuXRksxGw"
 	},
 	"th07_12":{
@@ -372,7 +372,7 @@
 		"keywords":["アルティメットトゥルース","Ultimate Truth","究极的真实","ultimate truth","魂魄妖梦"],
 		"arrange":"青汁",
 		"transcribe":"Wiilly",
-		"difficulty":"?",
+		"difficulty":6,
 		"audio":"https://music.163.com/#/song?id=849159"
 	},
 	"th07_13":{
@@ -388,7 +388,7 @@
 		"keywords":["ボーダーオブライフ","Border of Life","西行寺幽幽子"],
 		"arrange":"marasy",
 		"transcribe":"InterpretMedia",
-		"difficulty":"?",
+		"difficulty":6,
 		"audio":"https://music.163.com/#/song?id=29457255"
 	},
 	"th07_15":{
@@ -396,7 +396,7 @@
 		"keywords":["妖々跋扈","妖妖跋扈"],
 		"arrange":"BZ.esmun",
 		"transcribe":"",
-		"difficulty":6,
+		"difficulty":"?",
 		"audio":"https://www.youtube.com/watch?v=0wOb2JFx5Q0"
 	},
 	"th07_16":{
@@ -404,7 +404,7 @@
 		"keywords":["マヨヒガの夜","少女幻葬","迷途之家的夜晚","八云蓝"],
 		"arrange":"senpi",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=K6mfDJh5Vx0"
 	},
 	"th07_18":{
@@ -436,7 +436,7 @@
 		"keywords":["東方萃夢想","东方萃梦想"],
 		"arrange":"すめらぎ紫蓮",
 		"transcribe":"Huy Nguyen",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://music.163.com/#/song?id=849739"
 	},
 	"TFM-001b_23":{
@@ -485,7 +485,7 @@
 		"arrange":"A'",
 		"transcribe":"Midori Yakumo",
 		"difficulty":3,
-		"audio":"https://www.bilibili.com/video/BV1tV411y7HT"
+		"audio":"https://music.163.com/#/song?id=720325"
 	},
 	"th08_02_2":{
 		"title":"幻視の夜 ～ Ghostly Eyes",
@@ -522,10 +522,10 @@
 	"th08_05":{
 		"title":"もう歌しか聞こえない",
 		"keywords":["もう歌しか聞こえない","已经只能听见歌声了","米斯蒂娅"],
-		"arrange":"BZ.esmun",
+		"arrange":"黑披风",
 		"transcribe":"",
-		"difficulty":6,
-		"audio":"https://www.youtube.com/watch?v=PB1Uq91WNj4"
+		"difficulty":3,
+		"audio":""
 	},
 	"th08_06":{
 		"title":"懐かしき東方の血　～ Old World",
@@ -548,7 +548,7 @@
 		"keywords":["永夜の報い","永夜的报应"],
 		"arrange":"kituneyuu",
 		"transcribe":"",
-		"difficulty":"?",
+		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=TCVhDitQ3Uo"
 	},
 	"th08_09":{
@@ -700,7 +700,7 @@
 		"keywords":["今昔幻想郷","今昔幻想乡","风见幽香"],
 		"arrange":"mino",
 		"transcribe":"Kijiriki",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=XLwpOR4hLHs"
 	},
 	"th09_14":{
@@ -716,7 +716,7 @@
 		"keywords":["六十年","四季映姬"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV12x41157FW"
 	},
 	"th09_18":{
@@ -748,7 +748,7 @@
 		"keywords":["厄神様の通り道","Dark Road","dark road","厄神降临之路","键山雏"],
 		"arrange":"ヒョギフ",
 		"transcribe":"Kijiriki",
-		"difficulty":2,
+		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1Ls411D7XK?p=2"
 	},
 	"th10_05":{
@@ -756,7 +756,7 @@
 		"keywords":["運命のダークサイド","命运的黑暗面","命运的阴暗面","dark side","键山雏"],
 		"arrange":"senka",
 		"transcribe":"",
-		"difficulty":6,
+		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=rVS2nrHiZUQ"
 	},
 	"th10_06":{
