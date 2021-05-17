@@ -153,7 +153,7 @@
 	},
 	"th06_05_2":{
 		"title":"チルノのパーフェクトさんすう教室（IOSYS）",
-		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺","完美算数教室"],
+		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺","完美算数教室","チルノのパーフェクトさんすう教室"],
 		"arrange":"marasy",
 		"transcribe":"Epretroll",
 		"difficulty":"?",
@@ -166,6 +166,14 @@
 		"transcribe":"Kijiriki",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=D8tYauLKqWs"
+	},
+	"th06_05_4":{
+		"title":"Tear of Girl（原曲：おてんば恋娘）",
+		"keywords":["おてんば恋娘","活泼的纯情小姑娘","Tear of Girl","tear of girl","琪露诺","チルノのすうがく教室"],
+		"arrange":"玖原イヅナ",
+		"transcribe":"UnknownEX1",
+		"difficulty":2,
+		"audio":"https://www.bilibili.com/video/BV1Wx411A737"
 	},
 	"th06_06":{
 		"title":"上海紅茶館　～ Chinese Tea",
