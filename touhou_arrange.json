@@ -825,7 +825,7 @@
 	},
 	"th105_03":{
 		"title":"地の色は黄色",
-		"keywords":["地の色は黄色","地之色乃黄色","博丽灵梦"],
+		"keywords":["地の色は黄色","地之色乃黄色"],
 		"arrange":"kituneyuu",
 		"transcribe":"",
 		"difficulty":5,
@@ -887,14 +887,6 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=mAmoNMTJQKA"
 	},
-	"th11_09":{
-		"title":"少女さとり ～ 3rd eye",
-		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
-		"arrange":"iruka",
-		"transcribe":"",
-		"difficulty":5,
-		"audio":"https://www.bilibili.com/video/BV1Gx411i7iN"
-	},
 	"th11_09_2":{
 		"title":"ピアノ独奏「少女さとり」",
 		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
@@ -903,7 +895,7 @@
 		"difficulty":"?",
 		"audio":"http://rebaro.jp/arr.htm"
 	},
-	"th11_09_3":{
+	"th11_09":{
 		"title":"少女さとり ～ 3rd eye",
 		"keywords":["少女さとり","3rd eye","少女觉","古明地觉"],
 		"arrange":"海老福",
@@ -940,7 +932,7 @@
 		"keywords":["業火マントル","业火地幔","灵乌路空"],
 		"arrange":"ミドリ虫",
 		"transcribe":"黑披风",
-		"difficulty":3,
+		"difficulty":2,
 		"audio":"https://www.nicovideo.jp/watch/nm22157870"
 	},
 	"th11_13":{
