@@ -103,13 +103,21 @@
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1io4y1d7i9/"
 	},
+	"sh01_17":{
+		"title":"魔女達の舞踏会　～ Magus",
+		"keywords":["魔女達の舞踏会","魔女们的舞踏会","雾雨魔理沙"],
+		"arrange":"雲音ゆこ",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=dv7EPRZjv-U"
+	},
 	"sh01_18":{
 		"title":"二色蓮花蝶　～ Ancients",
 		"keywords":["二色蓮花蝶","二色莲花蝶","博丽灵梦"],
 		"arrange":"iruka",
 		"transcribe":"",
 		"difficulty":4,
-		"audio":"https://www.youtube.com/watch?v=-gnvu3Tk8_k"
+		"audio":""
 	},
 	"sh02_06":{
 		"title":"桜花之恋塚　～ Flower of Japan",
@@ -164,7 +172,7 @@
 		"keywords":["おてんば恋娘","活泼的纯情小姑娘","琪露诺"],
 		"arrange":"海老福",
 		"transcribe":"Kijiriki",
-		"difficulty":4,
+		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=D8tYauLKqWs"
 	},
 	"th06_05_4":{
@@ -775,6 +783,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=YX4-nexuTN4"
 	},
+	"th10_06_2":{
+		"title":"神々が恋した幻想郷",
+		"keywords":["神々が恋した幻想郷","众神眷恋","神恋","河城荷取"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=RcZDeTi-VDw"
+	},
 	"th10_08":{
 		"title":"フォールオブフォール　～ 秋めく滝",
 		"keywords":["フォールオブフォール","Fall of Fall","秋天的瀑布","犬走椛"],
@@ -798,6 +814,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=Pn-2ayiUecU"
+	},
+	"th10_14":{
+		"title":"明日ハレの日、ケの昨日",
+		"keywords":["明日ハレの日","明日之盛","洩矢诹访子"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=HFL8jd2VJvM"
 	},
 	"th10_15":{
 		"title":"ネイティブフェイス (Native Faith)",
@@ -974,6 +998,14 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
+	},
+	"th128_08":{
+		"title":"メイガスナイト（Magus Night）",
+		"keywords":["メイガスナイト","Magus Night","magus night","雾雨魔理沙"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=hFKT3teRGjo"
 	},
 	"th15_03":{
 		"title":"兎は舞い降りた",
