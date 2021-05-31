@@ -948,7 +948,7 @@
 		"keywords":["死体旅行","尸体旅行","火焰猫燐"],
 		"arrange":"海老福",
 		"transcribe":"",
-		"difficulty":3,
+		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=-aVdSbc9zb0"
 	},
 	"th11_12":{
@@ -1087,6 +1087,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=pZEwb0Im6k4"
 	},
+	"th18_02":{
+		"title":"妖異達の通り雨",
+		"keywords":["妖異達の通り雨","妖异们的骤雨"],
+		"arrange":"Atrufulgium",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.bilibili.com/video/BV1jy4y1t7zt"
+	},
 	"th18_03":{
 		"title":"大吉キトゥン",
 		"keywords":["大吉キトゥン","大吉猫咪","豪德寺三花"],
@@ -1095,6 +1103,22 @@
 		"difficulty":5,
 		"audio":"https://www.bilibili.com/video/BV1j54y1h7jz"
 	},
+	"th18_03_2":{
+		"title":"大吉キトゥン",
+		"keywords":["大吉キトゥン","大吉猫咪","豪德寺三花"],
+		"arrange":"黑披风",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.bilibili.com/video/BV1eg411377S/"
+	},
+	"th18_04":{
+		"title":"深緑に隠された断崖",
+		"keywords":["深緑に隠された断崖","深绿掩映的断崖","山城高岭"],
+		"arrange":"黑披风",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.bilibili.com/video/BV1N5411g7WN/"
+	},
 	"th18_06":{
 		"title":"駒草咲くパーペチュアルスノー",
 		"keywords":["駒草咲","驹草盛开的万年积雪","驹草山如"],
@@ -1102,6 +1126,30 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=-bpNqNvJaAA"
+	},
+	"th18_07":{
+		"title":"スモーキングドラゴン",
+		"keywords":["スモーキングドラゴン","smoking dragon","Smoking Dragon","驹草山如"],
+		"arrange":"2分の1 東方piano",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.bilibili.com/video/BV1WZ4y1F7hf"
+	},
+	"th18_08":{
+		"title":"廃れゆく産業遺構",
+		"keywords":["廃れゆく産業遺構","产业遗构","工业遗址"],
+		"arrange":"LMCyinsk_0mO",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.bilibili.com/video/BV1yA411371F"
+	},
+	"th18_09":{
+		"title":"神代鉱石",
+		"keywords":["神代鉱石","神代矿石","玉造魅须丸"],
+		"arrange":"junwen971",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=Qk51bk0sg-o"
 	},
 	"th18_10":{
 		"title":"待ちわびた逢魔が時",
@@ -1118,6 +1166,22 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=eU_xFKoQweI"
+	},
+	"th18_13":{
+		"title":"あの賑やかな市場は今どこに　〜 Immemorial Marketeers",
+		"keywords":["あの賑やかな市場は今どこに","Immemorial Marketeers","immemorial marketeers","熙攘市场今何在","天弓千亦"],
+		"arrange":"ぽてかめこ",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=srHyproLrKs"
+	},
+	"th18_15":{
+		"title":"龍王殺しのプリンセス",
+		"keywords":["龍王殺しのプリンセス","灭杀龙王的公主","姬虫百百世"],
+		"arrange":"だだっこぱんだ",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=dKI9EH7W9aI"
 	},
 	"hr01_01":{
 		"title":"蓬莱伝説",
