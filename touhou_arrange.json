@@ -23,6 +23,14 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=bpEXWk8SAx4"
 	},
+	"th03_03":{
+		"title":"東方妖恋談",
+		"keywords":["東方妖恋談","东方妖恋谈","博丽灵梦"],
+		"arrange":"Jun Moai",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=LkqDkU_8QTU"
+	},
 	"th03_04":{
 		"title":"Reincarnation",
 		"keywords":["Reincarnation","reincarnation","魅魔"],
@@ -38,6 +46,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.bilibili.com/video/BV1Gx411i7Zg"
+	},
+	"th03_24":{
+		"title":"Phantasmagoria",
+		"keywords":["Phantasmagoria","phantasmagoria"],
+		"arrange":"kituneyuu",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=RtBcXqZ7bCo"
 	},
 	"th04_07":{
 		"title":"Bad Apple!!（原版）",
@@ -95,13 +111,53 @@
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1K54y1e7C1"
 	},
+	"th05_12":{
+		"title":"The Last Judgement",
+		"keywords":["The Last Judgement","the last judgement","梦子"],
+		"arrange":"Lacren Monoto",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=-2PAgFfzkTM"
+	},
+	"th05_14":{
+		"title":"世界の果て　～ World's End",
+		"keywords":["世界の果て","世界的尽头","神绮"],
+		"arrange":"Lacren Monoto",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=5SItZWT6NRc"
+	},
+	"th05_15":{
+		"title":"神話幻想　～ Infinite Being",
+		"keywords":["神話幻想","Infinite Being","神话幻想","神绮"],
+		"arrange":"DO",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=m-EnujLRxgg"
+	},
 	"th05_16":{
 		"title":"不思議の国のアリス",
-		"keywords":["不思議の国のアリス","不可思议之国的爱丽丝","不思议之国的爱丽丝","Alice in Wonderland"],
+		"keywords":["不思議の国のアリス","不可思议之国的爱丽丝","不思议之国的爱丽丝","Alice in Wonderland","玛格特洛伊德"],
 		"arrange":"rikuto",
 		"transcribe":"Quellatalo",
 		"difficulty":2,
 		"audio":"https://www.bilibili.com/video/BV1io4y1d7i9/"
+	},
+	"th05_17":{
+		"title":"The Grimoire of Alice",
+		"keywords":["The Grimoire of Alice","the grimoire of alice","玛格特洛伊德"],
+		"arrange":"iruka",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=HnRfaRcbNhI"
+	},
+	"th05_22":{
+		"title":"Peaceful Romancer",
+		"keywords":["Peaceful Romancer","peaceful romancer"],
+		"arrange":"DO",
+		"transcribe":"",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=BvJk-040HRA"
 	},
 	"sh01_17":{
 		"title":"魔女達の舞踏会　～ Magus",
@@ -806,6 +862,14 @@
 		"transcribe":"Alfetite",
 		"difficulty":4,
 		"audio":"https://music.163.com/#/song?id=29932636"
+	},
+	"th10_10":{
+		"title":"少女が見た日本の原風景",
+		"keywords":["少女が見た日本の原風景","日本原风景","东风谷早苗"],
+		"arrange":"akikiki",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=8K-UHSQHEy4"
 	},
 	"th10_11":{
 		"title":"信仰は儚き人間の為に",
