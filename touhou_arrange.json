@@ -994,18 +994,26 @@
 	"th11_10":{
 		"title":"廃獄ララバイ",
 		"keywords":["廃獄ララバイ","废狱摇篮曲","火焰猫燐"],
-		"arrange":"朧月輝月",
-		"transcribe":"",
-		"difficulty":2,
-		"audio":"https://www.youtube.com/watch?v=WZf1OacFi40"
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":3,
+		"audio":"https://www.youtube.com/watch?v=k2fhhMOB_eM"
 	},
 	"th11_10_2":{
-		"title":"廃獄のカンパネラ",
-		"keywords":["廃獄のカンパネラ","废狱摇篮曲","废狱的钟"],
+		"title":"廃獄のカンパネラ（廃獄ララバイ + La Campanella）",
+		"keywords":["廃獄のカンパネラ","廃獄ララバイ","废狱摇篮曲","废狱的钟"],
 		"arrange":"nori",
 		"transcribe":"",
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=csXvQorLktA"
+	},
+	"th11_10_3":{
+		"title":"One Night Hell Screen（原曲：廃獄ララバイ）",
+		"keywords":["廃獄ララバイ","废狱摇篮曲","One Night Hell Screen"],
+		"arrange":"柚木",
+		"transcribe":"Mark Andrews",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=T75iD_KlUlA"
 	},
 	"th11_11":{
 		"title":"死体旅行　～ Be of good cheer!",
@@ -1238,6 +1246,14 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=srHyproLrKs"
+	},
+	"th18_14":{
+		"title":"幻想の地下大線路網",
+		"keywords":["幻想の地下大線路網","大线路网","菅牧典"],
+		"arrange":"LMCyinsk_0mO",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.bilibili.com/video/BV1Nf4y1a7ie"
 	},
 	"th18_15":{
 		"title":"龍王殺しのプリンセス",
