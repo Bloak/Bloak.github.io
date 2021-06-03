@@ -1127,6 +1127,14 @@
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=BCkY8vUigAg"
 	},
+	"TFM-009b_14":{
+		"title":"今宵は飄逸なエゴイスト　～ Egoistic Flowers.",
+		"keywords":["今宵","依神"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=TFsva-b8piI"
+	},
 	"th16_13":{
 		"title":"秘匿されたフォーシーズンズ",
 		"keywords":["秘匿されたフォーシーズンズ","被秘匿的四个季节","摩多罗隐岐奈"],
@@ -1191,6 +1199,14 @@
 		"difficulty":4,
 		"audio":"https://www.bilibili.com/video/BV1N5411g7WN/"
 	},
+	"th18_05":{
+		"title":"バンデットリィテクノロジー（Banditry Technology）",
+		"keywords":["バンデットリィテクノロジー","Banditry Technology","banditry technology","山城高岭"],
+		"arrange":"chronondecay",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://musescore.com/user/29625/scores/6799692"
+	},
 	"th18_06":{
 		"title":"駒草咲くパーペチュアルスノー",
 		"keywords":["駒草咲","驹草盛开的万年积雪","驹草山如"],
@@ -1238,6 +1254,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=eU_xFKoQweI"
+	},
+	"th18_12":{
+		"title":"ルナレインボー（Lunar Rainbow）",
+		"keywords":["ルナレインボー","Lunar Rainbow","lunar rainbow","菅牧典"],
+		"arrange":"chronondecay",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://musescore.com/user/29625/scores/6799692"
 	},
 	"th18_13":{
 		"title":"あの賑やかな市場は今どこに　〜 Immemorial Marketeers",
