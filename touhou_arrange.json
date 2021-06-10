@@ -26,10 +26,10 @@
 	"th03_03":{
 		"title":"東方妖恋談",
 		"keywords":["東方妖恋談","东方妖恋谈","博丽灵梦"],
-		"arrange":"Jun Moai",
-		"transcribe":"",
-		"difficulty":3,
-		"audio":"https://www.youtube.com/watch?v=LkqDkU_8QTU"
+		"arrange":"廿秒",
+		"transcribe":"Kijiriki",
+		"difficulty":2,
+		"audio":"https://www.bilibili.com/video/BV1SV411e7jH"
 	},
 	"th03_04":{
 		"title":"Reincarnation",
@@ -903,6 +903,22 @@
 		"difficulty":2,
 		"audio":"https://thwiki.cc/绯想天（曲目）"
 	},
+	"TFM-003O_06":{
+		"title":"香る樹葉花",
+		"keywords":["香る樹葉花","树叶花"],
+		"arrange":"朧月輝月",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=jiemH21hQNI"
+	},
+	"TFM-003O_07":{
+		"title":"踊る水飛沫",
+		"keywords":["踊る水飛沫","水飞沫"],
+		"arrange":"crescentia",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=pb4d7YRmBdQ"
+	},
 	"TFM-003O_13":{
 		"title":"黒い海に紅く　～ Legendary Fish",
 		"keywords":["黒い海に紅く","黑海中的绯红","永江衣玖"],
@@ -1095,6 +1111,30 @@
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
 	},
+	"TFM-004_01":{
+		"title":"君はあの影を見たか",
+		"keywords":["君はあの影を見たか","你见到那个影子了吗"],
+		"arrange":"匿名",
+		"transcribe":"UNOwen",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=cr438_jvsdw"
+	},
+	"TFM-004_17":{
+		"title":"悠久の蒸気機関",
+		"keywords":["悠久の蒸気機関","蒸汽机关"],
+		"arrange":"akikiki",
+		"transcribe":"",
+		"difficulty":3,
+		"audio":"https://www.nicovideo.jp/watch/sm8088624"
+	},
+	"th125_05":{
+		"title":"無間の鐘　～ Infinite Nightmare",
+		"keywords":["無間の鐘","无间之钟"],
+		"arrange":"ChaiR",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.nicovideo.jp/watch/sm18229354"
+	},
 	"th128_08":{
 		"title":"メイガスナイト（Magus Night）",
 		"keywords":["メイガスナイト","Magus Night","magus night","雾雨魔理沙"],
@@ -1102,6 +1142,14 @@
 		"transcribe":"Alfetite",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=hFKT3teRGjo"
+	},
+	"th13_08":{
+		"title":"デザイアドライブ（Desire Drive）",
+		"keywords":["デザイアドライブ","Desire Drive","desire drive","欲望加速","霍青娥"],
+		"arrange":"海老福",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=Q-yJHBqaBfs"
 	},
 	"TFM-006a_16":{
 		"title":"亡失のエモーション",
