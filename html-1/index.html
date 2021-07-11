@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Unity WebGL Player | 火车车的铁轨轨</title>
+  </head>
+  <body style="text-align: center">
+    <canvas id="unity-canvas" style="width: 900px; height: 1600px; background: #231F20"></canvas>
+    <script src="Build/html.loader.js"></script>
+    <script>
+      createUnityInstance(document.querySelector("#unity-canvas"), {
+        dataUrl: "Build/html.data.br",
+        frameworkUrl: "Build/html.framework.js.br",
+        codeUrl: "Build/html.wasm.br",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Muki",
+        productName: "火车车的铁轨轨",
+        productVersion: "1.0.1",
+      });
+    </script>
+  </body>
+</html>
