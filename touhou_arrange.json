@@ -255,6 +255,14 @@
 		"difficulty":6,
 		"audio":"https://www.bilibili.com/video/BV1it411k71N"
 	},
+	"th06_07_2":{
+		"title":"明治十七年の上海アリス",
+		"keywords":["明治十七年の上海アリス","明治十七年的上海爱丽丝","红美铃"],
+		"arrange":"senka",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=yFRnGCtRX_k"
+	},
 	"th06_08":{
 		"title":"ヴワル魔法図書館",
 		"keywords":["図書館","图书馆","小恶魔"],
@@ -478,6 +486,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=K6mfDJh5Vx0"
+	},
+	"th07_16_2":{
+		"title":"少女幻葬 ~ Necro Fantasy",
+		"keywords":["少女幻葬","八云蓝"],
+		"arrange":"海老福",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=E94TrgVmLws"
 	},
 	"th07_18":{
 		"title":"ネクロファンタジア（Necro-Fantasia）",
@@ -815,6 +831,14 @@
 		"difficulty":3,
 		"audio":"https://www.youtube.com/watch?v=U6ATjjAAwlQ"
 	},
+	"th095_05":{
+		"title":"風神少女～long.ver",
+		"keywords":["風神少女","射命丸文"],
+		"arrange":"iruka",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.nicovideo.jp/watch/sm10037019"
+	},
 	"th10_04":{
 		"title":"厄神様の通り道　～ Dark Road",
 		"keywords":["厄神様の通り道","Dark Road","dark road","厄神降临之路","键山雏"],
@@ -1126,6 +1150,14 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=PpyuvGXUPGs"
+	},
+	"th12_15":{
+		"title":"平安のエイリアン",
+		"keywords":["平安のエイリアン","平安时代的外星人","heian alien","Heian Alien","封兽鵺"],
+		"arrange":"iruka",
+		"transcribe":"",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=SnrUdJk0Tjw"
 	},
 	"TFM-004_01":{
 		"title":"君はあの影を見たか",
