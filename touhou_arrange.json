@@ -1279,7 +1279,31 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=BvZpukyeZC0"
 	},
+	"th13_10":{
+		"title":"夢殿大祀廟",
+		"keywords":["夢殿大祀廟","梦殿大祀庙","苏我屠自古"],
+		"arrange":"マックの人",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=9waWwfOi6r0"
+	},
+	"th13_11":{
+		"title":"大神神話伝",
+		"keywords":["大神神話伝","大神神话传","物部布都"],
+		"arrange":"マックの人",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.nicovideo.jp/watch/sm15345310"
+	},
 	"th13_12":{
+		"title":"小さな欲望の星空",
+		"keywords":["小さな欲望の星空","小小欲望的星空"],
+		"arrange":"JLam",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=13J3s3Sd9W4"
+	},
+	"th13_13":{
 		"title":"聖徳伝説 ～ True Administrator",
 		"keywords":["聖徳伝説","圣德传说","丰聪耳神子"],
 		"arrange":"マックの人",
