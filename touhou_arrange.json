@@ -1039,6 +1039,22 @@
 		"difficulty":6,
 		"audio":"https://www.youtube.com/watch?v=f7Dt2cPqhKE"
 	},
+	"th11_06":{
+		"title":"旧地獄街道を行く",
+		"keywords":["旧地獄街道","旧地狱街道","星熊勇仪"],
+		"arrange":"へにゃ",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.nicovideo.jp/watch/nm3534201"
+	},
+	"th11_07":{
+		"title":"華のさかづき大江山",
+		"keywords":["大江山","星熊勇仪"],
+		"arrange":"へにゃ",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.nicovideo.jp/watch/sm3492159"
+	},
 	"th11_08":{
 		"title":"ハートフェルトファンシー（Heartfelt Fancy）",
 		"keywords":["ハートフェルトファンシー","Heartfelt Fancy","heartfelt fancy","古明地觉"],
@@ -1130,10 +1146,10 @@
 	"th11_14":{
 		"title":"ラストリモート（Last Remote）",
 		"keywords":["ラストリモート","Last Remote","last remote","古明地恋"],
-		"arrange":"iruka",
+		"arrange":"へにゃ",
 		"transcribe":"",
 		"difficulty":6,
-		"audio":"https://www.youtube.com/watch?v=xpaf5F-qdLA"
+		"audio":"https://www.nicovideo.jp/watch/nm4348172"
 	},
 	"th11_15":{
 		"title":"ハルトマンの妖怪少女",
@@ -1207,6 +1223,46 @@
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=hFKT3teRGjo"
 	},
+	"th13_02":{
+		"title":"死霊の夜桜",
+		"keywords":["死霊の夜桜","死灵的夜樱","西行寺幽幽子"],
+		"arrange":"marasy",
+		"transcribe":"Alfetite",
+		"difficulty":2,
+		"audio":"https://www.youtube.com/watch?v=DCX20gdMlK4"
+	},
+	"th13_03":{
+		"title":"Silence（原曲：Ghost Lead）",
+		"keywords":["Ghost Lead","Silence","西行寺幽幽子"],
+		"arrange":"Yuy",
+		"transcribe":"Quellatalo",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=czTPTQDZlm0"
+	},
+	"th13_05":{
+		"title":"門前の妖怪小娘",
+		"keywords":["妖怪小娘","幽谷响子"],
+		"arrange":"JLam",
+		"transcribe":"",
+		"difficulty":1,
+		"audio":"https://www.youtube.com/watch?v=IRSIRwD08DI"
+	},
+	"th13_06":{
+		"title":"素敵な墓場で暮しましょ",
+		"keywords":["素敵な墓場で暮しましょ","在美妙的墓地里住下吧","宫古芳香"],
+		"arrange":"UnknownEX1",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=LzNmszXpHv8"
+	},
+	"th13_07":{
+		"title":"リジッドパラダイス",
+		"keywords":["リジッドパラダイス","Rigid Paradise","rigid paradise","宫古芳香"],
+		"arrange":"かむ",
+		"transcribe":"",
+		"difficulty":2,
+		"audio":"https://www.nicovideo.jp/watch/sm15484398"
+	},
 	"th13_08":{
 		"title":"デザイアドライブ（Desire Drive）",
 		"keywords":["デザイアドライブ","Desire Drive","desire drive","欲望加速","霍青娥"],
@@ -1214,6 +1270,22 @@
 		"transcribe":"",
 		"difficulty":5,
 		"audio":"https://www.youtube.com/watch?v=Q-yJHBqaBfs"
+	},
+	"th13_09":{
+		"title":"古きユアンシェン（古老的元神）",
+		"keywords":["古きユアンシェン","古老的元神","霍青娥"],
+		"arrange":"setsugen",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.youtube.com/watch?v=BvZpukyeZC0"
+	},
+	"th13_12":{
+		"title":"聖徳伝説 ～ True Administrator",
+		"keywords":["聖徳伝説","圣德传说","丰聪耳神子"],
+		"arrange":"マックの人",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.nicovideo.jp/watch/sm15339313"
 	},
 	"TFM-006a_16":{
 		"title":"亡失のエモーション",
