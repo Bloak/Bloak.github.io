@@ -1311,6 +1311,14 @@
 		"difficulty":6,
 		"audio":"https://www.nicovideo.jp/watch/sm15339313"
 	},
+	"th13_14":{
+		"title":"妖怪裏参道",
+		"keywords":["妖怪裏参道","后院的妖怪参拜道"],
+		"arrange":"マックの人",
+		"transcribe":"Kijiriki",
+		"difficulty":4,
+		"audio":"https://www.youtube.com/watch?v=UvHXQsYIuZU"
+	},
 	"TFM-006a_16":{
 		"title":"亡失のエモーション",
 		"keywords":["亡失のエモーション","亡失的情感","秦心"],
@@ -1326,6 +1334,14 @@
 		"transcribe":"",
 		"difficulty":3,
 		"audio":"https://www.nicovideo.jp/watch/sm23407074"
+	},
+	"th14_13":{
+		"title":"輝く針の小人族",
+		"keywords":["小人族","少名针妙丸"],
+		"arrange":"マックの人",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.nicovideo.jp/watch/sm21576753"
 	},
 	"th15_03":{
 		"title":"兎は舞い降りた",
@@ -1558,6 +1574,14 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=vkRDmOjPAog"
+	},
+	"hr02_11":{
+		"title":"幻想の永遠祭",
+		"keywords":["幻想の永遠祭","幻想的永远祭"],
+		"arrange":"マックの人",
+		"transcribe":"",
+		"difficulty":6,
+		"audio":"https://www.nicovideo.jp/watch/sm17403511"
 	},
 	"hr03_01":{
 		"title":"童祭　～ Innocent Treasures",
