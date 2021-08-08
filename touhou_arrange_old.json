@@ -527,6 +527,22 @@
 		"difficulty":2,
 		"audio":"https://www.youtube.com/watch?v=ryYbnxk183I"
 	},
+	"TFM-001b_10":{
+		"title":"ヴワル魔法図書館（东方萃梦想版本）",
+		"keywords":["図書館","图书馆","小恶魔"],
+		"arrange":"akikiki",
+		"transcribe":"",
+		"difficulty":5,
+		"audio":"https://www.youtube.com/watch?v=NP7OmNpZ_Ac"
+	},
+	"TFM-001b_14":{
+		"title":"Demystify Feast",
+		"keywords":["Demystify Feast","demystify feast"],
+		"arrange":"iruka",
+		"transcribe":"",
+		"difficulty":"?",
+		"audio":"https://www.youtube.com/watch?v=lPB88JLLS88"
+	},
 	"TFM-001b_17":{
 		"title":"東方萃夢想",
 		"keywords":["東方萃夢想","东方萃梦想"],
@@ -1646,14 +1662,6 @@
 		"transcribe":"",
 		"difficulty":4,
 		"audio":"https://www.youtube.com/watch?v=mwBEOxxMxTk"
-	},
-	"TFM-001b_14":{
-		"title":"Demystify Feast",
-		"keywords":["Demystify Feast","demystify feast"],
-		"arrange":"iruka",
-		"transcribe":"",
-		"difficulty":"?",
-		"audio":"https://www.youtube.com/watch?v=lPB88JLLS88"
 	},
 	"hr05_08":{
 		"title":"大空魔術　～ Magical Astronomy",
