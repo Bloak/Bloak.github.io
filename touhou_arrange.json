@@ -522,6 +522,33 @@
 		"difficulty": 6,
 		"audio": "https://www.youtube.com/watch?v=983vYSgm350"
 	},
+	"th06_13_2": {
+		"title": "亡き王女の為のセプテット",
+		"keywords": [
+			"亡き王女の為のセプテット",
+			"七重奏",
+			"蕾米莉亚",
+		],
+		"arrange": "いんぷれ",
+		"transcribe": "",
+		"difficulty": "?",
+		"audio": "https://www.nicovideo.jp/watch/sm10784106"
+	},
+	"th06_13_3": {
+		"title": "紅魔最終楽章独奏（原曲：亡き王女の為のセプテット）",
+		"keywords": [
+			"亡き王女の為のセプテット",
+			"七重奏",
+			"紅魔最終楽章独奏",
+			"红魔最终乐章独奏",
+			"蕾米莉亚",
+			"6★"
+		],
+		"arrange": "海老福",
+		"transcribe": "",
+		"difficulty": 6,
+		"audio": "https://www.youtube.com/watch?v=vAX902tSXkg"
+	},
 	"th06_14": {
 		"title": "魔法少女達の百年祭",
 		"keywords": [
