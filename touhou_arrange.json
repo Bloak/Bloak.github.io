@@ -427,7 +427,7 @@
 			"红美铃",
 			"6★"
 		],
-		"arrange": "inpure",
+		"arrange": "いんぷれ",
 		"transcribe": "",
 		"difficulty": 6,
 		"audio": "https://www.bilibili.com/video/BV1it411k71N"
@@ -465,7 +465,7 @@
 			"帕秋莉",
 			"4★"
 		],
-		"arrange": "inpure",
+		"arrange": "いんぷれ",
 		"transcribe": "Kijiriki",
 		"difficulty": 4,
 		"audio": "https://www.bilibili.com/video/BV1Rb4y1X7BK"
@@ -881,6 +881,18 @@
 		"transcribe": "",
 		"difficulty": 2,
 		"audio": "https://www.youtube.com/watch?v=ryYbnxk183I"
+	},
+	"TFM-001b_01_2": {
+		"title": "萃夢想",
+		"keywords": [
+			"萃夢想",
+			"萃梦想",
+			"3★"
+		],
+		"arrange": "akikiki",
+		"transcribe": "",
+		"difficulty": 3,
+		"audio": "https://www.nicovideo.jp/watch/sm20327098"
 	},
 	"TFM-001b_17": {
 		"title": "東方萃夢想",
@@ -2043,6 +2055,19 @@
 		"difficulty": 2,
 		"audio": "https://www.youtube.com/watch?v=DCX20gdMlK4"
 	},
+	"th13_02_2": {
+		"title": "死霊の夜桜",
+		"keywords": [
+			"死霊の夜桜",
+			"死灵的夜樱",
+			"西行寺幽幽子",
+			"2★"
+		],
+		"arrange": "ScubDomino",
+		"transcribe": "",
+		"difficulty": 2,
+		"audio": "https://www.youtube.com/watch?v=Ik6NtQxEIhY"
+	},
 	"th13_03": {
 		"title": "Silence（原曲：Ghost Lead）",
 		"keywords": [
@@ -2599,7 +2624,7 @@
 			"魅魔",
 			"?★"
 		],
-		"arrange": "inpure",
+		"arrange": "いんぷれ",
 		"transcribe": "",
 		"difficulty": "?",
 		"audio": "https://www.nicovideo.jp/watch/sm16432792"
