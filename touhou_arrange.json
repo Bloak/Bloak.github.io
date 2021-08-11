@@ -1979,6 +1979,68 @@
 		"difficulty": 4,
 		"audio": "https://www.youtube.com/watch?v=W03DiWAbgtc"
 	},
+	"th12_02": {
+		"title": "春の湊に",
+		"keywords": [
+			"春の湊に",
+			"春之岸边",
+			"6★"
+		],
+		"arrange": "akikiki",
+		"transcribe": "",
+		"difficulty": 6,
+		"audio": "https://www.bilibili.com/video/BV1ds411o7RP"
+	},
+	"th12_03": {
+		"title": "小さな小さな賢将",
+		"keywords": [
+			"小さな小さな賢将",
+			"小小的贤将",
+			"娜兹玲",
+			"3★"
+		],
+		"arrange": "雲音ゆこ",
+		"transcribe": "",
+		"difficulty": 3,
+		"audio": "https://www.youtube.com/watch?v=0bigS535rl8"
+	},
+	"th12_10": {
+		"title": "魔界地方都市エソテリア",
+		"keywords": [
+			"魔界地方都市エソテリア",
+			"魔界地方都市秘境",
+			"寅丸星",
+			"4★"
+		],
+		"arrange": "senka",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "https://www.youtube.com/watch?v=3PtfNRQoWFY"
+	},
+	"th12_11": {
+		"title": "虎柄の毘沙門天",
+		"keywords": [
+			"虎柄",
+			"寅丸星",
+			"5★"
+		],
+		"arrange": "senka",
+		"transcribe": "",
+		"difficulty": 5,
+		"audio": "https://www.youtube.com/watch?v=5PfP6LOzfSI"
+	},
+	"th12_12": {
+		"title": "法界の火",
+		"keywords": [
+			"法界の火",
+			"法界之火",
+			"4★"
+		],
+		"arrange": "akikiki",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "https://www.nicovideo.jp/watch/sm9093688"
+	},
 	"th12_13": {
 		"title": "感情の摩天楼　～ Cosmic Mind",
 		"keywords": [
