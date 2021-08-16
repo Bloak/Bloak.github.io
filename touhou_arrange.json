@@ -914,11 +914,11 @@
 		"keywords": [
 			"萃夢想",
 			"萃梦想",
-			"3★"
+			"4★"
 		],
 		"arrange": "akikiki",
 		"transcribe": "",
-		"difficulty": 3,
+		"difficulty": 4,
 		"audio": "https://www.nicovideo.jp/watch/sm20327098"
 	},
 	"TFM-001b_17": {
@@ -944,6 +944,18 @@
 		"transcribe": "",
 		"difficulty": 3,
 		"audio": "https://www.youtube.com/watch?v=skCWECSGQps"
+	},
+	"TFM-001b_23_2": {
+		"title": "東方萃夢想（Arrange）",
+		"keywords": [
+			"東方萃夢想",
+			"东方萃梦想",
+			"5★"
+		],
+		"arrange": "akikiki",
+		"transcribe": "",
+		"difficulty": 5,
+		"audio": "https://www.bilibili.com/video/BV1Z54y1L7HW"
 	},
 	"TFM-003A_11": {
 		"title": "砕月（东方绯想天版本）",
@@ -2299,7 +2311,7 @@
 		"arrange": "マックの人",
 		"transcribe": "",
 		"difficulty": 6,
-		"audio": "https://www.nicovideo.jp/watch/sm15339313"
+		"audio": "https://www.nicovideo.jp/watch/sm15564373"
 	},
 	"th13_14": {
 		"title": "妖怪裏参道",
