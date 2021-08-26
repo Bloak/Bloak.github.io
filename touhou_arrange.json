@@ -2900,14 +2900,23 @@
 		"keywords": [
 			"少女秘封倶楽部",
 			"少女秘封俱乐部",
-			"宇佐见莲子",
-			"玛艾露贝莉",
 			"5★"
 		],
 		"arrange": "akikiki",
 		"transcribe": "",
 		"difficulty": 5,
 		"audio": "https://www.nicovideo.jp/watch/sm17144366"
+	},
+	"hr02_06": {
+		"title": "魔术师梅莉",
+		"keywords": [
+			"梅莉",
+			"4★"
+		],
+		"arrange": "ヤヤネ",
+		"transcribe": "yuiru",
+		"difficulty": 4,
+		"audio": "https://musescore.com/httpssheet_hostuserkaneo/scores/46567"
 	},
 	"hr02_11": {
 		"title": "幻想の永遠祭",
