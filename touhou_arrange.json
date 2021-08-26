@@ -589,6 +589,20 @@
 		"difficulty": 5,
 		"audio": "https://www.bilibili.com/video/BV1g5411K7xq"
 	},
+	"th06_15_2": {
+		"title": "最终鬼畜妹（原曲：U.N.オーエンは彼女なのか？）",
+		"keywords": [
+			"最终鬼畜妹",
+			"U.N",
+			"UN",
+			"芙兰朵露",
+			"4★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "http://tomoya1060moon.gozaru.jp"
+	},
 	"th06_17": {
 		"title": "紅楼　～ Eastern Dream...",
 		"keywords": [
@@ -668,6 +682,21 @@
 		"transcribe": "",
 		"difficulty": 2,
 		"audio": "https://www.youtube.com/watch?v=B_D7ZMyDmCQ"
+	},
+	"th07_05_2": {
+		"title": "マタタビと仔猫とお昼寝と（原曲：凋叶棕）",
+		"keywords": [
+			"マタタビと仔猫とお昼寝と",
+			"ティアオイエツォン",
+			"凋叶棕",
+			"Withered Leaf",
+			"橙",
+			"3★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 3,
+		"audio": "http://tomoya1060moon.gozaru.jp"
 	},
 	"th07_06": {
 		"title": "ブクレシュティの人形師",
@@ -2902,9 +2931,9 @@
 			"6★"
 		],
 		"arrange": "marasy",
-		"transcribe": "kituki",
+		"transcribe": "朧月輝月",
 		"difficulty": 6,
-		"audio": "https://www.youtube.com/watch?v=WD-QfOXdVEQ"
+		"audio": "http://kituki.kachoufuugetu.net/dem.html"
 	},
 	"hr05_08": {
 		"title": "大空魔術　～ Magical Astronomy",
