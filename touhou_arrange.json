@@ -629,6 +629,21 @@
 		"difficulty": 2,
 		"audio": "https://www.bilibili.com/video/BV1u54y1h7S5"
 	},
+	"th07_01": {
+		"title": "雪踊る桜の下で（原曲：妖々夢　～ Snow or Cherry Petal）",
+		"keywords": [
+			"雪踊る桜の下で",
+			"Snow or Cherry Petal",
+			"snow or cherry petal",
+			"妖々夢",
+			"妖妖梦",
+			"4★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "http://tomoya1060moon.gozaru.jp"
+	},
 	"th07_02": {
 		"title": "無何有の郷　～ Deep Mountain",
 		"keywords": [
@@ -710,6 +725,19 @@
 		"transcribe": "",
 		"difficulty": 4,
 		"audio": "https://www.youtube.com/watch?v=cY-7tf7HP70"
+	},
+	"th07_06_2": {
+		"title": "ブクレシュティの人形師",
+		"keywords": [
+			"ブクレシュティの人形師",
+			"布加勒斯特",
+			"玛格特洛伊德",
+			"4★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "http://tomoya1060moon.gozaru.jp"
 	},
 	"th07_07": {
 		"title": "人形裁判　～ 人の形弄びし少女",
@@ -805,6 +833,19 @@
 		"transcribe": "",
 		"difficulty": 3,
 		"audio": "https://www.youtube.com/watch?v=GjwuXRksxGw"
+	},
+	"th07_11_3": {
+		"title": "広有射怪鳥事 ～ Till When?",
+		"keywords": [
+			"広有射怪鳥事",
+			"广有射怪鸟事",
+			"魂魄妖梦",
+			"6★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 6,
+		"audio": "https://www.bilibili.com/video/BV1bs411o7H4?p=3"
 	},
 	"th07_12": {
 		"title": "アルティメットトゥルース（Ultimate Truth）",
@@ -1098,6 +1139,20 @@
 		"difficulty": 2,
 		"audio": "https://www.youtube.com/watch?v=8WUtpUaI05g"
 	},
+	"th08_03_2": {
+		"title": "蠢々秋月　～ Mooned Insect",
+		"keywords": [
+			"蠢々秋月",
+			"蠢蠢秋月",
+			"蠢蠢的秋月",
+			"莉格露",
+			"2★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 2,
+		"audio": "http://tomoya1060moon.gozaru.jp"
+	},
 	"th08_04": {
 		"title": "夜雀の歌声　～ Night Bird",
 		"keywords": [
@@ -1264,7 +1319,7 @@
 		"arrange": "青汁",
 		"transcribe": "",
 		"difficulty": 5,
-		"audio": "https://www.youtube.com/watch?v=MCHmfcgvr24"
+		"audio": "https://www.bilibili.com/video/BV1bs411o7H4?p=7"
 	},
 	"th08_13": {
 		"title": "ヴォヤージュ1969",
@@ -1315,6 +1370,21 @@
 		"transcribe": "",
 		"difficulty": 6,
 		"audio": "https://www.bilibili.com/video/BV1Sh41197b3"
+	},
+	"th08_15_2": {
+		"title": "竹取飛翔　～ Lunatic Princess",
+		"keywords": [
+			"竹取飛翔",
+			"竹取飞翔",
+			"Lunatic Princess",
+			"lunatic princess",
+			"蓬莱山辉夜",
+			"6★"
+		],
+		"arrange": "青汁",
+		"transcribe": "",
+		"difficulty": 6,
+		"audio": "https://www.bilibili.com/video/BV1cs411d7Ez"
 	},
 	"th08_13b": {
 		"title": "ヴォヤージュ1970",
@@ -1599,6 +1669,19 @@
 		"transcribe": "Kijiriki",
 		"difficulty": 4,
 		"audio": "https://www.youtube.com/watch?v=FjHFWUgEO7A"
+	},
+	"th10_07_2": {
+		"title": "芥川龍之介の河童　～ Candid Friend",
+		"keywords": [
+			"芥川龍之介の河童",
+			"芥川龙之介的河童",
+			"河城荷取",
+			"4★"
+		],
+		"arrange": "朋夜",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "https://www.youtube.com/watch?v=fZg3VrsnB0U"
 	},
 	"th10_08": {
 		"title": "フォールオブフォール　～ 秋めく滝",
