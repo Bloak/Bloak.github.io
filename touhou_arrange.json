@@ -732,11 +732,11 @@
 			"ブクレシュティの人形師",
 			"布加勒斯特",
 			"玛格特洛伊德",
-			"4★"
+			"3★"
 		],
 		"arrange": "朋夜",
 		"transcribe": "",
-		"difficulty": 4,
+		"difficulty": 3,
 		"audio": "http://tomoya1060moon.gozaru.jp"
 	},
 	"th07_07": {
@@ -890,6 +890,20 @@
 		"transcribe": "Quellatalo",
 		"difficulty": 5,
 		"audio": "https://www.youtube.com/watch?v=fJZFOrkSk_M"
+	},
+	"th07_13_2": {
+		"title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
+		"keywords": [
+			"幽雅に咲かせ、墨染の桜",
+			"幽雅地绽放吧，墨染的樱花",
+			"墨染樱",
+			"西行寺幽幽子",
+			"4★"
+		],
+		"arrange": "海老福",
+		"transcribe": "",
+		"difficulty": 4,
+		"audio": "https://www.youtube.com/watch?v=3vzMafoOFns"
 	},
 	"th07_14": {
 		"title": "ボーダーオブライフ（Border of Life）",
@@ -1688,11 +1702,11 @@
 			"芥川龍之介の河童",
 			"芥川龙之介的河童",
 			"河城荷取",
-			"4★"
+			"3★"
 		],
 		"arrange": "朋夜",
 		"transcribe": "",
-		"difficulty": 4,
+		"difficulty": 3,
 		"audio": "https://www.youtube.com/watch?v=fZg3VrsnB0U"
 	},
 	"th10_08": {
