@@ -1,0 +1,92 @@
+{
+	"hr01": {
+		"title": "蓬莱人形",
+		"title_en": "Dolls in Pseudo Paradise",
+		"type": "Music CD"
+	},
+	"th06": {
+		"title": "紅魔郷",
+		"title_en": "the Embodiment of Scarlet Devil",
+		"type": "Windows game"
+	},
+	"th07": {
+		"title": "妖々夢",
+		"title_en": "Perfect Cherry Blossom",
+		"type": "Windows game"
+	},
+	"th08": {
+		"title": "永夜抄",
+		"title_en": "Imperishable Night",
+		"type": "Windows game"
+	},
+	"th09": {
+		"title": "花映塚",
+		"title_en": "Phantasmagoria of Flower View",
+		"type": "Windows game"
+	},
+	"th10": {
+		"title": "風神録",
+		"title_en": "Mountain of Faith",
+		"type": "Windows game"
+	},
+	"th11": {
+		"title": "地霊殿",
+		"title_en": "Subterranean Animism",
+		"type": "Windows game"
+	},
+	"th12": {
+		"title": "星蓮船",
+		"title_en": "Undefined Fantastic Object",
+		"type": "Windows game"
+	},
+	"th13": {
+		"title": "神霊廟",
+		"title_en": "Ten Desires",
+		"type": "Windows game"
+	},
+	"th14": {
+		"title": "輝針城",
+		"title_en": "Double Dealing Character",
+		"type": "Windows game"
+	},
+	"th15": {
+		"title": "紺珠伝",
+		"title_en": "Legacy of Lunatic Kingdom",
+		"type": "Windows game"
+	},
+	"th16": {
+		"title": "天空璋",
+		"title_en": "Hidden Star in Four Seasons",
+		"type": "Windows game"
+	},
+	"th17": {
+		"title": "鬼形獣",
+		"title_en": "Wily Beast and Weakest Creature",
+		"type": "Windows game"
+	},
+	"th18": {
+		"title": "虹龍洞",
+		"title_en": "Unconnected Marketeers",
+		"type": "Windows game"
+	},
+	"th075": {
+		"title": "萃夢想",
+		"title_en": "Immaterial and Missing Power",
+		"type": "spin-off"
+	},
+	"th095": {
+		"title": "文花帖",
+		"title_en": "Shoot the Bullet",
+		"type": "spin-off"
+	},
+	"th105": {
+		"title": "緋想天",
+		"title_en": "Scarlet Weather Rhapsody",
+		"type": "spin-off"
+	},
+	"th123": {
+		"title": "非想天則",
+		"title_en": "Hisoutensoku",
+		"type": "spin-off"
+	}
+}

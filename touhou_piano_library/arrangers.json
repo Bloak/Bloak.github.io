@@ -1,0 +1,334 @@
+{
+	"Bloak":{
+		"website": [
+			{"title": "bilibili", "url":"https://space.bilibili.com/320007886"},
+			{"title": "youtube", "url":"https://www.youtube.com/channel/UC3h9TaEt2AVNdLRdb6bOFbQ"}
+		],
+		"comment": "The site owner. I started making arrangements just after knowing Touhou, and without any musical knowledge, so don't take them seriously (lol). The works displayed here are my own favorites, but still not comparable to those from other great artists. To view my other works (as well as piano performances), visit my bilibili channel and check the video lists."
+	},
+	"青汁":{
+		"alt_name": "aojiru",
+		"website": [
+			{"title": "白と黒の夢郷", "url":"http://aoz.sakura.ne.jp"}
+		],
+		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv12062963"
+	},
+	"朋夜":{
+		"alt_name": "tomoya",
+		"website": [
+			{"title": "光と闇の協奏曲", "url":"http://tomoya1060moon.gozaru.jp"},
+			{"title": "Buried Christ", "url":"http://buried-christ.sakura.ne.jp"},
+			{"title": "youtube", "url":"https://www.youtube.com/user/tomoya1060moon"}
+		],
+		"comment": "The website 【光と闇の協奏曲】 contains all the audio files. However, there is no direct url to individual files, so I won't link them in the performance section."
+	},
+	"弘世":{
+		"alt_name": "hiroyo",
+		"website": [
+			{"title": "アルトノイラント", "url":"https://altneuland.net"}
+		]
+	},
+	"BZ.esmun":{
+		"website": [
+			{"title": "youtube", "url":"https://www.youtube.com/channel/UCXkNIr3jnC24FHjz-RKv-Ogt"}
+		],
+		"comment": "The artist's most remarkable works are the Touhou Etudes, arranged from PCB and IN themes. Etudes, or studies, generally involve specific technical difficulties. However, be cautious here since it's possible the technical difficulties you may encounter are: \n1. copied directly from the original music, not suitable for piano; \n2. ineffective for developing your techniques through practice (or maybe they can harm you); \n3. artificially created at the cost of musicality; \n4. unproven if any human can play them well. \nConsidering the complexity of most IN themes, I treat BZ's arrangements as the ultimate effect for performance, although they have the problems I listed above. Most live performances omit certain voices or move them octaves higher or lower, which is totally fine, since every pianist has their limits. It is rare and delighting to find an arrangement that is faithful to the original in an artistic way. \nRegarding PCB themes, I think the etudes are unnecessarily complicated, so they are not listed here. In fact, the same logic applies to the IN arrangements as well -- I feel like they are overkill, but I couldn't find a nice and easier version as a substitute."
+	},
+	"まらしぃ":{
+		"alt_name": "marasy8",
+		"website": [
+			{"title": "まらしぃ", "url":"http://www.marasy8.com"},
+			{"title": "niconico", "url":"https://www.nicovideo.jp/user/2765486/mylist/8208046"},
+			{"title": "youtube", "url":"https://www.youtube.com/channel/UCcvLSRIWJIAGFDyWtzkbiHA"},
+			{"title": "bilibili", "url":"https://space.bilibili.com/489391680"}
+		]
+	},
+	"らん":{
+		"alt_name": "lent",
+		"website": [
+			{"title": "Eurystomus", "url":"https://eurystomus.jimdofree.com"},
+			{"title": "youtube", "url":"https://www.youtube.com/user/Lentarde"}
+		]
+	},
+	"しらは":{
+		"alt_name": "Shiraha",
+		"website": [
+			{"title": "Shiraha Archive", "url":"http://shiraha.secret.jp"},
+			{"title": "Shiraha.Zip", "url":"http://www.scn.or.tv/syzip/"}
+		]
+	},
+	"海老福":{
+		"alt_name": "abfuku",
+		"website": [
+			{"title": "海老福落雷電解研究所", "url":"http://abab.mydns.jp"},
+			{"title": "youtube", "url":"https://www.youtube.com/user/abfuku77"},
+			{"title": "niconico", "url":"https://www.nicovideo.jp/user/579765/mylist/3503235"}
+		],
+		"comment": "The artist stated that he recorded his performances as MIDI and did some manipulation on it, and the sheet music were made afterwards (see http://abfuku.asuscomm.com/pic/abmemo.txt). His scores are quite messy at first glance, but I believe you'll adapt to it after playing for a while. The pedal markings are bugged, just ignore them."
+	},
+	"chiquchoo":{
+		"website": [
+			{"title": "Presence∝fTVA HP", "url": "http://p-ftva.liblo.jp"},
+			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"},
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCXUXfVLh0nxLD2VUxdZykJQ"},
+			{"title": "fantia", "url": "https://fantia.jp/fanclubs/1377"}
+		],
+		"comment": "The old site contains analysis and performance guide for each piece."
+	},
+	"Denko":{
+		"website": [
+			{"title": "Presence∝fTVA HP", "url": "http://p-ftva.liblo.jp"},
+			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"}
+		],
+		"comment": "The old site contains analysis and performance guide for each piece."
+	},
+	"あかみ":{
+		"alt_name": "Akami",
+		"website": [
+			{"title": "Harmonie Chromatique", "url": "http://h-chromatique.info"},
+			{"title": "二次創作楽譜", "url": "http://www.amanogawa.to/moe/arrangescore.html"}
+		]
+	},
+	"ようか":{
+		"alt_name": "Yohka",
+		"website": [
+			{"title": "雪の足跡", "url": "http://h-chromatique.info"}
+		],
+		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv5929648"
+	},
+	"A'":{
+		"alt_name": "A-dash",
+		"website": [],
+		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv3321068"
+	},
+	"ローズレッド":{
+		"alt_name": "rose red",
+		"website": [
+			{"title": "いんぷれ。", "url": "http://inpure.web.fc2.com/"}
+		],
+		"comment": "Also known as Ibrand."
+	},
+	"ヒッシー":{
+		"alt_name": "hechoya",
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/20409/mylist/22270420"}
+		]
+	},
+	"ミドリ虫":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/11693387/mylist/39051309"}
+		]
+	},
+	"setsugen":{
+		"website": [
+			{"title": "setsugen - R18 Sheet Music", "url": "http://www.setsugen.net/sheet_music/sheet_music.html"}
+		]
+	},
+	"kituneyuu":{
+		"website": [
+			{"title": "楽譜", "url": "https://ux.getuploader.com/kituneyu/index/date/desc/1"}
+		],
+		"comment": "The artist's niconico account was deleted. Still, you can go to one of their videos and click 'next' or 'previous,' which will take you through the entire list."
+	},
+	"akikiki":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/282461/mylist/2550172"}
+		]
+	},
+	"へにゃ":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/171948/mylist/1885230"}
+		]
+	},
+	"Mitty":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/27350237/mylist/37620061"}
+		],
+		"comment": "The artist has been inactive on twitter since 2020. A youtube comment in 2021 said he has already died (https://www.youtube.com/watch?v=qIz1PgpDKnw). \nThe website,  http://mystic9th.com/ , has expired, and no sheet music was retrieved. The web archive saved his homepage (with little information) and two other sub-pages, one for his arrangements and another for his analysis of touhou OST and CDs. Check out https://web.archive.org/web/20170711192609/http://mystic9th.com:80/touhou.htm and https://web.archive.org/web/20170331204818/http://mystic9th.com:80/touhou_analyses.htm"
+	},
+	"マックの人":{
+		"alt_name": "tonyumuso",
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/4875421/mylist/22504365"},
+			{"title": "youtube", "url": "https://www.youtube.com/user/tonyumuso"},
+			{"title": "人間用楽譜置き場", "url": "https://sound.jp/tounyumuso/ningen.html#"}
+		]
+	},
+	"ありおと":{
+		"alt_name": "Alioth",
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/901372/mylist/7068980"}
+		]
+	},
+	"天門":{
+		"alt_name": "Tenmon",
+		"website": [
+			{"title": "電奏楽団", "url": "http://tenmon2009.blog37.fc2.com"}
+		]
+	},
+	"葉月悠":{
+		"website": [
+			{"title": "Re.baro'", "url": "http://rebaro.jp"}
+		]
+	},
+	"Happle":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCUabmPaDp9Ivwd_uv-0E0pA"}
+		]
+	},
+	"すめらぎ紫蓮":{
+		"alt_name": "Shiren",
+		"website": [
+			{"title": "TAMUSIC", "url": "http://tamusic.jp"}
+		]
+	},
+	"TAM":{
+		"website": [
+			{"title": "TAMUSIC", "url": "http://tamusic.jp"}
+		]
+	},
+	"SHI":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCt8DvwNc9BwVmhFqqUabRoQ"}
+		],
+		"comment": "The artist's youtube channel still exists but all touhou related contents were deleted or hidden. Seaside (SHI's circle) website http://www.seaside-musix.net/ is also down (you can visit its webarchive page but there's no mp3). The only source I have is kkcwkoh's videos and Quellatalo's transcriptions."
+	},
+	"柊秀雪":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/hiragishusetsu"},
+			{"title": "As/Hi Soundworks", "url": "http://ashisoundworks.com"}
+		],
+		"comment": "Pianist and arranger. His early works were partially transcribed by Quellatalo but otherwise obscure. It seems that As/Hi Soundworks had an old site which displayed sheet music but it was taken down for unknown reasons. He has been publishing performance videos on youtube recently, sometimes with score snippets. You could ask for sheet music in the video comments and he might share it."
+	},
+	"Midori Yakumo":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCHsl_tM-GqaLIiWAi3_mHaQ"}
+		],
+		"comment": "A mysterious transcriber who appears in the comment section of touhou music videos and casually drops a transcription."
+	},
+	"Tetoteto":{
+		"website": [
+			{"title": "幻影音楽堂", "url": "https://sound.jp/neontetra_feel/frame.htm"}
+		]
+	},
+	"senka":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/oldsenka"}
+		]
+	},
+	"ジャム":{
+		"alt_name": "Jam",
+		"website": [
+			{"title": "音の瓶詰", "url": "http://otonobindume.web.fc2.com"},
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCPMSojDncvMELPbPGF1xAkQ"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/6753454"}
+		]
+	},
+	"ポンジョウ":{
+		"alt_name": "Ponjoh",
+		"website": [
+			{"title": "website", "url": "https://ponjoh.jimdofree.com"},
+			{"title": "youtube", "url": "https://www.youtube.com/watch?v=FEDmjNTx9BY"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/27433806/mylist/55126772"}
+		]
+	},
+	"nori":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/norimusic"}
+		]
+	},
+	"TKDL":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/TKDLa"}
+		]
+	},
+	"Wiilly":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/Wiilly"}
+		]
+	},
+	"pukupukuss":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCSN1m-YeH_8SLtW0hJH0n2w"}
+		]
+	},
+	"Akt":{
+		"website": [],
+		"comment": "The archive page of Everfades: https://web.archive.org/web/20050304082116/http://webclub.kcom.ne.jp:80/mc/akt/"
+	},
+	"Frioniel":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/2399966"}
+		]
+	},
+	"喜欢弹琴的秦心酱":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/475040596"}
+		]
+	},
+	"Rummsbatte":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/user/Rummsbatte"}
+		]
+	},
+	"ちっぷ":{
+		"alt_name": "Chip",
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/1880458"}
+		]
+	},
+	"Drabtastic":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/DrabtasticLife"}
+		]
+	},
+	"柳本顕":{
+		"alt_name": "willow",
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/3447736"},
+			{"title": "youtube", "url": "https://www.youtube.com/user/willow870620"},
+			{"title": "yanagi", "url": "http://yanagi.x0.com"}
+		]
+	},
+	"2分の1":{
+		"alt_name": "1/2",
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCwmTAV78z6Y055YLMkJdhTw"}
+		]
+	},
+	"かしわ丸餅":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/21346265/mylist/54085589"}
+		]
+	},
+	"Alfetite":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCL4Z1IeOdiWVUkC1tvpfVlg"},
+			{"title": "楽譜一覧（東方）", "url": "https://alfetite.com/sheet-music/touhou"}
+		],
+		"comment": "A transcriber of marasy's works."
+	},
+	"Xsy":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCjAdzB20rekIl5uY0PYXUYg"}
+		]
+	},
+	"nari":{
+		"website": [
+			{"title": "社会人でもゆっくりしたい", "url": "http://yukkurinary.blog63.fc2.com"}
+		]
+	},
+	"earthvision":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/user/earthvision"}
+		]
+	},
+	"rev3rsor":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/rev3rsor"}
+		]
+	}
+}
+
+
+
