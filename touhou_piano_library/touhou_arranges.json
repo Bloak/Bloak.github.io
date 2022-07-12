@@ -55,6 +55,18 @@
 		"type": "arrange",
 		"difficulty": "2"
 	},
+	"th06_02_2":{
+		"title": null,
+		"original": "th06_02",
+		"arranger": "Yoshi Kirishima",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=zl6Ot4xjHBo"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "From video description: \nArranged to try to include as many voices from the original as possible. Some measures may be too hard to play. Remove parts/voices as you wish."
+	},
 	"th06_03_2":{
 		"title": null,
 		"original": "th06_03",
@@ -110,6 +122,17 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th06_09_2":{
+		"title": null,
+		"original": "th06_09",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HnNPs-Wx3EI"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th06_10":{
 		"title": null,
@@ -225,7 +248,7 @@
 		"performance": [
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1vh411k7Zx"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2"
 	},
 	"th07_03":{
@@ -237,7 +260,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm24668092"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th07_04_4":{
@@ -251,7 +274,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=ETdl3O65Hj8"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "5"
 	},
 	"th07_05_2":{
@@ -275,7 +298,7 @@
 		"performance": [
 			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=60r013jZ-x8"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "3"
 	},
 	"th07_07":{
@@ -287,7 +310,7 @@
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=cTto6GmRPeI"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th07_08_3":{
@@ -424,7 +447,7 @@
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=khmjXA1Ye2o"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "This pdf was made by Kijiriki. Eeduca's score was deleted (though their video is still there).\nThis arrangement combines Yuyuko's two themes \"Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life\" and \"Border of Life.\" The first theme alone is around difficulty level 3."
 	},
@@ -458,7 +481,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1v64y1y7gu"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "1"
 	},
 	"th07_20_2":{
@@ -469,7 +492,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=EXo5VgfPR08"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4"
 	},
 	"th08_01":{
@@ -481,7 +504,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=dUDRs59-IZU"},
 			{"performer": "BZ.esmun", "link": "https://www.youtube.com/watch?v=5NQIiX60gMQ"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4",
 		"comment": "Much harder than it looks. I failed to bring out the melody even when I split the octaves into two hands.\nWatch the live performance on how to play the large arpeggios. Not the only solution but it works."
 	},
@@ -493,7 +516,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=B2US0ANwQQE"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "A small correction to the melody in measures 41-44 would be nice.\nThis is probably the most difficult theme to play for piano solo, given so many voices to handle. It would still be difficult if arranged for a duet."
 	},
@@ -506,7 +529,7 @@
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV16g411u7DV"},
 			{"performer": null, "link": "https://youtu.be/u7rRdphwXeA"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "3",
 		"comment": "Maybe the fingerings and colors are redundant..."
 	},
@@ -518,7 +541,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=z1oQsVANDKA"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "5",
 		"comment": "I made the pdf based on BZ's video.\nNote that the B part (measure 9-24) and the C part (measure 25-32) both have a 3-voice texture, with middle voice split between two hands. The left hand part of the middle voice is not explicitly written in some measures (for example 12-13) so don't forget to emphasize them.\nThe D part (starting at measure 33) has a furious left hand pattern, which is the main difficulty of this arrangement. It may seem unnecessary but I feel the regular eighth note accompaniment sounds empty after listening to this version.\nThe A' part (last page) has some additional notes compared to the A part, but the difference can hardly be heard. I prefer 柊秀雪's method: move the notes higher (actually the same as the original midi) and assign them to the left hand (with hand crossing). See https://www.youtube.com/watch?v=EkxE3hb4UE0"
 	},
@@ -571,7 +594,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=b3TCN071m0U"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "A Plain Asia arrangement that's not solely focused on the right hand?\nIt's interesting that the left hand line at the beginning is a molody that acts as a bass at the same time, similar to Phantom Ensemble. It is usually difficult to play, but here it's a blessing compared to other IN themes where the left hand has to take care of both the melody and bass while the right hand is running in the higher registers."
 	},
@@ -583,7 +606,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=OF4tXIeFmOE"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_09":{
@@ -597,7 +620,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=sCCrcNQ18zU"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_10_3":{
@@ -608,7 +631,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=4pEsyKnOjlc"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_11_2":{
@@ -619,7 +642,7 @@
 		"performance": [
 			{"performer": "2分の1", "link": "https://www.youtube.com/watch?v=AsJEvuKK4Bc"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "Another voicing hell, besides \"Song of the Night Sparrow\"."
 	},
@@ -658,7 +681,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=r1-if9klPWE"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_13_2":{
@@ -669,7 +692,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=7ijXvbMzARM"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_13b_2":{
@@ -694,7 +717,7 @@
 		"performance": [
 			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=xzQrGYVSYwk"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th08_15_2":{
@@ -719,7 +742,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=ozwZy6RomPM"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "The most etude-like piece in the whole collection."
 	},
@@ -731,7 +754,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=xcM1cxfI6fU"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "This one is like those crazy etudes where you have to play everything with left hand alone."
 	},
@@ -743,7 +766,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=hV-9hJ89B1U"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?",
 		"comment": "I examined the original midi and did found the part where the main melody meets the rushing 16th notes. It's hard to capture just by listening, similar to the beginning of \"Voyage 1969.\" I never saw a piano cover of this theme that included this specific part."
 	},
@@ -796,7 +819,7 @@
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4",
 		"comment": "This pdf was made by Kijiriki. Eeduca's score was deleted (though their video is still there)."
 	},
@@ -823,7 +846,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=vvL4qzSnL3M"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4"
 	},
 	"th10_09_2":{
@@ -851,7 +874,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV14k4y117Nj?t=1761"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "3"
 	},
 	"th10_15_2":{
@@ -863,7 +886,7 @@
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=ZZslQ5zabx4"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th11_04_2":{
@@ -874,7 +897,7 @@
 		"performance": [
 			{"performer": "BZ.esmun", "link": "https://www.youtube.com/watch?v=2Y4036oh0jU"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4"
 	},
 	"th12_05":{
@@ -885,7 +908,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "1"
 	},
 	"th13_05_2":{
@@ -924,7 +947,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=AH9FlkANH9c"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "3"
 	},
 	"th14_02":{
@@ -935,7 +958,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm25825848"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2"
 	},
 	"th15_04":{
@@ -947,7 +970,7 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm28080003"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=VJE2zXPSZUM"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "?"
 	},
 	"th15_05":{
@@ -959,7 +982,7 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26871072"},
 			{"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=BOHb-d2rpNs"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2",
 		"comment": "Right hand finger exercise?"
 	},
@@ -971,7 +994,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26925263"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2",
 		"comment": "It's quite common for transcription-type works (played by midi) to fade out, as it is for original themes, but it's usually better to add a proper cadence. Here, however, the artist explicitly wrote F.O. at the end of the score, instructing the player to execute the effect manually. Maybe they wanted to suit the title? I have no idea how to play a fade out, but I decided to not include this part in the difficulty rating. \nBy the way, the Japanese words in pages 2 & 3 simply mean \"do-re-mi.\""
 	},
@@ -983,7 +1006,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1N5411g7WN"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4"
 	},
 	"TFM-001b_01_3":{
@@ -995,7 +1018,7 @@
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1af4y1F7AS"},
 			{"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1KM4y1A7xk"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2"
 	},
 	"TFM-001b_19":{
@@ -1022,7 +1045,7 @@
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1Uh411H7DP"},
 			{"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1EP4y1V75z"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "1"
 	},
 	"TFM-003A_08":{
@@ -1033,7 +1056,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV17F411x7L7"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "4"
 	},
 	"TFM-004_15":{
@@ -1044,7 +1067,7 @@
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1pQ4y1972R"}
 		],
-		"type": "transcribe",
+		"type": "transcription",
 		"difficulty": "2",
 		"comment": "The only difficulty is the repeated notes at the beginning. To simplify, combine the second pair of 16th notes into one 8th note."
 	}
