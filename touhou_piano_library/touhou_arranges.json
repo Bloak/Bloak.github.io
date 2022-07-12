@@ -13,6 +13,32 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+	"th05_06_2":{
+		"title": null,
+		"original": "th05_06",
+		"arranger": "アマツミカボシ",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=MXavfDiOgcU"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "This is a piano duet."
+	},
+	"th05_16_2":{
+		"title": null,
+		"original": "th05_16",
+		"arranger": "アマツミカボシ",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=LSpxN1v81l0"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "This is a piano duet."
+	},
 	"th06_02":{
 		"title": null,
 		"original": "th06_02",
