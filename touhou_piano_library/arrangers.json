@@ -64,7 +64,7 @@
 			{"title": "youtube", "url":"https://www.youtube.com/user/abfuku77"},
 			{"title": "niconico", "url":"https://www.nicovideo.jp/user/579765/mylist/3503235"}
 		],
-		"comment": "The artist stated that he recorded his performances as MIDI and did some manipulation on it, and the sheet music were made afterwards (see http://abfuku.asuscomm.com/pic/abmemo.txt). His scores are quite messy at first glance, but I believe you'll adapt to it after playing for a while. The pedal markings are bugged, just ignore them."
+		"comment": "The artist stated that he recorded his performances as MIDI and did some manipulation on it, and the sheet music were made afterwards (see http://abfuku.asuscomm.com/pic/abmemo.txt). I have to say his sheets are quite messy... \nSome notes on practice/performance: \n1. Notice the two-part right hand texture. Be sure to distinguish the melody from the accompaniment by playing it louder. The audios didn't demonstrate this enough. \n2. All arrangements are loops, just like the original game music, so you will need to add a proper cadence yourself."
 	},
 	"chiquchoo":{
 		"website": [
@@ -133,7 +133,8 @@
 	"akikiki":{
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/282461/mylist/2550172"}
-		]
+		],
+		"comment": "The artist's works were later played by Alioth and included in Assaultdoor's albums. However, I couldn't find any audio from the CDs, so I'll just provide the links to the original score-videos from niconico and omit the \"circle\" and \"album\" entries."
 	},
 	"へにゃ":{
 		"website": [
@@ -168,7 +169,8 @@
 	},
 	"葉月悠":{
 		"website": [
-			{"title": "Re.baro'", "url": "http://rebaro.jp"}
+			{"title": "Re.baro'", "url": "http://rebaro.jp"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/274613/mylist/11905486"}
 		]
 	},
 	"Happle":{
@@ -194,11 +196,12 @@
 		"comment": "The artist's youtube channel still exists but all touhou related contents were deleted or hidden. Seaside (SHI's circle) website http://www.seaside-musix.net/ is also down (you can visit its webarchive page but there's no mp3). The only source I have is kkcwkoh's videos and Quellatalo's transcriptions."
 	},
 	"柊秀雪":{
+		"alt_name": "Hiragi Shusetsu",
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/c/hiragishusetsu"},
 			{"title": "As/Hi Soundworks", "url": "http://ashisoundworks.com"}
 		],
-		"comment": "Pianist and arranger. His early works were partially transcribed by Quellatalo but otherwise obscure. It seems that As/Hi Soundworks had an old site which displayed sheet music but it was taken down for unknown reasons. He has been publishing performance videos on youtube recently, sometimes with score snippets. You could ask for sheet music in the video comments and he might share it."
+		"comment": "It seems that As/Hi Soundworks had an old site which displayed sheet music but it was taken down for unknown reasons. He has been publishing performance videos on youtube recently, sometimes with score snippets. You could ask for sheet music in the video comments and he might share it."
 	},
 	"Midori Yakumo":{
 		"website": [
@@ -230,11 +233,13 @@
 			{"title": "website", "url": "https://ponjoh.jimdofree.com"},
 			{"title": "youtube", "url": "https://www.youtube.com/watch?v=FEDmjNTx9BY"},
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/27433806/mylist/55126772"}
-		]
+		],
+		"comment": "The artist stated on the website \"一応人間が物理的には弾けそうな感じに作っていますが、どちらかと言えば観賞用です。実際に弾く場合は適当に音を間引かないと難しいかもしれません。\" (Although it is made to look like it can be physically popped by humans, it is rather ornamental. When actually playing, it may be difficult if you do not thin out the sound properly.) I'd suggest you be careful with all kind of midi arrangements for the same reason. It's easy for a program to tweek the volume of each voice but hard for a human to do it."
 	},
 	"nori":{
 		"website": [
-			{"title": "youtube", "url": "https://www.youtube.com/c/norimusic"}
+			{"title": "youtube", "url": "https://www.youtube.com/c/norimusic"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/49661807/mylist/56551386"}
 		]
 	},
 	"TKDL":{
@@ -329,15 +334,39 @@
 		]
 	},
 	"アマツミカボシ":{
+		"alt_name": "hiroki",
 		"website": [
 			{"title": "booth", "url": "https://cincleaf.booth.pm"}
 		],
-		"comment": "Also known as hiroki. \nArtificial Reverie homepage (http://artificialreverie.web.fc2.com) and blog (http://artificialreverie.blog110.fc2.com/) have both been shut down. It seems like the artist changed their name to 串田葉 and started a new circle called Cincleaf. However, its homepage (http://cincleaf.com) was also shut down."
+		"comment": "Artificial Reverie homepage (http://artificialreverie.web.fc2.com) and blog (http://artificialreverie.blog110.fc2.com/) have both been shut down. It seems like the artist changed their name to 串田葉 and started a new circle called Cincleaf. However, its homepage (http://cincleaf.com) was also shut down."
 	},
 	"Yoshi Kirishima":{
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UC1foMBmFBFGOhvUyBqPy5tg"},
 			{"title": "youtube (old)", "url": "https://www.youtube.com/user/Yoshi17th"}
+		]
+	},
+	"Inori Kaze":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/77908642"}
+		]
+	},
+	"GNaugEH":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/35767129"}
+		]
+	},
+	"清水 嶺":{
+		"alt_name": "Rei Shimizu",
+		"website": [
+			{"title": "Unknown - Dimension", "url": "https://unknown-dimension.com"},
+			{"title": "youtube", "url": "https://www.youtube.com/ReishimizuUD"}
+		],
+		"comment": "Unknown Dimension only published one Touhou doujin CD – 紅魔館にピアノなんかあったっけ？ (There Was a Piano in the Scarlet Devil Mansion?), which contains 6 piano arrangements in jazz style. Quellatalo has transcribed all of them. Playlist: https://www.youtube.com/playlist?list=PL5TBIb3nL2DRuol3Zz-Z-FNZOumyCTr_e "
+	},
+	"グラハム":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/9698665"}
 		]
 	}
 }

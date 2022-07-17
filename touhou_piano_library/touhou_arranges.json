@@ -13,6 +13,38 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+	"hr02_11":{
+		"title": "Sonatine in G flat minor",
+		"original": "hr02_11",
+		"circle": "Assaultdoor",
+		"album": "Daydream Tunes",
+		"arranger": "柊秀雪",
+		"transcriber": "Inori Kaze",
+		"pdf": "https://www.bilibili.com/video/BV1gg4y1q76h",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1gg4y1q76h"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV18v411L7MB"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "But it's not in G flat minor?"
+	},
+	"hr05_10":{
+		"title": "ハートグレイズ",
+		"title_en": "Heart Graze",
+		"original": "hr05_10",
+		"circle": "Assaultdoor",
+		"album": "Daydream Tunes",
+		"arranger": "ありおと",
+		"transcriber": "GNaugEH",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=c8vAFckobdg"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1154y1q7Dv"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"th05_06_2":{
 		"title": null,
 		"original": "th05_06",
@@ -82,6 +114,20 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th06_03_3":{
+		"title": "宵闇の前奏曲",
+		"title_en": "Prelude for Rumia",
+		"original": "th06_03",
+		"original_ex": ["th06_02"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm30375661"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The part where two themes overlap (starting from measure 43) is brilliant. You can notice the same group of notes appearing in both staves, from two different themes. Is this the secret of ZUN's composition? I've always been feeling similarities in pairs of stage and boss themes, but couldn't spot exactly where."
 	},
 	"th06_04":{
 		"title": null,
@@ -157,7 +203,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-		"comment": "Inversed moonlight sonata? \nThis piece is quite easy and should be sightreadable, but the score has some weird notations such as writing E♮ as F♭, which makes sightreading a nightmare. (or is it just me?) \nThe right hand in measures 20-34 has a potential for better voice leading, like Chopin's nouvelle etude no.2."
+		"comment": "Inverse moonlight sonata? \nThis piece is quite easy and should be sightreadable, but the score has some weird notations such as writing E♮ as F♭, which makes sightreading a nightmare. (or is it just me?) \nThe right hand in measures 20-34 has a potential for better voice leading, like Chopin's nouvelle etude no.2."
 	},
 	"th06_11":{
 		"title": null,
@@ -183,6 +229,20 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th06_11_3":{
+		"title": "咲夜も何か弾いてみたら？",
+		"title_en": "Why Don't You Try Playing Something, Sakuya?",
+		"original": "th06_11",
+		"circle": "Unknown Dimension",
+		"album": "紅魔館にピアノなんかあったっけ？",
+		"arranger": "清水 嶺",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pV53pVfzCig"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th06_13_3":{
 		"title": "紅魔最終楽章独奏",
@@ -395,6 +455,20 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th07_13":{
+		"title": "【西行妖】 - 幽雅に咲かせ、墨染の桜 -",
+		"original": "th07_13",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=13AacftSioQ"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
 	"th07_13_2":{
 		"title": null,
 		"original": "th07_13",
@@ -493,7 +567,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=EXo5VgfPR08"}
 		],
 		"type": "transcription",
-		"difficulty": "4"
+		"difficulty": "5",
+		"comment": "A voicing etude with a rather simple structure. Maybe useful to try this one before attempting BZ's IN arrangements."
 	},
 	"th08_01":{
 		"title": null,
@@ -633,6 +708,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "?"
+	},
+	"th08_10_4":{
+		"title": null,
+		"original": "th08_10",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=b8AIGUYscYo"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Lyrical version: https://www.nicovideo.jp/watch/sm1619119 "
 	},
 	"th08_11_2":{
 		"title": null,
@@ -814,14 +901,13 @@
 		"title": null,
 		"original": "th10_06",
 		"arranger": "まらしぃ",
-		"transcriber": "Eeduca",
+		"transcriber": "nari",
 		"pdf": "default",
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"}
 		],
 		"type": "transcription",
-		"difficulty": "4",
-		"comment": "This pdf was made by Kijiriki. Eeduca's score was deleted (though their video is still there)."
+		"difficulty": "4"
 	},
 	"th10_07_2":{
 		"title": null,
@@ -834,6 +920,17 @@
 		],
 		"type": "arrange",
 		"difficulty": "2"
+	},
+	"th10_08":{
+		"title": null,
+		"original": "th10_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=tDzBDPGIyNA"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
 	},
 	"th10_09":{
 		"title": null,
@@ -862,6 +959,17 @@
 		],
 		"type": "arrange",
 		"difficulty": "4"
+	},
+	"th10_11_2":{
+		"title": null,
+		"original": "th10_11",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qKJ3ZI26klA"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
 	},
 	"th10_14":{
 		"title": null,
@@ -900,6 +1008,67 @@
 		"type": "transcription",
 		"difficulty": "4"
 	},
+	"th11_08":{
+		"title": null,
+		"original": "th11_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mAmoNMTJQKA"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "The constant shift between F# minor and Gb major really boggles me. Why not use F# major?"
+	},
+	"th11_09_2":{
+		"title": null,
+		"original": "th11_09",
+		"arranger": "葉月悠",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7599185"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=zGBIsgof4BE"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th11_09_3":{
+		"title": null,
+		"original": "th11_09",
+		"arranger": "ありおと",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5172285"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th11_11":{
+		"title": null,
+		"original": "th11_11",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kAv5uyWihcw"},
+			{"performer": "海老福", "link": "https://www.youtube.com/watch?v=-aVdSbc9zb0"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "The instruction under the title means \"Decorative notes are abbreviated, so please make up appropriately - The sound you put in the gap of the original melody is good to play with a weak tone\" (AI translation). \nAbfuku's performance video also includes Satori's theme. Corpse Voyage starts at 2:14."
+	},
+	"th11_13_2":{
+		"title": "核の力を貰う前のおくう",
+		"original": "th11_13",
+		"arranger": "グラハム",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10869587"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "Measures 22-23 looks like a c minor despite only two flats. Measures 24-25 should come back to C major, which the artist didn't notate."
+	},
 	"th12_05":{
 		"title": null,
 		"original": "th12_05",
@@ -922,6 +1091,18 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th13_08":{
+		"title": null,
+		"original": "th13_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Q-yJHBqaBfs"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "The instruction under the title means \"Right-hand chords around bars 33 ~ 40, 73 ~ 88 are appropriate, so play regardless of the score.\" (AI translation). Tbh I'm still comfused. Was he clarifying that the chords were intended and not misprinted? It might be a translation error."
 	},
 	"th13_15":{
 		"title": "第拾壱番勝負“変幻戯画”",
