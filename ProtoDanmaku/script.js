@@ -137,11 +137,11 @@ function drawBombButton(ratio){
     drawFan(new Vector2(230, 40), 20, ratio, "rgba(255,255,255,0.75)");
 }
 
-canvas.addEventListener("mousedown", function(event){
+canvas.addEventListener("pointerdown", function(event){
     mouseDown = true;
 });
 
-canvas.addEventListener("mouseup", function(event){
+canvas.addEventListener("pointerup", function(event){
     if (mouseDown){
         mouseDown = false;
         var rect = canvas.getBoundingClientRect();
@@ -153,7 +153,7 @@ canvas.addEventListener("mouseup", function(event){
     }
 });
 
-canvas.addEventListener("mousemove", function(event){
+canvas.addEventListener("pointermove", function(event){
     if (mouseDown){
         var rect = canvas.getBoundingClientRect();
         var x = event.clientX - rect.left;
@@ -164,33 +164,33 @@ canvas.addEventListener("mousemove", function(event){
     }
 });
 
-canvas.addEventListener("touchstart", function (e) {
-    mousePos = getTouchPos(canvas, e);
-    var touch = e.touches[0];
-    var mouseEvent = new MouseEvent("mousedown", {
-        clientX: touch.clientX,
-        clientY: touch.clientY
-    });
-    canvas.dispatchEvent(mouseEvent);
-}, false);
+// canvas.addEventListener("touchstart", function (e) {
+//     mousePos = getTouchPos(canvas, e);
+//     var touch = e.touches[0];
+//     var mouseEvent = new MouseEvent("mousedown", {
+//         clientX: touch.clientX,
+//         clientY: touch.clientY
+//     });
+//     canvas.dispatchEvent(mouseEvent);
+// }, false);
 
-canvas.addEventListener("touchend", function (e) {
-    var touch = e.touches[0];
-    var mouseEvent = new MouseEvent("mouseup", {
-        clientX: touch.clientX,
-        clientY: touch.clientY
-    });
-    canvas.dispatchEvent(mouseEvent);
-}, false);
+// canvas.addEventListener("touchend", function (e) {
+//     var touch = e.touches[0];
+//     var mouseEvent = new MouseEvent("mouseup", {
+//         clientX: touch.clientX,
+//         clientY: touch.clientY
+//     });
+//     canvas.dispatchEvent(mouseEvent);
+// }, false);
 
-canvas.addEventListener("touchmove", function (e) {
-    var touch = e.touches[0];
-    var mouseEvent = new MouseEvent("mousemove", {
-        clientX: touch.clientX,
-        clientY: touch.clientY
-    });
-    canvas.dispatchEvent(mouseEvent);
-}, false);
+// canvas.addEventListener("touchmove", function (e) {
+//     var touch = e.touches[0];
+//     var mouseEvent = new MouseEvent("mousemove", {
+//         clientX: touch.clientX,
+//         clientY: touch.clientY
+//     });
+//     canvas.dispatchEvent(mouseEvent);
+// }, false);
 
 document.addEventListener("keyup", function(event){
     if (event.key === "z" && inGame){
