@@ -164,24 +164,24 @@ canvas.addEventListener("mousemove", function(event){
     }
 });
 
-// canvas.addEventListener("touchstart", function (e) {
-//     mousePos = getTouchPos(canvas, e);
-//     var touch = e.touches[0];
-//     var mouseEvent = new MouseEvent("mousedown", {
-//         clientX: touch.clientX,
-//         clientY: touch.clientY
-//     });
-//     canvas.dispatchEvent(mouseEvent);
-// }, false);
+canvas.addEventListener("touchstart", function (e) {
+    mousePos = getTouchPos(canvas, e);
+    var touch = e.touches[0];
+    var mouseEvent = new MouseEvent("mousedown", {
+        clientX: touch.clientX,
+        clientY: touch.clientY
+    });
+    canvas.dispatchEvent(mouseEvent);
+}, false);
 
-// canvas.addEventListener("touchend", function (e) {
-//     var touch = e.touches[0];
-//     var mouseEvent = new MouseEvent("mouseup", {
-//         clientX: touch.clientX,
-//         clientY: touch.clientY
-//     });
-//     canvas.dispatchEvent(mouseEvent);
-// }, false);
+canvas.addEventListener("touchend", function (e) {
+    var touch = e.touches[0];
+    var mouseEvent = new MouseEvent("mouseup", {
+        clientX: touch.clientX,
+        clientY: touch.clientY
+    });
+    canvas.dispatchEvent(mouseEvent);
+}, false);
 
 canvas.addEventListener("touchmove", function (e) {
     var touch = e.touches[0];
