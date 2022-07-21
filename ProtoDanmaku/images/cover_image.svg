@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="630"
+   height="500"
+   viewBox="0 0 166.6875 132.29166"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e4, 2022-07-14)"
+   sodipodi:docname="cover_image.svg"
+   inkscape:export-filename="cover_image.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.94547337"
+     inkscape:cx="202.54404"
+     inkscape:cy="242.73555"
+     inkscape:window-width="1332"
+     inkscape:window-height="783"
+     inkscape:window-x="70"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1471">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1467" />
+      <stop
+         style="stop-color:#006aff;stop-opacity:1;"
+         offset="1"
+         id="stop1469" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1471"
+       id="linearGradient1473"
+       x1="5.8567905"
+       y1="26.502544"
+       x2="40.252625"
+       y2="26.502544"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0.09633433,-0.70566996)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="matrix(1.3471976,-0.77780488,0.77780488,1.3471976,18.493982,58.792718)">
+    <rect
+       style="fill:url(#linearGradient1473);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:bevel;stroke-dasharray:none"
+       id="rect960"
+       width="34.395832"
+       height="17.197916"
+       x="5.953125"
+       y="17.859375"
+       inkscape:label="rect960" />
+    <circle
+       style="fill:#006aff;fill-opacity:1;fill-rule:evenodd;stroke:#006aff;stroke-width:1.32292;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path3201"
+       cx="40.348961"
+       cy="26.458334"
+       r="7.9375"
+       inkscape:label="path3201" />
+    <circle
+       style="fill:#f7f7f7;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="path2031"
+       cx="40.348957"
+       cy="26.458334"
+       r="5.2916665" />
+    <circle
+       style="fill:#fff100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.170083"
+       id="path3824"
+       cx="12.756665"
+       cy="-15.03763"
+       transform="rotate(29.999999)"
+       r="3.4016671" />
+    <circle
+       style="fill:#fff100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.170083"
+       id="circle3826"
+       cx="75.359177"
+       cy="2.9515979"
+       transform="rotate(29.999999)"
+       r="3.4016671" />
+    <circle
+       style="fill:#fff100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.170083"
+       id="circle3828"
+       cx="48.195442"
+       cy="-26.011057"
+       transform="rotate(29.999999)"
+       r="3.4016671" />
+    <circle
+       style="fill:#fff100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.170083"
+       id="circle3830"
+       cx="52.872643"
+       cy="35.871883"
+       transform="rotate(29.999999)"
+       r="3.4016671" />
+    <circle
+       style="fill:#fff100;fill-opacity:1;fill-rule:evenodd;stroke-width:0.170083"
+       id="circle3832"
+       cx="13.476233"
+       cy="24.178886"
+       transform="rotate(29.999999)"
+       r="3.4016671" />
+  </g>
+</svg>

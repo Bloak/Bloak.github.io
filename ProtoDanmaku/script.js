@@ -10,8 +10,8 @@ window.addEventListener("resize", function(){
     canvas.style.height = canvas.style.width;
 });
 
-const AudioContext = window.AudioContext || window.webkitAudioContext;
-const audioCtx = new AudioContext();
+// const AudioContext = window.AudioContext || window.webkitAudioContext;
+// const audioCtx = new AudioContext();
 
 var player = null;
 var enemies = [];
@@ -352,6 +352,9 @@ class Player {
         for (let j = 0; j < targets.length; ++j){
             let index = targets[j].index;
             if (index === -1) break;
+            if (enemies[index].constructor.name === "HomingDanmaku"){
+                enemies[index].generator.decreaseDanmaku();
+            }
             enemies.splice(index - j, 1);
         }
     }
@@ -1281,9 +1284,13 @@ function hue2rgb(h){
 }
 
 function playAudio(fileName, volume = 1.0){
-    var audio = new Audio(`audio/${fileName}.wav`);
-    audio.volume = volume;
-    //audio.setAttribute("prelaod", "auto");
+    // var audio = new Audio(`audio/${fileName}.wav`);
+    // audio.volume = volume;
+    // audio.play();
+    var audio = new Howl({
+        src: [`audio/${fileName}.wav`],
+        volume: volume
+    });
     audio.play();
 }
 
