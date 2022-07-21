@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0"/>
+        <title>Danmaku 101</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <canvas id="canvas1" width="500" height="500"></canvas>
+
+        <img id="regenGlobe" src="images/heart.png" alt="heart" width="20" height="20" hidden>
+        <img id="bomb" src="images/Bubble.png" alt="B" width="40" height="40" hidden>
+        <img id="key" src="images/star.png" alt="star" width="20" height="20" hidden>
+        <img id="pause" src="images/pause.svg" alt="pause" hidden>
+        <img id="inc_radius" src="images/inc_radius.svg" alt="1" width="100" height="100" hidden>
+        <img id="inc_bomb_time" src="images/inc_bomb_time.svg" alt="2" width="100" height="100" hidden>
+        <img id="dec_bomb_cd" src="images/dec_bomb_cd.svg" alt="3" width="100" height="100" hidden>
+        <img id="inc_hp" src="images/inc_hp.svg" alt="4" width="100" height="100" hidden>
+        <img id="dec_size" src="images/dec_size.svg" alt="5" width="100" height="100" hidden>
+        <img id="inc_globe_gen" src="images/inc_globe_gen.svg" alt="6" width="100" height="100" hidden>
+        <img id="inc_speed" src="images/inc_speed.svg" alt="7" width="100" height="100" hidden>
+        <img id="inc_atk_speed" src="images/inc_atk_speed.svg" alt="8" width="100" height="100" hidden>
+        <img id="inc_targets" src="images/inc_targets.svg" alt="9" width="100" height="100" hidden>
+        <img id="hurt" src="spritesheets/1.png" alt="1" hidden>
+        <img id="hit" src="spritesheets/2.png" alt="2" hidden>
+
+        <audio src="audio/hurt.wav" preload="auto" hidden></audio>
+        <audio src="audio/collect.wav" preload="auto" hidden></audio>
+        <audio src="audio/game_over.wav" preload="auto" hidden></audio>
+        <audio src="audio/hit.wav" preload="auto" hidden></audio>
+
+        <script src="script.js"></script>
+    </body>
+</html>
