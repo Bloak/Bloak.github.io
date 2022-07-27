@@ -11,7 +11,7 @@
 		"website": [
 			{"title": "白と黒の夢郷", "url":"http://aoz.sakura.ne.jp"}
 		],
-		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv12062963"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963"
 	},
 	"朋夜":{
 		"alt_name": "tomoya",
@@ -94,12 +94,12 @@
 		"website": [
 			{"title": "雪の足跡", "url": "http://h-chromatique.info"}
 		],
-		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv5929648"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv5929648"
 	},
 	"A'":{
 		"alt_name": "A-dash",
 		"website": [],
-		"comment": "Check out Magstic's article (in Chinese): https://www.bilibili.com/read/cv3321068"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv3321068"
 	},
 	"ローズレッド":{
 		"alt_name": "rose red",
@@ -111,7 +111,8 @@
 	"ヒッシー":{
 		"alt_name": "hechoya",
 		"website": [
-			{"title": "niconico", "url": "https://www.nicovideo.jp/user/20409/mylist/22270420"}
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/20409/mylist/22270420"},
+			{"title": "へちょ日記", "url": "http://blog.livedoor.jp/hetyoya/"}
 		]
 	},
 	"ミドリ虫":{
@@ -159,7 +160,8 @@
 		"alt_name": "Alioth",
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/901372/mylist/7068980"}
-		]
+		],
+		"comment": "The artist's performance is usually different from the score (if arranged by other artists)."
 	},
 	"天門":{
 		"alt_name": "Tenmon",
@@ -209,7 +211,8 @@
 		],
 		"comment": "A mysterious transcriber who appears in the comment section of touhou music videos and casually drops a transcription."
 	},
-	"Tetoteto":{
+	"てとてと":{
+		"alt_name": "Tetoteto",
 		"website": [
 			{"title": "幻影音楽堂", "url": "https://sound.jp/neontetra_feel/frame.htm"}
 		]
@@ -389,6 +392,64 @@
 	"ひごむれ":{
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UC5tPVcYMvY-5bKjwlWLp3og"}
+		]
+	},
+	"Wayfinder":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/WayfinderChannel"},
+			{"title": "bilibili", "url": "https://space.bilibili.com/868837/"}
+		]
+	},
+	"Dave Liu":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/user/paragonD6"}
+		]
+	},
+	"三日月夜歌":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/17539722"}
+		]
+	},
+	"嘉納芙未":{
+		"alt_name": "Flora Canou",
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/5670256"}
+		]
+	},
+	"Svcu":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/8361064"}
+		]
+	},
+	"自由者坏坏":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/1937444"}
+		]
+	},
+	"た人":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/870404/mylist/6992171"}
+		]
+	},
+	"蓬莱人形FireBird7":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/7087496"}
+		]
+	},
+	"after":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/93333/mylist/5882247"},
+			{"title": "音楽小匣", "url": "https://ameblo.jp/musicbox-of-afterglow/"}
+		]
+	},
+	"wag":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/326588"}
+		]
+	},
+	"Nonohoo":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/c/Nonohoo"}
 		]
 	}
 }

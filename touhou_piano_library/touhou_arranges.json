@@ -1,4 +1,17 @@
 {
+	"hr01_07":{
+		"title": null,
+		"original": "hr01_07",
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "た人",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.youtube.com/watch?v=mEM5aFJhC3I"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"hr01_12_2":{
 		"title": null,
 		"original": "hr01_12",
@@ -29,6 +42,18 @@
 		"difficulty": "4",
 		"comment": "But it's in G minor..."
 	},
+	"hr03_01":{
+		"title": null,
+		"original": "hr03_01",
+		"arranger": "wag",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm4458550"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5435419"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
 	"hr05_10":{
 		"title": "ハートグレイズ",
 		"title_en": "Heart Graze",
@@ -44,6 +69,21 @@
 		],
 		"type": "arrange",
 		"difficulty": "5"
+	},
+	"th03_08_2":{
+		"title": null,
+		"original": "hr03_08",
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "ありおと",
+		"transcriber": "蓬莱人形FireBird7",
+		"pdf": "https://www.bilibili.com/video/BV1nY4y1H7ac",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=12F7DaO7quQ"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "I'm not sure if the album info is correct."
 	},
 	"th05_06_2":{
 		"title": null,
@@ -141,6 +181,34 @@
 		"type": "transcription",
 		"difficulty": "2"
 	},
+	"th06_04_2":{
+		"title": "東方雪夜物語",
+		"original": "th06_04",
+		"original_ex": ["th07_02"],
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "after",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm8346316"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "The original arrangement is non-piano: https://www.nicovideo.jp/watch/sm6675928 \nThe artist's blog regarding this arrangement: http://ameblo.jp/musicbox-of-afterglow/entry-10238598934.html "
+	},
+	"th06_05":{
+		"title": null,
+		"original": "th06_05",
+		"arranger": "てとてと",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8713037"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm9985797"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "I remade the sheet because the original one was too messy. However, I was not familiar with musescore so I left a bunch of unnecessary dynamic and tempo markings... Please ignore them."
+	},
 	"th06_05_3":{
 		"title": null,
 		"original": "th06_05",
@@ -153,6 +221,22 @@
 		"difficulty": "4",
 		"comment": "Left hand needs to be quiet despite the large chords."
 	},
+	"th06_06_2":{
+		"title": "Chinese Fantasy ～上海紅茶館",
+		"original": "th06_06",
+		"original_ex": ["th06_07"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2008 summer",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/shanghai_denko.htm"},
+			{"performer": "Denko", "link": "https://www.youtube.com/watch?v=TEY9I6iotH8"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Denko's performance only covered the first half."
+	},
 	"th06_07_3":{
 		"title": "美鈴のためのトッカータ",
 		"title_en": "Toccata for Meiling",
@@ -164,10 +248,12 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=shnsftokFds"},
-			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=X8Uw1r0U0lk"}
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=X8Uw1r0U0lk"},
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=PlBG-zbRNpU"}
 		],
 		"type": "arrange",
-		"difficulty": "?"
+		"difficulty": "?",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=sVb8QtKuS-w (violin by TAM)"
 	},
 	"th06_09_2":{
 		"title": null,
@@ -178,7 +264,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=HnNPs-Wx3EI"}
 		],
 		"type": "arrange",
-		"difficulty": "4"
+		"difficulty": "4",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=lVYDgCRGMP4 (violin by TAM)"
 	},
 	"th06_10":{
 		"title": null,
@@ -271,6 +358,18 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_14":{
+		"title": null,
+		"original": "th06_14",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm1735907"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5729360"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
 	"th06_15":{
 		"title": null,
 		"original": "th06_15",
@@ -281,7 +380,8 @@
 			{"performer": "海老福", "link": "https://www.youtube.com/watch?v=baJ2Z9gDQgM"}
 		],
 		"type": "transcription",
-		"difficulty": "5"
+		"difficulty": "5",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=rMh3kDA-dRA (violin by TAM)"
 	},
 	"th06_15_3":{
 		"title": "千年の孤独",
@@ -299,6 +399,20 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_15_4":{
+		"title": null,
+		"original": "th06_15",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2007 winter",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/th_rpa/rpa_no04.htm"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "The 1-5-1-5 bass can sound very mechanical if not covered by the melody (for example measure 24). To avoid it, you could change the top notes to something slightly melodic, such as a scale. \nThis score is the oldest version of the arrangement. There are multiple versions from later albums which you can find on chiquchoo's fantia page."
+	},
 	"th07_01_2":{
 		"title": "雪踊る桜の下で",
 		"original": "th07_01",
@@ -312,6 +426,20 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "Based on \"The Snow is Dancing\" by Debussy."
+	},
+	"th07_01_3":{
+		"title": null,
+		"original": "th07_01",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
+		"arranger": "青汁",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=f2alK4BcEpI"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th07_02":{
 		"title": null,
@@ -350,6 +478,23 @@
 		"type": "transcription",
 		"difficulty": "5"
 	},
+	"th07_04_5":{
+		"title": "夜明けの空、小さな愿い",
+		"original": "th07_04",
+		"original_ex": ["th07_05"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "Flora Canou",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=uuI90dlgTjc"},
+			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1Qt411R7x8"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "In measure 29, the G# doesn't sound like an octave but rather a single lower note."
+	},
 	"th07_05_2":{
 		"title": "マタタビと仔猫とお昼寝と",
 		"original": "th07_05",
@@ -386,6 +531,22 @@
 		"type": "transcription",
 		"difficulty": "?",
 		"comment": "This is brilliant voicing. When finding piano arrangements of such intricate themes, I often encounter midi arrangements that sound good but doubtful for humans to play. Actual human performances are rare due to their high difficulty."
+	},
+	"th07_08_2":{
+		"title": "天空の悲恋歌",
+		"original": "th07_08",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "Wayfinder",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=GqvehXsEjN4"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Do4y1S7se"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=hzTUNHwm2Tk (violin by TAM)"
 	},
 	"th07_08_3":{
 		"title": "春の訪れは御札とともに",
@@ -610,6 +771,23 @@
 		"difficulty": "4",
 		"comment": "Much harder than it looks. I failed to bring out the melody even when I split the octaves into two hands.\nWatch the live performance on how to play the large arpeggios. Not the only solution but it works."
 	},
+	"th08_02":{
+		"title": "Blue Tears Night",
+		"original": "th08_02",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "Midori Yakumo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bobFBNe11c0"},
+			{"performer": "Dave Liu", "link": "https://www.youtube.com/watch?v=u4PTtEIg2Rs"},
+			{"performer": "三日月夜歌", "link": "https://www.bilibili.com/video/BV1tV411y7HT"},
+			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1nE411d7Yn"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
 	"th08_04_3":{
 		"title": null,
 		"original": "th08_04",
@@ -634,6 +812,20 @@
 		"type": "transcription",
 		"difficulty": "3",
 		"comment": "Maybe the fingerings and colors are redundant..."
+	},
+	"th08_05_2":{
+		"title": null,
+		"original": "th08_05",
+		"circle": "Factory Noise & AG",
+		"album": "Borderline",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=gdKyJ1UGzEQ"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
 	},
 	"th08_06":{
 		"title": null,
@@ -924,6 +1116,64 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th095_04_3":{
+		"title": null,
+		"original": "th095_04",
+		"circle": "Factory Noise & AG",
+		"album": "WindAge",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9C3WWYHZYkc"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th095_05_2":{
+		"title": null,
+		"original": "th095_05",
+		"circle": "TAMUSIC",
+		"album": "東方子守唄",
+		"arranger": "A'",
+		"transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DK-tRPj0Btg"},
+			{"performer": "自由者坏坏", "link": "https://www.bilibili.com/video/BV1wW41187ji"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "All the triplets should be 3-3-2 rhythm instead."
+	},
+	"th10_02":{
+		"title": "【Prelude Ⅰ】 - 人恋し神様 -",
+		"original": "th10_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.1",
+		"arranger": "柊秀雪",
+		"transcriber": "蓬莱人形FireBird7",
+		"pdf": "https://www.bilibili.com/video/BV1VB4y1T7nw",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th10_06":{
+		"title": null,
+		"original": "th10_06",
+		"circle": "GYRO Mix",
+		"album": "Witch Craft",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"th10_06_2":{
 		"title": null,
 		"original": "th10_06",
@@ -987,6 +1237,18 @@
 		"type": "arrange",
 		"difficulty": "4"
 	},
+	"th10_10":{
+		"title": null,
+		"original": "th10_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm2921340"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm3861752"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
 	"th10_11_2":{
 		"title": null,
 		"original": "th10_11",
@@ -997,6 +1259,21 @@
 		],
 		"type": "transcription",
 		"difficulty": "5"
+	},
+	"th10_11_3":{
+		"title": null,
+		"original": "th10_11",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "A'",
+		"transcriber": "Midori Yakumo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=SA9ailyrVpY"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1vY4y1p7FY"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
 	},
 	"th10_13":{
 		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
@@ -1038,6 +1315,21 @@
 		],
 		"type": "transcription",
 		"difficulty": "?"
+	},
+	"th11_04":{
+		"title": null,
+		"original": "th11_04",
+		"circle": "GYRO Mix",
+		"album": "Scape Goat",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kjrOOIUkUno"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1eu411z7J5"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
 	},
 	"th11_04_2":{
 		"title": null,
@@ -1156,6 +1448,19 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"}
 		],
 		"type": "transcription",
+		"difficulty": "1"
+	},
+	"th12_09":{
+		"title": null,
+		"original": "th12_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "A'",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iVv2cz8CzNc"}
+		],
+		"type": "arrange",
 		"difficulty": "1"
 	},
 	"th13_05_2":{
@@ -1356,7 +1661,8 @@
 		"transcriber": "Happle",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"},
+			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"}
 		],
 		"type": "arrange",
 		"difficulty": "3"
