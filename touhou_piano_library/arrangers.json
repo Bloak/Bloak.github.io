@@ -451,6 +451,40 @@
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/c/Nonohoo"}
 		]
+	},
+	"dekwest":{
+		"alt_name": "Let's Learn Touhou Piano",
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/user/dekwest"}
+		]
+	},
+	"d00masaya":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/user/d00masaya"}
+		]
+	},
+	"WaluigiTime64":{
+		"website": [
+			{"title": "ninsheetmusic", "url": "https://www.ninsheetmusic.org/browse/arranger/4771"}
+		]
+	},
+	"ANastasia":{
+		"website": [
+			{"title": "はちみつくまさん", "url": "https://www.hachikuma.net"}
+		]
+	},
+	"ちぇあ":{
+		"alt_name": "chair",
+		"website": [
+			{"title": "机上の空想理論", "url": "https://kuusouriron.com"},
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCkXoz6_zueWLIuKHVE-A-1g"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/15544202"}
+		]
+	},
+	"Maestro":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCfNhG-1stx2zIOycA40p_0w"}
+		]
 	}
 }
 

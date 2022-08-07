@@ -196,8 +196,26 @@
 		"difficulty": "3",
 		"comment": "The original arrangement is non-piano: https://www.nicovideo.jp/watch/sm6675928 \nThe artist's blog regarding this arrangement: http://ameblo.jp/musicbox-of-afterglow/entry-10238598934.html "
 	},
+	"th06_04_3":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第2楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 2nd Movement",
+		"original": "th06_04",
+		"original_ex": ["th06_06"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"},
+			{"performer": "あかみ", "link": "https://www.youtube.com/watch?v=kALW2lJxSIg"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=e0Yu_uxRilg"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
 	"th06_05":{
-		"title": null,
+		"title": "氷のピアノ",
+		"title_en": "Ice Piano",
 		"original": "th06_05",
 		"arranger": "てとてと",
 		"pdf": "default",
@@ -220,6 +238,20 @@
 		"type": "transcription",
 		"difficulty": "4",
 		"comment": "Left hand needs to be quiet despite the large chords."
+	},
+	"th06_05_5":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第1楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 1st Movement",
+		"original": "th06_05",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
 	},
 	"th06_06_2":{
 		"title": "Chinese Fantasy ～上海紅茶館",
@@ -344,6 +376,20 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_12_2":{
+		"title": null,
+		"original": "th06_12",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2007 winter",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/th_rpa/rpa_no01.htm"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1344y1M7cd"}
+		],
+		"type": "transcription",
+		"difficulty": "1"
+	},
 	"th06_13_3":{
 		"title": "紅魔最終楽章独奏",
 		"original": "th06_13",
@@ -452,6 +498,22 @@
 		"type": "transcription",
 		"difficulty": "2"
 	},
+	"th07_02_2":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第3楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 3rd Movement",
+		"original": "th07_02",
+		"original_ex": ["th06_05", "th07_03"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Did you notice the resemblance between \"Beloved Tomboyish Girl\" and \"Paradise ~ Deep Mountain\"? The first one is 6713--313176 and the second one is 6713--3 3236--6."
+	},
 	"th07_03":{
 		"title": "無何有の郷 ～ Deep Mountain & クリスタライズシルバー",
 		"original": "th07_03",
@@ -462,7 +524,7 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm24668092"}
 		],
 		"type": "transcription",
-		"difficulty": "?"
+		"difficulty": "5"
 	},
 	"th07_04_4":{
 		"title": null,
@@ -586,6 +648,20 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=CAyKxQM7jHM"}
 		],
 		"type": "transcription",
+		"difficulty": "3"
+	},
+	"th07_10_4":{
+		"title": "Bagatelle：東方妖々夢",
+		"original": "th07_10",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2010 Autumn",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/bagatelle_yoyomu.htm"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=19Vur9DaCmA"}
+		],
+		"type": "arrange",
 		"difficulty": "3"
 	},
 	"th07_11":{
@@ -827,6 +903,20 @@
 		"type": "arrange",
 		"difficulty": "2"
 	},
+	"th08_05_3":{
+		"title": null,
+		"original": "th08_05",
+		"original_ex": ["th08_04"],
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://web.archive.org/web/20071122173922/http://www.mukyou.jp/e5ps.mp3"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Mkxr8kZQD7c"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"th08_06":{
 		"title": null,
 		"original": "th08_06",
@@ -880,6 +970,21 @@
 		"difficulty": "?",
 		"comment": "The alternating 3 against 4 polyrythm reminds me of Saint-Saëns's Étude de rythme (Op.52 No.4)."
 	},
+	"th08_06_5":{
+		"title": "慧音の子守唄",
+		"title_en": "Keine's Lullaby",
+		"original": "th08_06",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/keine_denko_ex.htm"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=KLkIb7tPwH0"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"th08_07_2":{
 		"title": null,
 		"original": "th08_07",
@@ -915,6 +1020,21 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=sCCrcNQ18zU"}
 		],
 		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_09_2":{
+		"title": null,
+		"original": "th08_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Dream」",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=_xEgHSQZQ44"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=9ZWYr8NA8ww"}
+		],
+		"type": "arrange",
 		"difficulty": "?"
 	},
 	"th08_10_3":{
@@ -1090,6 +1210,21 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th09_02_2":{
+		"title": "散りゆく花",
+		"title_en": "Falling Flowers",
+		"original": "th09_02",
+		"circle": "はちみつくまさん",
+		"album": "東方交戦劇",
+		"arranger": "ANastasia",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=C10XnW7GACw"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",
@@ -1102,6 +1237,20 @@
 		],
 		"type": "arrange",
 		"difficulty": "5"
+	},
+	"th09_13_2":{
+		"title": null,
+		"original": "th09_13",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "青汁",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wE-6-o8ShPI"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Gl_tY7inIQo"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
 	},
 	"th095_04_2":{
 		"title": null,
@@ -1196,7 +1345,8 @@
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Za41117Tt"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "2",
+		"comment": "The time signature should be 6/8 instead of 3/4."
 	},
 	"th10_08":{
 		"title": null,
@@ -1207,7 +1357,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=tDzBDPGIyNA"}
 		],
 		"type": "transcription",
-		"difficulty": "4"
+		"difficulty": "4",
+		"comment": "Repeat measures 20-59."
 	},
 	"th10_09":{
 		"title": null,
@@ -1273,7 +1424,8 @@
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1vY4y1p7FY"}
 		],
 		"type": "arrange",
-		"difficulty": "1"
+		"difficulty": "1",
+		"comment": "Some corrections to the score: \nThe leading tone B# is denoted as C♮ throughout the score. It doesn't affect the sound, but is slightly difficult to sight-read. \nIn measure 44, the first chord should have a top note of E. In measure 50, the third note should be a trill on B. \nIn measure 52, the first chord should have a top note of E which is a trill. \n In measure 113, the ornament should be G#-B. \nIn measure 115, the ornament should be A-C#. In measure 121, the ornament should be B-D#. \nIn measure 139, the second half of right hand should be 3-3-1-1 rhythm instead of 2-2-2-2 (unit = 16th note). \nIn measure 149, the triplets should be four 16th notes, the last one being a B. \nMeasure 157 chord omits the top note E#."
 	},
 	"th10_13":{
 		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
@@ -1348,7 +1500,8 @@
 		"arranger": "海老福",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=mAmoNMTJQKA"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mAmoNMTJQKA"},
+			{"performer": "Maestro", "link": "https://www.youtube.com/watch?v=tYqeneEtohs"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
@@ -1389,6 +1542,21 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "The easiest akikiki piece. Still, the left hand is irregular and hard to memorise (as always). Now, isn't there a simpler version than this one? Certainly yes, but I think left hand variation is critical here since there's only 2 melodies repeating forever and the audience will get bored very soon. It's worth some extra practice time."
+	},
+	"th11_10_5":{
+		"title": "TEMPEST under the ground",
+		"original": "th11_10",
+		"original_ex": ["th11_11", "th11_12"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2010 Autumn",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=yCrNoEoVhXE"},
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=trDOAnNYGuU"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th11_11":{
 		"title": null,
@@ -1439,6 +1607,19 @@
 		"difficulty": "5",
 		"comment": "Unfortunately I couldn't find marasy's performance video or any audio from one of the two CDs 幻想遊戯＜地＞ / 幻想遊戯＜雅＞3."
 	},
+	"th12_02":{
+		"title": null,
+		"original": "th12_02",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8530490"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=4Cl8qBlFkCY"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Hardest akikiki piece?"
+	},
 	"th12_05":{
 		"title": null,
 		"original": "th12_05",
@@ -1463,6 +1644,32 @@
 		"type": "arrange",
 		"difficulty": "1"
 	},
+	"th12_10_2":{
+		"title": "魔界極東都市エソテリア",
+		"original": "th12_10",
+		"original_ex": ["th12_13"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA the 7th",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/esoteria.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "I don't see any reason behind the E-flat minor & D-sharp minor shift other than just trolling."
+	},
+	"th125_05":{
+		"title": null,
+		"original": "th125_05",
+		"arranger": "ちぇあ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm18229354"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"th13_05_2":{
 		"title": "門前の妖怪小娘のエチュード",
 		"original": "th13_05",
@@ -1481,7 +1688,8 @@
 		"arranger": "海老福",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=Q-yJHBqaBfs"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Q-yJHBqaBfs"},
+			{"performer": "Maestro", "link": "https://www.youtube.com/watch?v=n8hue8-fkvU"}
 		],
 		"type": "transcription",
 		"difficulty": "5",
@@ -1524,6 +1732,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "2"
+	},
+	"th14_05":{
+		"title": null,
+		"original": "th14_05",
+		"arranger": "WaluigiTime64",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D44GCE-88jA"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "A legato & staccato exercise? \n\nSome noticeable differences from the original theme: \nThe first chords in measures 5-12 is wrong. The original ones are unreachable on piano, but a better way to handle this is to keep the top notes and figure out the rest. \nIn measures 13-20, the beginning melody is still playing in the background. The only difference from the previous measures is that here the first chords in each measure is played louder."
 	},
 	"th15_04":{
 		"title": null,
@@ -1582,6 +1802,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+	"th16_11":{
+		"title": null,
+		"original": "th16_11",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA SP10 『東方ピアノエチュード』",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "An etude arrangement. Note that some new melodies in the later parts in original theme are not included here. \nFor the audio file, visit https://fantia.jp/products/57313 ."
 	},
 	"th16_13_2":{
 		"title": null,
