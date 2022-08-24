@@ -233,7 +233,7 @@
 		"arranger": "海老福",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "http://abab.mydns.jp/piano/tohokouma_2boss_p.mp3"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wjp9Wl_qmB8"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
@@ -388,7 +388,8 @@
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1344y1M7cd"}
 		],
 		"type": "transcription",
-		"difficulty": "1"
+		"difficulty": "1",
+		"comment": "The only occurrence of upward triplets in touhou? On contrary, downward triplets are very common."
 	},
 	"th06_13_3":{
 		"title": "紅魔最終楽章独奏",
@@ -547,7 +548,7 @@
 		"circle": "Everfades",
 		"album": "Reverie",
 		"arranger": "A'",
-		"transcriber": "Flora Canou",
+		"transcriber": "嘉納芙未",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=uuI90dlgTjc"},
@@ -789,6 +790,18 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+	"th07_16":{
+		"title": "マヨヒガの夜～Night Fantasy",
+		"title_en": "Mayohiga Night ~ Night Fantasy",
+		"original": "th07_16",
+		"arranger": "戦ピー",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=K6mfDJh5Vx0"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
 	"th07_16_2":{
 		"title": null,
 		"original": "th07_16",
@@ -844,8 +857,8 @@
 			{"performer": "BZ.esmun", "link": "https://www.youtube.com/watch?v=5NQIiX60gMQ"}
 		],
 		"type": "transcription",
-		"difficulty": "4",
-		"comment": "Much harder than it looks. I failed to bring out the melody even when I split the octaves into two hands.\nWatch the live performance on how to play the large arpeggios. Not the only solution but it works."
+		"difficulty": "?",
+		"comment": "Much harder than it looks. The player must bring out the melody between octaves. The way the notes are assigned to two hands may seem unintuitive in some parts, but I believe there is certain reasoning behind these decisions, since the artist himself played exactly as the score shows. From my personal experience, splitting the octaves into each hand does not reduce the difficulty of voicing the melody."
 	},
 	"th08_02":{
 		"title": "Blue Tears Night",
@@ -1573,6 +1586,7 @@
 	},
 	"th11_13_2":{
 		"title": "核の力を貰う前のおくう",
+		"title_en": "Okuu before receiving nuclear power",
 		"original": "th11_13",
 		"arranger": "グラハム",
 		"pdf": "default",
@@ -1693,7 +1707,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "5",
-		"comment": "The instruction under the title means \"Right-hand chords around bars 33 ~ 40, 73 ~ 88 are appropriate, so play regardless of the score.\" (AI translation). Tbh I'm still comfused. Was he clarifying that the chords were intended and not misprinted? It might be a translation error."
+		"comment": "The instruction under the title is about the right hand chords in bars 33 ~ 40 & 73 ~ 88, though I don't know its exact meaning. Whatever the instruction says, I find the chords very clumsy and inconsistent."
 	},
 	"th13_15":{
 		"title": "第拾壱番勝負“変幻戯画”",
@@ -1780,6 +1794,18 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "It's quite common for transcription-type works (played by midi) to fade out, as it is for original themes, but it's usually better to add a proper cadence. Here, however, the artist explicitly wrote F.O. at the end of the score, instructing the player to execute the effect manually. Maybe they wanted to suit the title? I have no idea how to play a fade out, but I decided to not include this part in the difficulty rating. \nBy the way, the Japanese words in pages 2 & 3 simply mean \"do-re-mi.\""
+	},
+	"th15_08_2":{
+		"title": null,
+		"original": "th15_08",
+		"arranger": "Calamari",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=awq_gVQgqjg"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "The voices are so far apart from each other that this piece is impractical for real performance. However, it does have the amazing three-hand effect, so it's rewarding if you already have the required techniques."
 	},
 	"th15_14":{
 		"title": null,

@@ -104,9 +104,10 @@
 	"ローズレッド":{
 		"alt_name": "rose red",
 		"website": [
-			{"title": "いんぷれ。", "url": "http://inpure.web.fc2.com/"}
+			{"title": "いんぷれ。", "url": "http://inpure.web.fc2.com/"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/9890445/mylist/19144118"}
 		],
-		"comment": "Also known as Ibrand."
+		"comment": "The artist's works contain some of the most questionable techniques I've ever seen. (In other words, they are unnecessarily difficult.) However, the artist implied on his website (\"music\" section) that he could play those pieces, which made it more confusing –– Why did he use midi instead of his own recordings? How did those super large chords and jumps came into existence when he was just experimenting on the piano?"
 	},
 	"ヒッシー":{
 		"alt_name": "hechoya",
@@ -485,6 +486,11 @@
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UCfNhG-1stx2zIOycA40p_0w"}
 		]
+	},
+	"戦ピー":{
+		"alt_name": "senpi",
+		"website": [],
+		"comment": "The artist's nico account has been deleted and their website (http://senpifreedom.web.fc2.com) went down in 2011. You could still find some of their works on niconico by searching \"戦ピー\""
 	}
 }
 
