@@ -12,6 +12,20 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"hr01_10":{
+		"title": "Reincarnation",
+		"original": "hr01_10",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"transcriber": "fffianist",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm16432792"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"hr01_12_2":{
 		"title": null,
 		"original": "hr01_12",
@@ -70,6 +84,18 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+	"th02_11":{
+		"title": null,
+		"original": "th02_11",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bpEXWk8SAx4"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "It would make more sense to merge every two bars into one, so that the 3+3+3+3 rhythm fits in a single bar."
+	},
 	"th03_08_2":{
 		"title": null,
 		"original": "hr03_08",
@@ -84,6 +110,29 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"comment": "I'm not sure if the album info is correct."
+	},
+	"th03_24":{
+		"title": null,
+		"original": "hr03_24",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=RtBcXqZ7bCo"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "This track was not used in the game."
+	},
+	"th04_15":{
+		"title": null,
+		"original": "hr04_15",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=G4nyCYOgY5Q"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
 	},
 	"th05_06_2":{
 		"title": null,
@@ -287,6 +336,33 @@
 		"difficulty": "?",
 		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=sVb8QtKuS-w (violin by TAM)"
 	},
+	"th06_07_4":{
+		"title": null,
+		"original": "th06_07",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11238166"},
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=x0_yuQvr_d4"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "I've already embedded the page 10 revision into the pdf. \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
+	"th06_09":{
+		"title": null,
+		"original": "th06_09",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kgCzkMeQ-YY"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "The new pdf made by Kijiriki is more clean and compact than the original one, but I chose the original because there are some inconsistencies between the two (left hand rhythm starting from measure 33). \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
 	"th06_09_2":{
 		"title": null,
 		"original": "th06_09",
@@ -308,7 +384,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=kQknzKl9ym8"}
 		],
 		"type": "transcription",
-		"difficulty": "5"
+		"difficulty": "4"
 	},
 	"th06_10_2":{
 		"title": "Chained Time",
@@ -333,7 +409,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=mln4gtMVQMY"}
 		],
 		"type": "transcription",
-		"difficulty": "?"
+		"difficulty": "5"
 	},
 	"th06_11_2":{
 		"title": null,
@@ -391,6 +467,20 @@
 		"difficulty": "1",
 		"comment": "The only occurrence of upward triplets in touhou? On contrary, downward triplets are very common."
 	},
+	"th06_13_2":{
+		"title": null,
+		"original": "th06_13",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10784106"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
 	"th06_13_3":{
 		"title": "紅魔最終楽章独奏",
 		"original": "th06_13",
@@ -403,7 +493,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=vAX902tSXkg"}
 		],
 		"type": "arrange",
-		"difficulty": "?"
+		"difficulty": "?",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=N4RotIZKXAc (violin by TAM)"
 	},
 	"th06_14":{
 		"title": null,
@@ -488,17 +579,6 @@
 		"type": "arrange",
 		"difficulty": "4"
 	},
-	"th07_02":{
-		"title": null,
-		"original": "th07_02",
-		"arranger": "Bloak",
-		"pdf": "default",
-		"performance": [
-			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1vh411k7Zx"}
-		],
-		"type": "transcription",
-		"difficulty": "2"
-	},
 	"th07_02_2":{
 		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第3楽章",
 		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 3rd Movement",
@@ -571,6 +651,17 @@
 		"difficulty": "3",
 		"comment": "The melody at measure 37 also appears in \"Retrospective Kyoto\" arranged by A'."
 	},
+	"th07_06":{
+		"title": null,
+		"original": "th07_06",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=cY-7tf7HP70"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
 	"th07_06_2":{
 		"title": null,
 		"original": "th07_06",
@@ -625,6 +716,17 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th07_09":{
+		"title": null,
+		"original": "hr07_09",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10807185"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
 	},
 	"th07_10_2":{
 		"title": "東方妖々夢～月廃寺",
@@ -789,6 +891,17 @@
 		],
 		"type": "arrange",
 		"difficulty": "5"
+	},
+	"th07_15_2":{
+		"title": null,
+		"original": "th07_15",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=0wOb2JFx5Q0",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0wOb2JFx5Q0"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
 	},
 	"th07_16":{
 		"title": "マヨヒガの夜～Night Fantasy",
@@ -1110,7 +1223,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "?",
-		"comment": "A hand-written score!? \nThe 6/8 time signature might be confusing, since the notes were written in 3/4 style. I understand it as 1st measure = 6/8, 2nd measure = 3/4, and repeat. I'm not sure about this. \nThe artist's revision to the score (in Japanese): http://aoz.sakura.ne.jp/e12psa1.jpg"
+		"comment": "A hand-written score!? \nThe 6/8 time signature might be confusing, since the notes were written in 3/4 style. I understand it as 1st measure = 6/8, 2nd measure = 3/4, and repeat. I'm not sure about this. \nThe artist's revision to the score (in Japanese): http://aoz.sakura.ne.jp/e12psa1.jpg \nViolin + Piano version: https://www.youtube.com/watch?v=7i0DkEO9Rsk (violin by TAM)"
 	},
 	"th08_12_2":{
 		"title": null,
@@ -1308,6 +1421,20 @@
 		"difficulty": "1",
 		"comment": "All the triplets should be 3-3-2 rhythm instead."
 	},
+	"th095_06_2":{
+		"title": null,
+		"original": "th095_06",
+		"circle": "Assaultdoor",
+		"album": "幻想羅針盤",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm15453490"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
+	},
 	"th10_02":{
 		"title": "【Prelude Ⅰ】 - 人恋し神様 -",
 		"original": "th10_02",
@@ -1422,7 +1549,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=qKJ3ZI26klA"}
 		],
 		"type": "transcription",
-		"difficulty": "5"
+		"difficulty": "5",
+		"comment": "According to instruction, return to bar 10 after bar 57, and in the second run, jump from bar 49 to bar 58 (CODA). \nIt's interesting that the beginning melody (C# - D# - E - F#) moves to the bass starting at measure 10, forming a counterpoint with the new melody."
 	},
 	"th10_11_3":{
 		"title": null,
@@ -1584,6 +1712,19 @@
 		"difficulty": "4",
 		"comment": "The instruction under the title means \"Decorative notes are abbreviated, so please make up appropriately - The sound you put in the gap of the original melody is good to play with a weak tone\" (AI translation). \nAbfuku's performance video also includes Satori's theme. Corpse Voyage starts at 2:14."
 	},
+	"th11_12_2":{
+		"title": "日常系業火マントル",
+		"title_en": "Daily Life Hellfire Mantle",
+		"original": "th11_12",
+		"arranger": "ミドリ虫",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm22157870"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
 	"th11_13_2":{
 		"title": "核の力を貰う前のおくう",
 		"title_en": "Okuu before receiving nuclear power",
@@ -1643,7 +1784,8 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"}
 		],
 		"type": "transcription",
-		"difficulty": "1"
+		"difficulty": "2",
+		"comment": "The original pdf was horizontal. I merged every two pages to make it vertical."
 	},
 	"th12_09":{
 		"title": null,
@@ -1684,6 +1826,18 @@
 		"type": "arrange",
 		"difficulty": "2"
 	},
+	"th13_04":{
+		"title": null,
+		"original": "th13_04",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm14189312"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Do the fingers imply that the artist could play this? Measure 7 looks very esoteric."
+	},
 	"th13_05_2":{
 		"title": "門前の妖怪小娘のエチュード",
 		"original": "th13_05",
@@ -1692,6 +1846,31 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=rIl0lCJMIhs"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=WfW4Vi_Lzbc"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th13_06":{
+		"title": null,
+		"original": "th13_06",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm29227554"}
+		],
+		"type": "transcription",
+		"difficulty": "1"
+	},
+	"th13_07_2":{
+		"title": null,
+		"original": "th13_07",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.youtube.com/watch?v=sxkcXOdKxKU"},
+			{"performer": "Wiilly", "link": "https://www.nicovideo.jp/watch/sm20838620"}
 		],
 		"type": "arrange",
 		"difficulty": "?"
@@ -1708,6 +1887,20 @@
 		"type": "transcription",
 		"difficulty": "5",
 		"comment": "The instruction under the title is about the right hand chords in bars 33 ~ 40 & 73 ~ 88, though I don't know its exact meaning. Whatever the instruction says, I find the chords very clumsy and inconsistent."
+	},
+	"th13_09":{
+		"title": null,
+		"original": "th13_09",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm17027431"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
 	},
 	"th13_15":{
 		"title": "第拾壱番勝負“変幻戯画”",
@@ -1757,7 +1950,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "3",
-		"comment": "A legato & staccato exercise? \n\nSome noticeable differences from the original theme: \nThe first chords in measures 5-12 is wrong. The original ones are unreachable on piano, but a better way to handle this is to keep the top notes and figure out the rest. \nIn measures 13-20, the beginning melody is still playing in the background. The only difference from the previous measures is that here the first chords in each measure is played louder."
+		"comment": "A legato & staccato etude? \n\nSome noticeable differences from the original theme: \nThe first chords of each bar in measures 5-12 is wrong. The original ones are unreachable on piano, but a better way to handle this is to keep the top notes and figure out the rest. \nIn measures 13-20, the beginning melody is still playing in the background. The only difference from the previous measures is that here the first chords in each measure is played louder."
+	},
+	"th14_09":{
+		"title": null,
+		"original": "th14_09",
+		"arranger": "パジャマ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23407074"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
 	},
 	"th15_04":{
 		"title": null,
@@ -1937,6 +2141,30 @@
 		"type": "transcription",
 		"difficulty": "1"
 	},
+	"TFM-003O_03":{
+		"title": null,
+		"original": "TFM-003O_03",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=w1cBQR7glNI"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"TFM-003A_06":{
+		"title": null,
+		"original": "TFM-003A_06",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm18415314"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"TFM-003A_08":{
 		"title": null,
 		"original": "TFM-003A_08",
@@ -1948,6 +2176,42 @@
 		"type": "transcription",
 		"difficulty": "4"
 	},
+	"TFM-003A_11":{
+		"title": null,
+		"original": "TFM-003A_11",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜集＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ELmkNja9C-o"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"TFM-003A_17":{
+		"title": null,
+		"original": "TFM-003A_17",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D7XMeDD6-Q8"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"TFM-004_12":{
+		"title": null,
+		"original": "TFM-004_12",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qZMp9Y1VhXU"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
 	"TFM-004_15":{
 		"title": null,
 		"original": "TFM-004_15",
@@ -1957,7 +2221,7 @@
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1pQ4y1972R"}
 		],
 		"type": "transcription",
-		"difficulty": "2",
+		"difficulty": "3",
 		"comment": "The only difficulty is the repeated notes at the beginning. To simplify, combine the second pair of 16th notes into one 8th note."
 	}
 }

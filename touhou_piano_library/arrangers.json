@@ -7,11 +7,11 @@
 		"comment": "The site owner. I started making arrangements just after knowing Touhou, and without any musical knowledge, so don't take them seriously (lol). The works displayed here are my own favorites, but still not comparable to those from other great artists. To view my other works (as well as piano performances), visit my bilibili channel and check the video lists."
 	},
 	"青汁":{
-		"alt_name": "aojiru",
+		"alt_name": "Aojiru",
 		"website": [
 			{"title": "白と黒の夢郷", "url":"http://aoz.sakura.ne.jp"}
 		],
-		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963 \nThe website is down by 9/13/2022, and it's unlikely to recover given the artist's inactivity."
 	},
 	"朋夜":{
 		"alt_name": "tomoya",
@@ -71,16 +71,16 @@
 			{"title": "Presence∝fTVA HP", "url": "http://p-ftva.liblo.jp"},
 			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"},
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UCXUXfVLh0nxLD2VUxdZykJQ"},
-			{"title": "fantia", "url": "https://fantia.jp/fanclubs/1377"}
+			{"title": "fantia", "url": "https://fantia.jp/fanclubs/1377"},
+			{"title": "chiquchoo column", "url": "http://blog.livedoor.jp/chiquchoo"}
 		],
-		"comment": "The old site contains analysis and performance guide for each piece."
+		"comment": "The old website contains analysis and performance guide for each piece, which (I suppose) are abbreviations of what's written in the CD covers. I don't know if they were written by the respective arrangers."
 	},
 	"Denko":{
 		"website": [
-			{"title": "Presence∝fTVA HP", "url": "http://p-ftva.liblo.jp"},
 			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"}
 		],
-		"comment": "The old site contains analysis and performance guide for each piece."
+		"comment": "It seems that Denko has quit Presence∝fTVA somewhere between 2015 and 2018."
 	},
 	"あかみ":{
 		"alt_name": "Akami",
@@ -107,7 +107,7 @@
 			{"title": "いんぷれ。", "url": "http://inpure.web.fc2.com/"},
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/9890445/mylist/19144118"}
 		],
-		"comment": "The artist's works contain some of the most questionable techniques I've ever seen. (In other words, they are unnecessarily difficult.) However, the artist implied on his website (\"music\" section) that he could play those pieces, which made it more confusing –– Why did he use midi instead of his own recordings? How did those super large chords and jumps came into existence when he was just experimenting on the piano?"
+		"comment": "The artist's works contain some of the most questionable techniques I've ever seen. (In other words, they are unnecessarily difficult.) However, the artist implied on his website (\"music\" section) that he was able to play those pieces. He's definitely a virtuoso if those large chords and jumps came up naturally during composition."
 	},
 	"ヒッシー":{
 		"alt_name": "hechoya",
@@ -491,6 +491,11 @@
 		"alt_name": "senpi",
 		"website": [],
 		"comment": "The artist's nico account has been deleted and their website (http://senpifreedom.web.fc2.com) went down in 2011. You could still find some of their works on niconico by searching \"戦ピー\""
+	},
+	"パジャマ":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/18359302/mylist/22926210"}
+		]
 	}
 }
 
