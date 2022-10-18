@@ -302,6 +302,19 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_05_6":{
+		"title": "氷精のエチュード",
+		"title_en": "Etude Op.⑨ in E flat minor",
+		"original": "th06_05",
+		"original_ex": ["th06_04", "th06_06"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=SAmSVmB1R3s"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"th06_06_2":{
 		"title": "Chinese Fantasy ～上海紅茶館",
 		"original": "th06_06",
@@ -350,6 +363,43 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "I've already embedded the page 10 revision into the pdf. \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
+	"th06_08":{
+		"title": null,
+		"original": "th06_08",
+		"arranger": "车万石",
+		"transcriber": "豪俊提琴",
+		"pdf": "default",
+		"performance": [
+			{"performer": "车万石", "link": "https://www.bilibili.com/video/BV1zJ411x7vV"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th06_08_2":{
+		"title": null,
+		"original": "th06_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FS4am5oAXF8"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "It's very different from the original after measure 45, although the artist didn't mark this one as \"Arr.\" \nThe beginning should be 6/8 time instead of 3/4. \nAlthough the midi is plain, I think it's best to put accent on the 1st and 3rd beats of every bar after measure 57. Similar technique apply to measure 45-56, but more complicated. Here the top melody is E-- --D# E-- --F# G#(Ab)... and the decorating melody is every 3,5,6th (eighth) note of each measure. All other notes are pure accompaniment."
+	},
+	"th06_08_3":{
+		"title": "Cheerful Library",
+		"original": "th06_08",
+		"arranger": "akr92212",
+		"transcriber": "myut",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=KGkiY-TR5jQ"},
+			{"performer": "Blargel", "link": "https://www.youtube.com/watch?v=7b-MWcs-zPE"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th06_09":{
 		"title": null,
@@ -518,7 +568,7 @@
 			{"performer": "海老福", "link": "https://www.youtube.com/watch?v=baJ2Z9gDQgM"}
 		],
 		"type": "transcription",
-		"difficulty": "5",
+		"difficulty": "4",
 		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=rMh3kDA-dRA (violin by TAM)"
 	},
 	"th06_15_3":{
@@ -536,20 +586,6 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
-	},
-	"th06_15_4":{
-		"title": null,
-		"original": "th06_15",
-		"circle": "Presence∝fTVA",
-		"album": "Presence∝fTVA 2007 winter",
-		"arranger": "chiquchoo",
-		"pdf": "default",
-		"performance": [
-			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/th_rpa/rpa_no04.htm"}
-		],
-		"type": "transcription",
-		"difficulty": "3",
-		"comment": "The 1-5-1-5 bass can sound very mechanical if not covered by the melody (for example measure 24). To avoid it, you could change the top notes to something slightly melodic, such as a scale. \nThis score is the oldest version of the arrangement. There are multiple versions from later albums which you can find on chiquchoo's fantia page."
 	},
 	"th07_01_2":{
 		"title": "雪踊る桜の下で",
@@ -1002,6 +1038,19 @@
 		"difficulty": "?",
 		"comment": "A small correction to the melody in measures 41-44 would be nice.\nThis is probably the most difficult theme to play for piano solo, given so many voices to handle. It would still be difficult if arranged for a duet."
 	},
+	"th08_04_4":{
+		"title": "夜雀の歌う森 ~ Mystia in a mystic forest",
+		"original": "th08_04",
+		"original_ex": ["th08_05"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-kDeq1mIaAs"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original orchestral arrangement (by nori): https://www.youtube.com/watch?v=0ayTE8BOHp0 \nThe artist is very good at manipulating similar melodies from different themes. This arrangement is composed of two themes, and I couldn't tell which part is which theme upon first listening. It happens, after I analysized the score, that there's a section where the two themes appear in counterpoint (measures 28-38). The introduction of the second theme (deaf to all but the song) in measures 28-29 is just seamless."
+	},
 	"th08_05":{
 		"title": null,
 		"original": "th08_05",
@@ -1061,6 +1110,7 @@
 		"circle": "Seaside",
 		"album": "the Wind",
 		"arranger": "SHI",
+		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=O9slJO2wYFM"}
@@ -1077,10 +1127,11 @@
 		"arranger": "ようか",
 		"pdf": "default",
 		"performance": [
-			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=OEkzRUV_QnU"}
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=w34stEbhP3s"}
 		],
 		"type": "arrange",
-		"difficulty": "5"
+		"difficulty": "5",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=cXjXHFNzXu8 (violin by TAM)"
 	},
 	"th08_06_4":{
 		"title": "幻想郷、我が郷里",
@@ -1354,6 +1405,7 @@
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",
+		"original_ex": "th06_11",
 		"circle": "雪の足跡",
 		"album": "東方的幻想曲集",
 		"arranger": "ようか",
@@ -1795,7 +1847,8 @@
 		"arranger": "A'",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=iVv2cz8CzNc"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iVv2cz8CzNc"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Ue4y1n76c"}
 		],
 		"type": "arrange",
 		"difficulty": "1"
@@ -1825,6 +1878,19 @@
 		],
 		"type": "arrange",
 		"difficulty": "2"
+	},
+	"th128_01":{
+		"title": "思い出は溶けずに",
+		"title_en": "Memories never melt",
+		"original": "th128_01",
+		"original_ex": ["th06_05"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=uR3jx3TNFRI"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
 	},
 	"th13_04":{
 		"title": null,
@@ -1929,29 +1995,6 @@
 		"type": "transcription",
 		"difficulty": "3"
 	},
-	"th14_02":{
-		"title": null,
-		"original": "th14_02",
-		"arranger": "柳本顕",
-		"pdf": "default",
-		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm25825848"}
-		],
-		"type": "transcription",
-		"difficulty": "2"
-	},
-	"th14_05":{
-		"title": null,
-		"original": "th14_05",
-		"arranger": "WaluigiTime64",
-		"pdf": "default",
-		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=D44GCE-88jA"}
-		],
-		"type": "transcription",
-		"difficulty": "3",
-		"comment": "A legato & staccato etude? \n\nSome noticeable differences from the original theme: \nThe first chords of each bar in measures 5-12 is wrong. The original ones are unreachable on piano, but a better way to handle this is to keep the top notes and figure out the rest. \nIn measures 13-20, the beginning melody is still playing in the background. The only difference from the previous measures is that here the first chords in each measure is played louder."
-	},
 	"th14_09":{
 		"title": null,
 		"original": "th14_09",
@@ -1985,7 +2028,8 @@
 			{"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=BOHb-d2rpNs"}
 		],
 		"type": "transcription",
-		"difficulty": "2"
+		"difficulty": "2",
+		"comment": "It's probably not the artist's intention, but I think adding staccato like in the original theme would add some spice to this piece, both effect- and technique- wise."
 	},
 	"th15_07_2":{
 		"title": null,
@@ -1995,9 +2039,9 @@
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26925263"}
 		],
-		"type": "transcription",
+		"type": "arrange",
 		"difficulty": "2",
-		"comment": "It's quite common for transcription-type works (played by midi) to fade out, as it is for original themes, but it's usually better to add a proper cadence. Here, however, the artist explicitly wrote F.O. at the end of the score, instructing the player to execute the effect manually. Maybe they wanted to suit the title? I have no idea how to play a fade out, but I decided to not include this part in the difficulty rating. \nBy the way, the Japanese words in pages 2 & 3 simply mean \"do-re-mi.\""
+		"comment": "I have no idea how to play a fade-out without audio editing."
 	},
 	"th15_08_2":{
 		"title": null,

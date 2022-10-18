@@ -16,7 +16,7 @@ Using a score vs. Playing by ear
 
 Unless the arranger has strict rules on the performance of their music, which I haven't encountered, you are free to change anything when you play. Therefore, a range of practice are equally acceptable: directly follow the sheet music / change some parts / play your own version but extract some parts from another arrangement / merge multiple arrangements / make your own arrangement and practice it / just improvise. Just don't forget to credit the artist(s).
 
-I sometimes hear people argue that following a score is wrong and playing by ear is superior. I admit that performing an original arrangement is impressive (more so if improvised), but beginners shouldn't be discouraged to use a score, for the fact that music composition is an advanced skill and requires special training (yes, it sucks that composition/improvisation is hardly taught in piano lessons). It's acceptable to even play those obviously improvised works as long as they are musically pleasing.
+I sometimes hear people argue that following a score is wrong and playing by ear is superior. I admit that performing an original arrangement is impressive (more so if improvised), but pianists shouldn't be discouraged to use a score, for the fact that music composition is an advanced skill and requires special training (yes, it sucks that composition/improvisation is hardly taught in piano lessons). It's acceptable to even play those obviously improvised works as long as they are musically pleasing.
 
 
 On the type of works
@@ -26,21 +26,6 @@ I categorize all works into two types: "arrange" and "transcription." Here, a "t
 Note 1: Please differentiate these two types with "arranger" and "transcriber" in the description of each work. Normally, arranger is the person who creates the piano piece, and transcriber (if any) is the person who makes the sheet music for such piece. However, if a piece is marked as "transcription," it's still an arrangement from non-piano to piano.
 
 Note 2: There is no clear border between "arrange" and "transcription." The categorization is subjective.
-
-
-My standards on choosing arrangements for a theme
-
-I just stated that I would only select certain works and ignore others. Instead of "personal taste," I decided to make it clear a little bit.
-
-"Transcription" type works tend to be similar, so usually only one will remain. Sometimes there are two versions, one being easy and the other one hard. The way I judge them is:
-First, check for content. Does it carry all the important voices in the original theme? Does it distort some parts of melody?
-Second, check for musicality. Does the accompaniment fill the holes in the melody? Is there enough variation between passages? Is it pianistic?
-Third, verify the technical difficulties. Are they necessary for expression? Is there an easier version that doesn't sacrifice much content or musicality?
-The "musicality" part is indeed subjective, and I cannot explain more.
-
-I think the "easy and hard" mentality is harmful when we talk about different arrangements of the same theme. Each theme naturally has its corresponding difficulty level (or a range) on the piano, and if someone (like DMBN) intentionally creates easy versions of hard themes, they are guaranteed bad. A suggestion for beginners: if you encounter huge difficulties, find some other easier music instead of sticking to a specific theme.
-
-There aren't that many competitions among "arrange" type works. One basic restriction, though, is that the original theme should at least be recognizable. Then I would prefer those with human performances (not many out there considering we also need sheet music).
 
 
 On difficulty
@@ -65,4 +50,4 @@ All credits for the sheet music hosted on this site belongs to their respective 
 
 
 Bloak (john.bloak@gmail.com)
-7/13/2022
+10/5, 2022
