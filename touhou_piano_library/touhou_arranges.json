@@ -160,6 +160,21 @@
 		"difficulty": "4",
 		"comment": "This is a piano duet."
 	},
+	"th06_01":{
+		"title": null,
+		"original": "th06_01",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+		"transcriber": ["Knix6593", "Wiilly"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iWkb82CFQsQ"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=b70uZz-iIO8"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
 	"th06_02":{
 		"title": null,
 		"original": "th06_02",
@@ -448,7 +463,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-		"comment": "Inverse moonlight sonata? \nThis piece is quite easy and should be sightreadable, but the score has some weird notations such as writing E♮ as F♭, which makes sightreading a nightmare. (or is it just me?) \nThe right hand in measures 20-34 has a potential for better voice leading, like Chopin's nouvelle etude no.2."
+		"comment": "Inverse moonlight sonata? \nThis piece is quite easy and should be sightreadable, but the score has some weird notations such as writing E♮ as F♭, which makes sightreading a nightmare. (or is it just me?) \nThe right hand chords in measures 20-34 is very non-standard. I don't know whether it's exactly intended by the arranger, a playing mistake, or a transcription error."
 	},
 	"th06_11":{
 		"title": null,
@@ -1185,6 +1200,20 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+	"th08_08_3":{
+		"title": "永き夜の変奏曲",
+		"original": "th08_08",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "夜皇禰実",
+		"transcriber": "takoyaki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D4EMdfZEA5I"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"th08_09":{
 		"title": null,
 		"original": "th08_09",
@@ -1236,6 +1265,20 @@
 		"type": "arrange",
 		"difficulty": "5",
 		"comment": "Lyrical version: https://www.nicovideo.jp/watch/sm1619119 "
+	},
+	"th08_10_5":{
+		"title": "パーカッシブ・マスタースパーク",
+		"title_en": "Percussive Master Spark",
+		"original": "th08_10",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/p_master_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
 	},
 	"th08_11_2":{
 		"title": null,
@@ -1428,7 +1471,8 @@
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Gl_tY7inIQo"}
 		],
 		"type": "arrange",
-		"difficulty": "?"
+		"difficulty": "?",
+		"comment": "If you find the pdf unreadable, please refer to the engraving by Knix: https://www.youtube.com/watch?v=055Dl_utjyY"
 	},
 	"th095_04_2":{
 		"title": null,
@@ -1799,8 +1843,8 @@
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm4348172"}
 		],
 		"type": "transcription",
-		"difficulty": "?",
-		"comment": "This is not an ideal version for me but I put it here anyways for discussion. I may as well make an arrangement myself but it's not easy to play and I'm too lazy to practice (lol). \n\n1. The beginning omits a part of melody but exposes the bass line and brings freshness, so I think it's an acceptable modification. By the way, the bass line has a hidden melody which goes (Bb - Ab - G - Ab) x2 then (G - F - Eb - F) x2. Some other versions (for example marasy's) make it explicit. \n2. Measures 5-8 provides an easy way to play the fast part (and probably the most difficult part in the whole piece). The left hand tremolo (or any 16th-note sequence) is critical here, or else it wouldn't sound fast. If the tremolo is still difficult perhaps hold the lowest key (F or Db) for each harmonic change, reducing it to single-note tremolo. \n3. Measure 9 onwards: I don't know why there is an extra 16th note in each 3/8 beat. Four 16th notes + one 8th note is much easier to play than six 16th notes without breaks, not to mention the extra note should be played lighter to contrast the melody, which is more work. Some details in the original theme: the second 3/8 beat is F - Eb - F - C - Ab - C as opposed to F - Eb - F - Ab - G - Ab on the score; the last 3/8 beat has 1 - 1 - 2 - 1 - 1 rhythm, which is correct in this arrangement (marasy's version is 1 - 1 - 1 - 1 - 2). \n4. The first measure on page 4 has rhythm 3 - 3 - 2 but the original rhythm is 3 - 1 - 4. Disregarding the rhythm, I like the voicing setup here – F and G being the two most noticeable notes and the other three notes hidden under an octave. In fact, the last three notes in every phrase coincide with the bass melody, so you may as well not play them at all and let the left hand ring from a distance. \n5. The first two measures on page 6 sound like this in the original theme: F - G - C - F - Ab - F - C - G | F - Ab - C - F - A - F - C - F. The raised middle note (A natural) in the second measure is obvious while I'm not sure about other notes. \n 6. The bass used in page 6 sounds very off, especially when right hand is at a long rest. The original theme uses a bass that has its strong beats on 3 and 6 (counting 8 beats per measure) and marasy's version fits it perfectly (measure 46 for your reference). \n7. The chorus part starts with Bb, but later on it moved to G in a higher octave. The artist only added a G in the middle of an octave which won't sing out unless you are a master of finger independence, so I recommend playing the melody notes as the top notes of the chords."
+		"difficulty": "4",
+		"comment": "This is not an ideal version for me but I put it here anyways for discussion. I may as well make an arrangement myself but it's not easy to play and I'm too lazy to practice (lol). \n\n1. The beginning omits a part of melody but exposes the bass line and brings freshness, so I think it's an acceptable modification. By the way, the bass line has a hidden melody which goes (Bb - Ab - G - Ab) x2 then (G - F - Eb - F) x2. Some other versions (for example marasy's) make it explicit. \n2. Measures 5-8 provides an easy way to play the fast part (and probably the most difficult part in the whole piece). The left hand tremolo (or any 16th-note sequence) is critical here, or else it wouldn't sound fast. If the tremolo is still difficult perhaps hold the lowest key (F or Db) for each harmonic change, reducing it to single-note tremolo. \n3. Measure 9 onwards: I don't know why there is an extra 16th note in each 3/8 beat. Four 16th notes + one 8th note is much easier to play than six 16th notes without breaks, not to mention the extra note should be played lighter to contrast the melody, which is more work. Some details in the original theme: the second 3/8 beat is F - Eb - F - C - Ab - C as opposed to F - Eb - F - Ab - G - Ab on the score; the last 3/8 beat has 1 - 1 - 2 - 1 - 1 rhythm, which is correct in this arrangement (marasy's version is 1 - 1 - 1 - 1 - 2). \n4. The first measure on page 4 has rhythm 3 - 3 - 2 but the original rhythm is 3 - 1 - 4. Disregarding the rhythm, I like the voicing setup here – F and G being the two most noticeable notes and the other three notes hidden under an octave. In fact, the last three notes in every phrase coincide with the bass melody, so you may as well not play them at all and let the left hand ring from a distance. \n5. The first two measures on page 6 sound like this in the original theme: F - G - C - F - Ab - F - C - G | F - Ab - C - F - A - F - C - F. The raised middle note (A natural) in the second measure is obvious while I'm not sure about other notes. \n 6. The bass used in page 6 sounds very off, especially when right hand is at a long rest. The original theme uses a bass that has its strong beats on 3 and 6 (counting 8 beats per measure) and marasy's version fits it perfectly (measure 46 for your reference)."
 	},
 	"th11_14_2":{
 		"title": null,
@@ -1811,7 +1855,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=RiYr2qWunSg"}
 		],
 		"type": "transcription",
-		"difficulty": "5",
+		"difficulty": "4",
 		"comment": "Unfortunately I couldn't find marasy's performance video or any audio from one of the two CDs 幻想遊戯＜地＞ / 幻想遊戯＜雅＞3."
 	},
 	"th12_02":{
@@ -1995,6 +2039,18 @@
 		"type": "transcription",
 		"difficulty": "3"
 	},
+	"th14_05":{
+		"title": null,
+		"original": "th14_05",
+		"arranger": "WaluigiTime64",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D44GCE-88jA"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "The chords in measures 5-12 is different from the original. Also in measures 13-20 the RH broken octaves don't simply disappear, but they sound fine. If you want to make corrections, you can refer to the original music or 37467524's midi (https://www.youtube.com/watch?v=epk0XKkbks8)"
+	},
 	"th14_09":{
 		"title": null,
 		"original": "th14_09",
@@ -2085,9 +2141,9 @@
 		"arranger": "chiquchoo",
 		"pdf": "default",
 		"performance": [],
-		"type": "transcription",
-		"difficulty": "4",
-		"comment": "An etude arrangement. Note that some new melodies in the later parts in original theme are not included here. \nFor the audio file, visit https://fantia.jp/products/57313 ."
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Reminds me of Heller's etude op.45 no.1. \nFor the audio file, visit https://fantia.jp/products/57313 ."
 	},
 	"th16_13_2":{
 		"title": null,
@@ -2096,6 +2152,20 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=LfpTtP18fzA"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th16_15":{
+		"title": null,
+		"original": "th16_15",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜天＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9ndb9n2h_NQ"}
 		],
 		"type": "transcription",
 		"difficulty": "?"

@@ -14,19 +14,20 @@
 		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963 \nThe website is down by 9/13/2022, and it's unlikely to recover given the artist's inactivity."
 	},
 	"朋夜":{
-		"alt_name": "tomoya",
+		"alt_name": "Tomoya",
 		"website": [
 			{"title": "光と闇の協奏曲", "url":"http://tomoya1060moon.gozaru.jp"},
 			{"title": "Buried Christ", "url":"http://buried-christ.sakura.ne.jp"},
 			{"title": "youtube", "url":"https://www.youtube.com/user/tomoya1060moon"}
 		],
-		"comment": "The website 【光と闇の協奏曲】 contains all the audio files. However, there is no direct url to individual files, so I won't link them in the performance section."
+		"comment": "If the audio of some works are not listed, you can find them in tomoya's website 【光と闇の協奏曲】."
 	},
 	"弘世":{
-		"alt_name": "hiroyo",
+		"alt_name": "Hiroyo",
 		"website": [
 			{"title": "アルトノイラント", "url":"https://altneuland.net"}
-		]
+		],
+		"comment": "I decided to not include any of Hiroyo's works in the databse, because I think they are too \"untouhou\" and might confuse those of you who searched by original themes. That being said, Hiroyo's music are absolutely brilliant and I recommend going to his website and take a listen. You may also want to look into pianist TKDL (https://www.youtube.com/c/TKDLa) who has performed Hiroyo's works."
 	},
 	"BZ.esmun":{
 		"website": [
@@ -110,7 +111,7 @@
 		"comment": "The artist's works contain some of the most questionable techniques I've ever seen. (In other words, they are unnecessarily difficult.) However, the artist implied on his website (\"music\" section) that he was able to play those pieces. He's definitely a virtuoso if those large chords and jumps came up naturally during composition."
 	},
 	"ヒッシー":{
-		"alt_name": "hechoya",
+		"alt_name": "Hisshi",
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/20409/mylist/22270420"},
 			{"title": "へちょ日記", "url": "http://blog.livedoor.jp/hetyoya/"}
@@ -495,6 +496,14 @@
 	"パジャマ":{
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/18359302/mylist/22926210"}
+		]
+	},
+	"夜皇禰実":{
+		"website": []
+	},
+	"takoyaki":{
+		"website": [
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/2580400"}
 		]
 	}
 }
