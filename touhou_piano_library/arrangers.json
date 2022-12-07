@@ -14,7 +14,7 @@
 		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963 \nThe website is down by 9/13/2022, and it's unlikely to recover given the artist's inactivity."
 	},
 	"朋夜":{
-		"alt_name": "Tomoya",
+		"alt_name": "tomoya",
 		"website": [
 			{"title": "光と闇の協奏曲", "url":"http://tomoya1060moon.gozaru.jp"},
 			{"title": "Buried Christ", "url":"http://buried-christ.sakura.ne.jp"},
@@ -473,7 +473,8 @@
 	"ANastasia":{
 		"website": [
 			{"title": "はちみつくまさん", "url": "https://www.hachikuma.net"}
-		]
+		],
+		"comment": "I know nothing about this artist, but here's some clues I found on THBWiki: \n1. They used the name \"なみへい\" at least until 2011. (https://thwiki.cc/真・東方無双) \n2. They had a website https://wfm.jp which didn't contain any recognizable contents, and became completely blank since 2017. \n3. They were in the circle StudioA' around 2006. (https://thwiki.cc/Time_Limit～Momentary～) \nNote that なみへい and A-dash are not the same person, since both names were included in the artist-lists in multiple works. However, there are instances where なみへい was in StudioA' and A-dash was in ANastasia (as a circle. See https://www.youtube.com/watch?v=uCmlfu-3swc), so I could have falsely attributed the arranger in some works."
 	},
 	"ちぇあ":{
 		"alt_name": "chair",
@@ -499,11 +500,37 @@
 		]
 	},
 	"夜皇禰実":{
-		"website": []
+		"website": [],
+		"comment": "It seems that 永き夜の変奏曲 is this artist's only touhou arrangement."
 	},
 	"takoyaki":{
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/2580400"}
+		]
+	},
+	"akr92212":{
+		"website": [],
+		"comment": "The artist closed their nico account."
+	},
+	"Blargel":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@blargel2323"}
+		]
+	},
+	"柚木":{
+		"alt_name": "yuzuki",
+		"website": [
+			{"title": "吉田未来Project", "url": "http://sound.jp/yoshipro/"}
+		]
+	},
+	"Mark Andrews":{
+		"website": [
+			{"title": "youtube", "url": "http://www.youtube.com/user/RigorMortis999/"}
+		]
+	},
+	"nyukim":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@nyukim444"}
 		]
 	}
 }

@@ -791,7 +791,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "5",
-		"comment": "The tune starting at measure 23 is from Japanese folk song \"Sakura Sakura.\""
+		"comment": "The tune starting at measure 23 is from Japanese folk song \"Sakura Sakura.\" \nThere are multiple impossible or awkward passages that need simplification. Some of them are: three octaves in measure 104; 32th notes in measure 108; octave jump in measure 72 (redistribute the hands); hand crossing in measure 55."
 	},
 	"th07_10_3":{
 		"title": null,
@@ -1768,6 +1768,21 @@
 		"type": "transcription",
 		"difficulty": "4"
 	},
+	"th11_10_3":{
+		"title": "One Night Hell Screen",
+		"original": "th11_10",
+		"circle": "吉田未来Project",
+		"album": "Floods of Sounds",
+		"arranger": "柚木",
+		"transcriber": "Mark Andrews",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=T75iD_KlUlA"},
+			{"performer": "nyukim", "link": "https://www.youtube.com/watch?v=EQEek4uSIzE"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
 	"th11_10_4":{
 		"title": null,
 		"original": "th11_10",
@@ -1881,7 +1896,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "2",
-		"comment": "The original pdf was horizontal. I merged every two pages to make it vertical."
+		"comment": "The original pdf was horizontal. I merged every two pages to make it vertical. \nMeasure 4 16th notes: play the first one with left hand, and the rest with right hand (+ the final quarter note)."
 	},
 	"th12_09":{
 		"title": null,
@@ -1895,7 +1910,8 @@
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Ue4y1n76c"}
 		],
 		"type": "arrange",
-		"difficulty": "1"
+		"difficulty": "1",
+		"comment": "My recording has some deviations to the score... they're half prepared and half mistakes. The score, however, is a faithful transcription of the original work."
 	},
 	"th12_10_2":{
 		"title": "魔界極東都市エソテリア",
@@ -2131,7 +2147,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=rDrBRY6XedM"}
 		],
 		"type": "transcription",
-		"difficulty": "4"
+		"difficulty": "5",
+		"comment": "Warning: Irregular left hand."
 	},
 	"th16_11":{
 		"title": null,
@@ -2142,7 +2159,7 @@
 		"pdf": "default",
 		"performance": [],
 		"type": "arrange",
-		"difficulty": "5",
+		"difficulty": "4",
 		"comment": "Reminds me of Heller's etude op.45 no.1. \nFor the audio file, visit https://fantia.jp/products/57313 ."
 	},
 	"th16_13_2":{
@@ -2242,6 +2259,18 @@
 		],
 		"type": "arrange",
 		"difficulty": "3"
+	},
+	"TFM-001b_23_2":{
+		"title": null,
+		"original": "TFM-001b_23",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm3447595"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm11134817"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
 	},
 	"TFM-003O_01":{
 		"title": null,
