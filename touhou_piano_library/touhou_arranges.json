@@ -602,6 +602,21 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_15_5":{
+		"title": "Piano Serenade",
+		"original": "th06_15",
+		"circle": "電奏楽団",
+		"album": "組曲Flandre",
+		"arranger": "天門",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=X1fgxREoKbM"},
+			{"performer": "Muesli", "link": "https://www.youtube.com/watch?v=ORUf4yZbtZA"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
+	},
 	"th07_01_2":{
 		"title": "雪踊る桜の下で",
 		"original": "th07_01",
@@ -1128,7 +1143,8 @@
 		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=O9slJO2wYFM"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=O9slJO2wYFM"},
+			{"performer": "Martin Thompson", "link": "https://www.youtube.com/watch?v=lSvH0aJCoho"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -1531,6 +1547,20 @@
 		"difficulty": "?",
 		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
 	},
+	"th095_06_3":{
+		"title": "風凪ぐ山",
+		"original": "th095_06",
+		"circle": "へちょ屋",
+		"album": "Tempest",
+		"arranger": "ヒッシー",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=OZBoRXT0ieY"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
 	"th10_02":{
 		"title": "【Prelude Ⅰ】 - 人恋し神様 -",
 		"original": "th10_02",
@@ -1892,7 +1922,8 @@
 		"arranger": "柳本顕",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1bd4y1v7s1"}
 		],
 		"type": "transcription",
 		"difficulty": "2",
@@ -2055,6 +2086,18 @@
 		"type": "transcription",
 		"difficulty": "3"
 	},
+	"th14_03":{
+		"title": null,
+		"original": "th14_03",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1EG4y1n7Ce"},
+			{"performer": "Billy幻想", "link": "https://www.bilibili.com/video/BV1TP4y1Q7ia"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
 	"th14_05":{
 		"title": null,
 		"original": "th14_05",
@@ -2077,6 +2120,19 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+	"th15_03":{
+		"title": null,
+		"original": "th15_03",
+		"arranger": "Mitty",
+		"pdf": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=dBz4VxUma5M"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Sightread 7 staves at once!?"
 	},
 	"th15_04":{
 		"title": null,

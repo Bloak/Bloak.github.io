@@ -18,7 +18,8 @@
 		"website": [
 			{"title": "光と闇の協奏曲", "url":"http://tomoya1060moon.gozaru.jp"},
 			{"title": "Buried Christ", "url":"http://buried-christ.sakura.ne.jp"},
-			{"title": "youtube", "url":"https://www.youtube.com/user/tomoya1060moon"}
+			{"title": "youtube", "url":"https://www.youtube.com/user/tomoya1060moon"},
+			{"title": "bilibili", "url":"https://space.bilibili.com/3493093884038004"}
 		],
 		"comment": "If the audio of some works are not listed, you can find them in tomoya's website 【光と闇の協奏曲】."
 	},
@@ -230,7 +231,8 @@
 			{"title": "音の瓶詰", "url": "http://otonobindume.web.fc2.com"},
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UCPMSojDncvMELPbPGF1xAkQ"},
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/6753454"}
-		]
+		],
+		"comment": "Someone transcribed Jam's arrangements back in 2009, but they deleted their nico account so I have no clue who they are. This is their website (list of scores): http://gamepianoscoredelta.web.fc2.com/jam.html "
 	},
 	"ポンジョウ":{
 		"alt_name": "Ponjoh",
@@ -531,6 +533,31 @@
 	"nyukim":{
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/@nyukim444"}
+		]
+	},
+	"Muesli":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@JoghurtMuesli"}
+		]
+	},
+	"Martin Thompson":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCTyIHcDvwU43yUVmPmvjLkA"}
+		]
+	},
+	"Billy幻想":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/340396135"}
+		]
+	},
+	"车万石":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/23495135"}
+		]
+	},
+	"豪俊提琴":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/398418264"}
 		]
 	}
 }
