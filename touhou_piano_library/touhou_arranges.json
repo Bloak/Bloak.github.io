@@ -346,6 +346,21 @@
 		"difficulty": "?",
 		"comment": "Denko's performance only covered the first half."
 	},
+	"th06_07":{
+		"title": null,
+		"original": "th06_07",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11238166"},
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=x0_yuQvr_d4"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "I've already embedded the page 10 revision into the pdf. \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
 	"th06_07_3":{
 		"title": "美鈴のためのトッカータ",
 		"title_en": "Toccata for Meiling",
@@ -363,21 +378,6 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=sVb8QtKuS-w (violin by TAM)"
-	},
-	"th06_07_4":{
-		"title": null,
-		"original": "th06_07",
-		"circle": "いんぷれ。",
-		"album": "Presence Invisible",
-		"arranger": "ローズレッド",
-		"pdf": "default",
-		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11238166"},
-			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=x0_yuQvr_d4"}
-		],
-		"type": "arrange",
-		"difficulty": "?",
-		"comment": "I've already embedded the page 10 revision into the pdf. \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
 	},
 	"th06_08":{
 		"title": null,
@@ -1549,6 +1549,7 @@
 	},
 	"th095_06_3":{
 		"title": "風凪ぐ山",
+		"title_en": "Wind Calm Mountain",
 		"original": "th095_06",
 		"circle": "へちょ屋",
 		"album": "Tempest",
