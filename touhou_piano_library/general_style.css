@@ -1,0 +1,47 @@
+a, h1, h2, p {
+    font-family: "Open Sans", sans-serif;
+}
+
+body {
+    background-color: #fee;
+}
+
+nav {
+    text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
+
+h1, h2 {
+    border-bottom: 1px solid;
+}
+
+.nav-element {
+    font-size: 2vw;
+    font-weight: bold;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.page {
+    margin-left: 5%;
+    margin-right: 5%;
+}

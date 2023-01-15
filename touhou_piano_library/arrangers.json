@@ -19,7 +19,8 @@
 			{"title": "光と闇の協奏曲", "url":"http://tomoya1060moon.gozaru.jp"},
 			{"title": "Buried Christ", "url":"http://buried-christ.sakura.ne.jp"},
 			{"title": "youtube", "url":"https://www.youtube.com/user/tomoya1060moon"},
-			{"title": "bilibili", "url":"https://space.bilibili.com/3493093884038004"}
+			{"title": "bilibili", "url":"https://space.bilibili.com/3493093884038004"},
+			{"title": "booth", "url":"https://tomoya1060moon.booth.pm"}
 		],
 		"comment": "If the audio of some works are not listed, you can find them in tomoya's website 【光と闇の協奏曲】."
 	},
@@ -204,7 +205,8 @@
 		"alt_name": "Hiragi Shusetsu",
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/c/hiragishusetsu"},
-			{"title": "As/Hi Soundworks", "url": "http://ashisoundworks.com"}
+			{"title": "As/Hi Soundworks", "url": "http://ashisoundworks.com"},
+			{"title": "soundcloud", "url": "https://soundcloud.com/hiragi-shusetsu"}
 		],
 		"comment": "It seems that As/Hi Soundworks had an old site which displayed sheet music but it was taken down for unknown reasons. He has been publishing performance videos on youtube recently, sometimes with score snippets. You could ask for sheet music in the video comments and he might share it."
 	},
@@ -558,6 +560,18 @@
 	"豪俊提琴":{
 		"website": [
 			{"title": "bilibili", "url": "https://space.bilibili.com/398418264"}
+		]
+	},
+	"TheInsane":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@theinsane8042"}
+		]
+	},
+	"Yuiru":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@TenninWorks"},
+			{"title": "soundcloud", "url": "https://soundcloud.com/yuiru"},
+			{"title": "musescore", "url": "https://musescore.com/httpssheet_hostuserkaneo"}
 		]
 	}
 }

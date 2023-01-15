@@ -1,0 +1,41 @@
+.intro {
+    margin-bottom: 50px;
+}
+
+.sub-intro {
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+.faq {
+    display: inline-block;
+    flex: 1;
+}
+
+.faq-title {
+    margin-top: 0;
+}
+
+.profile {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 30px;
+    height: max-content;
+    width: max-content;
+    border: 1px solid;
+}
+
+.profile-image {
+    display: block;
+    border-radius: 50%;
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2em;
+}
+
+.profile-entry {
+    display: block;
+    margin: 6px 0px;
+}

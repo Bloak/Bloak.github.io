@@ -1191,7 +1191,8 @@
 			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=KLkIb7tPwH0"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "2",
+		"comment": "I recommend studying the left hand alone first."
 	},
 	"th08_07_2":{
 		"title": null,
@@ -1459,7 +1460,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=C10XnW7GACw"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "1",
+		"comment": "It seems that this arrangement went through multiple re-transcriptions. Kkcwkoh provided a musescore link to danichku's transcription. 5 Years ago (2017) a youtube comment said the link was broken (danichku indeed deleted their account). Axyo Rifelheim replied with a jellynote link which is (supposedly) a rehost of the original sheets, and they mentioned that the sheets were not free. This link is broken now (2022). 4 years ago (2018) 烏 replied that they made a transcription based on the previous sheets and provided the link. I was about to use it but found too many errors, so I did a new transcription myself."
 	},
 	"th09_04":{
 		"title": null,
@@ -1839,7 +1841,8 @@
 			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=trDOAnNYGuU"}
 		],
 		"type": "arrange",
-		"difficulty": "4"
+		"difficulty": "4",
+		"comment": "Detailed commentary: http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/tempest_detail.htm"
 	},
 	"th11_11":{
 		"title": null,
@@ -1983,6 +1986,20 @@
 		],
 		"type": "arrange",
 		"difficulty": "4"
+	},
+	"th13_02_3":{
+		"title": "【Prelude】 - 死霊の夜桜",
+		"original": "th13_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.3",
+		"arranger": "柊秀雪",
+		"pdf": "https://www.youtube.com/watch?v=SBoAk1d5rkQ",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=SBoAk1d5rkQ"},
+			{"performer": "Thelnsane", "link": "https://www.youtube.com/watch?v=L2tH2DveVHY"}
+		],
+		"type": "transcription",
+		"difficulty": "2"
 	},
 	"th13_04":{
 		"title": null,
@@ -2315,7 +2332,8 @@
 			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"}
 		],
 		"type": "arrange",
-		"difficulty": "3"
+		"difficulty": "3",
+		"comment": "I don't know the identity of Huy Nguyen the transcriber, so I just put Happle here, who made this improved sheet music."
 	},
 	"TFM-001b_23_2":{
 		"title": null,
