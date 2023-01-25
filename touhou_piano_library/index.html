@@ -1,15 +1,46 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Touhou Piano Library</title>
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
-  <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    <head>
+        <title>Touhou Piano Library</title>
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="general_style.css">
+        <link rel="stylesheet" href="home.css">
+        <link rel="stylesheet" href="switch.css">
+    </head>
+    <body>
+        <div id="nav-placeholder"></div>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+        <div class="page">
+            <h1 id="title">Touhou Piano Library</h1>
 
-</body>
+            <img src="images/home_score.png" width="100%">
+
+            <div class="intro">
+                <p>Welcome! We have <span class="in-text-number" id="arrangement-count">999</span> arrangements which cover <span class="in-text-number" id="covered-theme-count">999</span> touhou themes. More arrangements are to be uploaded.</p>
+                <p>Start your search in <a href="touhou_work_list.html">Arrangements</a>.</p>
+                <p>Read more about this site in <a href="about.html">About</a>.</p>
+            </div>
+
+            <div class="language-setting">
+                <h2>Language Setting</h2>
+                <p>All titles and names are in their original language by default. Turn on the switch below if you want them automatically translated to English (if such translation is available).</p>
+                <label class="switch">
+                    <input type="checkbox" id="checkbox" onclick="handle_switch(this)">
+                    <span class="slider round"></span>
+                </label>
+                <p class="text-after-label">Enable Translation</p>
+            </div>
+
+            <div>
+                <h2>Recent Uploads</h2>
+                <ul id="recent-uploads"></ul>
+            </div>
+        </div>
+
+        <script src="jquery-3.6.3.min.js"></script>
+        <script src="add_navigation.js"></script>
+        <script src="generic_fetch.js"></script>
+        <script src="home.js"></script>
+    </body>
 </html>

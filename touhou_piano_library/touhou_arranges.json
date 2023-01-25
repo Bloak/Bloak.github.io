@@ -68,6 +68,51 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+	"hr04_01":{
+		"title": "【Etude Ⅰ】 - ヒロシゲ36号 -",
+		"original": "hr04_01",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=302s"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"hr04_02":{
+		"title": "【Etude II】 - 53ミニッツの青い海 -",
+		"original": "hr04_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=443s"},
+			{"performer": "dekwest", "link": "https://www.youtube.com/watch?v=--FORFreZJA"},
+			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1Et411376v"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+	"hr04_11_2":{
+		"title": "【Finale】 - 最も澄み渡る空と海 -",
+		"original": "hr04_11",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "琉璃の鸟",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=2940s"},
+			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1YJ411A7TF"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
 	"hr05_10":{
 		"title": "ハートグレイズ",
 		"title_en": "Heart Graze",
@@ -540,7 +585,8 @@
 		"arranger": "ローズレッド",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10784106"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10784106"},
+			{"performer": "大谷的游戏创作小屋", "link": "https://www.bilibili.com/video/BV1zJ41117Ts"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -1166,9 +1212,10 @@
 	},
 	"th08_06_4":{
 		"title": "幻想郷、我が郷里",
+		"title_en": "Gensokyo, My Hometown",
 		"original": "th08_06",
 		"arranger": "しらは",
-		"transcribe": "Wiilly",
+		"transcriber": "Wiilly",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=PX04AVek7EQ"},
@@ -1182,6 +1229,7 @@
 		"title": "慧音の子守唄",
 		"title_en": "Keine's Lullaby",
 		"original": "th08_06",
+		"original_ex": ["th08_02"],
 		"circle": "Presence∝fTVA",
 		"album": "Presence∝fTVA 2009 spring",
 		"arranger": "Denko",
@@ -1774,8 +1822,7 @@
 			{"performer": "Maestro", "link": "https://www.youtube.com/watch?v=tYqeneEtohs"}
 		],
 		"type": "transcription",
-		"difficulty": "4",
-		"comment": "The constant shift between F# minor and Gb major really boggles me. Why not use F# major?"
+		"difficulty": "4"
 	},
 	"th11_09_2":{
 		"title": null,
@@ -2011,7 +2058,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "Do the fingers imply that the artist could play this? Measure 7 looks very esoteric."
+		"comment": "Do the fingerings imply that the artist could play this? Measure 7 looks very esoteric."
 	},
 	"th13_05_2":{
 		"title": "門前の妖怪小娘のエチュード",
@@ -2201,6 +2248,17 @@
 		"difficulty": "?",
 		"comment": "The voices are so far apart from each other that this piece is impractical for real performance. However, it does have the amazing three-hand effect, so it's rewarding if you already have the required techniques."
 	},
+	"th15_08_3":{
+		"title": null,
+		"original": "th15_08",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rWmqHW8djEg"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
 	"th15_14":{
 		"title": null,
 		"original": "th15_14",
@@ -2223,6 +2281,17 @@
 		"type": "transcription",
 		"difficulty": "5",
 		"comment": "Warning: Irregular left hand."
+	},
+	"th16_08":{
+		"title": null,
+		"original": "th16_08",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4-0IBuPIQrs"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
 	},
 	"th16_11":{
 		"title": null,
@@ -2317,6 +2386,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "2"
+	},
+    "TFM-001b_10":{
+		"title": null,
+		"original": "TFM-001b_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm5490871"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/01/25"
 	},
 	"TFM-001b_19":{
 		"title": null,

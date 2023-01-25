@@ -67,7 +67,7 @@
 			{"title": "youtube", "url":"https://www.youtube.com/user/abfuku77"},
 			{"title": "niconico", "url":"https://www.nicovideo.jp/user/579765/mylist/3503235"}
 		],
-		"comment": "The artist stated that he recorded his performances as MIDI and did some manipulation on it, and the sheet music were made afterwards (see http://abfuku.asuscomm.com/pic/abmemo.txt). I have to say his sheets are quite messy... \nSome notes on practice/performance: \n1. Notice the two-part right hand texture. Be sure to distinguish the melody from the accompaniment by playing it louder. The audios didn't demonstrate this enough. \n2. All arrangements are loops, just like the original game music, so you will need to add a proper ending yourself."
+		"comment": "The artist stated that he recorded his performances as MIDI and did some manipulation on it, and the sheet music were made afterwards (see http://abfuku.asuscomm.com/pic/abmemo.txt). I have to say his sheets are quite messy... \n\nSome notes on practice/performance: \n\n1. Notice the two-part right hand texture. Be sure to distinguish the melody from the accompaniment by playing it louder. The audios didn't demonstrate this enough. \n\n2. All arrangements are loops, just like the original game music, so you will need to add a proper ending yourself."
 	},
 	"chiquchoo":{
 		"website": [
@@ -157,7 +157,7 @@
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/4875421/mylist/22504365"},
 			{"title": "youtube", "url": "https://www.youtube.com/user/tonyumuso"},
-			{"title": "人間用楽譜置き場", "url": "https://sound.jp/tounyumuso/ningen.html#"}
+			{"title": "豆乳夢想的東方楽譜置場", "url": "https://sound.jp/tounyumuso/"}
 		]
 	},
 	"ありおと":{
@@ -249,7 +249,8 @@
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/c/norimusic"},
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/49661807/mylist/56551386"}
-		]
+		],
+		"comment": "Master of merging multiple themes."
 	},
 	"TKDL":{
 		"website": [
@@ -572,6 +573,41 @@
 			{"title": "youtube", "url": "https://www.youtube.com/@TenninWorks"},
 			{"title": "soundcloud", "url": "https://soundcloud.com/yuiru"},
 			{"title": "musescore", "url": "https://musescore.com/httpssheet_hostuserkaneo"}
+		]
+	},
+	"大谷的游戏创作小屋":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/176003"}
+		]
+	},
+	"琉璃の鸟":{
+		"website": [
+			{"title": "bilibili", "url": "https://space.bilibili.com/21557956"}
+		]
+	},
+	"Kijiriki":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@Kijiriki"},
+			{"title": "score", "url": "http://kijiriki.iza-yoi.net/score.html"}
+		],
+		"comment": "The artist is probably better known for their synthesia renditions of touhou piano music than their original arrangements. Their website has a \"transcripton\" page which contains all the videos as well as downloadable score and midi files. Their \"transcriptions\" were based on already available sheet music, more like score --> audio rather than audio --> score. Nevertheless, I'm thankful for their work because some of the arrangements have been deleted by the original artists but we can still listen to them and view the scores in Kijiriki's channel and website. Still, be careful using Kijiriki's remade scores, as they might have some differences to the original ones. \nAs for the artist's own arrangements, it seems that there's been no one performing them so we only have midi audio. I'm going to learn some easier ones and upload recordings in the near future."
+	},
+	"Quellatalo":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@QuellataloNin"},
+			{"title": "website", "url": "https://quellatalo.azurewebsites.net"}
+		],
+		"comment": "The best touhou transcriber as far as I know. It's extremely difficult to transcribe piano duets where all the voices cluster together."
+	},
+	"RD-Sounds":{
+		"website": [
+			{"title": "凋叶棕", "url": "http://www.rd-sounds.com/"}
+		],
+		"comment": "The circle's website had a \"scores\" page, which was still public in 2014, as indicated in this video description: https://www.youtube.com/watch?v=EVjBGRzMM-s . I have a bunch of sdf files which I believe came from there, but unfortunately I cannot open them. There are two pdf files among them, 蠢々秋月 (https://bloak.github.io/arrange/th08_03_3.pdf) and 明日ハレの日、ケの昨日 (https://bloak.github.io/arrange/th10_14_2.pdf). The video mentioned above is the midi for the first arrangement. I didn't list them in music search because their quality is very questionable. They don't fit RD's style (for example, this arrangement https://www.youtube.com/watch?v=PzJ7ABAQxP8 was released in 2007) and they're more like in the style of 雲音ゆこ or DMBN."
+	},
+	"Knix6593":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@Knix6593"}
 		]
 	}
 }

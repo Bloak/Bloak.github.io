@@ -18,6 +18,11 @@
 		"title_en": "Alice in Wonderland",
 		"collection": "th05"
 	},
+	"th06_01": {
+		"title": "赤より紅い夢",
+		"title_en": "A Dream More Scarlet than Red",
+		"collection": "th06"
+	},
 	"th06_02": {
 		"title": "ほおずきみたいに紅い魂",
 		"title_en": "a Soul as Red as a Ground Cherry",
@@ -86,6 +91,16 @@
 	"th06_15": {
 		"title": "U.N.オーエンは彼女なのか？",
 		"title_en": "U.N. Owen Was Her?",
+		"collection": "th06"
+	},
+	"th06_16": {
+		"title": "紅より儚い永遠",
+		"title_en": "An Eternity More Transient than Scarlet",
+		"collection": "th06"
+	},
+	"th06_17": {
+		"title": "紅楼　～ Eastern Dream...",
+		"title_en": "Crimson Belvedere ~ Eastern Dream",
 		"collection": "th06"
 	},
 	"th07_01": {
@@ -448,6 +463,11 @@
 		"title_en": "Memory of Forgathering Dream",
 		"collection": "th075"
 	},
+    "TFM-001b_10": {
+		"title": "ヴワル魔法図書館",
+		"title_en": "Voile, the Magic Library",
+		"collection": "th075"
+	},
 	"TFM-001b_13": {
 		"title": "仰空",
 		"title_en": "Skygazer",
@@ -465,6 +485,11 @@
 	"TFM-001b_19": {
 		"title": "東方萃夢想",
 		"title_en": "Eastern Memory of Forgathering Dream",
+		"collection": "th075"
+	},
+    "TFM-001b_23": {
+		"title": "東方萃夢想（Arrange）",
+		"title_en": "Eastern Memory of Forgathering Dream (Arrange)",
 		"collection": "th075"
 	},
 	"TFM-003O_01": {

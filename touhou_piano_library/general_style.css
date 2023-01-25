@@ -1,5 +1,6 @@
-a, h1, h2, p {
+a, h1, h2, p, td, label, span {
     font-family: "Open Sans", sans-serif;
+    line-height: 1.5;
 }
 
 body {
@@ -16,6 +17,17 @@ nav {
 a {
     text-decoration: none;
     cursor: pointer;
+}
+
+table {
+    background-color: white;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
 }
 
 a:visited {
@@ -44,4 +56,5 @@ h1, h2 {
 .page {
     margin-left: 5%;
     margin-right: 5%;
+    margin-bottom: 50px;
 }
