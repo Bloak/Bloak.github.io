@@ -1,42 +1,34 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Arranger Info</title>
+        <title>List of Artists</title>
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="DataTables/dataTables.css">
         <link rel="stylesheet" href="general_style.css">
-        <link rel="stylesheet" href="arranger_info.css">
+        <link rel="stylesheet" href="artists.css">
     </head>
     <body>
         <div id="nav-placeholder"></div>
 
         <div class="page">
-            <h1 id="title">Placeholder Title</h1>
+            <h1 id="title">List of Artists</h1>
 
             <table id="table">
-                <tr>
-                    <td>Title</td>
-                    <td>Original Theme</td>
-                    <td>Type</td>
-                    <td>Difficulty</td>
-                    <td>Score</td>
-                </tr>
+                <thead>
+                    <th>Name</th>
+                    <th>Arrangements</th>
+                    <th>Transcriptions</th>
+                    <th>Performances</th>
+                </thead>
+                <tbody id="table-body"></tbody>
             </table>
-
-            <div class="block">
-                <h3>Links</h3>
-                <ul id="links"></ul>
-            </div>
-
-            <div class="block">
-                <h3>Additional Note</h3>
-                <p id="comment"></p>
-            </div>
         </div>
 
         <script src="jquery-3.6.3.min.js"></script>
         <script src="add_navigation.js"></script>
         <script src="generic_fetch.js"></script>
-        <script src="arranger_info.js"></script>
+        <script src="artists.js"></script>
+        <script src="DataTables/dataTables.min.js"></script>
     </body>
 </html>

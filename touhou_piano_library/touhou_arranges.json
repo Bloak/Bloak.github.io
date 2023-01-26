@@ -302,7 +302,7 @@
 			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm8346316"}
 		],
 		"type": "arrange",
-		"difficulty": "3",
+		"difficulty": "4",
 		"comment": "The original arrangement is non-piano: https://www.nicovideo.jp/watch/sm6675928 \nThe artist's blog regarding this arrangement: http://ameblo.jp/musicbox-of-afterglow/entry-10238598934.html "
 	},
 	"th06_04_3":{
@@ -2410,7 +2410,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"},
-			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"}
+			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"},
+            {"performer": "Midori Yakumo", "link": "https://www.youtube.com/watch?v=CYfmppYlRUs"}
 		],
 		"type": "arrange",
 		"difficulty": "3",

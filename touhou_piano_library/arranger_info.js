@@ -70,6 +70,7 @@ async function display_arrangements(ids, all_arrangements) {
 
         // only the main theme
         var theme_link = await create_theme_link(arrangement.original);
+        var theme_text = theme_link.innerText;
 
         var type = arrangement.type;
 
@@ -80,7 +81,7 @@ async function display_arrangements(ids, all_arrangements) {
         var table = document.getElementById("table");
         var new_row = table.insertRow();
         var cell1 = new_row.insertCell(); cell1.innerText = title;
-        var cell2 = new_row.insertCell(); cell2.appendChild(theme_link);
+        var cell2 = new_row.insertCell(); cell2.innerText = theme_text;
         var cell3 = new_row.insertCell(); cell3.innerText = type;
         var cell4 = new_row.insertCell(); cell4.innerText = difficulty;
         var cell5 = new_row.insertCell(); cell5.appendChild(link);
@@ -100,6 +101,21 @@ function add_comment(data) {
     p.innerHTML = text;
 }
 
+function add_links(data) {
+    var ul = document.getElementById("links");
+    var websites = data.website;
+    if (websites.length === 0) {
+        ul.parentNode.remove();
+        return;
+    }
+    for (var website of websites) {
+        var a = create_link(website.url, website.title, true);
+        var li = document.createElement("li");
+        li.appendChild(a);
+        ul.appendChild(li);
+    }
+}
+
 async function main() {
     var name = get_entry_name();
     var data = await get_entry_info(name);
@@ -111,6 +127,8 @@ async function main() {
     display_arrangements(current_theme_arrangement_ids, all_arrangements);
 
     add_comment(data);
+
+    add_links(data);
 }
 
 document.onload = main();

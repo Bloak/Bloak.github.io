@@ -86,6 +86,16 @@ async function display_arrangements(ids, all_arrangements) {
     }
 }
 
+async function show_source(data) {
+    var source = data.collection;
+    var works = await get_json("touhou_works.json");
+    var work_data = works[source];
+    var title = (translation_enabled()) ? work_data.title_en : work_data.title;
+    
+    var p = document.getElementById("source");
+    p.innerHTML = `(From <b>${title}</b>)`;
+}
+
 async function main() {
     var id = get_entry_id();
     var data = await get_entry_info(id);
@@ -95,6 +105,8 @@ async function main() {
     var all_arrangements = await get_json("touhou_arranges.json");
     var current_theme_arrangement_ids = get_arrangements(id, all_arrangements);
     display_arrangements(current_theme_arrangement_ids, all_arrangements);
+
+    show_source(data);
 }
 
 document.onload = main();
