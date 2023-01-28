@@ -1,5 +1,5 @@
 var urlRegex =/(\b(https?|ftp|file):\/\/[-A-Z0-9+&@#\/%?=~_|!:,.;]*[-A-Z0-9+&@#\/%=~_|])/ig;
-var singleNewLineRegex = /(?<!\n)\n(?!\n)/ig;
+//var singleNewLineRegex = /(?<!\n)\n(?!\n)/ig;
 
 function translation_enabled() {
     var state = localStorage.getItem("enable_translation");
@@ -147,10 +147,20 @@ async function create_arrangement_link(id, data) {
     return create_link(url, text);
 }
 
+function double_new_line(string) {
+    for (var i = 0; i < string.length; ++i) {
+        if (string[i] === "\n" && string[i - 1] !== "\n" && string[i + 1] !== "\n") {
+            string = string.substring(0, i + 1) + "\n" + string.substring(i + 1);
+            i++;
+        }
+    }
+    return string;
+} 
+
 function text_to_html(text) {
     // applied to comments
     // correctly add new lines and links in html format
-    text = text.replaceAll(singleNewLineRegex, "\n\n").replaceAll("\n", "<br>");
+    text = double_new_line(text).replaceAll("\n", "<br>");
     text = text.replaceAll(urlRegex, function(url) {
         return `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
     });

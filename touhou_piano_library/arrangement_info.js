@@ -169,6 +169,8 @@ async function generate_sheet_music_preview(url) {
             renderTask.promise.then(function () {
                 console.log('Page rendered');
             });
+
+            canvas.style.display = "";
         });
     }, function (reason) {
         // PDF loading error
@@ -209,6 +211,8 @@ function add_comment(data) {
 }
 
 async function main() {
+    document.getElementById("pdf-preview").style.display = "none";
+
     var id = get_entry_id();
     var data = await get_entry_info(id);
 
