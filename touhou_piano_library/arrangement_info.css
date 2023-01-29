@@ -13,6 +13,10 @@
     vertical-align: middle;
 }
 
+#sheet-music-link {
+    vertical-align: middle;
+}
+
 .metadata-table td:first-child {
     font-weight: bold;
     border-right: 2px solid black;
@@ -36,4 +40,8 @@
 .recordings-table tr:first-child {
     font-weight: bold;
     border-bottom: 2px solid black;
+}
+
+.recordings-table {
+    word-break: break-word;
 }
