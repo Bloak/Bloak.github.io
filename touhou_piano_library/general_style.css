@@ -17,6 +17,7 @@ nav {
 a {
     text-decoration: none;
     cursor: pointer;
+    overflow-wrap: break-word;
 }
 
 table {
