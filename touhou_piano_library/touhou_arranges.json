@@ -1469,6 +1469,21 @@
 		"difficulty": "?",
 		"comment": "This one is like those crazy etudes where you have to play everything with left hand alone."
 	},
+    "th08_18_2":{
+		"title": "泡沫、哀のまほろば",
+		"original": "th08_18",
+        "original_ex": ["th08_19"],
+		"arranger": ["iceon", "HiZuMi"],
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=GtRhF6Jq4yg"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NfjTGFMMKL0 ",
+        "date": "2023/1/30"
+	},
 	"th08_19_2":{
 		"title": null,
 		"original": "th08_19",
@@ -1539,6 +1554,20 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "If you find the pdf unreadable, please refer to the engraving by Knix: https://www.youtube.com/watch?v=055Dl_utjyY"
+	},
+    "th09_15_2":{
+		"title": "華鳥風月",
+		"original": "th09_15",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=VxfjjG3PEB8"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=gXCI8vJTjqA \nThe first page should be 3/4 time instead of 6/8.",
+        "date": "2023/1/30"
 	},
 	"th095_04_2":{
 		"title": null,
@@ -1651,6 +1680,20 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th10_06_3":{
+		"title": "色は匂へど散りぬるを",
+		"original": "th10_06",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=IzDCALTqsZI"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NpgaGhAW9So ",
+        "date": "2023/1/30"
 	},
 	"th10_07_2":{
 		"title": null,
@@ -1953,6 +1996,20 @@
 		"type": "transcription",
 		"difficulty": "4",
 		"comment": "Unfortunately I couldn't find marasy's performance video or any audio from one of the two CDs 幻想遊戯＜地＞ / 幻想遊戯＜雅＞3."
+	},
+    "th11_14_3":{
+		"title": "月に叢雲華に風",
+		"original": "th11_14",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=0BCfom-zWrs"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=skCiZ9IJmZY ",
+        "date": "2023/1/30"
 	},
 	"th12_02":{
 		"title": null,

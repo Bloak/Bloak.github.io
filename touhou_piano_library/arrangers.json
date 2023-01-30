@@ -609,7 +609,20 @@
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/@Knix6593"}
 		]
-	}
+	},
+    "Oldtang":{
+		"website": [
+			{"title": "youtube", "url": "https://www.youtube.com/@OldTangPiano"},
+            {"title": "gumroad", "url": "https://oldtangpiano.gumroad.com"}
+		]
+	},
+    "iceon":{
+        "website": [
+			{"title": "Xceon", "url": "http://xceon.jp"},
+            {"title": "frost_fragment", "url": "https://frost-fragment.jimdosite.com"},
+            {"title": "幽閉サテライト", "url": "http://www.yuuhei-satellite.jp"}
+		]
+    }
 }
 
 
