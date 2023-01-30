@@ -50,6 +50,7 @@ async function display_data(artists) {
     $('#table').DataTable();
 
     document.getElementById("table").style.display = "";
+    resize_table_font("table");
 }
 
 async function main() {

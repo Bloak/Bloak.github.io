@@ -195,3 +195,20 @@ function parse_authors(authors) {
         return authors;
     }
 }
+
+function resize_table_font(table_id) {
+    const collection = document.getElementsByClassName("page");
+    var page = collection[0];
+    var page_width = page.clientWidth;
+
+    var table = document.getElementById(table_id);
+    var table_width = table.offsetWidth;
+
+    console.log({page_width, table_width});
+
+    if (table_width > page_width) {
+        console.log(1);
+        var font_size_ratio = page_width / table_width * 0.9;
+        table.style.fontSize = (Math.floor(font_size_ratio * 100)).toString() + "%";
+    }
+}
