@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Search by Difficulty</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="general_style.css">
+        <link rel="stylesheet" href="difficulty.css">
+    </head>
+    <body>
+        <div id="nav-placeholder"></div>
+
+        <div class="page" id="page">
+            <h1 id="title">Search by Difficulty</h1>
+
+            <label>
+                Select difficulty 
+                <select id="difficulty" onchange="difficulty_changed(this)">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                    <option value="?">?</option>
+                </select>
+            </label>
+
+            <table>
+                <thead>
+                    <th>Title</th>
+                    <th>Original Theme</th>
+                    <th>Arranger</th>
+                    <th>Type</th>
+                    <th>Score</th>
+                </thead>
+                <tbody id="data-entry">
+
+                </tbody>
+            </table>
+        </div>
+
+        <script src="jquery-3.6.3.min.js"></script>
+        <script src="add_navigation.js"></script>
+        <script src="generic_fetch.js"></script>
+        <script src="difficulty.js"></script>
+    </body>
+</html>

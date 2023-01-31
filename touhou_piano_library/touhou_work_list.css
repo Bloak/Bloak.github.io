@@ -1,17 +1,22 @@
 #template {
-    display: block;
+    display: none;
+}
+
+.touhou-work {
+    margin: 20px 0;
 }
 
 /* Style the button that is used to open and close the collapsible content */
 .collapsible {
     background-color: transparent;
     cursor: pointer;
-    padding: 10px;
+    padding: 4px;
     width: 100%;
     border: 2px solid black;
     text-align: center;
     outline: none;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
 }
   
 /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
@@ -25,7 +30,7 @@
     width: 100%;
     display: none;
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: white;
 }
 
 .content thead {
@@ -34,5 +39,9 @@
 
 .content td {
     text-align: center;
+}
+
+.work-type {
+    margin-top: 50px;
 }
   

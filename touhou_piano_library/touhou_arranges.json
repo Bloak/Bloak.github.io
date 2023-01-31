@@ -831,7 +831,7 @@
 	},
 	"th07_09":{
 		"title": null,
-		"original": "hr07_09",
+		"original": "th07_09",
 		"arranger": "kituneyuu",
 		"pdf": "default",
 		"performance": [
@@ -1267,6 +1267,7 @@
 	},
 	"th08_08_3":{
 		"title": "永き夜の変奏曲",
+        "title_en": "Eternal Night Variations",
 		"original": "th08_08",
 		"circle": "Everfades",
 		"album": "Reverie",
