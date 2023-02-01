@@ -6,9 +6,9 @@
     margin: 20px 0;
 }
 
-/* Style the button that is used to open and close the collapsible content */
 .collapsible {
     background-color: transparent;
+    color: black;
     cursor: pointer;
     padding: 4px;
     width: 100%;
@@ -18,28 +18,37 @@
     font-size: 20px;
     font-weight: bold;
 }
-  
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-.active, .collapsible:hover {
+
+.active, .collapsible:active{
     background-color: black;
     color: white;
 }
-  
-/* Style the collapsible content. Note: hidden by default */
+
+@media (hover: hover) and (pointer: fine) {
+    .collapsible:hover {
+        background-color: black;
+        color: white;
+    }
+}
+
 .content {
     /* display: none; */
     overflow: hidden;
     max-height: 0;
-    transition: max-height 0.2s ease-out;
+    transition: max-height 0.3s ease-in-out;
+    margin-top: 0;
+    padding: 0;
 }
 
 .table {
     width: 100%;
     background-color: white;
+    border-top: 0;
 }
 
 .table thead {
     border: 2px solid black;
+    border-top: 0;
 }
 
 .table td {
