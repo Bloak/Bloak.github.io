@@ -27,17 +27,22 @@
   
 /* Style the collapsible content. Note: hidden by default */
 .content {
-    width: 100%;
-    display: none;
+    /* display: none; */
     overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.2s ease-out;
+}
+
+.table {
+    width: 100%;
     background-color: white;
 }
 
-.content thead {
+.table thead {
     border: 2px solid black;
 }
 
-.content td {
+.table td {
     text-align: center;
 }
 

@@ -4,12 +4,17 @@ function activate_collapsibles() {
 
     for (i = 0; i < coll.length; i++) {
         coll[i].addEventListener("click", function() {
-        this.classList.toggle("active");
+            this.classList.toggle("active");
             var content = this.nextElementSibling;
-            if (content.style.display === "table") {
+            /* if (content.style.display === "table") {
                 content.style.display = "none";
             } else {
                 content.style.display = "table";
+            } */
+            if (content.style.maxHeight) {
+                content.style.maxHeight = null;
+            } else {
+                content.style.maxHeight = content.scrollHeight + "px";
             }
         });
     }
@@ -20,7 +25,7 @@ function display_themes(touhou_themes, arrangements) {
         var theme_info = touhou_themes[theme_id];
         var work_id = theme_info.collection;
         var div = document.getElementById(work_id);
-        var table = div.children[1];
+        var table = div.children[1].children[0];
         var tbody = table.children[2];
         var new_row = tbody.insertRow();
 
