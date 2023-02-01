@@ -622,7 +622,18 @@
             {"title": "frost_fragment", "url": "https://frost-fragment.jimdosite.com"},
             {"title": "幽閉サテライト", "url": "http://www.yuuhei-satellite.jp"}
 		]
-    }
+    },
+    "DO":{
+		"website": [
+			{"title": "東方に夢を見る", "url": "http://fuumaroku.blog79.fc2.com"},
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/3253240"}
+		]
+	},
+    "mino":{
+		"website": [
+			{"title": "東大幻想郷　楽譜庫", "url": "https://ux.getuploader.com/todaigensokyo/"}
+		]
+	}
 }
 
 

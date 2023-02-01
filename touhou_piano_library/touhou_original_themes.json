@@ -4,10 +4,65 @@
 		"title_en": "Circus Reverie",
 		"collection": "hr01"
 	},
+    "hr01_10": {
+		"title": "リーインカーネイション",
+		"title_en": "Reincarnation",
+		"collection": "hr01"
+	},
 	"hr01_12": {
 		"title": "永遠の巫女",
 		"title_en": "Eternal Shrine Maiden",
 		"collection": "hr01"
+	},
+    "hr02_01": {
+		"title": "夜のデンデラ野を逝く",
+		"title_en": "Passing on Through the Dendera Fields in the Night",
+		"collection": "hr02"
+	},
+    "hr02_02": {
+		"title": "少女秘封倶楽部",
+		"title_en": "Girls' Sealing Club",
+		"collection": "hr02"
+	},
+    "hr02_11": {
+		"title": "幻想の永遠祭",
+		"title_en": "Eternal Festival of Illusions",
+		"collection": "hr02"
+	},
+    "hr03_01": {
+		"title": "童祭　～ Innocent Treasures",
+		"title_en": "Kid's Festival ~ Innocent Treasures",
+		"collection": "hr03"
+	},
+    "hr03_02": {
+		"title": "華胥の夢",
+		"title_en": "Dream of Arcadia",
+		"collection": "hr03"
+	},
+    "hr03_09": {
+		"title": "夢と現の境界",
+		"title_en": "Border Between Dreams and Reality",
+		"collection": "hr03"
+	},
+    "hr04_01": {
+		"title": "ヒロシゲ36号 ～ Neo Super-Express",
+		"title_en": "Hiroshige No.36 ~ Neo Super-Express",
+		"collection": "hr04"
+	},
+    "hr04_02": {
+		"title": "53ミニッツの青い海",
+		"title_en": "Blue Sea of 53 Minutes",
+		"collection": "hr04"
+	},
+    "hr04_05": {
+		"title": "青木ヶ原の伝説",
+		"title_en": "Legend of Aokigahara",
+		"collection": "hr04"
+	},
+    "hr04_11": {
+		"title": "最も澄みわたる空と海",
+		"title_en": "The Purest Sky and Sea",
+		"collection": "hr04"
 	},
 	"th05_06": {
 		"title": "Romantic Children",
@@ -283,6 +338,11 @@
 		"title_en": "Flight of the Bamboo Cutter ~ Lunatic Princess",
 		"collection": "th08"
 	},
+    "th08_16": {
+		"title": "月見草",
+		"title_en": "Evening Primrose",
+		"collection": "th08"
+	},
 	"th08_17": {
 		"title": "Eternal Dream　～ 幽玄の槭樹",
 		"title_en": "Eternal Dream ~ Mystical Maple",
@@ -303,15 +363,105 @@
 		"title_en": "Eastern Youkai Beauty",
 		"collection": "th08"
 	},
+    "th09_02": {
+		"title": "春色小径　～ Colorful Path",
+		"title_en": "Spring Lane ~ Colorful Path",
+		"collection": "th09"
+	},
+    "th09_03": {
+		"title": "オリエンタルダークフライト",
+		"title_en": "Oriental Dark Flight",
+		"collection": "th09"
+	},
 	"th09_04": {
 		"title": "フラワリングナイト",
 		"title_en": "Flowering Night",
 		"collection": "th09"
 	},
+    "th09_10": {
+		"title": "お宇佐さまの素い幡",
+		"title_en": "White Flag of Usa Shrine",
+		"collection": "th09"
+	},
+    "th09_12": {
+		"title": "ポイズンボディ　～ Forsaken Doll",
+		"title_en": "Poison Body ~ Forsaken Doll",
+		"collection": "th09"
+	},
+    "th09_13": {
+		"title": "今昔幻想郷　～ Flower Land",
+		"title_en": "Gensokyo, Past and Present ~ Flower Land",
+		"collection": "th09"
+	},
+    "th09_14": {
+		"title": "彼岸帰航　～ Riverside View",
+		"title_en": "Higan Retour ~ Riverside View",
+		"collection": "th09"
+	},
+    "th09_15": {
+		"title": "六十年目の東方裁判　～ Fate of Sixty Years",
+		"title_en": "Eastern Judgement in the Sixtieth Year ~ Fate of Sixty Years",
+		"collection": "th09"
+	},
+    "th09_18": {
+		"title": "花は幻想のままに",
+		"title_en": "The Flower Like the Fantasy",
+		"collection": "th09"
+	},
+    "th095_01": {
+		"title": "天狗の手帖　～ Mysterious Note",
+		"title_en": "Tengu's Notebook ~ Mysterious Note",
+		"collection": "th095"
+	},
+    "th095_02": {
+		"title": "風の循環　～ Wind Tour",
+		"title_en": "Wind Circulation ~ Wind Tour",
+		"collection": "th095"
+	},
+    "th095_03": {
+		"title": "天狗が見ている　～ Black Eyes",
+		"title_en": "Tengu is Watching ~ Black Eyes",
+		"collection": "th095"
+	},
 	"th095_04": {
 		"title": "東の国の眠らない夜",
 		"title_en": "Sleepless Night of the Eastern Country",
 		"collection": "th095"
+	},
+    "th095_05": {
+		"title": "レトロスペクティブ京都",
+		"title_en": "Retrospective Kyoto",
+		"collection": "th095"
+	},
+    "th095_06": {
+		"title": "風神少女",
+		"title_en": "Wind God Girl",
+		"collection": "th095"
+	},
+    "th10_01": {
+		"title": "封印されし神々",
+		"title_en": "Sealed Gods",
+		"collection": "th10"
+	},
+    "th10_02": {
+		"title": "人恋し神様　～ Romantic Fall",
+		"title_en": "A God That Misses People ~ Romantic Fall",
+		"collection": "th10"
+	},
+    "th10_03": {
+		"title": "稲田姫様に叱られるから",
+		"title_en": "Because Princess Inada Is Scolding Me",
+		"collection": "th10"
+	},
+    "th10_04": {
+		"title": "厄神様の通り道　～ Dark Road",
+		"title_en": "The Road of the Misfortune God ~ Dark Road",
+		"collection": "th10"
+	},
+    "th10_05": {
+		"title": "運命のダークサイド",
+		"title_en": "Dark Side of Fate",
+		"collection": "th10"
 	},
 	"th10_06": {
 		"title": "神々が恋した幻想郷",
@@ -363,9 +513,39 @@
 		"title_en": "Native Faith",
 		"collection": "th10"
 	},
+    "th11_01": {
+		"title": "地霊達の起床",
+		"title_en": "Awakening of the Earth Spirits",
+		"collection": "th11"
+	},
+    "th11_02": {
+		"title": "暗闇の風穴",
+		"title_en": "The Dark Blowhole",
+		"collection": "th11"
+	},
+    "th11_03": {
+		"title": "封じられた妖怪　～ Lost Place",
+		"title_en": "The Sealed-Away Youkai ~ Lost Place",
+		"collection": "th11"
+	},
 	"th11_04": {
 		"title": "渡る者の途絶えた橋",
 		"title_en": "The Bridge People No Longer Cross",
+		"collection": "th11"
+	},
+    "th11_05": {
+		"title": "緑眼のジェラシー",
+		"title_en": "Green-Eyed Jealousy",
+		"collection": "th11"
+	},
+    "th11_06": {
+		"title": "旧地獄街道を行く",
+		"title_en": "Walking the Streets of a Former Hell",
+		"collection": "th11"
+	},
+    "th11_07": {
+		"title": "華のさかづき大江山",
+		"title_en": "A Flower-Studded Sake Dish on Mt. Ooe",
 		"collection": "th11"
 	},
 	"th11_08": {
@@ -413,9 +593,79 @@
 		"title_en": "Beware the Umbrella Left There Forever",
 		"collection": "th12"
 	},
+    "th12_08": {
+		"title": "幽霊客船の時空を越えた旅",
+		"title_en": "Interdimensional Voyage of a Ghostly Passenger Ship",
+		"collection": "th12"
+	},
+    "th12_09": {
+		"title": "キャプテン・ムラサ",
+		"title_en": "Captain Murasa",
+		"collection": "th12"
+	},
+    "th12_10": {
+		"title": "魔界地方都市エソテリア",
+		"title_en": "Rural Makai City Esoteria",
+		"collection": "th12"
+	},
+    "th12_11": {
+		"title": "虎柄の毘沙門天",
+		"title_en": "The Tiger-Patterned Bishamonten",
+		"collection": "th12"
+	},
+    "th12_12": {
+		"title": "法界の火",
+		"title_en": "Fires of Hokkai",
+		"collection": "th12"
+	},
+    "th12_13": {
+		"title": "感情の摩天楼　～ Cosmic Mind",
+		"title_en": "Emotional Skyscraper ~ Cosmic Mind",
+		"collection": "th12"
+	},
+    "th13_01": {
+		"title": "欲深き霊魂",
+		"title_en": "Spirit of Avarice",
+		"collection": "th13"
+	},
+    "th13_02": {
+		"title": "死霊の夜桜",
+		"title_en": "Night Sakura of Dead Spirits",
+		"collection": "th13"
+	},
+    "th13_03": {
+		"title": "ゴーストリード",
+		"title_en": "Ghost Lead",
+		"collection": "th13"
+	},
+    "th13_04": {
+		"title": "妖怪寺へようこそ",
+		"title_en": "Welcome to Youkai Temple",
+		"collection": "th13"
+	},
 	"th13_05": {
 		"title": "門前の妖怪小娘",
 		"title_en": "Youkai Girl at the Gate",
+		"collection": "th13"
+	},
+    "th13_06": {
+		"title": "素敵な墓場で暮しましょ",
+		"title_en": "Let’s Live in a Lovely Cemetery",
+		"collection": "th13"
+	},
+    "th13_07": {
+		"title": "リジッドパラダイス",
+		"title_en": "Rigid Paradise",
+		"collection": "th13"
+	},
+    "th13_08": {
+		"title": "デザイアドライブ",
+		"title_en": "Desire Drive",
+		"collection": "th13"
+	},
+    "th13_09": {
+		"title": "古きユアンシェン",
+		"title_en": "Old Yuanxian",
 		"collection": "th13"
 	},
 	"th13_15": {
@@ -433,6 +683,31 @@
 		"title_en": "Mist Lake",
 		"collection": "th14"
 	},
+    "th14_03": {
+		"title": "秘境のマーメイド",
+		"title_en": "Mermaid from the Uncharted Land",
+		"collection": "th14"
+	},
+    "th14_04": {
+		"title": "運河を行き交う人妖",
+		"title_en": "Humans and Youkai Traversing the Canal",
+		"collection": "th14"
+	},
+    "th14_05": {
+		"title": "柳の下のデュラハン",
+		"title_en": "Dullahan Under the Willows",
+		"collection": "th14"
+	},
+    "th14_06": {
+		"title": "満月の竹林",
+		"title_en": "Bamboo Forest of the Full Moon",
+		"collection": "th14"
+	},
+    "th14_07": {
+		"title": "孤独なウェアウルフ",
+		"title_en": "Lonesome Werewolf",
+		"collection": "th14"
+	},
 	"th15_04": {
 		"title": "湖は浄めの月光を映して",
 		"title_en": "The Lake Reflects the Cleansed Moonlight",
@@ -443,10 +718,100 @@
 		"title_en": "September Pumpkin",
 		"collection": "th15"
 	},
+    "th15_06": {
+		"title": "宇宙を飛ぶ不思議な巫女",
+		"title_en": "The Mysterious Shrine Maiden Flying Through Space",
+		"collection": "th15"
+	},
 	"th15_07": {
 		"title": "永遠の春夢",
 		"title_en": "Eternal Spring Dream",
 		"collection": "th15"
+	},
+    "th15_08": {
+		"title": "凍り付いた永遠の都",
+		"title_en": "The Frozen Eternal Capital",
+		"collection": "th15"
+	},
+    "th15_09": {
+		"title": "逆転するホイールオブフォーチュン",
+		"title_en": "Reversed Wheel of Fortune",
+		"collection": "th15"
+	},
+    "th15_10": {
+		"title": "遥か３８万キロのボヤージュ",
+		"title_en": "Faraway Voyage of 380,000 Kilometers",
+		"collection": "th15"
+	},
+    "th15_11": {
+		"title": "星条旗のピエロ",
+		"title_en": "Pierrot of the Star-Spangled Banner",
+		"collection": "th15"
+	},
+    "th15_12": {
+		"title": "故郷の星が映る海",
+		"title_en": "The Sea Where One's Home Planet Reflects",
+		"collection": "th15"
+	},
+    "th15_13": {
+		"title": "ピュアヒューリーズ　～ 心の在処",
+		"title_en": "Pure Furies ~ Whereabouts of the Heart",
+		"collection": "th15"
+	},
+    "th15_14": {
+		"title": "見た事も無い悪夢の世界",
+		"title_en": "A World of Nightmares Never Seen Before",
+		"collection": "th15"
+	},
+    "th15_15": {
+		"title": "パンデモニックプラネット",
+		"title_en": "Pandemonic Planet",
+		"collection": "th15"
+	},
+    "th16_02": {
+		"title": "希望の星は青霄に昇る",
+		"title_en": "A Star of Hope Rises in the Blue Sky",
+		"collection": "th16"
+	},
+    "th16_08": {
+		"title": "幻想のホワイトトラベラー",
+		"title_en": "Illusionary White Traveler",
+		"collection": "th16"
+	},
+    "th16_10": {
+		"title": "禁断の扉の向こうは、この世かあの世か",
+		"title_en": "Does the Forbidden Door Lead to This World, or the World Beyond?",
+		"collection": "th16"
+	},
+    "th16_11": {
+		"title": "クレイジーバックダンサーズ",
+		"title_en": "Crazy Backup Dancers",
+		"collection": "th16"
+	},
+    "th16_12": {
+		"title": "イントゥ・バックドア",
+		"title_en": "Into Backdoor",
+		"collection": "th16"
+	},
+    "th16_13": {
+		"title": "秘匿されたフォーシーズンズ",
+		"title_en": "The Concealed Four Seasons",
+		"collection": "th16"
+	},
+    "th16_14": {
+		"title": "もうドアには入れない",
+		"title_en": "No More Going Through Doors",
+		"collection": "th16"
+	},
+    "th16_15": {
+		"title": "秘神マターラ　～ Hidden Star in All Seasons.",
+		"title_en": "Secret God Matara ~ Hidden Star in All Seasons.",
+		"collection": "th16"
+	},
+    "th16_17": {
+		"title": "白い旅人",
+		"title_en": "White Traveler",
+		"collection": "th16"
 	},
 	"th18_03": {
 		"title": "大吉キトゥン",
@@ -456,6 +821,16 @@
 	"th18_04": {
 		"title": "深緑に隠された断崖",
 		"title_en": "The Cliff Hidden in Deep Green",
+		"collection": "th18"
+	},
+    "th18_12": {
+		"title": "ルナレインボー",
+		"title_en": "Lunar Rainbow",
+		"collection": "th18"
+	},
+    "th18_13": {
+		"title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
+		"title_en": "Where Is That Bustling Marketplace Now ~ Immemorial Marketeers",
 		"collection": "th18"
 	},
 	"TFM-001b_01": {

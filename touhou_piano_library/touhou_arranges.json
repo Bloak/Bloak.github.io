@@ -1468,7 +1468,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "This one is like those crazy etudes where you have to play everything with left hand alone."
+		"comment": "Left hand playing both melody and bass looks even more scary than the right hand 16th note run. This one is probably beyond the level of Chopin etudes, reaching that of Liszt or Alkan."
 	},
     "th08_18_2":{
 		"title": "泡沫、哀のまほろば",
@@ -1541,6 +1541,18 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+    "th09_13":{
+		"title": null,
+		"original": "th09_13",
+		"arranger": "mino",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=XLwpOR4hLHs"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/02/01"
+	},
 	"th09_13_2":{
 		"title": null,
 		"original": "th09_13",
@@ -1569,6 +1581,19 @@
 		"difficulty": "4",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=gXCI8vJTjqA \nThe first page should be 3/4 time instead of 6/8.",
         "date": "2023/1/30"
+	},
+    "th09_18":{
+		"title": null,
+		"original": "th09_18",
+		"arranger": "DO",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=L1BwxgAcOoY"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1b54y1j7bm"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "date": "2023/02/01"
 	},
 	"th095_04_2":{
 		"title": null,
