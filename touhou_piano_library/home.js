@@ -34,7 +34,8 @@ async function find_recent_uploads(data) {
         var new_entry = document.createElement("li");
         var new_entry_text = document.createElement("p");
         var link = await create_arrangement_link(id, arrangement_data);
-        new_entry_text.innerHTML = `<b>${arrangement_data.date}</b>: ` + link.outerHTML + ` by ${parse_authors(arrangement_data.arranger)}`;
+        var author_link = await create_person_links(arrangement_data.arranger);
+        new_entry_text.innerHTML = `<b>${arrangement_data.date}</b>: ` + link.outerHTML + " by " + author_link.innerText;
         new_entry.appendChild(new_entry_text);
         list.appendChild(new_entry);
     }

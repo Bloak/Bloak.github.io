@@ -633,7 +633,13 @@
 		"website": [
 			{"title": "東大幻想郷　楽譜庫", "url": "https://ux.getuploader.com/todaigensokyo/"}
 		]
-	}
+	},
+    "桃天ピクト":{
+        "alt_name": "Pikuto Momoten",
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@user-dj6zx6dc3r"}
+        ]
+    }
 }
 
 

@@ -133,5 +133,15 @@
 		"title": "東方非想天則",
 		"title_en": "Hisoutensoku",
 		"type": "spin-off"
+	},
+    "th125": {
+		"title": "ダブルスポイラー 〜 東方文花帖",
+		"title_en": "Double Spoiler",
+		"type": "spin-off"
+	},
+    "th128": {
+		"title": "妖精大战争",
+		"title_en": "Great Fairy Wars",
+		"type": "spin-off"
 	}
 }

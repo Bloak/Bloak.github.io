@@ -13,7 +13,7 @@
 		"difficulty": "?"
 	},
 	"hr01_10":{
-		"title": "Reincarnation",
+		"title": null,
 		"original": "hr01_10",
 		"circle": "いんぷれ。",
 		"album": "Presence Invisible",
@@ -113,6 +113,18 @@
 		"type": "arrange",
 		"difficulty": "2"
 	},
+    "hr05_09":{
+		"title": null,
+		"original": "hr05_09",
+		"arranger": "桃天ピクト",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Ai-niFR5hwo"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/02/01"
+	},
 	"hr05_10":{
 		"title": "ハートグレイズ",
 		"title_en": "Heart Graze",
@@ -143,7 +155,7 @@
 	},
 	"th03_08_2":{
 		"title": null,
-		"original": "hr03_08",
+		"original": "th03_08",
 		"circle": "Assaultdoor",
 		"album": "月遊 ～ツキアソビ～",
 		"arranger": "ありおと",
@@ -158,7 +170,7 @@
 	},
 	"th03_24":{
 		"title": null,
-		"original": "hr03_24",
+		"original": "th03_24",
 		"arranger": "kituneyuu",
 		"pdf": "default",
 		"performance": [
@@ -170,7 +182,7 @@
 	},
 	"th04_15":{
 		"title": null,
-		"original": "hr04_15",
+		"original": "th04_15",
 		"arranger": "kituneyuu",
 		"pdf": "default",
 		"performance": [
@@ -1483,7 +1495,7 @@
 		"type": "arrange",
 		"difficulty": "5",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NfjTGFMMKL0 ",
-        "date": "2023/1/30"
+        "date": "2023/01/30"
 	},
 	"th08_19_2":{
 		"title": null,
@@ -1580,7 +1592,7 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=gXCI8vJTjqA \nThe first page should be 3/4 time instead of 6/8.",
-        "date": "2023/1/30"
+        "date": "2023/01/30"
 	},
     "th09_18":{
 		"title": null,
@@ -1719,7 +1731,7 @@
 		"type": "arrange",
 		"difficulty": "5",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NpgaGhAW9So ",
-        "date": "2023/1/30"
+        "date": "2023/01/30"
 	},
 	"th10_07_2":{
 		"title": null,
@@ -2035,7 +2047,7 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=skCiZ9IJmZY ",
-        "date": "2023/1/30"
+        "date": "2023/01/30"
 	},
 	"th12_02":{
 		"title": null,

@@ -64,6 +64,34 @@
 		"title_en": "The Purest Sky and Sea",
 		"collection": "hr04"
 	},
+    "hr05_09": {
+		"title": "ネクロファンタジア",
+		"title_en": "Necro-Fantasia",
+		"collection": "hr05"
+	},
+    "hr05_10": {
+		"title": "向こう側の月",
+		"title_en": "The Far Side of the Moon",
+		"collection": "hr05"
+	},
+    "th02_11": {
+		"title": "Complete Darkness",
+		"collection": "th02"
+	},
+    "th03_08": {
+		"title": "夢消失　～Lost Dream",
+        "title_en": "Vanishing Dream ~ Lost Dream",
+		"collection": "th03"
+	},
+    "th03_24": {
+		"title": "Phantasmagoria",
+		"collection": "th03"
+	},
+    "th04_15": {
+		"title": "幽夢　～ Inanimate Dream",
+        "title_en": "Faint Dream ~ Inanimate Dream",
+		"collection": "th04"
+	},
 	"th05_06": {
 		"title": "Romantic Children",
 		"collection": "th05"
@@ -588,9 +616,34 @@
 		"title_en": "Hartmann's Youkai Girl",
 		"collection": "th11"
 	},
+    "th12_02": {
+		"title": "春の湊に",
+		"title_en": "At the End of Spring",
+		"collection": "th12"
+	},
+    "th12_03": {
+		"title": "小さな小さな賢将",
+		"title_en": "A Tiny, Tiny, Clever Commander",
+		"collection": "th12"
+	},
+    "th12_04": {
+		"title": "閉ざせし雲の通い路",
+		"title_en": "The Sealed Cloud Route",
+		"collection": "th12"
+	},
 	"th12_05": {
 		"title": "万年置き傘にご注意を",
 		"title_en": "Beware the Umbrella Left There Forever",
+		"collection": "th12"
+	},
+    "th12_06": {
+		"title": "スカイルーイン",
+		"title_en": "Sky Ruin",
+		"collection": "th12"
+	},
+    "th12_07": {
+		"title": "時代親父とハイカラ少女",
+		"title_en": "The Traditional Old Man and the Stylish Girl",
 		"collection": "th12"
 	},
     "th12_08": {
@@ -622,6 +675,16 @@
 		"title": "感情の摩天楼　～ Cosmic Mind",
 		"title_en": "Emotional Skyscraper ~ Cosmic Mind",
 		"collection": "th12"
+	},
+    "th125_05": {
+		"title": "無間の鐘　～ Infinite Nightmare",
+		"title_en": "Bell of Avici ~ Infinite Nightmare",
+		"collection": "th125"
+	},
+    "th128_01": {
+		"title": "春の氷精",
+		"title_en": "An Ice Fairy in Spring",
+		"collection": "th128"
 	},
     "th13_01": {
 		"title": "欲深き霊魂",
@@ -707,6 +770,26 @@
 		"title": "孤独なウェアウルフ",
 		"title_en": "Lonesome Werewolf",
 		"collection": "th14"
+	},
+    "th14_08": {
+		"title": "マジカルストーム",
+		"title_en": "Magical Storm",
+		"collection": "th14"
+	},
+    "th14_09": {
+		"title": "幻想浄瑠璃",
+		"title_en": "Illusionary Joururi",
+		"collection": "th14"
+	},
+    "th15_02": {
+		"title": "忘れがたき、よすがの緑",
+		"title_en": "Unforgettable, the Nostalgic Greenery",
+		"collection": "th15"
+	},
+    "th15_03": {
+		"title": "兎は舞い降りた",
+		"title_en": "The Rabbit Has Landed",
+		"collection": "th15"
 	},
 	"th15_04": {
 		"title": "湖は浄めの月光を映して",
@@ -813,6 +896,11 @@
 		"title_en": "White Traveler",
 		"collection": "th16"
 	},
+    "th17_13": {
+		"title": "偶像に世界を委ねて　～ Idoratrize World",
+		"title_en": "Entrust this World to Idols ~ Idolatrize World",
+		"collection": "th17"
+	},
 	"th18_03": {
 		"title": "大吉キトゥン",
 		"title_en": "Kitten of Great Fortune",
@@ -872,10 +960,34 @@
 		"title_en": "Heaven of Scarlet Perception",
 		"collection": "th105"
 	},
+    "TFM-003O_03": {
+		"title": "地の色は黄色",
+		"title_en": "The Ground's Color is Yellow",
+		"collection": "th105"
+	},
+    "TFM-003A_06": {
+		"title": "広有射怪鳥事　～ Till When？",
+		"title_en": "Hiroari Shoots a Strange Bird ~ Till When?",
+		"collection": "th105"
+	},
 	"TFM-003A_08": {
 		"title": "幽雅に咲かせ、墨染の桜　～ Border of Life",
 		"title_en": "Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life",
 		"collection": "th105"
+	},
+    "TFM-003A_11": {
+		"title": "砕月",
+		"title_en": "Broken Moon",
+		"collection": "th105"
+	},
+    "TFM-003A_17": {
+		"title": "東方緋想天",
+		"title_en": "Eastern Heaven of Scarlet Perception",
+		"collection": "th105"
+	},
+    "TFM-004_12": {
+		"title": "the Grimoire of Alice",
+		"collection": "th123"
 	},
 	"TFM-004_15": {
 		"title": "ぼくらの非想天則",

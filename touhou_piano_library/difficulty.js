@@ -10,9 +10,12 @@ async function display_arrangements(difficulty) {
     var tbody = document.getElementById("data-entry");
     
     var arrangements = await get_json("touhou_arranges.json");
+    var count = 0;
     for (var id in arrangements) {
         var data = arrangements[id];
         if (data.difficulty !== difficulty) continue;
+
+        count++;
 
         var title = "/";
         if (data.title !== null) {
@@ -40,6 +43,8 @@ async function display_arrangements(difficulty) {
     }
 
     tbody.parentNode.replaceChild(new_tbody, tbody);
+
+    document.getElementById("number").innerHTML = count.toString();
 }
 
 function main() {

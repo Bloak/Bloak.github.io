@@ -6,7 +6,7 @@ select {
 }
 
 table {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 th, td {
@@ -20,4 +20,10 @@ thead {
 
 th {
     text-align: left;
+}
+
+.result-count {
+    font-size: 75%;
+    font-style: italic;
+    margin-top: 20px;
 }
