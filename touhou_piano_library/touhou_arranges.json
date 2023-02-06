@@ -1358,6 +1358,23 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+    "th08_10_6":{
+		"title": "星色夜空",
+		"title_en": "Star-Colored Night Sky",
+		"original": "th08_10",
+		"circle": "いえろ～ぜぶら & 電開製作所",
+		"album": "東方ASSOCIATION",
+		"arranger": "柏木るざりん",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kac7sawgFF4"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "The original vocal version: https://www.youtube.com/watch?v=RZPZ9qR1uMU \nI tried to transcribe this song to piano solo, but found it's too complicated for one player. There are a few simplified versions on youtube, though no sheet music is provided. \nThe kkcwkoh video in the link was from a niconico video which has been deleted. This was a carefully made piano transcription, not simply the instrument part extracted from the song.",
+        "date": "2023/02/05"
+	},
 	"th08_11_2":{
 		"title": null,
 		"original": "th08_11",
