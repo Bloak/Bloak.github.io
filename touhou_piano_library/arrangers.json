@@ -645,6 +645,11 @@
         "website": [
             {"title": "電開製作所", "url": "http://denkai.net"}
         ]
+    },
+    "EpreTroll":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@EpreTroll"}
+        ]
     }
 }
 

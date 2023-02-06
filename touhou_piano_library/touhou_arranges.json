@@ -387,6 +387,21 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+    "th06_06":{
+		"title": "上海紅茶館",
+		"original": "th06_06",
+		"circle": "電奏楽団",
+		"album": "幻想禄",
+		"arranger": "天門",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hOJ6L4SWib4"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/02/06"
+	},
 	"th06_06_2":{
 		"title": "Chinese Fantasy ～上海紅茶館",
 		"original": "th06_06",
@@ -2264,6 +2279,20 @@
 		"type": "transcription",
 		"difficulty": "3"
 	},
+    "th14_02":{
+		"title": null,
+		"original": "th14_02",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=VLA_XsEO-5k"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
+        "date": "2023/02/06"
+	},
 	"th14_03":{
 		"title": null,
 		"original": "th14_03",
@@ -2275,6 +2304,20 @@
 		],
 		"type": "transcription",
 		"difficulty": "3"
+	},
+    "th14_04":{
+		"title": null,
+		"original": "th14_04",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EVNZV6Eaw48"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328 \nThe left hand starting from measure 17 has some large stretches, where the pianist is supposed to jump from the bottom note to the upper ones swiftly. I don't know how to achieve this in musescore, so in the video the notes are played together. \nThe red and green notes mean \"play stronger/weaker\" respectively. They were meant for audio playback only, but the red notes mostly highlight the melody in the middle voice so I think it's helpful to leave the colors on the score.",
+        "date": "2023/02/06"
 	},
 	"th14_05":{
 		"title": null,
@@ -2288,6 +2331,47 @@
 		"difficulty": "3",
 		"comment": "The chords in measures 5-12 is different from the original. Also in measures 13-20 the RH broken octaves don't simply disappear, but they sound fine. If you want to make corrections, you can refer to the original music or 37467524's midi (https://www.youtube.com/watch?v=epk0XKkbks8)"
 	},
+    "th14_06":{
+		"title": null,
+		"original": "th14_06",
+		"arranger": "Mitty",
+		"pdf": "https://www.nicovideo.jp/watch/sm21786037",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm21786037"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "The pdf score was lost along with Mitty's website.",
+        "date": "2023/02/06"
+	},
+    "th14_07":{
+		"title": null,
+		"original": "th14_07",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Gq0fubYAgQI"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
+        "date": "2023/02/06"
+	},
+    "th14_08":{
+		"title": null,
+		"original": "th14_08",
+		"arranger": "Mitty",
+        "transcriber": "EpreTroll",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-XvSZzNTlu8"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC stage 4 - end): https://www.nicovideo.jp/watch/sm21657553",
+        "date": "2023/02/06"
+	},
 	"th14_09":{
 		"title": null,
 		"original": "th14_09",
@@ -2298,6 +2382,32 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th14_10":{
+		"title": null,
+		"original": "th14_10",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BSUE_lqY9sc"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC stage 4 - end): https://www.nicovideo.jp/watch/sm21657553",
+        "date": "2023/02/06"
+	},
+    "th14_13":{
+		"title": null,
+		"original": "th14_13",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm21576753"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/02/06"
 	},
 	"th15_03":{
 		"title": null,
