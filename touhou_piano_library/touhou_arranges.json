@@ -1248,7 +1248,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/keine_denko_ex.htm"},
-			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=KLkIb7tPwH0"}
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=KLkIb7tPwH0"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Q8411M7se"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
