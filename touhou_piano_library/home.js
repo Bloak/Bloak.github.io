@@ -26,7 +26,7 @@ async function find_recent_uploads(data) {
     })
 
     var list = document.getElementById("recent-uploads");
-    for (var i = 0; i < sorted_data.length; ++i) {
+    for (var i = 0; i < Math.min(sorted_data.length, max_count); ++i) {
         var id = sorted_data[i];
         var arrangement_data = data[id];
         if (!("date" in arrangement_data)) break;
