@@ -32,7 +32,7 @@
 		"circle": "TAMUSIC",
 		"album": "ピアノのための東方夜想曲集「Spirit」",
 		"arranger": "青汁",
-		"transcriber": "Rummsbatte",
+		"transcriber": ["Rummsbatte", "Knix6593"],
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=AIvhhAKHKkA"}
@@ -2044,6 +2044,21 @@
 		"difficulty": "2",
 		"comment": "Measures 22-23 looks like a c minor despite only two flats. Measures 24-25 should come back to C major, which the artist didn't notate."
 	},
+    "th11_13_3":{
+		"title": "黒翼焔舞 -Piano duo-",
+		"original": "th11_13",
+        "circle": "へちょ屋",
+        "album": "黒翼焔舞",
+		"arranger": "ヒッシー",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=q1hTym4b37Q"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/02/11"
+	},
 	"th11_14":{
 		"title": null,
 		"original": "th11_14",
@@ -2138,6 +2153,32 @@
 		"difficulty": "4",
 		"comment": "I don't see any reason behind the E-flat minor & D-sharp minor shift other than just trolling."
 	},
+    "th12_10_3":{
+		"title": null,
+		"original": "th12_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11743120"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The score looks messy in terms of rhythm. The division of one bar is 11 = 5 + 6 = (3 + 2) + (3 + 3)",
+        "date": "2023/02/11"
+	},
+    "th12_12":{
+		"title": null,
+		"original": "th12_12",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm9093688"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "comment": "Be careful with the rhythm. There is normal 4/4 but also 3+3+3+3+2+2/16, which form polyrhythm.",
+        "date": "2023/02/11"
+	},
 	"th125_05":{
 		"title": null,
 		"original": "th125_05",
@@ -2163,7 +2204,7 @@
 		"difficulty": "4"
 	},
 	"th13_02_3":{
-		"title": "【Prelude】 - 死霊の夜桜",
+		"title": "【Prelude】 - 死霊の夜桜 -",
 		"original": "th13_02",
 		"circle": "As/Hi Soundworks",
 		"album": "ピアノのための東方小品集 Op.3",
@@ -2639,6 +2680,34 @@
 		"type": "arrange",
 		"difficulty": "3",
 		"comment": "I don't know the identity of Huy Nguyen the transcriber, so I just put Happle here, who made this improved sheet music."
+	},
+    "TFM-001b_20":{
+		"title": null,
+		"original": "TFM-001b_20",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm5501118"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm16026954"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "The original Demystify Feast was composed by ZUN. However this track was arranged by U2. \nThe third hand added by Alioth is not in the score.",
+        "date": "2023/02/11"
+	},
+    "TFM-001b_22":{
+		"title": null,
+		"original": "TFM-001b_22",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm6908457"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm13819923"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The original Onigashima was composed by ZUN. However this track was arranged by U2.",
+        "date": "2023/02/11"
 	},
 	"TFM-001b_23_2":{
 		"title": null,
