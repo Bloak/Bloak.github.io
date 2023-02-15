@@ -690,6 +690,20 @@
 		"type": "arrange",
 		"difficulty": "1"
 	},
+    "th06_17":{
+		"title": null,
+		"original": "th06_17",
+		"circle": "来夢緑",
+		"album": "Ring-a-ring o'roses",
+		"arranger": "Notzan ACT",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Ou_OQBOzOVY"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
 	"th07_01_2":{
 		"title": "雪踊る桜の下で",
 		"original": "th07_01",

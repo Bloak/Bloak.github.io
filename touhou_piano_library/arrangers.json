@@ -655,6 +655,13 @@
         "website": [
             {"title": "youtube", "url": "https://www.youtube.com/@UnknownEX1"}
         ]
+    },
+    "Notzan ACT":{
+        "website": [
+            {"title": "Notzan ACT", "url": "http://notzan-act.com"},
+            {"title": "来夢緑", "url": "http://limegreen.kir.jp"},
+            {"title": "youtube", "url": "https://www.youtube.com/@NotzanACT"}
+        ]
     }
 }
 
