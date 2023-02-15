@@ -835,6 +835,7 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=GqvehXsEjN4"},
+            {"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1Gs411V7US"},
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Do4y1S7se"}
 		],
 		"type": "arrange",
@@ -1673,7 +1674,7 @@
 		"circle": "TAMUSIC",
 		"album": "東方子守唄",
 		"arranger": "A'",
-		"transcriber": "Anon",
+		"transcriber": "Onion",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=DK-tRPj0Btg"},
@@ -1738,7 +1739,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "1"
 	},
 	"th10_06_2":{
 		"title": null,
