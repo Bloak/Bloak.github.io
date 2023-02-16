@@ -1103,6 +1103,22 @@
 		"type": "transcription",
 		"difficulty": "1"
 	},
+    "th07_20":{
+		"title": null,
+		"original": "th07_20",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
+		"arranger": "TAM",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rAKW1aKVaNU"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The score looks way slower than the actual tempo of the piece. It makes more sense to halve the value of every note and merge every two bars into one 4/4 bar. \nThe left hand has some upbeat tied notes, which are just arpeggiation explicitly written out. I guess the transcriber's program couldn't handle custom arpeggiation.",
+        "date": "2023/02/15"
+	},
 	"th07_20_2":{
 		"title": null,
 		"original": "th07_20",
@@ -2145,6 +2161,7 @@
 		"circle": "TAMUSIC",
 		"album": "ピアノのための東方夜想曲集「Kwaidan」",
 		"arranger": "A'",
+        "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=iVv2cz8CzNc"},
