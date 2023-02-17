@@ -38,7 +38,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=AIvhhAKHKkA"}
 		],
 		"type": "arrange",
-		"difficulty": "5"
+		"difficulty": "4"
 	},
 	"hr02_11":{
 		"title": "Sonatine in G flat minor",
@@ -226,7 +226,7 @@
 		"transcriber": ["Knix6593", "Wiilly"],
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=iWkb82CFQsQ"},
+			{"performer": null, "link": "https://www.youtube.com/watch?v=2AEi0NgtGoE"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=b70uZz-iIO8"}
 		],
 		"type": "arrange",
@@ -445,11 +445,28 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=shnsftokFds"},
 			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=X8Uw1r0U0lk"},
-			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=PlBG-zbRNpU"}
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=PlBG-zbRNpU"},
+            {"performer": "もりげん", "link": "https://www.youtube.com/watch?v=-4qfYCTOKqQ"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=sVb8QtKuS-w (violin by TAM)"
+	},
+    "th06_07_5":{
+		"title": null,
+		"original": "th06_07",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=aahMt68U6QY"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The score is presented as a duet, but it seems like it can be handled by one person. Other piano works by 青汁 and other works in 東方夜想曲集 series don't contain a piano duet, as far as I know.",
+        "date": "2023/02/17"
 	},
 	"th06_08":{
 		"title": null,
@@ -511,6 +528,22 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=lVYDgCRGMP4 (violin by TAM)"
+	},
+    "th06_09_3":{
+		"title": null,
+		"original": "th06_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=eYj-i1Y9kHM"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Piano trio (published earlier) in ピアノ三重奏による東方夜想曲集「Seal」: https://www.bilibili.com/video/BV1Xs411o76v/?p=6 . Piano: 青汁; Violin: TAM & Hikaru.",
+        "date": "2023/02/17"
 	},
 	"th06_10":{
 		"title": null,
@@ -657,7 +690,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "4",
-		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=rMh3kDA-dRA (violin by TAM)"
+		"comment": "Piano trio in TAMUSIC's ピアノ三重奏による東方夜想曲集「Seal」: https://www.youtube.com/watch?v=rMh3kDA-dRA . Piano: 海老福; Violin: TAM & Hikaru."
 	},
 	"th06_15_3":{
 		"title": "千年の孤独",
@@ -1758,6 +1791,35 @@
 		"type": "arrange",
 		"difficulty": "3"
 	},
+    "th10_05_2":{
+		"title": null,
+		"original": "th10_05",
+		"arranger": "戦ピー",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=KA4ZRiZwATA"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "How is q=169 Allegretto not Presto?",
+        "date": "2023/02/17"
+	},
+    "th10_05_3":{
+		"title": null,
+		"original": "th10_05",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "青汁",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1UHqWm7cXYc"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=RJtvgOTWrao"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/02/17"
+	},
 	"th10_06":{
 		"title": null,
 		"original": "th10_06",
@@ -1890,6 +1952,20 @@
 		"type": "arrange",
 		"difficulty": "1",
 		"comment": "Some corrections to the score: \nThe leading tone B# is denoted as C♮ throughout the score. It doesn't affect the sound, but is slightly difficult to sight-read. \nIn measure 44, the first chord should have a top note of E. In measure 50, the third note should be a trill on B. \nIn measure 52, the first chord should have a top note of E which is a trill. \n In measure 113, the ornament should be G#-B. \nIn measure 115, the ornament should be A-C#. In measure 121, the ornament should be B-D#. \nIn measure 139, the second half of right hand should be 3-3-1-1 rhythm instead of 2-2-2-2 (unit = 16th note). \nIn measure 149, the triplets should be four 16th notes, the last one being a B. \nMeasure 157 chord omits the top note E#."
+	},
+    "th10_11_4":{
+		"title": null,
+		"original": "th10_11",
+		"arranger": "青汁",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Iklr6uqVECY"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=-5IFWx0WXmE"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/02/17"
 	},
 	"th10_13":{
 		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
