@@ -782,6 +782,33 @@
 		"difficulty": "?",
 		"comment": "Did you notice the resemblance between \"Beloved Tomboyish Girl\" and \"Paradise ~ Deep Mountain\"? The first one is 6713--313176 and the second one is 6713--3 3236--6."
 	},
+    "th07_02_3":{
+		"title": null,
+		"original": "th07_02",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=TR0AZ8l6_3k"},
+            {"performer": "Billy幻想", "link": "https://www.bilibili.com/video/BV1HR4y1M7vq"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+    "th07_02_4":{
+		"title": null,
+		"original": "th07_02",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA theBest I",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/mukau_ex.htm"},
+            {"performer": "AC02", "link": "https://www.bilibili.com/video/BV1js41187is"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "AC02's performance only covers the first half, which is easier and calmer than the rest of the piece."
+	},
 	"th07_03":{
 		"title": "無何有の郷 ～ Deep Mountain & クリスタライズシルバー",
 		"original": "th07_03",
