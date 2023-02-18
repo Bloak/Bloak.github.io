@@ -1287,6 +1287,22 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+    "th08_05_4":{
+		"title": null,
+		"original": "th08_05",
+        "circle": "TAMUSIC",
+        "album": "桜流しの東方子守唄",
+		"arranger": "TAM",
+		"transcriber": "swc_alfred",
+		"pdf": "default",
+		"performance": [
+			{"performer": "TAM", "link": "https://www.youtube.com/watch?v=9xo1IGO29cE"},
+			{"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1X7411W7DC"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "date": "2023/02/18"
+	},
 	"th08_06":{
 		"title": null,
 		"original": "th08_06",
@@ -1754,7 +1770,8 @@
 		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=9C3WWYHZYkc"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9C3WWYHZYkc"},
+            {"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1x5411x7sb"}
 		],
 		"type": "arrange",
 		"difficulty": "2"
@@ -2879,6 +2896,21 @@
 		],
 		"type": "transcription",
 		"difficulty": "5"
+	},
+    "TFM-003A_01":{
+		"title": null,
+		"original": "TFM-003A_01",
+		"circle": "黄昏フロンティア",
+		"album": "全人類ノ天楽録",
+		"arranger": "あきやまうに",
+        "transcriber": "苍火568",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=NzMVjAIEU8g"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "date": "2023/02/18"
 	},
 	"TFM-003A_06":{
 		"title": null,

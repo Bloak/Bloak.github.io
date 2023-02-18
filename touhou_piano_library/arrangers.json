@@ -672,6 +672,32 @@
         "website": [
             {"title": "bilibili", "url": "https://space.bilibili.com/3624141"}
         ]
+    },
+    "Relian起源":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/17737243"}
+        ]
+    },
+    "葉月奏枫":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/5936933"}
+        ]
+    },
+    "danesky":{
+        "website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/4701660"}
+        ]
+    },
+    "苍火568":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/19206169"}
+        ]
+    },
+    "あきやまうに":{
+        "alt_name": "U2 Akiyama",
+        "website": [
+            {"title": "黄昏フロンティア", "url": "http://tasofro.net"}
+        ]
     }
 }
 
