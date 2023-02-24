@@ -2032,7 +2032,7 @@
 		"circle": "まらしぃ",
 		"album": "幻想遊戯＜風＞",
 		"arranger": "まらしぃ",
-		"transcribe": "Alfetite",
+		"transcriber": "Alfetite",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.bilibili.com/video/BV14k4y117Nj?t=1761"}
@@ -2044,7 +2044,7 @@
 		"title": null,
 		"original": "th10_15",
 		"arranger": "まらしぃ",
-		"transcribe": "Xsy",
+		"transcriber": "Xsy",
 		"pdf": "default",
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=ZZslQ5zabx4"}
@@ -2182,6 +2182,18 @@
 		],
 		"type": "arrange",
 		"difficulty": "3"
+	},
+    "th11_13":{
+		"title": null,
+		"original": "th11_13",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4OJ0NSlsrpo"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"date": "2023/02/24"
 	},
 	"th11_13_2":{
 		"title": "核の力を貰う前のおくう",
@@ -2896,6 +2908,31 @@
 		],
 		"type": "transcription",
 		"difficulty": "5"
+	},
+    "TFM-003O_06":{
+		"title": null,
+		"original": "TFM-003O_06",
+		"arranger": "朧月輝月",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=jiemH21hQNI"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/02/24"
+	},
+    "TFM-003O_07":{
+		"title": null,
+		"original": "TFM-003O_07",
+		"arranger": "cresentia",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pb4d7YRmBdQ"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "comment": "The pdf here is the normal version. You can download the hard version through the mediafire link in the video description.",
+        "date": "2023/02/24"
 	},
     "TFM-003A_01":{
 		"title": null,

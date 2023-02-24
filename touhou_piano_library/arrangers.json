@@ -620,7 +620,8 @@
         "website": [
 			{"title": "Xceon", "url": "http://xceon.jp"},
             {"title": "frost_fragment", "url": "https://frost-fragment.jimdosite.com"},
-            {"title": "幽閉サテライト", "url": "http://www.yuuhei-satellite.jp"}
+            {"title": "幽閉サテライト", "url": "http://www.yuuhei-satellite.jp"},
+            {"title": "youtube", "url": "https://www.youtube.com/@iceonfrostfragment9447"}
 		]
     },
     "DO":{
@@ -697,6 +698,16 @@
         "alt_name": "U2 Akiyama",
         "website": [
             {"title": "黄昏フロンティア", "url": "http://tasofro.net"}
+        ]
+    },
+    "cresentia":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@d3crescentia"}
+        ]
+    },
+    "朧月輝月":{
+        "website": [
+            {"title": "理想 ～ What is right?", "url": "http://kituki.kachoufuugetu.net/touhou.html"}
         ]
     }
 }
