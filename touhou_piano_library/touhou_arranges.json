@@ -1929,6 +1929,20 @@
 		"difficulty": "4",
 		"comment": "Repeat measures 20-59."
 	},
+    "th10_08_2":{
+		"title": null,
+		"original": "th10_08",
+		"arranger": "戦ピー",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8347362"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The arranger said he improvised this piece within 10 minutes, which is very impressive. Since it's an improvisation, I was not as strict when transcribing it. I corrected the wrong notes and added some notes in the melody that I think are missing. I also made chords/bass more consistent. For the fast arpeggios, I don't think it's necessary to know the exact note sequences, but in case anyone not familiar with figured bass, I wrote out the realizations with hand separations that I found most comfortable. \nThe arranger mixed in the melody of his original composition 『目覚めし白狼の本能』(Awaking Wolf's Instinct) in the last part. It was meant to be MOF's Phantasm theme. Audio: https://www.nicovideo.jp/watch/sm9635592 ; Full Phantasm gameplay: https://www.nicovideo.jp/watch/sm8262244 .",
+        "date": "2023/02/24"
+	},
 	"th10_09":{
 		"title": null,
 		"original": "th10_09",
@@ -2932,6 +2946,18 @@
 		"type": "transcription",
 		"difficulty": "3",
         "comment": "The pdf here is the normal version. You can download the hard version through the mediafire link in the video description.",
+        "date": "2023/02/24"
+	},
+    "TFM-003O_17":{
+		"title": null,
+		"original": "TFM-003O_17",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=r0eixL3py3Q"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
         "date": "2023/02/24"
 	},
     "TFM-003A_01":{
