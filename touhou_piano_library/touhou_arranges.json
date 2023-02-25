@@ -2743,10 +2743,12 @@
 		"album": "Presence∝fTVA SP10 『東方ピアノエチュード』",
 		"arranger": "chiquchoo",
 		"pdf": "default",
-		"performance": [],
-		"type": "arrange",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=_Mcdpwy6BO8"}
+        ],
+		"type": "transcription",
 		"difficulty": "4",
-		"comment": "Reminds me of Heller's etude op.45 no.1. \nFor the audio file, visit https://fantia.jp/products/57313 ."
+		"comment": "Reminds me of Heller's etude op.45 no.1."
 	},
 	"th16_13_2":{
 		"title": null,
