@@ -57,7 +57,8 @@
 		"alt_name": "Shiraha",
 		"website": [
 			{"title": "Shiraha Archive", "url":"http://shiraha.secret.jp"},
-			{"title": "Shiraha.Zip", "url":"http://www.scn.or.tv/syzip/"}
+			{"title": "Shiraha.Zip", "url":"http://www.scn.or.tv/syzip/"},
+            {"title": "niconico", "url":"https://www.nicovideo.jp/user/1326673"}
 		]
 	},
 	"海老福":{
@@ -95,7 +96,7 @@
 	"ようか":{
 		"alt_name": "Yohka",
 		"website": [
-			{"title": "雪の足跡", "url": "http://h-chromatique.info"}
+			{"title": "雪の足跡", "url": "http://yukiato.sakura.ne.jp"}
 		],
 		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv5929648"
 	},
@@ -698,7 +699,8 @@
         "alt_name": "U2 Akiyama",
         "website": [
             {"title": "黄昏フロンティア", "url": "http://tasofro.net"}
-        ]
+        ],
+        "comment": "https://en.touhouwiki.net/wiki/U2_Akiyama"
     },
     "cresentia":{
         "website": [
@@ -709,6 +711,23 @@
         "website": [
             {"title": "理想 ～ What is right?", "url": "http://kituki.kachoufuugetu.net/touhou.html"}
         ]
+    },
+    "碧空金日":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/568544.htm"}
+        ]
+    },
+    "小乱":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/351306.htm"}
+        ]
+    },
+    "九條咲夜":{
+        "alt_name": "Sakuya Kujo",
+        "website": [
+            {"title": "douban", "url": "https://site.douban.com/sakuya9t/"}
+        ],
+        "comment": "A mysterious pianist from China who ceased activities since 2012. Check out https://www.bilibili.com/read/cv9069095 for his background and works. It seems that he posted his music in sina blog, but his account has been deleted. The album \"东方音叶月\" was reposted on bilibili: https://www.bilibili.com/video/BV1Nx411c72a , and the titles of 12 tracks are listed in the comments."
     }
 }
 

@@ -160,13 +160,12 @@
 		"album": "月遊 ～ツキアソビ～",
 		"arranger": "ありおと",
 		"transcriber": "蓬莱人形FireBird7",
-		"pdf": "https://www.bilibili.com/video/BV1nY4y1H7ac",
+		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=12F7DaO7quQ"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=VIBhNAhgFXQ"}
 		],
 		"type": "arrange",
-		"difficulty": "4",
-		"comment": "I'm not sure if the album info is correct."
+		"difficulty": "4"
 	},
 	"th03_24":{
 		"title": null,
@@ -931,6 +930,22 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+    "th07_08_4":{
+		"title": "或许等不到，消雪 ～ Tell Me Where Future is",
+		"original": "th07_08",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Nx411c72a/?p=2&t=360"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "The sudden dissonance in measure 54 caught me.",
+        "date": "2023/02/26"
 	},
 	"th07_09":{
 		"title": null,
@@ -2024,6 +2039,40 @@
 		"type": "arrange",
 		"difficulty": "?",
         "date": "2023/02/17"
+	},
+    "th10_11_5":{
+		"title": "信仰は存活の為に ～ Give Me Full of Your Tears",
+		"original": "th10_11",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1dR4y1m78K"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "I heard some bits of Nostalgic Blood of the East... Are the two themes intrinsically similar?",
+        "date": "2023/02/26"
+	},
+    "th10_11_6":{
+		"title": "夜想曲",
+        "title_en": "Nocturne",
+		"original": "th10_11",
+		"circle": "Ash Blind",
+		"album": "ピアノのための東方小曲集 Op.1-1",
+		"arranger": "柊秀雪",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4&list=WL&t=1465s"},
+            {"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1i4411X7yB"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "The last chord should be an add2, which is heavier than a minor triad.",
+        "date": "2023/02/26"
 	},
 	"th10_13":{
 		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
