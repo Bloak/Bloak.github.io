@@ -1786,7 +1786,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=9C3WWYHZYkc"},
-            {"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1x5411x7sb"}
+            {"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1x5411x7sb"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV19M411j7aR"}
 		],
 		"type": "arrange",
 		"difficulty": "2"
@@ -3049,6 +3050,17 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "TFM-003A_09":{
+		"title": null,
+		"original": "TFM-003A_09",
+		"arranger": "小乱",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.gangqinpu.com/cchtml/921203.htm"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
 	},
 	"TFM-003A_11":{
 		"title": null,
