@@ -1695,6 +1695,21 @@
 		"difficulty": "1",
 		"comment": "It seems that this arrangement went through multiple re-transcriptions. Kkcwkoh provided a musescore link to danichku's transcription. 5 Years ago (2017) a youtube comment said the link was broken (danichku indeed deleted their account). Axyo Rifelheim replied with a jellynote link which is (supposedly) a rehost of the original sheets, and they mentioned that the sheets were not free. This link is broken now (2022). 4 years ago (2018) 烏 replied that they made a transcription based on the previous sheets and provided the link. I was about to use it but found too many errors, so I did a new transcription myself."
 	},
+    "th09_02_3":{
+		"title": "菜の花小径",
+		"original": "th09_02",
+		"circle": "Candy & Jam",
+		"album": "求聞和歌拾遺",
+		"arranger": "ジャム",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=UFlI3PhUKnM"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/03/02"
+	},
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",

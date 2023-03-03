@@ -76,13 +76,15 @@
 			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"},
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UCXUXfVLh0nxLD2VUxdZykJQ"},
 			{"title": "fantia", "url": "https://fantia.jp/fanclubs/1377"},
-			{"title": "chiquchoo column", "url": "http://blog.livedoor.jp/chiquchoo"}
+			{"title": "chiquchoo column", "url": "http://blog.livedoor.jp/chiquchoo"},
+            {"title": "fromTVAnimation (youtube)", "url": "https://www.youtube.com/@fromTVAnimation/videos"}
 		],
 		"comment": "The old website contains analysis and performance guide for each piece, which (I suppose) are abbreviations of what's written in the CD covers. I don't know if they were written by the respective arrangers."
 	},
 	"Denko":{
 		"website": [
-			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"}
+			{"title": "Presence∝fTVA (old)", "url": "http://denko-laboratory.ddo.jp/pftva/"},
+            {"title": "fromTVAnimation (youtube)", "url": "https://www.youtube.com/@fromTVAnimation/videos"}
 		],
 		"comment": "It seems that Denko has quit Presence∝fTVA somewhere between 2015 and 2018."
 	},
