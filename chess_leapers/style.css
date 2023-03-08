@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2% 10%;
+}
+
+canvas {
+    border: 1px solid black;
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+select {
+    display: inline;
+}
+
+button, select {
+    margin-right: 10px;
+    font-size: 16px;
+}
+
+.block {
+    display: block;
+}
+
+.center-text {
+    text-align: center;
+}
+
+.submit-button {
+    background-color: lightgreen;
+}
+
+#flex {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    flex: 1;
+}
+
+#control-panel {
+    flex: 1;
+}
+
+#canvas2-container {
+    display: block;
+    margin: 0 auto;
+}

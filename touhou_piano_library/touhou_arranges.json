@@ -38,7 +38,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=AIvhhAKHKkA"}
 		],
 		"type": "arrange",
-		"difficulty": "4"
+		"difficulty": "4",
+        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM)"
 	},
 	"hr02_11":{
 		"title": "Sonatine in G flat minor",
@@ -1514,6 +1515,22 @@
         "comment": "The original vocal version: https://www.youtube.com/watch?v=RZPZ9qR1uMU \nI tried to transcribe this song to piano solo, but found it's too complicated for one player. There are a few simplified versions on youtube, though no sheet music is provided. \nThe kkcwkoh video in the link was from a niconico video which has been deleted. This was a carefully made piano transcription, not simply the instrument part extracted from the song.",
         "date": "2023/02/05"
 	},
+    "th08_10_7":{
+		"title": "籠にて騎士を待つ少女",
+		"original": "th08_10",
+        "original_ex": ["th06_09"],
+		"circle": "へちょ屋",
+		"album": "Star Light",
+		"arranger": "へちょ屋",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hSRw-mkXaFk"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
 	"th08_11_2":{
 		"title": null,
 		"original": "th08_11",
@@ -1524,7 +1541,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "Another voicing hell, besides \"Song of the Night Sparrow\"."
+		"comment": "Another voicing hell from Touhou 8, besides \"Song of the Night Sparrow\"."
 	},
 	"th08_11_3":{
 		"title": "Rabbit Waltz",
@@ -2090,6 +2107,22 @@
         "comment": "The last chord should be an add2, which is heavier than a minor triad.",
         "date": "2023/02/26"
 	},
+    "th10_11_7":{
+		"title": "サナサナオンバシラ猛レース",
+        "title_en": "Sana Sana Onbashira Fierce Race",
+		"original": "th10_11",
+		"circle": "音の瓶詰",
+		"album": "守矢幻燈録 ～ Separation of Spirit.",
+		"arranger": "ジャム",
+        "transcriber": "たこさん",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm18238895"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
 	"th10_13":{
 		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
 		"original": "th10_13",
@@ -2105,6 +2138,19 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+    "th10_13_2":{
+		"title": null,
+		"original": "th10_13",
+		"arranger": "ジャム",
+		"transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm8576720"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
 	"th10_14":{
 		"title": null,
 		"original": "th10_14",
@@ -2118,6 +2164,22 @@
 		],
 		"type": "transcription",
 		"difficulty": "3"
+	},
+    "th10_14_2":{
+		"title": "守矢風祝神楽",
+		"original": "th10_14",
+		"circle": "音の瓶詰",
+		"album": "守矢幻燈録 ～ Separation of Spirit.",
+		"arranger": "ジャム",
+        "transcriber": "たこさん",
+		"pdf": "https://www.nicovideo.jp/watch/sm29962603",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm18169633"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "The link provided by the transcriber is broken.",
+        "date": "2023/03/08"
 	},
 	"th10_15_2":{
 		"title": null,
@@ -2908,6 +2970,19 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/01/25"
+	},
+    "TFM-001b_18_2":{
+		"title": null,
+		"original": "TFM-001b_18",
+		"arranger": "ジャム",
+        "transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm4258083"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/08"
 	},
 	"TFM-001b_19":{
 		"title": null,

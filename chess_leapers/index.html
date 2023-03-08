@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Value of Chess Leapers</title>
+        <link rel="icon" type="image/x-icon" href="images/favicon.ico">
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <img src="images/piece.png" id="piece" hidden>
+
+        <h1 class="center-text">Value of Chess Leapers</h1>
+        <h3 class="center-text">Analysis using <a href="https://en.wikipedia.org/wiki/Closeness_centrality" target="_blank" rel="noopener noreferrer">closeness centrality of graphs</a></h3>
+
+        <div id="flex">
+            <div id="control-panel">
+                <h2>Piece Movement</h2>
+                <p>Click the squares that the piece can move to</p>
+
+                <div id="canvas2-container">
+                    <select class="block" id="canvas2-size-selector" onchange="change_movement_size(this.value)">
+                        <option value="5">5x5</option>
+                        <option value="7">7x7</option>
+                        <option value="9">9x9</option>
+                        <option value="11">11x11</option>
+                        <option value="13">13x13</option>
+                    </select>
+
+                    <canvas id="canvas2" width="300px" height="300px"></canvas>
+                    
+                    <div>
+                        <button>Clear</button>
+                        <button>Symmetrize</button>
+                        <button class="submit-button">Analyze</button>
+                    </div>
+                </div>
+            </div>
+    
+            <div id="rendered-board">
+                <h2>The Board Visualized</h2>
+                <div>
+                    <select id="canvas1-size-selector" onchange="change_board_size(this.value)">
+                        <option value="8">8x8</option>
+                        <option value="12">12x12</option>
+                        <option value="16">16x16</option>
+                    </select>
+                    <select id="min-max-selector" onchange="change_min_max(this.value)">
+                        <option value="max">strongest sqaure</option>
+                        <option value="min">weakest square</option>
+                    </select>
+                </div>
+
+                <canvas id="canvas1" width="480px" height="480px"></canvas>
+            </div>
+        </div>
+        
+        <script src="main.js"></script>
+    </body>
+</html>
