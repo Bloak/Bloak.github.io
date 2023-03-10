@@ -180,6 +180,20 @@
 		"difficulty": "2",
 		"comment": "This track was not used in the game."
 	},
+    "th04_09":{
+		"title": null,
+		"original": "th04_09",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Spirit」",
+		"arranger": "A'",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YS9J9MvNUJI"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
+	},
 	"th04_15":{
 		"title": null,
 		"original": "th04_15",
@@ -1517,6 +1531,7 @@
 	},
     "th08_10_7":{
 		"title": "籠にて騎士を待つ少女",
+        "title_en": "The Girl Waiting for a Knight in a Cage",
 		"original": "th08_10",
         "original_ex": ["th06_09"],
 		"circle": "へちょ屋",
@@ -1714,6 +1729,7 @@
 	},
     "th09_02_3":{
 		"title": "菜の花小径",
+        "title_en": "Nanohana Lane",
 		"original": "th09_02",
 		"circle": "Candy & Jam",
 		"album": "求聞和歌拾遺",

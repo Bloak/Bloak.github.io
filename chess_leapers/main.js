@@ -18,6 +18,7 @@ var ANTELOPE = leaper(3, 4);
 var ALFIL = leaper(2, 2);
 var DABBABA = leaper(0, 2);
 var THREELEAPER = leaper(0, 3);
+var TRIPPLEKNIGHT = leaper(6, 3);
 var KING = compound(WAZIR, FERZ);
 var WIZARD = compound(CAMEL, FERZ);
 var MARQUIS = compound(KNIGHT, WAZIR);
@@ -35,7 +36,7 @@ var ND = compound(KNIGHT, DABBABA);
 var NF = compound(KNIGHT, FERZ);
 var CHAMPION = compound(ALIBBABA, WAZIR);
 
-var piece_movement = KING;
+var piece_movement = TRIPPLEKNIGHT;
 
 var max_or_min = "max";
 var approximation_mode = null;
