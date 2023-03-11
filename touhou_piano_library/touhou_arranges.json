@@ -41,6 +41,36 @@
 		"difficulty": "4",
         "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM)"
 	},
+    "hr02_06":{
+		"title": null,
+		"original": "hr02_06",
+		"circle": "Lunatico",
+		"album": "少女洋琴倶楽部・壱",
+		"arranger": "ヤヤネ",
+		"transcriber": "Yuiru",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iO0Y9fgMxBI"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/10"
+	},
+    "hr02_08":{
+		"title": null,
+		"original": "hr02_08",
+		"circle": "Lunatico",
+		"album": "少女洋琴倶楽部・壱",
+		"arranger": "ヤヤネ",
+		"transcriber": "Yuiru",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1EQrxHVe52E"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/10"
+	},
 	"hr02_11":{
 		"title": "Sonatine in G flat minor",
 		"original": "hr02_11",
@@ -192,7 +222,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=YS9J9MvNUJI"}
 		],
 		"type": "arrange",
-		"difficulty": "1"
+		"difficulty": "1",
+        "date": "2023/03/10"
 	},
 	"th04_15":{
 		"title": null,
@@ -2789,13 +2820,15 @@
 		"title": null,
 		"original": "th15_04",
 		"arranger": "かしわ丸餅",
-		"pdf": "https://www.nicovideo.jp/watch/sm28080003",
+		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm28080003"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=VJE2zXPSZUM"}
 		],
 		"type": "transcription",
-		"difficulty": "?"
+		"difficulty": "?",
+        "comment": "Sheet music made by Yuiru: https://sheet.host/sheet/nGzhOl ",
+        "date": "2023/03/10"
 	},
 	"th15_05":{
 		"title": null,
