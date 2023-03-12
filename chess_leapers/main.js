@@ -34,9 +34,10 @@ var LION = compound(FAD, MARQUIS);
 var NA = compound(KNIGHT, ALFIL);
 var ND = compound(KNIGHT, DABBABA);
 var NF = compound(KNIGHT, FERZ);
+var WD = compound(WAZIR, DABBABA);
 var CHAMPION = compound(ALIBBABA, WAZIR);
 
-var piece_movement = TRIPPLEKNIGHT;
+var piece_movement = ZEBRA;
 
 var max_or_min = "max";
 var approximation_mode = null;
