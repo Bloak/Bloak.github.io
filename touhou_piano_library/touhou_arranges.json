@@ -2267,6 +2267,36 @@
 		"type": "transcription",
 		"difficulty": "4"
 	},
+    "th11_05_3":{
+		"title": null,
+		"original": "th11_05",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜地＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hAP5Ye4gk1s"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/11"
+	},
+    "th11_05_4":{
+		"title": null,
+		"original": "th11_05",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞",
+		"arranger": "まらしぃ",
+        "transcriber": "0445",
+		"pdf": "default",
+		"performance": [
+			{"performer": "透き通る夢を見ていた", "link": "https://www.bilibili.com/video/BV1ra4y1L7hy"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/11"
+	},
 	"th11_08":{
 		"title": null,
 		"original": "th11_08",
