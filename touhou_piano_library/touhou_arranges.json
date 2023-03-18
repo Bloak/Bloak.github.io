@@ -1142,6 +1142,22 @@
 		"difficulty": "2",
 		"comment": "The left hand in measures 26-33 is wrong. The correct notation should be 2 scale degrees higher."
 	},
+    "th07_13_5":{
+		"title": "華胥の姫君",
+		"original": "th07_13",
+		"circle": "へちょ屋",
+		"album": "Moon War III SP",
+		"arranger": "ヒッシー",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ACxMbWaP0Rw"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "This piece is a prelude for 鎮魂花 in the album Moon War III.",
+		"date": "2023/03/17"
+	},
 	"th07_14":{
 		"title": "幽雅に咲かせ、墨染めの桜～ボーダーオブライフ",
 		"original": "th07_14",
@@ -2600,6 +2616,19 @@
 		],
 		"type": "transcription",
 		"difficulty": "2"
+	},
+    "th13_03_2":{
+		"title": "Ghost Lead Prelude",
+		"original": "th13_03",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vQ-EAYEQF-Y"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "Based on Prelude Op.11 No.10 by Scriabin.",
+        "date": "2023/03/17"
 	},
 	"th13_04":{
 		"title": null,
