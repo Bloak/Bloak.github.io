@@ -2313,6 +2313,32 @@
 		"difficulty": "2",
         "date": "2023/03/11"
 	},
+    "th11_06":{
+		"title": null,
+		"original": "th11_06",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm3534201"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The bass from measure 9 onwards seems unnecessarily difficult. From the audio I could only hear repeated chords.",
+        "date": "2023/03/17"
+	},
+    "th11_07":{
+		"title": null,
+		"original": "th11_07",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm3492159"},
+            {"performer": "rhyurthie", "link": "https://www.nicovideo.jp/watch/sm8028849"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/17"
+	},
 	"th11_08":{
 		"title": null,
 		"original": "th11_08",
