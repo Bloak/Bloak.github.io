@@ -41,6 +41,18 @@
 		"difficulty": "4",
         "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM)"
 	},
+    "hr02_02":{
+		"title": null,
+		"original": "hr02_02",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm17144366"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/18"
+	},
     "hr02_06":{
 		"title": null,
 		"original": "hr02_06",
@@ -1151,7 +1163,8 @@
 		"transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=ACxMbWaP0Rw"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ACxMbWaP0Rw"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=BudUwaNLUcs"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
