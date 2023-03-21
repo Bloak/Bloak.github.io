@@ -37,10 +37,10 @@ var NF = compound(KNIGHT, FERZ);
 var WD = compound(WAZIR, DABBABA);
 var CHAMPION = compound(ALIBBABA, WAZIR);
 
-var piece_movement = KNIGHT;
+var piece_movement = ZEBRA;
 
 var max_or_min = "max";
-var approximation_mode = null;
+var approximation_mode = "pawn";
 
 
 function draw_empty_board(canvas, board_size) {

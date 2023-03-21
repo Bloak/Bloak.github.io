@@ -104,7 +104,9 @@
 	},
 	"A'":{
 		"alt_name": "A-dash",
-		"website": [],
+		"website": [
+            {"title": "A-dash 「心の風が奏でるピアノ」", "url": "https://ameblo.jp/adash1/"}
+        ],
 		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv3321068"
 	},
 	"ローズレッド":{
