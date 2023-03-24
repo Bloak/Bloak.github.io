@@ -1872,6 +1872,23 @@
 		"difficulty": "1",
         "date": "2023/02/01"
 	},
+    "th09_18_2":{
+		"title": "うたげのあと。",
+        "title_en": "After the Feast.",
+		"original": "th09_18",
+        "circle": "凋叶棕",
+        "album": "宴 -Utage-",
+		"arranger": "RD-Sounds",
+        "transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BwMGaQb20LE"},
+            {"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=IEORq-KRA20"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/24"
+	},
 	"th095_04_2":{
 		"title": null,
 		"original": "th095_04",
