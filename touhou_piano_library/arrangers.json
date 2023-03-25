@@ -752,6 +752,11 @@
         "website": [
             {"title": "niconico", "url": "https://www.nicovideo.jp/user/11877929/mylist/14310700"}
         ]
+    },
+    "Xe":{
+        "website": [
+            {"title": "Xenoglossy", "url": "http://xenoglossy.hariko.com/index.html"}
+        ]
     }
 }
 

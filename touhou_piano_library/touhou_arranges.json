@@ -2343,6 +2343,23 @@
 		"difficulty": "2",
         "date": "2023/03/11"
 	},
+    "th11_05_5":{
+		"title": "渦巻く嫉妬の炎による変奏",
+		"original": "th11_05",
+        "circle": "まさかど☆くらいしすっ！",
+        "album": "ねたまCD",
+		"arranger": "Xe",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://xenoglossy.lolitapunk.jp/music/prpr.mp3"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=MVpyss4LCJM"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "The sheet music is made by Knix, based on Wiilly's transcription: https://www.youtube.com/watch?v=cOkQ9InHsJA ",
+        "date": "2023/03/25"
+	},
     "th11_06":{
 		"title": null,
 		"original": "th11_06",
@@ -2404,6 +2421,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th11_09_4":{
+		"title": "3rd eye rag",
+		"original": "th11_09",
+		"arranger": "Xe",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Pjm8JDYLaaA"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/25"
 	},
 	"th11_10_3":{
 		"title": "One Night Hell Screen",
