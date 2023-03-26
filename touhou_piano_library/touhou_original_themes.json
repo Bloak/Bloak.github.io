@@ -761,6 +761,31 @@
 		"title_en": "Old Yuanxian",
 		"collection": "th13"
 	},
+    "th13_10": {
+		"title": "夢殿大祀廟",
+		"title_en": "The Hall of Dreams' Great Mausoleum",
+		"collection": "th13"
+	},
+    "th13_11": {
+		"title": "大神神話伝",
+		"title_en": "Legend of the Great Gods",
+		"collection": "th13"
+	},
+    "th13_12": {
+		"title": "小さな欲望の星空",
+		"title_en": "Starry Sky of Small Desires",
+		"collection": "th13"
+	},
+    "th13_13": {
+		"title": "聖徳伝説　～ True Administrator",
+		"title_en": "Shoutoku Legend ~ True Administrator",
+		"collection": "th13"
+	},
+    "th13_14": {
+		"title": "妖怪裏参道",
+		"title_en": "Youkai Back Shrine Road",
+		"collection": "th13"
+	},
 	"th13_15": {
 		"title": "佐渡の二ッ岩",
 		"title_en": "Futatsuiwa from Sado",

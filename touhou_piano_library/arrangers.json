@@ -757,6 +757,12 @@
         "website": [
             {"title": "Xenoglossy", "url": "http://xenoglossy.hariko.com/index.html"}
         ]
+    },
+    "JLam":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@Holeyhell"}
+        ],
+        "comment": "A legend on youtube who played almost every touhou theme on the piano. Used the name \"HoleyHell\" in the early days."
     }
 }
 

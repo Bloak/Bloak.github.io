@@ -2688,6 +2688,18 @@
 		"type": "arrange",
 		"difficulty": "4"
 	},
+    "th13_01":{
+		"title": null,
+		"original": "th13_01",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm14191009"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/25"
+	},
 	"th13_02_3":{
 		"title": "【Prelude】 - 死霊の夜桜 -",
 		"original": "th13_02",
@@ -2790,6 +2802,69 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
+	},
+    "th13_10":{
+		"title": null,
+		"original": "th13_10",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15455020"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "I used Kijiriki's score because the original one is inaccessible.",
+        "date": "2023/03/25"
+	},
+    "th13_11":{
+		"title": null,
+		"original": "th13_11",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15345310"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/03/25"
+	},
+    "th13_12":{
+		"title": null,
+		"original": "th13_12",
+		"arranger": "JLam",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=MFn1tL4ua-g"},
+			{"performer": "JLam", "link": "https://www.youtube.com/watch?v=13J3s3Sd9W4"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "What he played was different from the score (see the midi video). I personally prefer the performance version.",
+        "date": "2023/03/25"
+	},
+    "th13_13":{
+		"title": null,
+		"original": "th13_13",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15339313"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/25"
+	},
+    "th13_14":{
+		"title": null,
+		"original": "th13_14",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15849316"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/03/25"
 	},
 	"th13_15":{
 		"title": "第拾壱番勝負“変幻戯画”",
