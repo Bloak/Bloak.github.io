@@ -1889,6 +1889,22 @@
 		"difficulty": "2",
         "date": "2023/03/24"
 	},
+    "th095_01":{
+		"title": null,
+		"original": "th095_01",
+		"circle": "Windbreaker",
+		"album": "あーやややや やややぁ！",
+		"arranger": "もりげん",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "もりげん", "link": "https://www.youtube.com/watch?v=iXSyTki_U60"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "comment": "Right hand accompaniment is pretty rare. I think it's a good etude on hand independence.",
+        "date": "2023/03/29"
+	},
 	"th095_04_2":{
 		"title": null,
 		"original": "th095_04",
@@ -2124,6 +2140,22 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th10_10_2":{
+		"title": "いつか見た空",
+        "title_en": "The Sky I once saw",
+		"original": "th10_10",
+        "circle": "Candy & Jam",
+		"album": "求聞和歌拾遺",
+		"arranger": "ジャム",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=GN5QTHe8SEU"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/03/29"
 	},
 	"th10_11_2":{
 		"title": null,
