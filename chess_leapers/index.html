@@ -3,6 +3,7 @@
     <head>
         <meta charset="utf-8"/>
         <title>Value of Chess Leapers</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/x-icon" href="images/favicon.ico">
         <link rel="stylesheet" href="style.css">
     </head>
@@ -34,6 +35,13 @@
                         <button class="submit-button">Analyze</button>
                     </div>
                 </div>
+                
+                <div id="results">
+                    <p>General Mobility</p>
+                    <p id="result-avg">Average: </p>
+                    <p id="result-max">Max: </p>
+                    <p id="result-min">Min: </p>
+                </div>
             </div>
     
             <div id="rendered-board">
@@ -44,16 +52,23 @@
                         <option value="10">10x10</option>
                         <option value="12">12x12</option>
                         <option value="16">16x16</option>
+                        <option value="20">20x20</option>
                     </select>
                     <select id="min-max-selector" onchange="change_min_max(this.value)">
                         <option value="max">strongest sqaure</option>
                         <option value="min">weakest square</option>
+                    </select>
+                    <select id="approx-mode-selector" onchange="change_approximation_mode(this.value)">
+                        <option value=null>default analysis mode</option>
+                        <option value="pawn">pawn-move approximation</option>
                     </select>
                 </div>
 
                 <canvas id="canvas1" width="480px" height="480px"></canvas>
             </div>
         </div>
+
+        
         
         <script src="main.js"></script>
     </body>

@@ -1898,7 +1898,8 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": "もりげん", "link": "https://www.youtube.com/watch?v=iXSyTki_U60"}
+			{"performer": "もりげん", "link": "https://www.youtube.com/watch?v=iXSyTki_U60"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Wc41157mb"}
 		],
 		"type": "transcription",
 		"difficulty": "1",

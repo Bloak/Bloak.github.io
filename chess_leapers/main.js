@@ -40,7 +40,7 @@ var CHAMPION = compound(ALIBBABA, WAZIR);
 var piece_movement = ZEBRA;
 
 var max_or_min = "max";
-var approximation_mode = "pawn";
+var approximation_mode = null;
 
 
 function draw_empty_board(canvas, board_size) {
@@ -200,14 +200,34 @@ function analyze(morph_type = null) {
     return result;
 }
 
+function print_result(result) {
+    document.getElementById("result-avg").innerText = "Average: " + result.avg.toFixed(2);
+    document.getElementById("result-max").innerText = "Max: " + result.max.centrality.toFixed(2);
+    document.getElementById("result-min").innerText = "Min: " + result.min.centrality.toFixed(2);
+    if (max_or_min === "max") {
+        document.getElementById("result-max").style.display = "block";
+        document.getElementById("result-min").style.display = "none";
+    }
+    else {
+        document.getElementById("result-max").style.display = "none";
+        document.getElementById("result-min").style.display = "block";
+    }
+}
+
+function complete_analyze() {
+    draw_empty_board(canvas1, board_size);
+
+    var analyze_result = analyze(approximation_mode);
+    var map = (max_or_min === "max") ? analyze_result.max.distance_map : analyze_result.min.distance_map;
+    draw_board(map);
+    print_result(analyze_result);
+}
+
 function main() {
     draw_empty_board(canvas1, board_size);
     draw_empty_board(canvas2, movement_size);
 
-    var analyze_result = analyze(approximation_mode);
-    var map = (max_or_min === "max") ? analyze_result.max.distance_map : analyze_result.min.distance_map;
-    console.log(analyze_result);
-    draw_board(map);
+    complete_analyze();
 }
 
 main();
@@ -221,7 +241,17 @@ function change_movement_size(new_size) {
 
 function change_board_size(new_size) {
     board_size = Number(new_size);
-    draw_empty_board(canvas1, board_size);
+    complete_analyze();
+}
+
+function change_min_max(new_value) {
+    max_or_min = new_value;
+    complete_analyze();
+}
+
+function change_approximation_mode(new_value) {
+    approximation_mode = new_value;
+    complete_analyze();
 }
 
 // helper functions: render
