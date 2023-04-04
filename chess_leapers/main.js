@@ -37,7 +37,8 @@ var NF = compound(KNIGHT, FERZ);
 var WD = compound(WAZIR, DABBABA);
 var CHAMPION = compound(ALIBBABA, WAZIR);
 
-var piece_movement = ZEBRA;
+//var piece_movement = KING;
+var piece_movement = new Set();
 
 var max_or_min = "max";
 var approximation_mode = null;
@@ -64,6 +65,7 @@ function draw_empty_board(canvas, board_size) {
     }
 }
 
+// board 1
 function draw_board(distance_map) {
     draw_empty_board(canvas1, board_size);
 
@@ -200,22 +202,13 @@ function analyze(morph_type = null) {
     return result;
 }
 
-function print_result(result) {
-    document.getElementById("result-avg").innerText = "Average: " + result.avg.toFixed(2);
-    document.getElementById("result-max").innerText = "Max: " + result.max.centrality.toFixed(2);
-    document.getElementById("result-min").innerText = "Min: " + result.min.centrality.toFixed(2);
-    if (max_or_min === "max") {
-        document.getElementById("result-max").style.display = "block";
-        document.getElementById("result-min").style.display = "none";
-    }
-    else {
-        document.getElementById("result-max").style.display = "none";
-        document.getElementById("result-min").style.display = "block";
-    }
-}
-
 function complete_analyze() {
     draw_empty_board(canvas1, board_size);
+
+    if (piece_movement.size === 0) {
+        clear_result();
+        return;
+    }
 
     var analyze_result = analyze(approximation_mode);
     var map = (max_or_min === "max") ? analyze_result.max.distance_map : analyze_result.min.distance_map;
@@ -223,11 +216,92 @@ function complete_analyze() {
     print_result(analyze_result);
 }
 
+// board 2
+function initialize_movement_board() {
+    draw_empty_board(canvas2, movement_size);
+    draw_piece(canvas2, movement_size, [(movement_size - 1) / 2, (movement_size - 1) / 2]);
+}
+
+function render_movement() {
+    initialize_movement_board();
+
+    var piece_x = (movement_size - 1) / 2;
+    var piece_y = (movement_size - 1) / 2;
+    var movement_array = Array.from(piece_movement);
+    for (var movement of movement_array) {
+        //console.log(movement);
+        var target_x = piece_x + movement[0];
+        var target_y = piece_y + movement[1];
+        draw_target(canvas2, movement_size, [target_x, target_y]);
+    }
+}
+
+// click event
+function getCursorPosition(canvas, event) {
+    const rect = canvas.getBoundingClientRect()
+    const x = event.clientX - rect.left
+    const y = event.clientY - rect.top
+    return [x, y];
+}
+
+function parseCursor(cursor) {
+    var square_width = canvas2.width / movement_size;
+    var row = Math.floor(cursor[1] / square_width);
+    var column = Math.floor(cursor[0] / square_width);
+    
+    var piece_row = (movement_size - 1) / 2;
+    var piece_column = (movement_size - 1) / 2;
+
+    var relative_row = row - piece_row;
+    var relative_column = column - piece_column;
+    return [relative_row, relative_column];
+}
+
+function parse_movement(movement) {
+    if (has_movement(piece_movement, movement)) {
+        remove_movement(piece_movement, movement);
+    }
+    else {
+        if (movement[0] !== 0 || movement[1] !== 0) {
+            piece_movement.add(movement);
+        }
+    }
+}
+
+canvas2.addEventListener("click", function(e) {
+    var cursor = getCursorPosition(canvas2, e);
+    var movement = parseCursor(cursor);
+    parse_movement(movement);
+    render_movement();
+});
+
+// general mobility result
+function print_result(result) {
+    document.getElementById("result-avg").innerText = "Average: " + result.avg.toFixed(2);
+    document.getElementById("result-max").innerText = "Max: " + result.max.centrality.toFixed(2);
+    document.getElementById("result-min").innerText = "Min: " + result.min.centrality.toFixed(2);
+    /* if (max_or_min === "max") {
+        document.getElementById("result-max").style.display = "block";
+        document.getElementById("result-min").style.display = "none";
+    }
+    else {
+        document.getElementById("result-max").style.display = "none";
+        document.getElementById("result-min").style.display = "block";
+    } */
+}
+
+function clear_result() {
+    document.getElementById("result-avg").innerText = "Average: ";
+    document.getElementById("result-max").innerText = "Max: ";
+    document.getElementById("result-min").innerText = "Min: ";
+
+    /* document.getElementById("result-max").style.display = "block";
+    document.getElementById("result-min").style.display = "block"; */
+}
+
 function main() {
     draw_empty_board(canvas1, board_size);
-    draw_empty_board(canvas2, movement_size);
-
-    complete_analyze();
+    render_movement();
 }
 
 main();
@@ -236,7 +310,28 @@ main();
 // passive functions
 function change_movement_size(new_size) {
     movement_size = Number(new_size);
-    draw_empty_board(canvas2, movement_size);
+    render_movement();
+}
+
+function clear_movement() {
+    piece_movement = new Set();
+    render_movement();
+    draw_empty_board(canvas1, board_size);
+    clear_result();
+}
+
+function symmetrize_movement() {
+    var movement_array = Array.from(piece_movement);
+    for (var movement of movement_array) {
+        var symmetrized_movement = leaper(movement[0], movement[1]);
+        symmetrized_movement.forEach((m) => {
+            if (!has_movement(piece_movement, m)) {
+                piece_movement.add(m);
+            }
+        })
+    }
+
+    render_movement();
 }
 
 function change_board_size(new_size) {
@@ -263,6 +358,14 @@ function draw_sqaure(ctx, pos_x, pos_y, width, height, color) {
     ctx.fill();
 }
 
+function draw_circle(ctx, pos_x, pos_y, radius, color) {
+    ctx.beginPath();
+    ctx.arc(pos_x, pos_y, radius, 0, Math.PI * 2);
+    ctx.closePath();
+    ctx.fillStyle = color;
+    ctx.fill();
+}
+
 function draw_piece(canvas, board_size, position) {
     var width = canvas.width;
     var square_width = width / board_size;
@@ -273,6 +376,17 @@ function draw_piece(canvas, board_size, position) {
 
     var ctx = canvas.getContext("2d");
     ctx.drawImage(img, x, y, square_width, square_width);
+}
+
+function draw_target(canvas, board_size, position) {
+    var width = canvas.width;
+    var square_width = width / board_size;
+    var x = (position[1] + 1/2) * square_width;
+    var y = (position[0] + 1/2) * square_width;
+    var radius = square_width / 4;
+
+    var ctx = canvas.getContext("2d");
+    draw_circle(ctx, x, y, radius, "black");
 }
 
 function draw_distance(distance, position, max_distance) {
@@ -376,6 +490,25 @@ function get_neighbors(board_size, position, type = "king", inclusive = false) {
         }
     }
     return neighbors;
+}
+
+// helper functions: set operations
+function has_movement(movement_set, movement) {
+    var movement_array = Array.from(movement_set);
+    for (var m of movement_array) {
+        if (m[0] === movement[0] && m[1] === movement[1]) {
+            return true;
+        }
+    }
+    return false;
+}
+
+function remove_movement(movement_set, movement) {
+    movement_set.forEach((m) => {
+        if (m[0] === movement[0] && m[1] === movement[1]) {
+            movement_set.delete(m);
+        }
+    });
 }
 
 // helper functions: distance map

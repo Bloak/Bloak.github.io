@@ -30,14 +30,14 @@
                     <canvas id="canvas2" width="300px" height="300px"></canvas>
                     
                     <div>
-                        <button>Clear</button>
-                        <button>Symmetrize</button>
-                        <button class="submit-button">Analyze</button>
+                        <button onclick="clear_movement()">Clear</button>
+                        <button onclick="symmetrize_movement()">Symmetrize</button>
+                        <button class="submit-button" onclick="complete_analyze()">Analyze</button>
                     </div>
                 </div>
                 
                 <div id="results">
-                    <p>General Mobility</p>
+                    <h2>General Mobility</h2>
                     <p id="result-avg">Average: </p>
                     <p id="result-max">Max: </p>
                     <p id="result-min">Min: </p>
@@ -65,6 +65,309 @@
                 </div>
 
                 <canvas id="canvas1" width="480px" height="480px"></canvas>
+            </div>
+        </div>
+
+        <div id="table">
+            <h3>Stats of some common leapers</h3>
+            <p>* For colorboundness, -1 means color-switching, 1 means healthy, n means n-way colorbound.</p>
+            <p>** Read the essay below for a detailed explanation of each entry.</p>
+
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Movement</th>
+                        <th>Reach</th>
+                        <th>Colorboundness</th>
+                        <th>General Mobility</th>
+                        <th>Approximate Mobility</th>
+                    </tr>
+                </thead>
+                
+                <tbody>
+                    <tr>
+                        <td>Wazir</td>
+                        <td>(1, 0)</td>
+                        <td>4</td>
+                        <td>-1</td>
+                        <td>18.84</td>
+                        <td>21.34</td>
+                    </tr>
+                    <tr>
+                        <td>Ferz</td>
+                        <td>(1, 1)</td>
+                        <td>4</td>
+                        <td>2</td>
+                        <td>13.08</td>
+                        <td>23.89</td>
+                    </tr>
+                    <tr>
+                        <td>Dabbaba</td>
+                        <td>(2, 0)</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>9.32</td>
+                        <td>15.72</td>
+                    </tr>
+                    <tr>
+                        <td>Alfil</td>
+                        <td>(2, 2)</td>
+                        <td>4</td>
+                        <td>8</td>
+                        <td>6.33</td>
+                        <td>10.46</td>
+                    </tr>
+                    <tr>
+                        <td>Knight</td>
+                        <td>(2, 1)</td>
+                        <td>8</td>
+                        <td>-1</td>
+                        <td>27.76</td>
+                        <td>33.81</td>
+                    </tr>
+                    <tr>
+                        <td>Camel</td>
+                        <td>(3, 1)</td>
+                        <td>8</td>
+                        <td>1</td>
+                        <td>16.9</td>
+                        <td>30.95</td>
+                    </tr>
+                    <tr>
+                        <td>Giraffe</td>
+                        <td>(4, 1)</td>
+                        <td>8</td>
+                        <td>-1</td>
+                        <td>21.02</td>
+                        <td>27.22</td>
+                    </tr>
+                    <tr>
+                        <td>Flamingo</td>
+                        <td>(6, 1)</td>
+                        <td>8</td>
+                        <td>-1</td>
+                        <td>12.81</td>
+                        <td>17.88</td>
+                    </tr>
+                    <tr>
+                        <td>Zebra</td>
+                        <td>(3, 2)</td>
+                        <td>8</td>
+                        <td>-1</td>
+                        <td>23.16</td>
+                        <td>35.54</td>
+                    </tr>
+                    <tr>
+                        <td>Antelope</td>
+                        <td>(4, 3)</td>
+                        <td>8</td>
+                        <td>-1</td>
+                        <td>16.69</td>
+                        <td>22.31</td>
+                    </tr>
+                    <tr>
+                        <td>King (Mann)</td>
+                        <td>(1, 0) + (1, 1)</td>
+                        <td>8</td>
+                        <td>1</td>
+                        <td>24.75</td>
+                        <td>26.66</td>
+                    </tr>
+                    <tr>
+                        <td>Phoenix</td>
+                        <td>(2, 2) + (1, 0)</td>
+                        <td>8</td>
+                        <td>1</td>
+                        <td>28.28</td>
+                        <td>32.06</td>
+                    </tr>
+                    <tr>
+                        <td>Kirin</td>
+                        <td>(2, 0) + (1, 1)</td>
+                        <td>8</td>
+                        <td>2</td>
+                        <td>16.97</td>
+                        <td>31.2</td>
+                    </tr>
+                    <tr>
+                        <td>Alibaba</td>
+                        <td>(2, 0) + (2, 2)</td>
+                        <td>8</td>
+                        <td>4</td>
+                        <td>11.5</td>
+                        <td>19.6</td>
+                    </tr>
+                    <tr>
+                        <td>Elephant</td>
+                        <td>(2, 2) + (1, 1)</td>
+                        <td>8</td>
+                        <td>2</td>
+                        <td>17.54</td>
+                        <td>32.26</td>
+                    </tr>
+                    <tr>
+                        <td>Machine</td>
+                        <td>(2, 0) + (1, 0)</td>
+                        <td>8</td>
+                        <td>1</td>
+                        <td>27.16</td>
+                        <td>30.09</td>
+                    </tr>
+                    <tr>
+                        <td>Marquis</td>
+                        <td>(2, 1) + (1, 0)</td>
+                        <td>12</td>
+                        <td>-1</td>
+                        <td>30.69</td>
+                        <td>36.71</td>
+                    </tr>
+                    <tr>
+                        <td>Wizard</td>
+                        <td>(3, 1) + (1, 1)</td>
+                        <td>12</td>
+                        <td>2</td>
+                        <td>19.47</td>
+                        <td>35.88</td>
+                    </tr>
+                    <tr>
+                        <td>Champion</td>
+                        <td>(2, 2) + (2, 0) + (1, 0)</td>
+                        <td>12</td>
+                        <td>1</td>
+                        <td>31.1</td>
+                        <td>35.73</td>
+                    </tr>
+                    <tr>
+                        <td>Catapult</td>
+                        <td>(2, 1) + (3, 0)</td>
+                        <td>12</td>
+                        <td>-1</td>
+                        <td>31.1</td>
+                        <td>37.97</td>
+                    </tr>
+                    <tr>
+                        <td>Camper</td>
+                        <td>(3, 1) + (3, 3)</td>
+                        <td>12</td>
+                        <td>2</td>
+                        <td>18.76</td>
+                        <td>34.45</td>
+                    </tr>
+                    <tr>
+                        <td>Dullahan</td>
+                        <td>(2, 1) + (1, 1)</td>
+                        <td>12</td>
+                        <td>1</td>
+                        <td>32.1</td>
+                        <td>36.1</td>
+                    </tr>
+                    <tr>
+                        <td>Kangaroo</td>
+                        <td>(2, 1) + (2, 2)</td>
+                        <td>12</td>
+                        <td>1</td>
+                        <td>32.65</td>
+                        <td>36.49</td>
+                    </tr>
+                    <tr>
+                        <td>Carpenter</td>
+                        <td>(2, 1) + (2, 0)</td>
+                        <td>12</td>
+                        <td>1</td>
+                        <td>32.42</td>
+                        <td>36.3</td>
+                    </tr>
+                    <tr>
+                        <td>Wildebeest</td>
+                        <td>(2, 1) + (3, 1)</td>
+                        <td>16</td>
+                        <td>1</td>
+                        <td>35.22</td>
+                        <td>40.18</td>
+                    </tr>
+                    <tr>
+                        <td>Bison</td>
+                        <td>(3, 1) + (3, 2)</td>
+                        <td>16</td>
+                        <td>1</td>
+                        <td>35.29</td>
+                        <td>39.53</td>
+                    </tr>
+                    <tr>
+                        <td>Squirrel</td>
+                        <td>(2, 0) + (2, 1) + (2, 2)</td>
+                        <td>16</td>
+                        <td>1</td>
+                        <td>34.78</td>
+                        <td>38.08</td>
+                    </tr>
+                    <tr>
+                        <td>Lion</td>
+                        <td>(1, 0) + (1, 1) + (2, 0) + (2, 1) + (2, 2)</td>
+                        <td>24</td>
+                        <td>1</td>
+                        <td>38.08</td>
+                        <td>39.89</td>
+                    </tr>
+                </tbody>
+                
+            </table>
+        </div>
+
+        <div id="essay">
+            <div class="paragraph">
+                <h3>What is a leaper in chess?</h3>
+                <p>A leaper is a piece whose movement is independent of any other pieces (except its target). For example, a Knight on g1 can move to f3, whether there's a pawn on g2 or not, so Knight is a leaper. The King is another leaper in chess, though it “leaps” in a trivial way, a 1-step move. The Rook and the Bishop are not leapers since they can be blocked along their paths. They belong to another category -- the rider, which I will not discuss here.
+                <br><br>
+                Why study leapers, you might ask? There are only two leapers in chess. Well, I’m making a chess variant involving custom chess pieces (fairy pieces), mostly leapers, and there’s not much information about the values of them, so I came up with a method to estimate the value of every possible leaper. It’s important to assign values to pieces because that’s what dictates whether to trade pieces in games.
+                <br><br>
+                Two of the most basic leapers in fairy chess are Wazir (moves 1 square orthogonally) and Ferz (moves 1 square diagonally). Their movements are symmetrical in 8 directions, so we can simply call them (0, 1) leaper and (1, 1) leaper respectively. Similarly, Knight is a (2, 1) leaper. All such (x, y) leapers are called basic leapers, while the combinations of two or more basic leapers are called compound leapers. The King, for example, is a compound (0, 1) + (1, 1) leaper.
+                </p>
+            </div>
+            <div class="paragraph">
+                <h3>The algorithm explained</h3>
+                <p>The natural and simplest approach to compare two leapers is to compare the number of ways they can move. For example, the Knight can move to 8 squares while the Wazir can only move to 4, so Knight is stronger than Wazir. However, when two pieces can move to same number of squares (which is quite common for symmetric leapers), how do we progress? An improved method is to take average among all the squares where the piece stands, including active squares (usually the center) and restricted squares (usually the edges and corners). From this perspective, the Knight is inferior to the King, because the Knight already loses some movements on the second to last rank/file, while the King preserve its 8 movements. This method, though intuitive, does not address the fact that Knight travels faster than a King. This is true not only in Z^2 with L1 norm, but in the pieces’ own metric spaces as well. To visualize how each piece perform in their own spaces, draw the movements on the first panel and click “Analyze.”
+                <br><br>
+                To quantify such speed advantage, consider the chess piece as a delivery person. There are random delivery requests happening on the board, and the faster the piece can move there, the better. We say a piece travels over the board faster if it generally completes a delivery in shorter time. Here we can define distance between two squares as “least number of moves required for the piece to move from one square to another.” For a piece standing on a fixed square, if its distances to all other squares are generally short, it indeed travels fast. We take the harmonic mean (avoiding the arithmetic mean because infinite distance could exist) and get the general mobility of the piece on a given square: (1+1+…+1) + (1/2+1/2+…+1/2) + (1/3+…) + … where each number is the reciprocal of the distance to a certain square. This is also the formula for harmonic centrality of graphs. Notice that if we take the primary term (1+1+…+1), it is exactly the value described by the simple approach ---- the number of immediate destination squares.
+                <br><br>
+                The last step is to average the general mobility over all the squares that the piece could stand on. This is not very necessary though, since players naturally put pieces on their most active squares. I’ve included all three statistics (max, min, and average values) and the interpretation is up to the users.
+                </p>
+            </div>
+            <div class="paragraph">
+                <h3>General Mobility vs Pawn Value</h3>
+                <p>In chess we like to express a piece’s value in the unit of pawns. For example, Knight = 3 means a Knight is worth 3 pawns. This equation is very subtle, since you can’t simply trade your Knight for 3 enemy pawns and call it a fair trade. However, if we only compare non-pawn pieces, this value system is robust. Not only can we compare Knight vs Rook, but also Knight + Bishop vs Rook, which shows that pawn-values are additive. General mobility, on the other hand, does not have such property. The best I can hope for is that piece against piece comparisons stay consistent in the two value systems.
+                <br><br>
+                If there were enough data, I could use regression to get a relationship formula and then use it to predict the value of pieces in pawn unit. Unfortunately, little information is given on the value of fairy leapers. The ones I can find are Wazir = Dabbaba = Alfil = 1, Ferz = 1.5, Zebra < 2, Camel = 2, and King = 3 (all on Wikipedia). Remember that these numbers are not 100% correct. Even in normal chess there are different systems (e.g., N = 3 ~ 3.5, Q = 9 ~ 10), and I’ve seen people saying King = 3.5 or 4. I personally don’t agree with Dabbaba and Alfil being the same value as Wazir. I think due to their extreme colorboundness, Dabbaba should be weaker than Wazir and Alfil should be weaker than Dabbaba. However, I guess there is a lower bound on how weak a piece can be. I vaguely remember someone saying soldier (can only move/capture forward 1 square) is worth 0.6 pawns.
+                <br><br>
+                I recently discovered <a href="https://www.chess.com/forum/view/chess960-chess-variants/formula-to-estimate-a-leaping-piece-s-value" target="_blank" rel="noopener noreferrer">Muller’s formula</a> and I think it’s worth mentioning here. It states that the value (in centipawns) of a short-range leaper (whose moves are restricted in 5x5 neighborhood) is 33.0(N) + 0.69(N)² where N is the maximum number of squares it can move to. From this formula we get Ferz = 143 and Knight = 308 which are accurate, but it does not distinguish different pieces with the same N, for example Wazir and Ferz. If we assume Muller’s formula applies to the top tier N-leapers, we can find their general mobility and establish a connection to centipawn value. For example, list all the 12-leapers within 5x5, and find that Knight + Alfil compound has the largest general mobility 32.7, so we can say 32.7 mobility corresponds to 495 centipawns (according to the formula). I don’t know to what extent this is accurate.
+                </p>
+            </div>
+            <div class="paragraph">
+                <h3>Colorboundness</h3>
+                <p>We say a piece is colorbound if it cannot reach the whole board in finite moves. The colorbound piece most familiar to chess players is the Bishop, which is a (1, 1) rider. Notice that its leaper counterpart, the Ferz, is also colorbound. If we consider only the basic leapers, more than half of them are colorbound – any (x, y) leaper with x + y even is colorbound, and (x, x) diagonal leapers are automatically colorbound. A simple proof: deconstruct the movement (x, y) into x number of (1, 0) and y number of (0, 1) and observe that both (1, 0) and (0, 1) are color-changing moves.
+                <br><br>
+                The Bishop can access half of the squares on the board, so let’s call it 2-way colorbound. There are pieces worse than this. For example, the Dabbaba ((2, 0) leaper) is 4-way colorbound, and the Alfil ((2, 2) leaper) is 8-way colorbound. The Alfil is so weak you need 8 of them to checkmate a bare King (while you only need 3 Wazirs or Ferzes to checkmate him).
+                <br><br>
+                It is obvious that colorboundness is a disadvantage, but unclear to what extent. My analysis naturally punishes colorbound pieces because there are “holes” on their distance maps which they can never reach, and those squares do not contribute to the general mobility of the pieces (because 1/∞ = 0). This punishment turns out too grave as the Camel has a smaller general mobility than the Wazir while according to pawn value a Camel should be worth two Wazirs. I’ll address the solution to this problem in the next chapter.
+                <br><br>
+                It's also worth mentioning the other side of the coin: color-switching property. It means that the piece changes its square color after every move. The Knight is a color-switching piece, and so is every (x, y) leapers with x + y odd. A color-switching piece cannot checkmate a bare King with the help of its own King, however strong it is. Also, it cannot triangulate thus is a poor protector of pawns. These disadvantages are apparently neglected by my analysis.
+                <br><br>
+                Although all basic leapers are either colorbound or color-switching, we can obtain a “healthy” piece by compounding one piece of each category. The resulting piece is usually worth more than the two building blocks’ value combined.
+                </p>
+            </div>
+            <div class="paragraph">
+                <h3>Wazir vs Ferz, and pawn-move approximation</h3>
+                <p>Up to this point, Ferz is always inferior to Wazir according to my analysis, no matter how I tweak the algorithm. To see this, observe how many squares a Wazir or a Ferz can move to given 1/2/3/… moves. Either piece can move to 4 squares on move 1, an additional 8 squares on move 2, another 12 squares on move 3, and so on, given enough space. They are essentially equal in their own spaces (different from the King vs Knight case) and unfortunate for the Ferz, it hits the boundary of the board faster than the Wazir. To compensate the Ferz, we need to change the distance map itself.
+                <br><br>
+                The common argument for Ferz > Wazir is that the Ferz, though colorbound, travels on the board faster than the Wazir. We must be cautious that “fast” here is in terms of human perception, not the metric spaces of the pieces themselves. Consider a Wazir and a Ferz standing on the center of the 8x8 board, and they are allowed 3 moves. The coverage of the Ferz looks wider than that of the Wazir because we approximate the Ferz’s coverage map to a 7x7 grid. I don’t know anything about human brain, but if I were to simulate this approximation process, I would replace each covered square by its neighborhood (the square itself + 4 neighboring squares), and such neighborhood is defined on Z^2 with L1 norm, the natural way humans visualize the chess board.
+                <br><br>
+                So, is this an illusion, after all? Does the “travel speed” translate to anything useful in a game of chess? The answer is yes, and the reason is the King’s movement. When you move your Rook across the board to attack the enemy King, they can’t just move their King far away to escape but have to start defending. Similarly, the Ferz approaches the enemy King faster than a Wazir, so it has more attacking power. By “approach” I mean controlling one or more squares close to the King, not necessarily a direct check, so the colorboundness is neutralized.
+                <br><br>
+                We can create a new distance map for Ferz in relation to King’s movement. Interpret the original distance as “if there’s a piece on the given square, how many moves are necessary to capture it?” and change it to “if there’s a King on the given square, how many moves are necessary to land on it or one of its 8 neighboring squares?” This is pretty much how humans approximate the Ferz’s coverage map as explained previously, the only difference being L1 norm changes to L∞ norm. After we get the new distance map, we calculate the general mobility as usual, and call it “king-move approximation.”
+                <br><br>
+                This measure of distance does have some drawbacks, namely: 1. The results are too blurry among different leapers, making comparisons difficult; 2. Some pieces can cover multiple squares around a King, but such advantage is neglected. Therefore, we turn our eyes to another important piece in chess – the pawn. Now for each destination square, place an enemy pawn on it and ask the leaper to either capture the pawn or stop it (by moving directly in front of it). If we use this new distance map to calculate mobility, we get “pawn-move approximation” or simply “approximate mobility.” This is enough to eliminate 2-way colorboundness, whereas for more serious colorboundness, well, they’re beyond salvation. An Alfil cannot go to four files, of course it can’t stop a pawn on one of those files. Also note that the pawn is a very specific piece. If we replace them with Berolina pawns, I expect Ferz be weaker because it can’t stop an opposite colored Berolina.
+                </p>
             </div>
         </div>
 

@@ -39,6 +39,12 @@ button, select {
     flex: 1;
 }
 
+@media (max-width: 800px) {
+    #flex {
+        flex-direction: column;
+    }
+}
+
 #control-panel {
     flex: 1;
 }
@@ -49,13 +55,46 @@ button, select {
 }
 
 #results {
-    margin-top: 30px;
-    font-size: 24px;
+    margin-top: 50px;
     line-height: 1;
 }
 
 #results p {
+    font-size: 20px;
     margin-top: 8px;
     margin-bottom: 8px;
     color:brown;
+}
+
+#table {
+    margin-top: 50px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, thead {
+    border: 2px solid black;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+td {
+    text-align: center;
+}
+
+#essay {
+    margin-top: 50px;
+}
+
+#essay p {
+    line-height: 150%;
+}
+
+.paragraph {
+    margin-top: 40px;
 }
