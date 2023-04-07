@@ -1948,7 +1948,7 @@
 			{"performer": "自由者坏坏", "link": "https://www.bilibili.com/video/BV1wW41187ji"}
 		],
 		"type": "arrange",
-		"difficulty": "1",
+		"difficulty": "2",
 		"comment": "All the triplets should be 3-3-2 rhythm instead."
 	},
 	"th095_06_2":{
@@ -3130,6 +3130,18 @@
 		],
 		"type": "arrange",
 		"difficulty": "3"
+	},
+    "th15_10":{
+		"title": null,
+		"original": "th15_10",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm37609850"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/04/07"
 	},
 	"th15_14":{
 		"title": null,
