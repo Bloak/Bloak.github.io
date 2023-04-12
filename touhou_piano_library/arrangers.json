@@ -776,6 +776,23 @@
             {"title": "youtube2", "url": "https://www.youtube.com/@user-ri9zh4yz6l"},
             {"title": "エンタルピーの小部屋", "url": "https://sites.google.com/view/enthalpy-room/"}
         ]
+    },
+    "Kanae Asaba":{
+        "website": [
+            {"title": "youtube (frost fragment)", "url": "https://www.youtube.com/@iceonfrostfragment9447"},
+            {"title": "frost_fragment", "url": "https://frost-fragment.jimdosite.com"}
+        ]
+    },
+    "吟":{
+        "alt_name": "Gin",
+        "website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/2959870"}
+        ]
+    },
+    "Prismatic":{
+        "website": [
+            {"title": "musescore", "url": "https://musescore.com/user/3646241"}
+        ]
     }
 }
 

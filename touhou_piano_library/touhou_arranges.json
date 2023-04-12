@@ -1273,14 +1273,16 @@
 	"th07_20_2":{
 		"title": null,
 		"original": "th07_20",
-		"arranger": "BZ.esmun",
-		"pdf": "https://www.youtube.com/watch?v=EXo5VgfPR08",
+		"arranger": "ジャム",
+        "transcriber": "Anon",
+		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=EXo5VgfPR08"}
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm5391193"}
 		],
 		"type": "transcription",
 		"difficulty": "5",
-		"comment": "A voicing etude with a rather simple structure. Maybe useful to try this one before attempting BZ's IN arrangements."
+		"comment": "The middle voice on page 3 is not correct. Please listen to the performance and correct them.",
+        "date": "2023/04/12"
 	},
 	"th08_01":{
 		"title": null,
@@ -2628,6 +2630,19 @@
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=skCiZ9IJmZY ",
         "date": "2023/01/30"
 	},
+    "th11_15_3":{
+		"title": null,
+		"original": "th11_15",
+		"arranger": "Kanae Asaba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=XY3meDjHoQY"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The arranger uses quite a lot of arpeggios, though they are not marked on the score.",
+        "date": "2023/04/12"
+	},
 	"th12_02":{
 		"title": null,
 		"original": "th12_02",
@@ -2640,6 +2655,19 @@
 		"type": "transcription",
 		"difficulty": "?",
 		"comment": "Hardest akikiki piece?"
+	},
+    "th12_02_2":{
+		"title": null,
+		"original": "th12_02",
+		"arranger": "吟",
+        "transcriber": "Prismatic",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mh3wNR2o3Cc"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/04/12"
 	},
 	"th12_05":{
 		"title": null,
