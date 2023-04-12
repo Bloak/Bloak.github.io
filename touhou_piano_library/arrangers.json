@@ -764,6 +764,18 @@
             {"title": "youtube", "url": "https://www.youtube.com/@Holeyhell"}
         ],
         "comment": "A legend on youtube who played almost every touhou theme on the piano. Used the name \"HoleyHell\" in the early days."
+    },
+    "uneuro":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@uneuro5062"}
+        ]
+    },
+    "電位測定":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@user-rh9gf6gc8j"},
+            {"title": "youtube2", "url": "https://www.youtube.com/@user-ri9zh4yz6l"},
+            {"title": "エンタルピーの小部屋", "url": "https://sites.google.com/view/enthalpy-room/"}
+        ]
     }
 }
 

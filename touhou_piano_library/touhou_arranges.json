@@ -2393,6 +2393,20 @@
         "comment": "The sheet music is made by Knix, based on Wiilly's transcription: https://www.youtube.com/watch?v=cOkQ9InHsJA ",
         "date": "2023/03/25"
 	},
+    "th11_05_6":{
+		"title": null,
+		"original": "th11_05",
+		"arranger": "電位測定",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=JjcaT0qafwE"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=hplKRptl-H0"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "Based on Prelude No.4 by Chopin.",
+        "date": "2023/04/11"
+	},
     "th11_06":{
 		"title": null,
 		"original": "th11_06",
@@ -3513,5 +3527,17 @@
 		"type": "transcription",
 		"difficulty": "3",
 		"comment": "The only difficulty is the repeated notes at the beginning. To simplify, combine the second pair of 16th notes into one 8th note."
+	},
+    "TFM-009a_13":{
+		"title": null,
+		"original": "TFM-009a_13",
+		"arranger": "uneuro",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=CIMNS9eIb-s"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/04/11"
 	}
 }
