@@ -2633,6 +2633,8 @@
     "th11_15_3":{
 		"title": null,
 		"original": "th11_15",
+        "circle": "Frost Fragment",
+        "album": "東方泣けるピアノ第四楽章",
 		"arranger": "Kanae Asaba",
 		"pdf": "default",
 		"performance": [
@@ -2659,6 +2661,8 @@
     "th12_02_2":{
 		"title": null,
 		"original": "th12_02",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Kwaidan」",
 		"arranger": "吟",
         "transcriber": "Prismatic",
 		"pdf": "default",
