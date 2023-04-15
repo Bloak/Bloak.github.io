@@ -2097,7 +2097,8 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8347362"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8347362"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1hL411f7x5"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
