@@ -2581,6 +2581,20 @@
 		"difficulty": "?",
         "date": "2023/03/25"
 	},
+    "th11_09_5":{
+		"title": "The Pathetic Earth Spirit Palace",
+		"original": "th11_09",
+        "original_ex": ["th11_11", "th11_13", "th11_14", "th11_15"],
+		"arranger": "Netsouba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FimncWDpFw0"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Based on Beethoven's Sonata Pathetique.",
+        "date": "2023/05/03"
+	},
 	"th11_10_3":{
 		"title": "One Night Hell Screen",
 		"original": "th11_10",
