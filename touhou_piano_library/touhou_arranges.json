@@ -232,7 +232,8 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=YS9J9MvNUJI"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YS9J9MvNUJI"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=jDyoHG3VY9w"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
@@ -301,6 +302,7 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=Plu6oRTEstM"},
+            {"performer": "UnknownEX1", "link": "https://www.youtube.com/watch?v=PvuiwTBbxOY"},
 			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV11K4y1U7EF"},
 			{"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=g3CV8YGU7gI"}
 		],
