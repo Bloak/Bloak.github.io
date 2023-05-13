@@ -807,6 +807,17 @@
         "website": [
             {"title": "youtube", "url": "https://www.youtube.com/@huy4512"}
         ]
+    },
+    "Harmony":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/456003818"},
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/1399838.htm"}
+        ]
+    },
+    "Atrufulgium":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@Atrufulgium"}
+        ]
     }
 }
 

@@ -2254,7 +2254,8 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=GN5QTHe8SEU"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=GN5QTHe8SEU"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=I977z9JGKZ8"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -3376,6 +3377,54 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+    "th17_03":{
+		"title": null,
+		"original": "th17_03",
+		"arranger": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1M54y1V7wW"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/05/13"
+	},
+    "th17_05":{
+		"title": null,
+		"original": "th17_05",
+		"arranger": "Atrufulgium",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1M54y1V7wW"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/13"
+	},
+    "th17_10":{
+		"title": null,
+		"original": "th17_10",
+		"arranger": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Harmony", "link": "https://www.bilibili.com/video/BV1b7411E7o1"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/05/13"
+	},
+    "th17_12":{
+		"title": null,
+		"original": "th17_12",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bPCEaIpocFo"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/13"
+	},
 	"th17_13_2":{
 		"title": null,
 		"original": "th17_13",
@@ -3420,6 +3469,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "5"
+	},
+    "th19_01":{
+		"title": null,
+		"original": "th19_01",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rQpSj7AeQvg"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "date": "2023/05/13"
 	},
 	"TFM-001b_01_3":{
 		"title": null,
@@ -3685,5 +3746,21 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/04/11"
+	},
+    "TFM-009b_14":{
+		"title": null,
+		"original": "TFM-009b_14",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜激＞3",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YjbmmQC68U0"},
+            {"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1SN4y1F7g8"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/05/13"
 	}
 }

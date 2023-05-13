@@ -114,6 +114,11 @@
 		"title_en": "Unconnected Marketeers",
 		"type": "Windows game"
 	},
+    "th19": {
+		"title": "東方獣王園",
+		"title_en": "Unfinished Dream of All Living Ghost.",
+		"type": "Windows game"
+	},
 	"th075": {
 		"title": "東方萃夢想",
 		"title_en": "Immaterial and Missing Power",
@@ -147,6 +152,11 @@
     "th155": {
 		"title": "東方憑依華",
 		"title_en": "Antinomy of Common Flowers",
+		"type": "spin-off"
+	},
+    "th185": {
+		"title": "バレットフィリア達の闇市場",
+		"title_en": "100th Black Market",
 		"type": "spin-off"
 	}
 }

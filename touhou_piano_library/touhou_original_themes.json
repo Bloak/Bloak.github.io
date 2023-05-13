@@ -926,14 +926,49 @@
 		"title_en": "Pandemonic Planet",
 		"collection": "th15"
 	},
+    "th16_01": {
+		"title": "桜舞い散る天空",
+		"title_en": "The Sky Where Cherry Blossoms Flutter Down",
+		"collection": "th16"
+	},
     "th16_02": {
 		"title": "希望の星は青霄に昇る",
 		"title_en": "A Star of Hope Rises in the Blue Sky",
 		"collection": "th16"
 	},
+    "th16_03": {
+		"title": "真夏の妖精の夢",
+		"title_en": "A Midsummer Fairy's Dream",
+		"collection": "th16"
+	},
+    "th16_04": {
+		"title": "色無き風は妖怪の山に",
+		"title_en": "The Colorless Wind on Youkai Mountain",
+		"collection": "th16"
+	},
+    "th16_05": {
+		"title": "山奥のエンカウンター",
+		"title_en": "Deep-Mountain Encounter",
+		"collection": "th16"
+	},
+    "th16_06": {
+		"title": "桜色の海を泳いで",
+		"title_en": "Swim in a Cherry Blossom-Colored Sea",
+		"collection": "th16"
+	},
+    "th16_07": {
+		"title": "一対の神獣",
+		"title_en": "A Pair of Divine Beasts",
+		"collection": "th16"
+	},
     "th16_08": {
 		"title": "幻想のホワイトトラベラー",
 		"title_en": "Illusionary White Traveler",
+		"collection": "th16"
+	},
+    "th16_09": {
+		"title": "魔法の笠地蔵",
+		"title_en": "The Magic Straw-Hat Jizo",
 		"collection": "th16"
 	},
     "th16_10": {
@@ -966,14 +1001,99 @@
 		"title_en": "Secret God Matara ~ Hidden Star in All Seasons.",
 		"collection": "th16"
 	},
+    "th16_16": {
+		"title": "不自然な自然",
+		"title_en": "Unnatural Nature",
+		"collection": "th16"
+	},
     "th16_17": {
 		"title": "白い旅人",
 		"title_en": "White Traveler",
 		"collection": "th16"
 	},
+    "th17_01": {
+		"title": "物言わぬ獣の霊",
+		"title_en": "Silent Beast Spirits",
+		"collection": "th17"
+	},
+    "th17_02": {
+		"title": "地蔵だけが知る哀嘆",
+		"title_en": "The Lamentations Known Only by Jizo",
+		"collection": "th17"
+	},
+    "th17_03": {
+		"title": "ジェリーストーン",
+		"title_en": "Jelly Stone",
+		"collection": "th17"
+	},
+    "th17_04": {
+		"title": "ロストリバー",
+		"title_en": "Lost River",
+		"collection": "th17"
+	},
+    "th17_05": {
+		"title": "石の赤子と水中の牛",
+		"title_en": "The Stone Baby and the Submerged Bovine",
+		"collection": "th17"
+	},
+    "th17_06": {
+		"title": "不朽の曼珠沙華",
+		"title_en": "Everlasting Red Spider Lily",
+		"collection": "th17"
+	},
+    "th17_07": {
+		"title": "セラフィックチキン",
+		"title_en": "Seraphic Chicken",
+		"collection": "th17"
+	},
+    "th17_08": {
+		"title": "アンロケイテッドヘル",
+		"title_en": "Unlocated Hell",
+		"collection": "th17"
+	},
+    "th17_09": {
+		"title": "トータスドラゴン　～ 幸運と不運",
+		"title_en": "Tortoise Dragon ~ Fortune and Misfortune",
+		"collection": "th17"
+	},
+    "th17_10": {
+		"title": "ビーストメトロポリス",
+		"title_en": "Beast Metropolis",
+		"collection": "th17"
+	},
+    "th17_11": {
+		"title": "セラミックスの杖刀人",
+		"title_en": "Joutoujin of Ceramics",
+		"collection": "th17"
+	},
+    "th17_12": {
+		"title": "エレクトリックヘリテージ",
+		"title_en": "Electric Heritage",
+		"collection": "th17"
+	},
     "th17_13": {
 		"title": "偶像に世界を委ねて　～ Idoratrize World",
 		"title_en": "Entrust this World to Idols ~ Idolatrize World",
+		"collection": "th17"
+	},
+    "th17_14": {
+		"title": "輝かしき弱肉強食の掟",
+		"title_en": "The Shining Law of the Strong Eating the Weak",
+		"collection": "th17"
+	},
+    "th17_15": {
+		"title": "聖徳太子のペガサス　～ Dark Pegasus",
+		"title_en": "Prince Shoutoku's Pegasus ~ Dark Pegasus",
+		"collection": "th17"
+	},
+    "th17_16": {
+		"title": "畜生達の休息",
+		"title_en": "The Animals' Rest",
+		"collection": "th17"
+	},
+    "th17_17": {
+		"title": "地下からの帰還",
+		"title_en": "Returning Home from the Underground",
 		"collection": "th17"
 	},
 	"th18_03": {
@@ -995,6 +1115,21 @@
 		"title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
 		"title_en": "Where Is That Bustling Marketplace Now ~ Immemorial Marketeers",
 		"collection": "th18"
+	},
+    "th19_01": {
+		"title": "獣の知性",
+		"title_en": "A Beast's Intelligence",
+		"collection": "th19"
+	},
+    "th19_02": {
+		"title": "世界は可愛く出来ている",
+		"title_en": "The World is Made in an Adorable Way",
+		"collection": "th19"
+	},
+    "th19_03": {
+		"title": "魔獣スクランブル",
+		"title_en": "Magical Beast Scramble",
+		"collection": "th19"
 	},
 	"TFM-001b_01": {
 		"title": "萃夢想",
@@ -1111,6 +1246,11 @@
     "TFM-009a_13": {
 		"title": "沢の河童の技術力",
 		"title_en": "The Ravine Kappa's Technological Prowess",
+		"collection": "th155"
+	},
+    "TFM-009b_14": {
+		"title": "今宵は飄逸なエゴイスト(Live ver)　～ Egoistic Flowers.",
+		"title_en": "Tonight Stars an Easygoing Egoist (Live ver) ~ Egoistic Flowers",
 		"collection": "th155"
 	}
 }
