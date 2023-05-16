@@ -3482,6 +3482,18 @@
 		"difficulty": "4",
         "date": "2023/05/13"
 	},
+    "th19_03":{
+		"title": null,
+		"original": "th19_03",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=jhcwh0cBzhg"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/16"
+	},
 	"TFM-001b_01_3":{
 		"title": null,
 		"original": "TFM-001b_01",
