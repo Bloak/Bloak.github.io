@@ -877,7 +877,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "5",
-        "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: https://bloak.github.io/arrange/th07_01_3.pdf . It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
+        "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: datas/sheets/th07_01_3.pdf . It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
         "date": "2023/04/29"
 	},
 	"th07_02_2":{

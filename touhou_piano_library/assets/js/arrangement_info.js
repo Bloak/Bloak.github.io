@@ -10,7 +10,7 @@ function get_entry_id() {
 }
 
 async function get_entry_info(id) {
-    var data = await get_json("touhou_arranges.json");
+    var data = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
     if (id in data) {
         return data[id];
     }
@@ -115,7 +115,7 @@ function generate_sheet_music_link(id, data) {
     var text = "";
     if (data.pdf === "default") {
         text = id + ".pdf";
-        url = "https://bloak.github.io/arrange/" + text;
+        url = "https://touhou.pub/touhou_piano_library/datas/sheets/" + text;
     }
     else {
         text = "Found Here";

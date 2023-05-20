@@ -1,6 +1,6 @@
 var fs = require("fs");
 var path = require("path");
-var filePath = path.join(__dirname, "touhou_arranges.json");
+var filePath = path.join(__dirname, "https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
 
 fs.readFile(filePath, function(err, data){
     if (!err) {

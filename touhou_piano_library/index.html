@@ -5,17 +5,24 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="general_style.css">
-        <link rel="stylesheet" href="home.css">
-        <link rel="stylesheet" href="switch.css">
+        <link rel="stylesheet" href="assets/css/general_style.css">
+        <link rel="stylesheet" href="assets/css/home.css">
+        <link rel="stylesheet" href="assets/css/switch.css">
     </head>
     <body>
         <div id="nav-placeholder"></div>
 
         <div class="page">
-            <h1 id="title">Touhou Piano Library</h1>
 
-            <img src="images/home_score.png" width="100%">
+            <center>
+                <h1 id="title">Touhou Piano Library</h1>
+                <img class="profile-image" src="assets/images/logo.svg" width="256px" alt="profile-image">
+                <img src="assets/images/home_score.png" width="100%">
+                <audio controls>
+                    <source src="datas/music/touhou-melody.mp3" type="audio/mpeg" width="100%">
+                    <embed height="50" width="100" src="datas/music/touhou-melody.mp3">
+                  </audio>
+            </center>
 
             <div class="intro">
                 <p>Welcome! We have <span class="in-text-number" id="arrangement-count">999</span> arrangements which cover <span class="in-text-number" id="covered-theme-count">999</span> touhou themes. More arrangements are to be uploaded.</p>
@@ -39,9 +46,9 @@
             </div>
         </div>
 
-        <script src="jquery-3.6.3.min.js"></script>
-        <script src="add_navigation.js"></script>
-        <script src="generic_fetch.js"></script>
-        <script src="home.js"></script>
+        <script src="assets/js/jquery-3.6.3.min.js"></script>
+        <script src="assets/js/add_navigation.js"></script>
+        <script src="assets/js/generic_fetch.js"></script>
+        <script src="assets/js/home.js"></script>
     </body>
 </html>

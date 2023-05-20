@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="general_style.css">
-        <link rel="stylesheet" href="arrangement_info.css">
+        <link rel="stylesheet" href="assets/css/general_style.css">
+        <link rel="stylesheet" href="assets/css/arrangement_info.css">
     </head>
     <body>
         <div id="nav-placeholder"></div>
@@ -15,7 +15,7 @@
             <h1 id="title">Placeholder Title</h1>
 
             <div class="block">
-                <img src="images/info_icon.png" class="icon">
+                <img src="assets/images/info.svg" class="icon">
                 <h3 class="text-after-icon">Arrangement Info</h3>
 
                 <table class="metadata-table">
@@ -30,7 +30,7 @@
             </div>
 
             <div class="block">
-                <img src="images/file_icon.png" class="icon">
+                <img src="assets/images/file-download.svg" class="icon">
                 <h3 class="text-after-icon" >Sheet Music: </h3>
                 <span id="sheet-music-link"></span>
 
@@ -38,7 +38,7 @@
             </div>
 
             <div class="block">
-                <img src="images/music_icon.png" class="icon">
+                <img src="assets/images/music.svg" class="icon">
                 <h3 class="text-after-icon">Recordings</h3>
 
                 <table class="recordings-table" id="recordings">
@@ -51,17 +51,17 @@
             </div>
 
             <div class="block">
-                <img src="images/comment_icon.png" class="icon">
+                <img src="assets/images/comment.svg" class="icon">
                 <h3 class="text-after-icon">Comment</h3>
 
                 <p id="comment"></p>
             </div>
         </div>
 
-        <script src="jquery-3.6.3.min.js"></script>
+        <script src="assets/js/jquery-3.6.3.min.js"></script>
         <script src="//mozilla.github.io/pdf.js/build/pdf.js"></script>
-        <script src="add_navigation.js"></script>
-        <script src="generic_fetch.js"></script>
-        <script src="arrangement_info.js"></script>
+        <script src="assets/js/add_navigation.js"></script>
+        <script src="assets/js/generic_fetch.js"></script>
+        <script src="assets/js/arrangement_info.js"></script>
     </body>
 </html>
