@@ -9,7 +9,7 @@ async function display_arrangements(difficulty) {
     new_tbody.setAttribute("id", "data-entry");
     var tbody = document.getElementById("data-entry");
     
-    var arrangements = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
+    var arrangements = await get_json("datas/touhou_arranges.json");
     var count = 0;
     for (var id in arrangements) {
         var data = arrangements[id];

@@ -50,7 +50,7 @@ function create_url_link(url, new_tab = false) {
 
 async function create_person_link(name) {
     // If name exists in arrangers.json, create an <a> link. Otherwise create a <span>.
-    var arrangers = await get_json("https://touhou.pub/touhou_piano_library/datas/arrangers.json");
+    var arrangers = await get_json("datas/arrangers.json");
     if (name in arrangers) {
         url = encodeURI("./arranger_info.html?name=" + name);
         
@@ -89,7 +89,7 @@ async function create_person_links(names) {
 
 async function create_theme_link(id) {
     // If id exists in touhou_original_themes.json, create an <a> link. Otherwise create a <span>.
-    var themes = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_original_themes.json");
+    var themes = await get_json("datas/touhou_original_themes.json");
     if (id in themes) {
         url = "./touhou_theme_info.html?id=" + id;
 
@@ -113,7 +113,7 @@ async function get_arrangement_title(data) {
     var title_en = null;
 
     if (data.title === null) {
-        var theme_data = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_original_themes.json");
+        var theme_data = await get_json("datas/touhou_original_themes.json");
         var id = data.original;
         if (id in theme_data) {
             var theme = theme_data[id];

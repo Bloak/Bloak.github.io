@@ -67,9 +67,9 @@ function instantiate_collapsibles(touhou_works) {
 }
 
 async function main() {
-    var touhou_works = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_works.json");
-    var touhou_themes = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_original_themes.json");
-    var arrangements = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
+    var touhou_works = await get_json("datas/touhou_works.json");
+    var touhou_themes = await get_json("datas/touhou_original_themes.json");
+    var arrangements = await get_json("datas/touhou_arranges.json");
 
     instantiate_collapsibles(touhou_works);
 

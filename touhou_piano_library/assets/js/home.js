@@ -52,7 +52,7 @@ function handle_switch(checkbox) {
 }
 
 async function main() {
-    var arrangement_data = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
+    var arrangement_data = await get_json("datas/touhou_arranges.json");
 
     update_stats(arrangement_data);
 

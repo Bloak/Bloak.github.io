@@ -28,7 +28,7 @@ function count_performances(name, all_arrangements) {
 async function display_data(artists) {
     var table = document.getElementById("table-body");
 
-    var all_arrangements = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
+    var all_arrangements = await get_json("datas/touhou_arranges.json");
 
     for (var name in artists) {
         var new_row = table.insertRow();
@@ -55,7 +55,7 @@ async function display_data(artists) {
 
 async function main() {
     document.getElementById("table").style.display = "none";
-    var artists = await get_json("https://touhou.pub/touhou_piano_library/datas/arrangers.json");
+    var artists = await get_json("datas/arrangers.json");
     display_data(artists);
 }
 

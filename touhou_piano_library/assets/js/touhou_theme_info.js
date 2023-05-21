@@ -10,7 +10,7 @@ function get_entry_id() {
 }
 
 async function get_entry_info(id) {
-    var data = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_original_themes.json");
+    var data = await get_json("datas/touhou_original_themes.json");
     if (id in data) {
         return data[id];
     }
@@ -88,7 +88,7 @@ async function display_arrangements(ids, all_arrangements) {
 
 async function show_source(data) {
     var source = data.collection;
-    var works = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_works.json");
+    var works = await get_json("datas/touhou_works.json");
     var work_data = works[source];
     var title = (translation_enabled()) ? work_data.title_en : work_data.title;
     
@@ -102,7 +102,7 @@ async function main() {
 
     set_title(data);
 
-    var all_arrangements = await get_json("https://touhou.pub/touhou_piano_library/datas/touhou_arranges.json");
+    var all_arrangements = await get_json("datas/touhou_arranges.json");
     var current_theme_arrangement_ids = get_arrangements(id, all_arrangements);
     display_arrangements(current_theme_arrangement_ids, all_arrangements);
 
