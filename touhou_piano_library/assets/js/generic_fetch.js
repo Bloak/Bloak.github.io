@@ -24,7 +24,7 @@ function GetURLParameter(sParam) {
 async function get_json(file_name) {
     // file_name is relative path (datas/xxx.json)
     // fetch from github raw
-    file_name = "https://raw.githubusercontent.com/Touhou-Public/touhou_piano_library/main/" + file_name;
+    // file_name = "https://raw.githubusercontent.com/Touhou-Public/touhou_piano_library/main/" + file_name;
 
     var res = await fetch(file_name, {
         headers : { 
