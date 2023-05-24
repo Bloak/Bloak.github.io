@@ -1,0 +1,3 @@
+[submodule "touhou_piano_library"]
+	path = touhou_piano_library
+	url = https://github.com/Touhou-Public/touhou_piano_library
