@@ -1,0 +1,3778 @@
+{
+	"hr01_07":{
+		"title": null,
+		"original": "hr01_07",
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "た人",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.youtube.com/watch?v=mEM5aFJhC3I"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"hr01_10":{
+		"title": null,
+		"original": "hr01_10",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"transcriber": "fffianist",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm16432792"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"hr01_12_2":{
+		"title": null,
+		"original": "hr01_12",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Spirit」",
+		"arranger": "青汁",
+		"transcriber": ["Rummsbatte", "Knix6593"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=AIvhhAKHKkA"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM)"
+	},
+    "hr02_02":{
+		"title": null,
+		"original": "hr02_02",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm17144366"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/18"
+	},
+    "hr02_06":{
+		"title": null,
+		"original": "hr02_06",
+		"circle": "Lunatico",
+		"album": "少女洋琴倶楽部・壱",
+		"arranger": "ヤヤネ",
+		"transcriber": "Yuiru",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iO0Y9fgMxBI"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/10"
+	},
+    "hr02_08":{
+		"title": "花を夢む",
+        "title_en": "Dream of Flowers",
+		"original": "hr02_08",
+		"circle": "Lunatico",
+		"album": "思君楼 -Eine Phantasmagorie-",
+		"arranger": "ヤヤネ",
+		"transcriber": "Yuiru",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1EQrxHVe52E"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/10"
+	},
+	"hr02_11":{
+		"title": "Sonatine in G flat minor",
+		"original": "hr02_11",
+		"circle": "Assaultdoor",
+		"album": "Daydream Tunes",
+		"arranger": "柊秀雪",
+		"transcriber": "Inori Kaze",
+		"pdf": "https://www.bilibili.com/video/BV1gg4y1q76h",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1gg4y1q76h"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV18v411L7MB"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "But it's in G minor..."
+	},
+	"hr03_01":{
+		"title": null,
+		"original": "hr03_01",
+		"arranger": "wag",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm4458550"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5435419"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"hr04_01":{
+		"title": "【Etude Ⅰ】 - ヒロシゲ36号 -",
+		"original": "hr04_01",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=302s"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"hr04_02":{
+		"title": "【Etude II】 - 53ミニッツの青い海 -",
+		"original": "hr04_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=443s"},
+			{"performer": "dekwest", "link": "https://www.youtube.com/watch?v=--FORFreZJA"},
+			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1Et411376v"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+	"hr04_11_2":{
+		"title": "【Finale】 - 最も澄み渡る空と海 -",
+		"original": "hr04_11",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "琉璃の鸟",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=2940s"},
+			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1YJ411A7TF"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+    "hr05_09":{
+		"title": null,
+		"original": "hr05_09",
+		"arranger": "桃天ピクト",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Ai-niFR5hwo"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/02/01"
+	},
+	"hr05_10":{
+		"title": "ハートグレイズ",
+		"title_en": "Heart Graze",
+		"original": "hr05_10",
+		"circle": "Assaultdoor",
+		"album": "Daydream Tunes",
+		"arranger": "ありおと",
+		"transcriber": "GNaugEH",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=c8vAFckobdg"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1154y1q7Dv"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
+	"th02_11":{
+		"title": null,
+		"original": "th02_11",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bpEXWk8SAx4"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "It would make more sense to merge every two bars into one, so that the 3+3+3+3 rhythm fits in a single bar."
+	},
+	"th03_08_2":{
+		"title": null,
+		"original": "th03_08",
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "ありおと",
+		"transcriber": "蓬莱人形FireBird7",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=VIBhNAhgFXQ"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th03_24":{
+		"title": null,
+		"original": "th03_24",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=RtBcXqZ7bCo"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "This track was not used in the game."
+	},
+    "th04_09":{
+		"title": null,
+		"original": "th04_09",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Spirit」",
+		"arranger": "A'",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YS9J9MvNUJI"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=jDyoHG3VY9w"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "Update 2024/04/29: I added slurs in B section because I think the phrasing is not obvious. They are not based on the original audio but only my personal taste.",
+        "date": "2023/03/10"
+	},
+	"th04_15":{
+		"title": null,
+		"original": "th04_15",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=G4nyCYOgY5Q"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th05_06_2":{
+		"title": null,
+		"original": "th05_06",
+		"arranger": "アマツミカボシ",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=MXavfDiOgcU"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "This is a piano duet."
+	},
+	"th05_16_2":{
+		"title": null,
+		"original": "th05_16",
+		"arranger": "アマツミカボシ",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=LSpxN1v81l0"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "This is a piano duet."
+	},
+	"th06_01":{
+		"title": null,
+		"original": "th06_01",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+		"transcriber": ["Knix6593", "Wiilly"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=2AEi0NgtGoE"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=b70uZz-iIO8"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
+	"th06_02":{
+		"title": null,
+		"original": "th06_02",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "すめらぎ紫蓮",
+		"transcriber": "UnknownEX1",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Plu6oRTEstM"},
+            {"performer": "UnknownEX1", "link": "https://www.youtube.com/watch?v=PvuiwTBbxOY"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV11K4y1U7EF"},
+			{"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=g3CV8YGU7gI"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th06_02_2":{
+		"title": null,
+		"original": "th06_02",
+		"arranger": "Yoshi Kirishima",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=zl6Ot4xjHBo"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "From video description: \nArranged to try to include as many voices from the original as possible. Some measures may be too hard to play. Remove parts/voices as you wish."
+	},
+	"th06_03_2":{
+		"title": null,
+		"original": "th06_03",
+		"original_ex": ["th06_02"],
+		"circle": "Clonesoldier's Factory",
+		"album": "Eastern Piano & Ensemble -The Concert for Crimson Ladies-",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Kw-enLpeZo0"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Kw-enLpeZo0"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th06_03_3":{
+		"title": "宵闇の前奏曲",
+		"title_en": "Prelude for Rumia",
+		"original": "th06_03",
+		"original_ex": ["th06_02"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm30375661"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The part where two themes overlap (starting from measure 43) is brilliant. You can notice the same group of notes appearing in both staves, from two different themes. Is this the secret of ZUN's composition? I've always been feeling similarities in pairs of stage and boss themes, but couldn't spot exactly where."
+	},
+	"th06_04":{
+		"title": null,
+		"original": "th06_04",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=OC5Wnr-nzPs"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Ly4y1b7gU"}
+		],
+		"type": "transcription",
+		"difficulty": "2"
+	},
+	"th06_04_2":{
+		"title": "東方雪夜物語",
+		"original": "th06_04",
+		"original_ex": ["th07_02"],
+		"circle": "Assaultdoor",
+		"album": "月遊 ～ツキアソビ～",
+		"arranger": "after",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm8346316"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "The original arrangement is non-piano: https://www.nicovideo.jp/watch/sm6675928 \nThe artist's blog regarding this arrangement: http://ameblo.jp/musicbox-of-afterglow/entry-10238598934.html "
+	},
+	"th06_04_3":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第2楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 2nd Movement",
+		"original": "th06_04",
+		"original_ex": ["th06_06"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"},
+			{"performer": "あかみ", "link": "https://www.youtube.com/watch?v=kALW2lJxSIg"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=e0Yu_uxRilg"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th06_05":{
+		"title": "氷のピアノ",
+		"title_en": "Ice Piano",
+		"original": "th06_05",
+		"arranger": "てとてと",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8713037"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm9985797"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "I remade the sheet because the original one was too messy. However, I was not familiar with musescore so I left a bunch of unnecessary dynamic and tempo markings... Please ignore them."
+	},
+	"th06_05_3":{
+		"title": null,
+		"original": "th06_05",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wjp9Wl_qmB8"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "Left hand needs to be quiet despite the large chords."
+	},
+	"th06_05_5":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第1楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 1st Movement",
+		"original": "th06_05",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th06_05_6":{
+		"title": "氷精のエチュード",
+		"title_en": "Etude Op.⑨ in E flat minor",
+		"original": "th06_05",
+		"original_ex": ["th06_04", "th06_06"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=SAmSVmB1R3s"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+    "th06_06":{
+		"title": "上海紅茶館",
+		"original": "th06_06",
+		"circle": "電奏楽団",
+		"album": "幻想禄",
+		"arranger": "天門",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hOJ6L4SWib4"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/02/06"
+	},
+	"th06_06_2":{
+		"title": "Chinese Fantasy ～上海紅茶館",
+		"original": "th06_06",
+		"original_ex": ["th06_07"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2008 summer",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/shanghai_denko.htm"},
+			{"performer": "Denko", "link": "https://www.youtube.com/watch?v=TEY9I6iotH8"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Denko's performance only covered the first half."
+	},
+	"th06_07":{
+		"title": null,
+		"original": "th06_07",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11238166"},
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=x0_yuQvr_d4"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "I've already embedded the page 10 revision into the pdf. \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
+	"th06_07_3":{
+		"title": "美鈴のためのトッカータ",
+		"title_en": "Toccata for Meiling",
+		"original": "th06_07",
+		"original_ex": ["th06_06"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=shnsftokFds"},
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=X8Uw1r0U0lk"},
+			{"performer": "Nonohoo", "link": "https://www.youtube.com/watch?v=PlBG-zbRNpU"},
+            {"performer": "もりげん", "link": "https://www.youtube.com/watch?v=-4qfYCTOKqQ"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=sVb8QtKuS-w (violin by TAM)"
+	},
+    "th06_07_5":{
+		"title": null,
+		"original": "th06_07",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=aahMt68U6QY"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The score is presented as a duet, but it seems like it can be handled by one person. Other piano works by 青汁 and other works in 東方夜想曲集 series don't contain a piano duet, as far as I know.",
+        "date": "2023/02/17"
+	},
+    "th06_07_6":{
+		"title": "美鈴ちょっといらっしゃい",
+        "title_en": "Meiling, Come In For a Bit",
+		"original": "th06_07",
+		"circle": "Unknown Dimension",
+		"album": "紅魔館にピアノなんかあったっけ？",
+		"arranger": "清水 嶺",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=moiXXj8rWws"},
+            {"performer": "Hello World", "link": "https://www.youtube.com/watch?v=9PZmNUTQSZw"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"date": "2023/04/29"
+	},
+	"th06_08":{
+		"title": null,
+		"original": "th06_08",
+		"arranger": "车万石",
+		"transcriber": "豪俊提琴",
+		"pdf": "default",
+		"performance": [
+			{"performer": "车万石", "link": "https://www.bilibili.com/video/BV1zJ411x7vV"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th06_08_2":{
+		"title": null,
+		"original": "th06_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FS4am5oAXF8"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "It's very different from the original after measure 45, although the artist didn't mark this one as \"Arr.\" \nThe beginning should be 6/8 time instead of 3/4. \nAlthough the midi is plain, I think it's best to put accent on the 1st and 3rd beats of every bar after measure 57. Similar technique apply to measure 45-56, but more complicated. Here the top melody is E-- --D# E-- --F# G#(Ab)... and the decorating melody is every 3,5,6th (eighth) note of each measure. All other notes are pure accompaniment."
+	},
+	"th06_08_3":{
+		"title": "Cheerful Library",
+		"original": "th06_08",
+		"arranger": "akr92212",
+		"transcriber": "myut",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=KGkiY-TR5jQ"},
+			{"performer": "Blargel", "link": "https://www.youtube.com/watch?v=7b-MWcs-zPE"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th06_09":{
+		"title": null,
+		"original": "th06_09",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kgCzkMeQ-YY"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "The new pdf made by Kijiriki is more clean and compact than the original one, but I chose the original because there are some inconsistencies between the two (left hand rhythm starting from measure 33). \nConcerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
+	"th06_09_2":{
+		"title": null,
+		"original": "th06_09",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HnNPs-Wx3EI"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=lVYDgCRGMP4 (violin by TAM)"
+	},
+    "th06_09_3":{
+		"title": null,
+		"original": "th06_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Scarlet」",
+		"arranger": "青汁",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=eYj-i1Y9kHM"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Piano trio (published earlier) in ピアノ三重奏による東方夜想曲集「Seal」: https://www.bilibili.com/video/BV1Xs411o76v/?p=6 . Piano: 青汁; Violin: TAM & Hikaru.",
+        "date": "2023/02/17"
+	},
+    "th06_09_4":{
+		"title": "パチェも弾いてみなさいよ",
+        "title_en": "Patchy, Give It a Try",
+		"original": "th06_09",
+		"circle": "Unknown Dimension",
+		"album": "紅魔館にピアノなんかあったっけ？",
+		"arranger": "清水 嶺",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DpmuB05uQo4"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"date": "2023/04/29"
+	},
+	"th06_10":{
+		"title": null,
+		"original": "th06_10",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kQknzKl9ym8"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th06_10_2":{
+		"title": "Chained Time",
+		"original": "th06_10",
+		"circle": "Seaside",
+		"album": "the Wind",
+		"arranger": "SHI",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=fc6Icx386Vw"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "Inverse moonlight sonata? \nThis piece is quite easy and should be sightreadable, but the score has some weird notations such as writing E♮ as F♭, which makes sightreading a nightmare. (or is it just me?) \nThe right hand chords in measures 20-34 is very non-standard. I don't know whether it's exactly intended by the arranger, a playing mistake, or a transcription error."
+	},
+	"th06_11":{
+		"title": null,
+		"original": "th06_11",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mln4gtMVQMY"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"th06_11_2":{
+		"title": null,
+		"original": "th06_11",
+		"circle": "雪の足跡",
+		"album": "東方的幻想曲集",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://yukiato.sakura.ne.jp/music/luna.mp3"},
+			{"performer": "TKDL", "link": "https://www.youtube.com/watch?v=B271IYRQcjo"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th06_11_3":{
+		"title": "咲夜も何か弾いてみたら？",
+		"title_en": "Why Don't You Try Playing Something, Sakuya?",
+		"original": "th06_11",
+		"circle": "Unknown Dimension",
+		"album": "紅魔館にピアノなんかあったっけ？",
+		"arranger": "清水 嶺",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pV53pVfzCig"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th06_11_4":{
+		"title": "月時計のトッカータ",
+		"title_en": "Toccata for Lunar Clock",
+		"original": "th06_11",
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=6XRX3QLXWbs"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th06_12_2":{
+		"title": null,
+		"original": "th06_12",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2007 winter",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/th_rpa/rpa_no01.htm"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1344y1M7cd"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+		"comment": "The only occurrence of upward triplets in touhou? On contrary, downward triplets are very common."
+	},
+	"th06_13_2":{
+		"title": null,
+		"original": "th06_13",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10784106"},
+			{"performer": "大谷的游戏创作小屋", "link": "https://www.bilibili.com/video/BV1zJ41117Ts"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+	},
+	"th06_13_3":{
+		"title": "紅魔最終楽章独奏",
+		"original": "th06_13",
+		"original_ex": ["th06_12", "TFM-001b_14"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vAX902tSXkg"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=N4RotIZKXAc (violin by TAM)"
+	},
+    "th06_13_4":{
+		"title": "紅魔館にピアノなんかあったっけ？",
+        "title_en": "There was a Piano in the Scarlet Devil Mansion?",
+		"original": "th06_13",
+		"circle": "Unknown Dimension",
+		"album": "紅魔館にピアノなんかあったっけ？",
+		"arranger": "清水 嶺",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YC_z8NYoBuo"},
+            {"performer": "John Shin", "link": "https://www.youtube.com/watch?v=qXIgF23jYeI"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2023/04/29"
+	},
+	"th06_14":{
+		"title": null,
+		"original": "th06_14",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm1735907"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5729360"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th06_15":{
+		"title": null,
+		"original": "th06_15",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=KtqbmE8H8uE"},
+			{"performer": "海老福", "link": "https://www.youtube.com/watch?v=baJ2Z9gDQgM"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "Piano trio in TAMUSIC's ピアノ三重奏による東方夜想曲集「Seal」: https://www.youtube.com/watch?v=rMh3kDA-dRA . Piano: 海老福; Violin: TAM & Hikaru."
+	},
+	"th06_15_3":{
+		"title": "千年の孤独",
+		"title_en": "A Thousand years of Solitude",
+		"original": "th06_15",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "Akt",
+		"transcriber": "Frioniel",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=6T5KhFm-ohs"},
+			{"performer": "Frioniel", "link": "https://www.bilibili.com/video/BV1i4411P7he"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th06_15_5":{
+		"title": "Piano Serenade",
+		"original": "th06_15",
+		"circle": "電奏楽団",
+		"album": "組曲Flandre",
+		"arranger": "天門",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=X1fgxREoKbM"},
+			{"performer": "Muesli", "link": "https://www.youtube.com/watch?v=ORUf4yZbtZA"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
+	},
+    "th06_17":{
+		"title": null,
+		"original": "th06_17",
+		"circle": "来夢緑",
+		"album": "Ring-a-ring o'roses",
+		"arranger": "Notzan ACT",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Ou_OQBOzOVY"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/02/14"
+	},
+	"th07_01_2":{
+		"title": "雪踊る桜の下で",
+		"original": "th07_01",
+		"circle": "光と闇の協奏曲",
+		"album": "Touhou Pianoforte Ⅰ -Requiem for sakura-",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=h5fcupEbNpQ"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Based on \"The Snow is Dancing\" by Debussy."
+	},
+	"th07_01_4":{
+		"title": null,
+		"original": "th07_01",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=f2alK4BcEpI"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=dFCm1IBPQR0"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: datas/sheets/th07_01_3.pdf . It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
+        "date": "2023/04/29"
+	},
+	"th07_02_2":{
+		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第3楽章",
+		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 3rd Movement",
+		"original": "th07_02",
+		"original_ex": ["th06_05", "th07_03"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/marukyu_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Did you notice the resemblance between \"Beloved Tomboyish Girl\" and \"Paradise ~ Deep Mountain\"? The first one is 6713--313176 and the second one is 6713--3 3236--6."
+	},
+    "th07_02_3":{
+		"title": null,
+		"original": "th07_02",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=TR0AZ8l6_3k"},
+            {"performer": "Billy幻想", "link": "https://www.bilibili.com/video/BV1HR4y1M7vq"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+    "th07_02_4":{
+		"title": null,
+		"original": "th07_02",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA theBest I",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/mukau_ex.htm"},
+            {"performer": "AC02", "link": "https://www.bilibili.com/video/BV1js41187is"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "AC02's performance only covers the first half, which is easier and calmer than the rest of the piece."
+	},
+	"th07_03":{
+		"title": "無何有の郷 ～ Deep Mountain & クリスタライズシルバー",
+		"original": "th07_03",
+		"original_ex": ["th07_02"],
+		"arranger": "ちっぷ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm24668092"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"th07_04_4":{
+		"title": null,
+		"original": "th07_04",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯2 ～ Museum of marasy",
+		"arranger": "まらしぃ",
+		"transcriber": "nari",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ETdl3O65Hj8"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"th07_04_5":{
+		"title": "夜明けの空、小さな愿い",
+		"original": "th07_04",
+		"original_ex": ["th07_05"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "嘉納芙未",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=uuI90dlgTjc"},
+			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1Qt411R7x8"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "In measure 29, the G# doesn't sound like an octave but rather a single lower note."
+	},
+	"th07_05_2":{
+		"title": "マタタビと仔猫とお昼寝と",
+		"original": "th07_05",
+		"original_ex": ["th07_08"],
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": "pukupukuss", "link": "https://www.youtube.com/watch?v=gDuOZlBHNig"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "The melody at measure 37 also appears in \"Retrospective Kyoto\" arranged by A'."
+	},
+	"th07_06":{
+		"title": null,
+		"original": "th07_06",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=cY-7tf7HP70"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th07_06_2":{
+		"title": null,
+		"original": "th07_06",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=60r013jZ-x8"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+	"th07_07":{
+		"title": null,
+		"original": "th07_07",
+		"arranger": "まらしぃ",
+		"transcriber": "rev3rsor",
+		"pdf": "default",
+		"performance": [
+			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=cTto6GmRPeI"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "This is brilliant voicing. When finding piano arrangements of such intricate themes, I often encounter midi arrangements that sound good but doubtful for humans to play. Actual human performances are rare due to their high difficulty."
+	},
+	"th07_08_2":{
+		"title": "天空の悲恋歌",
+		"original": "th07_08",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "Wayfinder",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=GqvehXsEjN4"},
+            {"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1Gs411V7US"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Do4y1S7se"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=hzTUNHwm2Tk (violin by TAM)"
+	},
+	"th07_08_3":{
+		"title": "春の訪れは御札とともに",
+		"original": "th07_08",
+		"original_ex": ["th07_09"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=OEkzRUV_QnU"},
+			{"performer": "あかみ", "link": "https://www.youtube.com/watch?v=RlOJKsFxOeU"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+    "th07_08_4":{
+		"title": "或许等不到，消雪 ～ Tell Me Where Future is",
+		"original": "th07_08",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Nx411c72a/?p=2&t=360"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "The sudden dissonance in measure 54 caught me.",
+        "date": "2023/02/26"
+	},
+	"th07_09":{
+		"title": null,
+		"original": "th07_09",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10807185"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+	"th07_10_2":{
+		"title": "東方妖々夢～月廃寺",
+		"original": "th07_10",
+		"circle": "光と闇の協奏曲",
+		"album": "Touhou Pianoforte Ⅰ -Requiem for sakura-",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=3GVfmt_rJVg"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The tune starting at measure 23 is from Japanese folk song \"Sakura Sakura.\" \nThere are multiple impossible or awkward passages that need simplification. Some of them are: three octaves in measure 104; 32th notes in measure 108; octave jump in measure 72 (redistribute the hands); hand crossing in measure 55."
+	},
+	"th07_10_3":{
+		"title": null,
+		"original": "th07_10",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=CAyKxQM7jHM"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+	"th07_10_4":{
+		"title": "Bagatelle：東方妖々夢",
+		"original": "th07_10",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2010 Autumn",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/bagatelle_yoyomu.htm"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=19Vur9DaCmA"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th07_11":{
+		"title": "東方妖々夢 ～ 広有射怪鳥事",
+		"title_en": "Mystic Oriental Dream ~ Hiroari Shoots a Strange Bird",
+		"original": "th07_11",
+		"original_ex": ["th07_10","th07_13"],
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
+		"arranger": "すめらぎ紫蓮",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9ymsi_16FeU"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th07_11_3":{
+		"title": "広有怪鳥ヲ射ル事",
+		"original": "th07_11",
+		"circle": "光と闇の協奏曲",
+		"album": "Touhou Pianoforte Ⅰ -Requiem for sakura-",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=3wkkckCo574"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th07_12_2":{
+		"title": null,
+		"original": "th07_12",
+		"original_ex": ["th07_10"],
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=PELvzWC-U0U"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th07_13":{
+		"title": "【西行妖】 - 幽雅に咲かせ、墨染の桜 -",
+		"original": "th07_13",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=13AacftSioQ"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
+	"th07_13_2":{
+		"title": null,
+		"original": "th07_13",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=3vzMafoOFns"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "I like how the bass in measures 18-33 looks like a counter-melody (not obvious when listening)."
+	},
+	"th07_13_3":{
+		"title": null,
+		"original": "th07_13",
+		"original_ex": ["th07_12","th07_20"],
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "すめらぎ紫蓮",
+		"transcriber": "Rummsbatte",
+		"pdf": "default",
+		"performance": [
+			{"performer": "すめらぎ紫蓮", "link": "https://www.youtube.com/watch?v=acFwGdDybUo"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th07_13_4":{
+		"title": null,
+		"original": "th07_13",
+		"circle": "TAMUSIC",
+		"album": "東方子守唄",
+		"arranger": "TAM",
+		"transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=IYbRfa3gywY"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The left hand in measures 26-33 is wrong. The correct notation should be 2 scale degrees higher."
+	},
+    "th07_13_5":{
+		"title": "華胥の姫君",
+		"original": "th07_13",
+		"circle": "へちょ屋",
+		"album": "Moon War III SP",
+		"arranger": "ヒッシー",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ACxMbWaP0Rw"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=BudUwaNLUcs"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "This piece is a prelude for 鎮魂花 in the album Moon War III.",
+		"date": "2023/03/17"
+	},
+	"th07_14":{
+		"title": "幽雅に咲かせ、墨染めの桜～ボーダーオブライフ",
+		"original": "th07_14",
+		"original_ex": ["th07_13"],
+		"arranger": "まらしぃ",
+		"transcriber": "Eeduca",
+		"pdf": "default",
+		"performance": [
+			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=khmjXA1Ye2o"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "This pdf was made by Kijiriki. Eeduca's score was deleted (though their video is still there).\nThis arrangement combines Yuyuko's two themes \"Bloom Nobly, Ink-Black Cherry Blossom ~ Border of Life\" and \"Border of Life.\" The first theme alone is around difficulty level 3."
+	},
+	"th07_15":{
+		"title": "Beyondness",
+		"original": "th07_15",
+		"circle": ["荒御灵", "As/Hi Soundworks"],
+		"album": "Black Border, White Region",
+		"arranger": ["柊秀雪", "和泉幸奇"],
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=2U_egVllXdI"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
+	"th07_15_2":{
+		"title": null,
+		"original": "th07_15",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=0wOb2JFx5Q0",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0wOb2JFx5Q0"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th07_16":{
+		"title": "マヨヒガの夜～Night Fantasy",
+		"title_en": "Mayohiga Night ~ Night Fantasy",
+		"original": "th07_16",
+		"arranger": "戦ピー",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=K6mfDJh5Vx0"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th07_16_2":{
+		"title": null,
+		"original": "th07_16",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=E94TrgVmLws"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th07_17":{
+		"title": null,
+		"original": "th07_17",
+        "circle": "まらしぃ",
+        "album": "Museum of Marasy ~ 幻想遊戯＜妖＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Netsouba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=_Kx2imAE1fE"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/04/29"
+	},
+	"th07_18":{
+		"title": null,
+		"original": "th07_18",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-yNATRuEvsE"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"th07_19":{
+		"title": null,
+		"original": "th07_19",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1v64y1y7gu"}
+		],
+		"type": "transcription",
+		"difficulty": "1"
+	},
+    "th07_20":{
+		"title": null,
+		"original": "th07_20",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
+		"arranger": "TAM",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rAKW1aKVaNU"},
+            {"performer": "John Shin", "link": "https://www.youtube.com/watch?v=cnSJQV_z72U"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The score looks way slower than the actual tempo of the piece. It makes more sense to halve the value of every note and merge every two bars into one 4/4 bar. \nThe left hand has some upbeat tied notes, which are just arpeggiation explicitly written out. I guess the transcriber's program couldn't handle custom arpeggiation.",
+        "date": "2023/02/15"
+	},
+	"th07_20_2":{
+		"title": null,
+		"original": "th07_20",
+		"arranger": "ジャム",
+        "transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm5391193"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "The middle voice on page 3 is not correct. Please listen to the performance and correct them.",
+        "date": "2023/04/12"
+	},
+	"th08_01":{
+		"title": null,
+		"original": "th08_01",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=dUDRs59-IZU",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=dUDRs59-IZU"},
+			{"performer": "BZ.esmun", "link": "https://www.youtube.com/watch?v=5NQIiX60gMQ"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Much harder than it looks. The player must bring out the melody between octaves. The way the notes are assigned to two hands may seem unintuitive in some parts, but I believe there is certain reasoning behind these decisions, since the artist himself played exactly as the score shows. From my personal experience, splitting the octaves into each hand does not reduce the difficulty of voicing the melody."
+	},
+	"th08_02":{
+		"title": "Blue Tears Night",
+		"original": "th08_02",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "A'",
+		"transcriber": "Midori Yakumo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bobFBNe11c0"},
+			{"performer": "Dave Liu", "link": "https://www.youtube.com/watch?v=u4PTtEIg2Rs"},
+			{"performer": "三日月夜歌", "link": "https://www.bilibili.com/video/BV1tV411y7HT"},
+			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1nE411d7Yn"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th08_04_3":{
+		"title": null,
+		"original": "th08_04",
+		"arranger": "BZ.esmun",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=B2US0ANwQQE"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "A small correction to the melody in measures 41-44 would be nice.\nThis is probably the most difficult theme to play for piano solo, given so many voices to handle. It would still be difficult if arranged for a duet."
+	},
+	"th08_04_4":{
+		"title": "夜雀の歌う森 ~ Mystia in a mystic forest",
+		"original": "th08_04",
+		"original_ex": ["th08_05"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-kDeq1mIaAs"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original orchestral arrangement (by nori): https://www.youtube.com/watch?v=0ayTE8BOHp0 \nThe artist is very good at manipulating similar melodies from different themes. This arrangement is composed of two themes, and I couldn't tell which part is which theme upon first listening. It happens, after I analysized the score, that there's a section where the two themes appear in counterpoint (measures 28-38). The introduction of the second theme (deaf to all but the song) in measures 28-29 is just seamless."
+	},
+	"th08_05":{
+		"title": null,
+		"original": "th08_05",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV16g411u7DV"},
+			{"performer": null, "link": "https://youtu.be/u7rRdphwXeA"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "Maybe the fingerings and colors are redundant..."
+	},
+	"th08_05_2":{
+		"title": null,
+		"original": "th08_05",
+		"circle": "Factory Noise & AG",
+		"album": "Borderline",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=gdKyJ1UGzEQ"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th08_05_3":{
+		"title": null,
+		"original": "th08_05",
+		"original_ex": ["th08_04"],
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://web.archive.org/web/20071122173922/http://www.mukyou.jp/e5ps.mp3"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Mkxr8kZQD7c"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+    "th08_05_4":{
+		"title": null,
+		"original": "th08_05",
+        "circle": "TAMUSIC",
+        "album": "桜流しの東方子守唄",
+		"arranger": "TAM",
+		"transcriber": "swc_alfred",
+		"pdf": "default",
+		"performance": [
+			{"performer": "TAM", "link": "https://www.youtube.com/watch?v=9xo1IGO29cE"},
+			{"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1X7411W7DC"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "date": "2023/02/18"
+	},
+	"th08_06":{
+		"title": null,
+		"original": "th08_06",
+		"arranger": "BZ.esmun",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=z1oQsVANDKA"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "I made the pdf based on BZ's video.\nNote that the B part (measure 9-24) and the C part (measure 25-32) both have a 3-voice texture, with middle voice split between two hands. The left hand part of the middle voice is not explicitly written in some measures (for example 12-13) so don't forget to emphasize them.\nThe D part (starting at measure 33) has a furious left hand pattern, which is the main difficulty of this arrangement. It may seem unnecessary but I feel the regular eighth note accompaniment sounds empty after listening to this version.\nThe A' part (last page) has some additional notes compared to the A part, but the difference can hardly be heard. I prefer 柊秀雪's method: move the notes higher (actually the same as the original midi) and assign them to the left hand (with hand crossing). See https://www.youtube.com/watch?v=EkxE3hb4UE0"
+	},
+	"th08_06_2":{
+		"title": "Over the Horizon",
+		"original": "th08_06",
+		"circle": "Seaside",
+		"album": "the Wind",
+		"arranger": "SHI",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=O9slJO2wYFM"},
+			{"performer": "Martin Thompson", "link": "https://www.youtube.com/watch?v=lSvH0aJCoho"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "A youtube comment said they performed this piece, but the link is dead. I would really like to see how the 26-tuplet was played out. In theory it's possible but very hard –– 110bpm for quarter = 6.5 notes is about equal to 178bpm for quarter = 4 notes."
+	},
+	"th08_06_3":{
+		"title": null,
+		"original": "th08_06",
+		"circle": "雪の足跡",
+		"album": "東方的幻想曲集",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=w34stEbhP3s"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=cXjXHFNzXu8 (violin by TAM)"
+	},
+	"th08_06_4":{
+		"title": "幻想郷、我が郷里",
+		"title_en": "Gensokyo, My Hometown",
+		"original": "th08_06",
+		"arranger": "しらは",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=PX04AVek7EQ"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=iaMHArbfaBk"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The alternating 3 against 4 polyrythm reminds me of Saint-Saëns's Étude de rythme (Op.52 No.4)."
+	},
+	"th08_06_5":{
+		"title": "慧音の子守唄",
+		"title_en": "Keine's Lullaby",
+		"original": "th08_06",
+		"original_ex": ["th08_02"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/keine_denko_ex.htm"},
+			{"performer": "d00masaya", "link": "https://www.youtube.com/watch?v=KLkIb7tPwH0"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Q8411M7se"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "I recommend studying the left hand alone first."
+	},
+	"th08_07_2":{
+		"title": null,
+		"original": "th08_07",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=b3TCN071m0U",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=b3TCN071m0U"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "A Plain Asia arrangement that's not solely focused on the right hand?\nIt's interesting that the left hand line at the beginning is a molody that acts as a bass at the same time, similar to Phantom Ensemble. It is usually difficult to play, but here it's a blessing compared to other IN themes where the left hand has to take care of both the melody and bass while the right hand is running in the higher registers."
+	},
+	"th08_08_2":{
+		"title": null,
+		"original": "th08_08",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=OF4tXIeFmOE",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=OF4tXIeFmOE"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_08_3":{
+		"title": "永き夜の変奏曲",
+        "title_en": "Eternal Night Variations",
+		"original": "th08_08",
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "夜皇禰実",
+		"transcriber": "takoyaki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D4EMdfZEA5I"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th08_09":{
+		"title": null,
+		"original": "th08_09",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜永＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=sCCrcNQ18zU"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_09_2":{
+		"title": null,
+		"original": "th08_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Dream」",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=_xEgHSQZQ44"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=9ZWYr8NA8ww"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th08_10_3":{
+		"title": null,
+		"original": "th08_10",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=4pEsyKnOjlc",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4pEsyKnOjlc"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_10_4":{
+		"title": null,
+		"original": "th08_10",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=b8AIGUYscYo"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "Lyrical version: https://www.nicovideo.jp/watch/sm1619119 "
+	},
+	"th08_10_5":{
+		"title": "パーカッシブ・マスタースパーク",
+		"title_en": "Percussive Master Spark",
+		"original": "th08_10",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2009 spring",
+		"arranger": "Denko",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/p_master_ex.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+    "th08_10_6":{
+		"title": "星色夜空",
+		"title_en": "Star-Colored Night Sky",
+		"original": "th08_10",
+		"circle": "いえろ～ぜぶら & 電開製作所",
+		"album": "東方ASSOCIATION",
+		"arranger": "柏木るざりん",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kac7sawgFF4"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "The original vocal version: https://www.youtube.com/watch?v=RZPZ9qR1uMU \nI tried to transcribe this song to piano solo, but found it's too complicated for one player. There are a few simplified versions on youtube, though no sheet music is provided. \nThe kkcwkoh video in the link was from a niconico video which has been deleted. This was a carefully made piano transcription, not simply the instrument part extracted from the song.",
+        "date": "2023/02/05"
+	},
+    "th08_10_7":{
+		"title": "籠にて騎士を待つ少女",
+        "title_en": "The Girl Waiting for a Knight in a Cage",
+		"original": "th08_10",
+        "original_ex": ["th06_09"],
+		"circle": "へちょ屋",
+		"album": "Star Light",
+		"arranger": "ヒッシー",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hSRw-mkXaFk"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
+	"th08_11_2":{
+		"title": null,
+		"original": "th08_11",
+		"arranger": "2分の1",
+		"pdf": "default",
+		"performance": [
+			{"performer": "2分の1", "link": "https://www.youtube.com/watch?v=AsJEvuKK4Bc"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Another voicing hell from Touhou 8, besides \"Song of the Night Sparrow\"."
+	},
+	"th08_11_3":{
+		"title": "Rabbit Waltz",
+		"original": "th08_11",
+		"circle": "へちょ屋",
+		"album": "Red Eyes",
+		"arranger": "ヒッシー",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vwJ7lCk924c"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=QmyNnIAinAI"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th08_12":{
+		"title": null,
+		"original": "th08_12",
+		"arranger": "青汁",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=MCHmfcgvr24"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=FWOJ1dgoaDA"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "A hand-written score!? \nThe 6/8 time signature might be confusing, since the notes were written in 3/4 style. I understand it as 1st measure = 6/8, 2nd measure = 3/4, and repeat. I'm not sure about this. \nThe artist's revision to the score (in Japanese): https://web.archive.org/web/20070731204533/http://www.mukyou.jp/e12psa1.jpg \nViolin + Piano version: https://www.youtube.com/watch?v=7i0DkEO9Rsk (violin by TAM) \nMidori Yakumo made a print version score: https://www.youtube.com/watch?v=MCHmfcgvr24&lc=UgwJlSiyBbfk_8-L8aB4AaABAg "
+	},
+	"th08_12_2":{
+		"title": null,
+		"original": "th08_12",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=r1-if9klPWE",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=r1-if9klPWE"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_13_2":{
+		"title": null,
+		"original": "th08_13",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=7ijXvbMzARM",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=7ijXvbMzARM"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_13b_2":{
+		"title": "Voyage into a Cage...",
+		"original": "th08_13b",
+		"original_ex": ["th08_11", "th08_13"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "あかみ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=tawV6tnxSy0"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th08_15":{
+		"title": null,
+		"original": "th08_15",
+		"arranger": "柊秀雪",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=xzQrGYVSYwk"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th08_15_2":{
+		"title": null,
+		"original": "th08_15",
+		"circle": "光と闇の協奏曲",
+		"album": "Touhou pianoforte Ⅱ -Lunatic Rhapsodia-",
+		"arranger": "青汁",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=3pua6UAtWeQ"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=xqNmF7hvuy8"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th08_17":{
+		"title": null,
+		"original": "th08_17",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=ozwZy6RomPM",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ozwZy6RomPM"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "The most etude-like piece in the whole collection."
+	},
+	"th08_18":{
+		"title": null,
+		"original": "th08_18",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=xcM1cxfI6fU",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=xcM1cxfI6fU"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Left hand playing both melody and bass looks even more scary than the right hand 16th note run. This one is probably beyond the level of Chopin etudes, reaching that of Liszt or Alkan."
+	},
+    "th08_18_2":{
+		"title": "泡沫、哀のまほろば",
+		"original": "th08_18",
+        "original_ex": ["th08_19"],
+		"arranger": ["iceon", "HiZuMi"],
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=GtRhF6Jq4yg"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NfjTGFMMKL0 ",
+        "date": "2023/01/30"
+	},
+    "th08_18_3":{
+		"title": null,
+		"original": "th08_18",
+		"arranger": "電位測定",
+		"pdf": "default",
+		"performance": [
+			{"performer": "電位測定", "link": "https://www.youtube.com/watch?v=WZJNXspjiGs"},
+            {"performer": null, "link": "https://www.youtube.com/watch?v=bahbMa1QhEQ"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "It seems like the midi performance is the latest version, but there's no pdf available yet.",
+        "date": "2023/04/29"
+	},
+	"th08_19_2":{
+		"title": null,
+		"original": "th08_19",
+		"arranger": "BZ.esmun",
+		"pdf": "https://www.youtube.com/watch?v=hV-9hJ89B1U",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hV-9hJ89B1U"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "I examined the original midi and did found the part where the main melody meets the rushing 16th notes. It's hard to capture just by listening, similar to the beginning of \"Voyage 1969.\" I never saw a piano cover of this theme that included this specific part."
+	},
+	"th08_20_2":{
+		"title": null,
+		"original": "th08_20",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Redemption」",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=A1KU7hNceZA"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th09_02_2":{
+		"title": "散りゆく花",
+		"title_en": "Falling Flowers",
+		"original": "th09_02",
+		"circle": "はちみつくまさん",
+		"album": "東方交戦劇",
+		"arranger": "A'",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=C10XnW7GACw"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "It seems that this arrangement went through multiple re-transcriptions. Kkcwkoh provided a musescore link to danichku's transcription. 5 Years ago (2017) a youtube comment said the link was broken (danichku indeed deleted their account). Axyo Rifelheim replied with a jellynote link which is (supposedly) a rehost of the original sheets, and they mentioned that the sheets were not free. This link is broken now (2022). 4 years ago (2018) 烏 replied that they made a transcription based on the previous sheets and provided the link. I was about to use it but found too many errors, so I did a new transcription myself."
+	},
+    "th09_02_3":{
+		"title": "菜の花小径",
+        "title_en": "Nanohana Lane",
+		"original": "th09_02",
+		"circle": "Candy & Jam",
+		"album": "求聞和歌拾遺",
+		"arranger": "ジャム",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=UFlI3PhUKnM"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/03/02"
+	},
+	"th09_04":{
+		"title": null,
+		"original": "th09_04",
+		"original_ex": "th06_11",
+		"circle": "雪の足跡",
+		"album": "東方的幻想曲集",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-PwcukM3LPo"}
+		],
+		"type": "arrange",
+		"difficulty": "5"
+	},
+    "th09_04_3":{
+		"title": null,
+		"original": "th09_04",
+		"arranger": "電位測定",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=7JPAQ9TbvHg"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/04/29"
+	},
+    "th09_13":{
+		"title": null,
+		"original": "th09_13",
+		"arranger": "mino",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=XLwpOR4hLHs"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/02/01"
+	},
+	"th09_13_2":{
+		"title": null,
+		"original": "th09_13",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "青汁",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wE-6-o8ShPI"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=Gl_tY7inIQo"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "If you find the pdf unreadable, please refer to the engraving by Knix: https://www.youtube.com/watch?v=055Dl_utjyY"
+	},
+    "th09_15_2":{
+		"title": "華鳥風月",
+		"original": "th09_15",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=VxfjjG3PEB8"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=gXCI8vJTjqA \nThe first page should be 3/4 time instead of 6/8.",
+        "date": "2023/01/30"
+	},
+    "th09_18":{
+		"title": null,
+		"original": "th09_18",
+		"arranger": "DO",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=L1BwxgAcOoY"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1b54y1j7bm"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "date": "2023/02/01"
+	},
+    "th09_18_2":{
+		"title": "うたげのあと。",
+        "title_en": "After the Feast.",
+		"original": "th09_18",
+        "circle": "凋叶棕",
+        "album": "宴 -Utage-",
+		"arranger": "RD-Sounds",
+        "transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BwMGaQb20LE"},
+            {"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=IEORq-KRA20"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/24"
+	},
+    "th095_01":{
+		"title": null,
+		"original": "th095_01",
+		"circle": "Windbreaker",
+		"album": "あーやややや やややぁ！",
+		"arranger": "もりげん",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "もりげん", "link": "https://www.youtube.com/watch?v=iXSyTki_U60"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Wc41157mb"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "comment": "Right hand accompaniment is pretty rare. I think it's a good etude on hand independence.",
+        "date": "2023/03/29"
+	},
+	"th095_04_2":{
+		"title": null,
+		"original": "th095_04",
+		"circle": "雪の足跡",
+		"album": "東方的幻想曲集",
+		"arranger": "ようか",
+		"pdf": "default",
+		"performance": [
+			{"performer": "TKDL", "link": "https://www.youtube.com/watch?v=kTDl8Rgypqk"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th095_04_3":{
+		"title": null,
+		"original": "th095_04",
+		"circle": "Factory Noise & AG",
+		"album": "WindAge",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9C3WWYHZYkc"},
+            {"performer": "Relian起源", "link": "https://www.bilibili.com/video/BV1x5411x7sb"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV19M411j7aR"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th095_05_2":{
+		"title": null,
+		"original": "th095_05",
+		"circle": "TAMUSIC",
+		"album": "東方子守唄",
+		"arranger": "A'",
+		"transcriber": "Onion",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DK-tRPj0Btg"},
+			{"performer": "自由者坏坏", "link": "https://www.bilibili.com/video/BV1wW41187ji"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "All the triplets should be 3-3-2 rhythm instead."
+	},
+	"th095_06_2":{
+		"title": null,
+		"original": "th095_06",
+		"circle": "Assaultdoor",
+		"album": "幻想羅針盤",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm15453490"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
+	},
+	"th095_06_3":{
+		"title": "風凪ぐ山",
+		"title_en": "Wind Calm Mountain",
+		"original": "th095_06",
+		"circle": "へちょ屋",
+		"album": "Tempest",
+		"arranger": "ヒッシー",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=OZBoRXT0ieY"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "comment": "Update 2023/04/29: Changed the pdf file to Knix's improved version: https://www.youtube.com/watch?v=tnb3hWJcst8 ."
+	},
+	"th10_02":{
+		"title": "【Prelude Ⅰ】 - 人恋し神様 -",
+		"original": "th10_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.1",
+		"arranger": "柊秀雪",
+		"transcriber": "蓬莱人形FireBird7",
+		"pdf": "https://www.bilibili.com/video/BV1VB4y1T7nw",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+    "th10_05_2":{
+		"title": null,
+		"original": "th10_05",
+		"arranger": "戦ピー",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=KA4ZRiZwATA"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "How is q=169 Allegretto not Presto?",
+        "date": "2023/02/17"
+	},
+    "th10_05_3":{
+		"title": null,
+		"original": "th10_05",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "青汁",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1UHqWm7cXYc"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=RJtvgOTWrao"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/02/17"
+	},
+	"th10_06":{
+		"title": null,
+		"original": "th10_06",
+		"circle": "GYRO Mix",
+		"album": "Witch Craft",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
+	},
+	"th10_06_2":{
+		"title": null,
+		"original": "th10_06",
+		"arranger": "まらしぃ",
+		"transcriber": "nari",
+		"pdf": "default",
+		"performance": [
+			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th10_06_3":{
+		"title": "色は匂へど散りぬるを",
+		"original": "th10_06",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=IzDCALTqsZI"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=NpgaGhAW9So ",
+        "date": "2023/01/30"
+	},
+	"th10_07_2":{
+		"title": null,
+		"original": "th10_07",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": "pukupukuss", "link": "https://www.youtube.com/watch?v=4nLZuzyJUdE"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Za41117Tt"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The time signature should be 6/8 instead of 3/4."
+	},
+	"th10_08":{
+		"title": null,
+		"original": "th10_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=tDzBDPGIyNA"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "Repeat measures 20-59."
+	},
+    "th10_08_2":{
+		"title": null,
+		"original": "th10_08",
+		"arranger": "戦ピー",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8347362"},
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1hL411f7x5"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The arranger said he improvised this piece within 10 minutes, which is very impressive. Since it's an improvisation, I was not as strict when transcribing it. I corrected the wrong notes and added some notes in the melody that I think are missing. I also made chords/bass more consistent. For the fast arpeggios, I don't think it's necessary to know the exact note sequences, but in case anyone not familiar with figured bass, I wrote out the realizations with hand separations that I found most comfortable. \nThe arranger mixed in the melody of his original composition 『目覚めし白狼の本能』(Awaking Wolf's Instinct) in the last part. It was meant to be MOF's Phantasm theme. Audio: https://www.nicovideo.jp/watch/sm9635592 ; Full Phantasm gameplay: https://www.nicovideo.jp/watch/sm8262244 .",
+        "date": "2023/02/24"
+	},
+	"th10_09":{
+		"title": null,
+		"original": "th10_09",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜文＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vvL4qzSnL3M"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th10_09_2":{
+		"title": "Contrast Girls ～ 妖怪の山",
+		"original": "th10_09",
+		"circle": "Assaultdoor",
+		"album": "幻想羅針盤",
+		"arranger": "しらは",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm16212693"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"th10_10":{
+		"title": null,
+		"original": "th10_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm2921340"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm3861752"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th10_10_2":{
+		"title": "いつか見た空",
+        "title_en": "The Sky I once saw",
+		"original": "th10_10",
+        "circle": "Candy & Jam",
+		"album": "求聞和歌拾遺",
+		"arranger": "ジャム",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=GN5QTHe8SEU"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=I977z9JGKZ8"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/03/29"
+	},
+	"th10_11_2":{
+		"title": null,
+		"original": "th10_11",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qKJ3ZI26klA"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "According to instruction, return to bar 10 after bar 57, and in the second run, jump from bar 49 to bar 58 (CODA). \nIt's interesting that the beginning melody (C# - D# - E - F#) moves to the bass starting at measure 10, forming a counterpoint with the new melody."
+	},
+	"th10_11_3":{
+		"title": null,
+		"original": "th10_11",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "A'",
+		"transcriber": "Midori Yakumo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=SA9ailyrVpY"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1vY4y1p7FY"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "Some corrections to the score: \nThe leading tone B# is denoted as C♮ throughout the score. It doesn't affect the sound, but is slightly difficult to sight-read. \nIn measure 44, the first chord should have a top note of E. In measure 50, the third note should be a trill on B. \nIn measure 52, the first chord should have a top note of E which is a trill. \n In measure 113, the ornament should be G#-B. \nIn measure 115, the ornament should be A-C#. In measure 121, the ornament should be B-D#. \nIn measure 139, the second half of right hand should be 3-3-1-1 rhythm instead of 2-2-2-2 (unit = 16th note). \nIn measure 149, the triplets should be four 16th notes, the last one being a B. \nMeasure 157 chord omits the top note E#."
+	},
+    "th10_11_4":{
+		"title": null,
+		"original": "th10_11",
+		"arranger": "青汁",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Iklr6uqVECY"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=-5IFWx0WXmE"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/02/17"
+	},
+    "th10_11_5":{
+		"title": "信仰は存活の為に ～ Give Me Full of Your Tears",
+		"original": "th10_11",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1dR4y1m78K"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "I heard some bits of Nostalgic Blood of the East... Are the two themes intrinsically similar?",
+        "date": "2023/02/26"
+	},
+    "th10_11_6":{
+		"title": "夜想曲",
+        "title_en": "Nocturne",
+		"original": "th10_11",
+		"circle": "Ash Blind",
+		"album": "ピアノのための東方小曲集 Op.1-1",
+		"arranger": "柊秀雪",
+        "transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4&list=WL&t=1465s"},
+            {"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1i4411X7yB"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "The last chord should be an add2, which is heavier than a minor triad.",
+        "date": "2023/02/26"
+	},
+    "th10_11_7":{
+		"title": "サナサナオンバシラ猛レース",
+        "title_en": "Sana Sana Onbashira Fierce Race",
+		"original": "th10_11",
+		"circle": "音の瓶詰",
+		"album": "守矢幻燈録 ～ Separation of Spirit.",
+		"arranger": "ジャム",
+        "transcriber": "たこさん",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm18238895"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
+	"th10_13":{
+		"title": "【Sonata】 - 神さびた古戦場・御柱の墓場 -",
+		"original": "th10_13",
+		"original_ex": ["th10_12"],
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.1",
+		"arranger": "柊秀雪",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=npe_JXHzi8U"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+    "th10_13_2":{
+		"title": null,
+		"original": "th10_13",
+		"arranger": "ジャム",
+		"transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm8576720"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/08"
+	},
+	"th10_14":{
+		"title": null,
+		"original": "th10_14",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜風＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV14k4y117Nj?t=1761"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+    "th10_14_2":{
+		"title": "守矢風祝神楽",
+		"original": "th10_14",
+		"circle": "音の瓶詰",
+		"album": "守矢幻燈録 ～ Separation of Spirit.",
+		"arranger": "ジャム",
+        "transcriber": "たこさん",
+		"pdf": "https://www.nicovideo.jp/watch/sm29962603",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm18169633"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "The link provided by the transcriber is broken.",
+        "date": "2023/03/08"
+	},
+	"th10_15_2":{
+		"title": null,
+		"original": "th10_15",
+		"arranger": "まらしぃ",
+		"transcriber": "Xsy",
+		"pdf": "default",
+		"performance": [
+			{"performer": "まらしぃ", "link": "https://www.youtube.com/watch?v=ZZslQ5zabx4"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th11_04":{
+		"title": null,
+		"original": "th11_04",
+		"circle": "GYRO Mix",
+		"album": "Scape Goat",
+		"arranger": "A'",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kjrOOIUkUno"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1eu411z7J5"}
+		],
+		"type": "arrange",
+		"difficulty": "1"
+	},
+	"th11_04_2":{
+		"title": null,
+		"original": "th11_04",
+		"arranger": "BZ.esmun",
+		"pdf": "default",
+		"performance": [
+			{"performer": "BZ.esmun", "link": "https://www.youtube.com/watch?v=2Y4036oh0jU"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th11_05_3":{
+		"title": null,
+		"original": "th11_05",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜地＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hAP5Ye4gk1s"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/11"
+	},
+    "th11_05_4":{
+		"title": "緑眠のジェラシー",
+		"original": "th11_05",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞",
+		"arranger": "まらしぃ",
+        "transcriber": "0445",
+		"pdf": "default",
+		"performance": [
+			{"performer": "透き通る夢を見ていた", "link": "https://www.bilibili.com/video/BV1ra4y1L7hy"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/03/11"
+	},
+    "th11_05_5":{
+		"title": "渦巻く嫉妬の炎による変奏",
+		"original": "th11_05",
+        "circle": "まさかど☆くらいしすっ！",
+        "album": "ねたまCD",
+		"arranger": "Xe",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://xenoglossy.lolitapunk.jp/music/prpr.mp3"},
+            {"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=MVpyss4LCJM"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "The sheet music is made by Knix, based on Wiilly's transcription: https://www.youtube.com/watch?v=cOkQ9InHsJA ",
+        "date": "2023/03/25"
+	},
+    "th11_05_6":{
+		"title": null,
+		"original": "th11_05",
+		"arranger": "電位測定",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=JjcaT0qafwE"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=hplKRptl-H0"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "Based on Prelude No.4 by Chopin.",
+        "date": "2023/04/11"
+	},
+    "th11_06":{
+		"title": null,
+		"original": "th11_06",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm3534201"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The bass from measure 9 onwards seems unnecessarily difficult. From the audio I could only hear repeated chords.",
+        "date": "2023/03/17"
+	},
+    "th11_07":{
+		"title": null,
+		"original": "th11_07",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm3492159"},
+            {"performer": "rhyurthie", "link": "https://www.nicovideo.jp/watch/sm8028849"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/17"
+	},
+	"th11_08":{
+		"title": null,
+		"original": "th11_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mAmoNMTJQKA"},
+			{"performer": "Maestro", "link": "https://www.youtube.com/watch?v=tYqeneEtohs"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th11_09_2":{
+		"title": null,
+		"original": "th11_09",
+		"arranger": "葉月悠",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7599185"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=zGBIsgof4BE"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th11_09_3":{
+		"title": null,
+		"original": "th11_09",
+		"arranger": "ありおと",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm5172285"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th11_09_4":{
+		"title": "3rd eye rag",
+		"original": "th11_09",
+		"arranger": "Xe",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Pjm8JDYLaaA"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/03/25"
+	},
+    "th11_09_5":{
+		"title": "The Pathetic Earth Spirit Palace",
+		"original": "th11_09",
+        "original_ex": ["th11_11", "th11_13", "th11_14", "th11_15"],
+		"arranger": "Netsouba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FimncWDpFw0"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Based on Beethoven's Sonata Pathetique.",
+        "date": "2023/05/03"
+	},
+	"th11_10_3":{
+		"title": "One Night Hell Screen",
+		"original": "th11_10",
+		"circle": "吉田未来Project",
+		"album": "Floods of Sounds",
+		"arranger": "柚木",
+		"transcriber": "Mark Andrews",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=T75iD_KlUlA"},
+			{"performer": "nyukim", "link": "https://www.youtube.com/watch?v=EQEek4uSIzE"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th11_10_4":{
+		"title": null,
+		"original": "th11_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm5688603"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "The easiest akikiki piece. Still, the left hand is irregular and hard to memorise (as always). Now, isn't there a simpler version than this one? Certainly yes, but I think left hand variation is critical here since there's only 2 melodies repeating forever and the audience will get bored very soon. It's worth some extra practice time."
+	},
+	"th11_10_5":{
+		"title": "TEMPEST under the ground",
+		"original": "th11_10",
+		"original_ex": ["th11_11", "th11_12"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA 2010 Autumn",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=yCrNoEoVhXE"},
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=trDOAnNYGuU"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "Detailed commentary: http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/tempest_detail.htm"
+	},
+	"th11_11":{
+		"title": null,
+		"original": "th11_11",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kAv5uyWihcw"},
+			{"performer": "海老福", "link": "https://www.youtube.com/watch?v=-aVdSbc9zb0"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "The instruction under the title means \"Decorative notes are abbreviated, so please make up appropriately - The sound you put in the gap of the original melody is good to play with a weak tone\" (AI translation). \nAbfuku's performance video also includes Satori's theme. Corpse Voyage starts at 2:14."
+	},
+	"th11_12_2":{
+		"title": "日常系業火マントル",
+		"title_en": "Daily Life Hellfire Mantle",
+		"original": "th11_12",
+		"arranger": "ミドリ虫",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm22157870"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+    "th11_13":{
+		"title": null,
+		"original": "th11_13",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4OJ0NSlsrpo"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"date": "2023/02/24"
+	},
+	"th11_13_2":{
+		"title": "核の力を貰う前のおくう",
+		"title_en": "Okuu before receiving nuclear power",
+		"original": "th11_13",
+		"arranger": "グラハム",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm10869587"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "Measures 22-23 looks like a c minor despite only two flats. Measures 24-25 should come back to C major, which the artist didn't notate."
+	},
+    "th11_13_3":{
+		"title": "黒翼焔舞 -Piano duo-",
+		"original": "th11_13",
+        "circle": "へちょ屋",
+        "album": "黒翼焔舞",
+		"arranger": "ヒッシー",
+        "transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=q1hTym4b37Q"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/02/11"
+	},
+	"th11_14":{
+		"title": null,
+		"original": "th11_14",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm4348172"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "This is not an ideal version for me but I put it here anyways for discussion. I may as well make an arrangement myself but it's not easy to play and I'm too lazy to practice (lol). \n\n1. The beginning omits a part of melody but exposes the bass line and brings freshness, so I think it's an acceptable modification. By the way, the bass line has a hidden melody which goes (Bb - Ab - G - Ab) x2 then (G - F - Eb - F) x2. Some other versions (for example marasy's) make it explicit. \n2. Measures 5-8 provides an easy way to play the fast part (and probably the most difficult part in the whole piece). The left hand tremolo (or any 16th-note sequence) is critical here, or else it wouldn't sound fast. If the tremolo is still difficult perhaps hold the lowest key (F or Db) for each harmonic change, reducing it to single-note tremolo. \n3. Measure 9 onwards: I don't know why there is an extra 16th note in each 3/8 beat. Four 16th notes + one 8th note is much easier to play than six 16th notes without breaks, not to mention the extra note should be played lighter to contrast the melody, which is more work. Some details in the original theme: the second 3/8 beat is F - Eb - F - C - Ab - C as opposed to F - Eb - F - Ab - G - Ab on the score; the last 3/8 beat has 1 - 1 - 2 - 1 - 1 rhythm, which is correct in this arrangement (marasy's version is 1 - 1 - 1 - 1 - 2). \n4. The first measure on page 4 has rhythm 3 - 3 - 2 but the original rhythm is 3 - 1 - 4. Disregarding the rhythm, I like the voicing setup here – F and G being the two most noticeable notes and the other three notes hidden under an octave. In fact, the last three notes in every phrase coincide with the bass melody, so you may as well not play them at all and let the left hand ring from a distance. \n5. The first two measures on page 6 sound like this in the original theme: F - G - C - F - Ab - F - C - G | F - Ab - C - F - A - F - C - F. The raised middle note (A natural) in the second measure is obvious while I'm not sure about other notes. \n 6. The bass used in page 6 sounds very off, especially when right hand is at a long rest. The original theme uses a bass that has its strong beats on 3 and 6 (counting 8 beats per measure) and marasy's version fits it perfectly (measure 46 for your reference)."
+	},
+	"th11_14_2":{
+		"title": null,
+		"original": "th11_14",
+		"arranger": "まらしぃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=RiYr2qWunSg"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "Unfortunately I couldn't find marasy's performance video or any audio from one of the two CDs 幻想遊戯＜地＞ / 幻想遊戯＜雅＞3."
+	},
+    "th11_14_3":{
+		"title": "月に叢雲華に風",
+		"original": "th11_14",
+		"arranger": "iceon",
+        "transcriber": "Oldtang",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Oldtang", "link": "https://www.youtube.com/watch?v=0BCfom-zWrs"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=skCiZ9IJmZY ",
+        "date": "2023/01/30"
+	},
+    "th11_15_3":{
+		"title": null,
+		"original": "th11_15",
+        "circle": "Frost Fragment",
+        "album": "東方泣けるピアノ第四楽章",
+		"arranger": "Kanae Asaba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=XY3meDjHoQY"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The arranger uses quite a lot of arpeggios, though they are not marked on the score.",
+        "date": "2023/04/12"
+	},
+	"th12_02":{
+		"title": null,
+		"original": "th12_02",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8530490"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=4Cl8qBlFkCY"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Hardest akikiki piece?"
+	},
+    "th12_02_2":{
+		"title": null,
+		"original": "th12_02",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "吟",
+        "transcriber": "Prismatic",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mh3wNR2o3Cc"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/04/12"
+	},
+	"th12_05":{
+		"title": null,
+		"original": "th12_05",
+		"arranger": "柳本顕",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26676047"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1bd4y1v7s1"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "The original pdf was horizontal. I merged every two pages to make it vertical. \nMeasure 4 16th notes: play the first one with left hand, and the rest with right hand (+ the final quarter note)."
+	},
+	"th12_09":{
+		"title": null,
+		"original": "th12_09",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "A'",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iVv2cz8CzNc"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1Ue4y1n76c"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "My recording has some deviations to the score... they're half prepared and half mistakes. The score, however, is a faithful transcription of the original work."
+	},
+	"th12_10_2":{
+		"title": "魔界極東都市エソテリア",
+		"original": "th12_10",
+		"original_ex": ["th12_13"],
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA the 7th",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "http://denko-laboratory.ddo.jp/pftva/presence_exhibit/th/esoteria.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "I don't see any reason behind the E-flat minor & D-sharp minor shift other than just trolling."
+	},
+    "th12_10_3":{
+		"title": null,
+		"original": "th12_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm11743120"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The score looks messy in terms of rhythm. The division of one bar is 11 = 5 + 6 = (3 + 2) + (3 + 3)",
+        "date": "2023/02/11"
+	},
+    "th12_12":{
+		"title": null,
+		"original": "th12_12",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm9093688"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "comment": "Be careful with the rhythm. There is normal 4/4 but also 3+3+3+3+2+2/16, which form polyrhythm.",
+        "date": "2023/02/11"
+	},
+	"th125_05":{
+		"title": null,
+		"original": "th125_05",
+		"arranger": "ちぇあ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm18229354"}
+		],
+		"type": "arrange",
+		"difficulty": "2"
+	},
+	"th128_01":{
+		"title": "思い出は溶けずに",
+		"title_en": "Memories never melt",
+		"original": "th128_01",
+		"original_ex": ["th06_05"],
+		"arranger": "nori",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=uR3jx3TNFRI"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+    "th13_01":{
+		"title": null,
+		"original": "th13_01",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm14191009"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/25"
+	},
+	"th13_02_3":{
+		"title": "【Prelude】 - 死霊の夜桜 -",
+		"original": "th13_02",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.3",
+		"arranger": "柊秀雪",
+		"pdf": "https://www.youtube.com/watch?v=SBoAk1d5rkQ",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=SBoAk1d5rkQ"},
+			{"performer": "Thelnsane", "link": "https://www.youtube.com/watch?v=L2tH2DveVHY"}
+		],
+		"type": "transcription",
+		"difficulty": "2"
+	},
+    "th13_03_2":{
+		"title": "Ghost Lead Prelude",
+		"original": "th13_03",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vQ-EAYEQF-Y"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "Based on Prelude Op.11 No.10 by Scriabin.",
+        "date": "2023/03/17"
+	},
+	"th13_04":{
+		"title": null,
+		"original": "th13_04",
+		"arranger": "へにゃ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/nm14189312"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Do the fingerings imply that the artist could play this? Measure 7 looks very esoteric."
+	},
+	"th13_05_2":{
+		"title": "門前の妖怪小娘のエチュード",
+		"original": "th13_05",
+		"arranger": "朋夜",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rIl0lCJMIhs"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=WfW4Vi_Lzbc"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th13_06":{
+		"title": null,
+		"original": "th13_06",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm29227554"}
+		],
+		"type": "transcription",
+		"difficulty": "1"
+	},
+	"th13_07_2":{
+		"title": null,
+		"original": "th13_07",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.youtube.com/watch?v=sxkcXOdKxKU"},
+			{"performer": "Wiilly", "link": "https://www.nicovideo.jp/watch/sm20838620"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th13_08":{
+		"title": null,
+		"original": "th13_08",
+		"arranger": "海老福",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Q-yJHBqaBfs"},
+			{"performer": "Maestro", "link": "https://www.youtube.com/watch?v=n8hue8-fkvU"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "The instruction under the title is about the right hand chords in bars 33 ~ 40 & 73 ~ 88, though I don't know its exact meaning. Whatever the instruction says, I find the chords very clumsy and inconsistent."
+	},
+	"th13_09":{
+		"title": null,
+		"original": "th13_09",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm17027431"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The pianist mentioned \"there are places where the sound is intentionally changed.\""
+	},
+    "th13_10":{
+		"title": null,
+		"original": "th13_10",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15455020"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "I used Kijiriki's score because the original one is inaccessible.",
+        "date": "2023/03/25"
+	},
+    "th13_11":{
+		"title": null,
+		"original": "th13_11",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15345310"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/03/25"
+	},
+    "th13_12":{
+		"title": null,
+		"original": "th13_12",
+		"arranger": "JLam",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=MFn1tL4ua-g"},
+			{"performer": "JLam", "link": "https://www.youtube.com/watch?v=13J3s3Sd9W4"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "What he played was different from the score (see the midi video). I personally prefer the performance version.",
+        "date": "2023/03/25"
+	},
+    "th13_13":{
+		"title": null,
+		"original": "th13_13",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15339313"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/03/25"
+	},
+    "th13_14":{
+		"title": null,
+		"original": "th13_14",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15849316"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/03/25"
+	},
+	"th13_15":{
+		"title": "第拾壱番勝負“変幻戯画”",
+		"original": "th13_15",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA the 7th",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=AxLevjI2DPc"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"th14_01":{
+		"title": null,
+		"original": "th14_01",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜輝＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=AH9FlkANH9c"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+    "th14_02":{
+		"title": null,
+		"original": "th14_02",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=VLA_XsEO-5k"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
+        "date": "2023/02/06"
+	},
+	"th14_03":{
+		"title": null,
+		"original": "th14_03",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1EG4y1n7Ce"},
+			{"performer": "Billy幻想", "link": "https://www.bilibili.com/video/BV1TP4y1Q7ia"}
+		],
+		"type": "transcription",
+		"difficulty": "3"
+	},
+    "th14_04":{
+		"title": null,
+		"original": "th14_04",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EVNZV6Eaw48"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328 \nThe left hand starting from measure 17 has some large stretches, where the pianist is supposed to jump from the bottom note to the upper ones swiftly. I don't know how to achieve this in musescore, so in the video the notes are played together. \nThe red and green notes mean \"play stronger/weaker\" respectively. They were meant for audio playback only, but the red notes mostly highlight the melody in the middle voice so I think it's helpful to leave the colors on the score.",
+        "date": "2023/02/06"
+	},
+	"th14_05":{
+		"title": null,
+		"original": "th14_05",
+		"arranger": "WaluigiTime64",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D44GCE-88jA"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "The chords in measures 5-12 is different from the original. Also in measures 13-20 the RH broken octaves don't simply disappear, but they sound fine. If you want to make corrections, you can refer to the original music or 37467524's midi (https://www.youtube.com/watch?v=epk0XKkbks8)"
+	},
+    "th14_06":{
+		"title": null,
+		"original": "th14_06",
+		"arranger": "Mitty",
+		"pdf": "https://www.nicovideo.jp/watch/sm21786037",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm21786037"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "The pdf score was lost along with Mitty's website.",
+        "date": "2023/02/06"
+	},
+    "th14_07":{
+		"title": null,
+		"original": "th14_07",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Gq0fubYAgQI"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
+        "date": "2023/02/06"
+	},
+    "th14_08":{
+		"title": null,
+		"original": "th14_08",
+		"arranger": "Mitty",
+        "transcriber": "EpreTroll",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-XvSZzNTlu8"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC stage 4 - end): https://www.nicovideo.jp/watch/sm21657553",
+        "date": "2023/02/06"
+	},
+	"th14_09":{
+		"title": null,
+		"original": "th14_09",
+		"arranger": "パジャマ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23407074"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "th14_10":{
+		"title": null,
+		"original": "th14_10",
+		"arranger": "Mitty",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BSUE_lqY9sc"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "Mitty's arrangement was written on 7 staves. Video (DDC stage 4 - end): https://www.nicovideo.jp/watch/sm21657553",
+        "date": "2023/02/06"
+	},
+    "th14_13":{
+		"title": null,
+		"original": "th14_13",
+		"arranger": "マックの人",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm21576753"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/02/06"
+	},
+	"th15_03":{
+		"title": null,
+		"original": "th15_03",
+		"arranger": "Mitty",
+		"pdf": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=dBz4VxUma5M"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "Sightread 7 staves at once!?"
+	},
+	"th15_04":{
+		"title": null,
+		"original": "th15_04",
+		"arranger": "かしわ丸餅",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm28080003"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=VJE2zXPSZUM"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "Sheet music made by Yuiru: https://sheet.host/sheet/nGzhOl ",
+        "date": "2023/03/10"
+	},
+	"th15_05":{
+		"title": null,
+		"original": "th15_05",
+		"arranger": "柳本顕",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26871072"},
+			{"performer": "Drabtastic", "link": "https://www.youtube.com/watch?v=BOHb-d2rpNs"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "It's probably not the artist's intention, but I think adding staccato like in the original theme would add some spice to this piece, both effect- and technique- wise."
+	},
+	"th15_07_2":{
+		"title": null,
+		"original": "th15_07",
+		"arranger": "柳本顕",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm26925263"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "I have no idea how to play a fade-out without audio editing."
+	},
+	"th15_08_2":{
+		"title": null,
+		"original": "th15_08",
+		"arranger": "Calamari",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=awq_gVQgqjg"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "The voices are so far apart from each other that this piece is impractical for real performance. However, it does have the amazing three-hand effect, so it's rewarding if you already have the required techniques."
+	},
+	"th15_08_3":{
+		"title": null,
+		"original": "th15_08",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rWmqHW8djEg"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+    "th15_10":{
+		"title": null,
+		"original": "th15_10",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm37609850"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/04/07"
+	},
+	"th15_14":{
+		"title": null,
+		"original": "th15_14",
+		"arranger": "Calamari",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=awq_gVQgqjg"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th16_02":{
+		"title": null,
+		"original": "th16_02",
+		"arranger": "ひごむれ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rDrBRY6XedM"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "Warning: Irregular left hand."
+	},
+	"th16_08":{
+		"title": null,
+		"original": "th16_08",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4-0IBuPIQrs"}
+		],
+		"type": "arrange",
+		"difficulty": "3"
+	},
+	"th16_11":{
+		"title": null,
+		"original": "th16_11",
+		"circle": "Presence∝fTVA",
+		"album": "Presence∝fTVA SP10 『東方ピアノエチュード』",
+		"arranger": "chiquchoo",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=_Mcdpwy6BO8"}
+        ],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "Reminds me of Heller's etude op.45 no.1."
+	},
+	"th16_13_2":{
+		"title": null,
+		"original": "th16_13",
+		"arranger": "ひごむれ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=LfpTtP18fzA"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th16_15":{
+		"title": null,
+		"original": "th16_15",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜天＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9ndb9n2h_NQ"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+    "th17_03":{
+		"title": null,
+		"original": "th17_03",
+		"arranger": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1M54y1V7wW"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/05/13"
+	},
+    "th17_05":{
+		"title": null,
+		"original": "th17_05",
+		"arranger": "Atrufulgium",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1M54y1V7wW"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/13"
+	},
+    "th17_10":{
+		"title": null,
+		"original": "th17_10",
+		"arranger": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Harmony", "link": "https://www.bilibili.com/video/BV1b7411E7o1"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/05/13"
+	},
+    "th17_12":{
+		"title": null,
+		"original": "th17_12",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=bPCEaIpocFo"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/13"
+	},
+	"th17_13_2":{
+		"title": null,
+		"original": "th17_13",
+		"arranger": "2分の1",
+		"pdf": "default",
+		"performance": [
+			{"performer": "2分の1", "link": "https://www.youtube.com/watch?v=5VRJxChZ42A"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"th18_04":{
+		"title": null,
+		"original": "th18_04",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1N5411g7WN"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"th18_12":{
+		"title": null,
+		"original": "th18_12",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=axO_8A6Ru4M"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "The ultimate polyrythm challenge?"
+	},
+	"th18_13":{
+		"title": null,
+		"original": "th18_13",
+		"arranger": "ぽてかめこ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=srHyproLrKs"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+    "th19_01":{
+		"title": null,
+		"original": "th19_01",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rQpSj7AeQvg"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "date": "2023/05/13"
+	},
+    "th19_03":{
+		"title": null,
+		"original": "th19_03",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=jhcwh0cBzhg"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/05/16"
+	},
+	"TFM-001b_01_3":{
+		"title": null,
+		"original": "TFM-001b_01",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1af4y1F7AS"},
+			{"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1KM4y1A7xk"}
+		],
+		"type": "transcription",
+		"difficulty": "2"
+	},
+    "TFM-001b_10":{
+		"title": null,
+		"original": "TFM-001b_10",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm5490871"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/01/25"
+	},
+    "TFM-001b_18_2":{
+		"title": null,
+		"original": "TFM-001b_18",
+		"arranger": "ジャム",
+        "transcriber": "Anon",
+		"pdf": "default",
+		"performance": [
+			{"performer": "ジャム", "link": "https://www.nicovideo.jp/watch/sm4258083"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/03/08"
+	},
+	"TFM-001b_19":{
+		"title": null,
+		"original": "TFM-001b_19",
+		"original_ex": ["TFM-001b_13","TFM-001b_17"],
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Dream」",
+		"arranger": "すめらぎ紫蓮",
+		"transcriber": "Happle",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"},
+			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"},
+            {"performer": "Midori Yakumo", "link": "https://www.youtube.com/watch?v=CYfmppYlRUs"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "I don't know the identity of Huy Nguyen the transcriber, so I just put Happle here, who made this improved sheet music."
+	},
+    "TFM-001b_20":{
+		"title": null,
+		"original": "TFM-001b_20",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm5501118"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm16026954"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "The original Demystify Feast was composed by ZUN. However this track was arranged by U2. \nThe third hand added by Alioth is not in the score.",
+        "date": "2023/02/11"
+	},
+    "TFM-001b_22":{
+		"title": null,
+		"original": "TFM-001b_22",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm6908457"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm13819923"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The original Onigashima was composed by ZUN. However this track was arranged by U2.",
+        "date": "2023/02/11"
+	},
+	"TFM-001b_23_2":{
+		"title": null,
+		"original": "TFM-001b_23",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm3447595"},
+			{"performer": "ありおと", "link": "https://www.nicovideo.jp/watch/sm11134817"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"TFM-003O_01":{
+		"title": null,
+		"original": "TFM-003O_01",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Uh411H7DP"},
+			{"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1EP4y1V75z"}
+		],
+		"type": "transcription",
+		"difficulty": "1"
+	},
+	"TFM-003O_03":{
+		"title": null,
+		"original": "TFM-003O_03",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=w1cBQR7glNI"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+    "TFM-003O_06":{
+		"title": null,
+		"original": "TFM-003O_06",
+		"arranger": "朧月輝月",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=jiemH21hQNI"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/02/24"
+	},
+    "TFM-003O_07":{
+		"title": null,
+		"original": "TFM-003O_07",
+		"arranger": "cresentia",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pb4d7YRmBdQ"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "comment": "The pdf here is the normal version. You can download the hard version through the mediafire link in the video description.",
+        "date": "2023/02/24"
+	},
+    "TFM-003O_17":{
+		"title": null,
+		"original": "TFM-003O_17",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=r0eixL3py3Q"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "date": "2023/02/24"
+	},
+    "TFM-003A_01":{
+		"title": null,
+		"original": "TFM-003A_01",
+		"circle": "黄昏フロンティア",
+		"album": "全人類ノ天楽録",
+		"arranger": "あきやまうに",
+        "transcriber": "苍火568",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=NzMVjAIEU8g"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "date": "2023/02/18"
+	},
+	"TFM-003A_06":{
+		"title": null,
+		"original": "TFM-003A_06",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm18415314"}
+		],
+		"type": "arrange",
+		"difficulty": "?"
+	},
+	"TFM-003A_08":{
+		"title": null,
+		"original": "TFM-003A_08",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV17F411x7L7"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+    "TFM-003A_09":{
+		"title": null,
+		"original": "TFM-003A_09",
+		"arranger": "小乱",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.gangqinpu.com/cchtml/921203.htm"}
+		],
+		"type": "transcription",
+		"difficulty": "?"
+	},
+	"TFM-003A_11":{
+		"title": null,
+		"original": "TFM-003A_11",
+		"circle": "まらしぃ",
+		"album": "幻想遊戯＜集＞",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ELmkNja9C-o"}
+		],
+		"type": "arrange",
+		"difficulty": "4"
+	},
+	"TFM-003A_17":{
+		"title": null,
+		"original": "TFM-003A_17",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=D7XMeDD6-Q8"}
+		],
+		"type": "transcription",
+		"difficulty": "4"
+	},
+	"TFM-004_12":{
+		"title": null,
+		"original": "TFM-004_12",
+		"arranger": "kituneyuu",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=qZMp9Y1VhXU"}
+		],
+		"type": "transcription",
+		"difficulty": "5"
+	},
+	"TFM-004_15":{
+		"title": null,
+		"original": "TFM-004_15",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1pQ4y1972R"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "The only difficulty is the repeated notes at the beginning. To simplify, combine the second pair of 16th notes into one 8th note."
+	},
+    "TFM-009a_13":{
+		"title": null,
+		"original": "TFM-009a_13",
+		"arranger": "uneuro",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=CIMNS9eIb-s"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/04/11"
+	},
+    "TFM-009b_14":{
+		"title": null,
+		"original": "TFM-009b_14",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜激＞3",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YjbmmQC68U0"},
+            {"performer": "喜欢弹琴的秦心酱", "link": "https://www.bilibili.com/video/BV1SN4y1F7g8"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/05/13"
+	}
+}

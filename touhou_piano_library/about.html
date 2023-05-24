@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/general_style.css">
+        <link rel="stylesheet" href="assets/css/about.css">
+    </head>
+    <body>
+        
+        <!-- loading -->
+        <link rel="stylesheet" href="assets/css/loading.css">
+        <div id="loading">
+          <img src="assets/images/loading.gif" alt="loading...">
+        </div>
+        <script src="assets/js/loading.js"></script>
+        
+        <div id="nav-placeholder"></div>
+
+        <div class="page">
+            <h1>About</h1>
+
+            <p class="intro">
+                Touhou Piano Library is a collection of sheet music from touhou piano arrangements. They are either provided by the arranger or transcribed by a third party, and they are mostly in pdf format which is easy to download and print. Each arrangement is equipped with metadata including original theme, arranger, difficulty, etc., which are also used as searching options.
+                <br><br>
+                The design of this website is influenced by <a target="_blank" rel="noopener noreferrer" href="https://www.pianolibrary.org">Piano Library</a> and kkcwkoh's <a target="_blank" rel="noopener noreferrer" href="http://illusionaryscore.web.fc2.com">Illusionary Score</a>.
+                <br>
+            </p>
+
+            <div class="sub-intro" id="flexbox">
+                <div class="faq">
+                    <h2 class="faq-title">FAQ</h2>
+                    <p class="faq-entry">
+                        <b>What is Touhou?</b>
+                        <br><br>
+                        Briefly speaking, Touhou Project (東方Project) is a game series made by Team Shanghai Alice. Here in Touhou Piano Library, we are focusing on the game music (and their piano arrangements). There are roughly 5 types of music:
+                        <br><br>
+                        1. Music from Windows games (TH6 onwards), composed by ZUN (Team Shanghai Alice)
+                        <br>
+                        2. Music from PC-98 games (TH1-5), composed by ZUN
+                        <br>
+                        3. Music from spinoff games (Hisoutensoku etc.), composed by ZUN or Twilight Frontier artists
+                        <br>
+                        4. ZUN's CD works (DiPP + Hifuu series)
+                        <br>
+                        5. ZUN's miscellaneous works
+                        <br><br>
+                        Please refer to <a target="_blank" rel="noopener noreferrer" href="https://en.touhouwiki.net/wiki/Touhou_Wiki">Touhou Wiki</a> for a detailed explanation.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>How do you select arrangements?</b>
+                        <br><br>
+                        It should be no surprise that there are large number of Touhou piano arrangements. I want to make it clear that I don't intend to include every possible arrangement out there in this website. Even the person who's most capable of searching would have a hard time comparing different arrangements of the same theme, so it's necessary that I apply a filter to select only a handful of arrangements before presenting them to users who are new to Touhou or piano. This is very biased, but I hope I can provide enough information in the next two Q&As, the Artists page, and the comment sections to compensate for it.
+                        <br><br>
+                        Before any personal tastes come into play (which I will not discuss here), there are two hard requirements for an arrangement to be considered: it must have a visual score (whether it's in pdf, midi, or video format) and the audio is publicly available. These requirements already ruled out most piano arrangements (which typically belong to albums or come from live performances). Having a human performance is a bonus, but not required. It's a verification that the piece is humanly possible to play and pianistic enough that someone enjoys learning it.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>How can I find arrangements of a certain theme?</b>
+                        <br><br>
+                        I'm still in the process of cataloguing the database, searching obcure themes, and comparing different arrangements, so the absence of certain themes in this website does not mean there aren't any arrangements (or good ones, if you're into it) on the internet. Here's some little tips and tricks for finding your desired themes:
+                        <br><br>
+                        - Use a generic search engine (e.g. Google) first, because it will link you to other sites such as Youtube if there is a result.
+                        <br>
+                        - Use Japanese title to search (which you can find in <a target="_blank" rel="noopener noreferrer" href="https://en.touhouwiki.net/wiki/Touhou_Wiki">Touhou Wiki</a>). Add keyword "東方ピアノ".
+                        <br>
+                        - Niconico users usually use <a target="_blank" rel="noopener noreferrer" href="https://www.axfc.net/uploader/">axfc.net</a> for file hosting. This site is notoriously unstable. If you downloaded corrupted file or encountered server error, wait half a day and try again.
+                        <br>
+                        - If you don't have Musescore membership, try <a target="_blank" rel="noopener noreferrer" href="https://github.com/LibreScore/dl-librescore">LibreScore</a> for free downloads.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>How can I find the complete works of a certain artist?</b>
+                        <br><br>
+                        I provided links to each artist's homepage (if any) and this is your best bet. You can use the browser's translation to navigate Japanese websites.
+                        <br><br>
+                        If you didn't find much in their HPs, consider searching in <a target="_blank" rel="noopener noreferrer" href="https://en.touhouwiki.net/wiki/Touhou_Wiki">Touhou Wiki</a>, <a target="_blank" rel="noopener noreferrer" href="https://thwiki.cc">THB Wiki</a>, <a target="_blank" rel="noopener noreferrer" href="https://vgmdb.net">VGMdb</a>, or <a target="_blank" rel="noopener noreferrer" href="https://touhoudb.com">TouhouDB</a>.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>How difficult is level X?</b>
+                        <br><br>
+                        Level 1 is the easiest. Larger numbers are harder. 5 is the highest difficulty I can comprehend, and anything harder than 5 is given a "?" rating. Be aware that level 5 is at most intermediate level if we are to throw these touhou arrangements into the classical world.
+                        <br><br>
+                        The rating is subjective and might be unconvincing. If you are doubtful, go straight into the most challenging part of a piece to determine whether you are at that level.
+                        <br><br>
+                        Note: I don't want to take the length of the work into consideration, as "long" isn't quite related to "difficult." As a result, the difficulty rating is not an indication of how long you'll need to practice.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>What does "type" (arrange / transcription) mean?</b>
+                        <br><br>
+                        I categorize all works into two types: "arrange" and "transcription." Here, a "transcription" means a faithful reproduction of the original theme on the piano, and an "arrange" implies deviation to some extent.
+                        <br><br>
+                        Note 1: Please differentiate these two types with "arranger" and "transcriber" in the description of each work. Normally, arranger is the person who creates the piano piece, and transcriber (if any) is the person who makes the sheet music for such piece. However, if a piece is marked as "transcription," it's still an arrangement from non-piano to piano.
+                        <br><br>
+                        Note 2: There is no clear border between "arrange" and "transcription." The categorization is subjective.
+                        <br><br>
+                        Note 3: In the rare case of "double arrangement" (artist A made a non-piano arrangement, and artist B re-arranged this arrangement into a piano piece), A is marked as the "arranger" and B is marked as the "transcriber." The type of such work is always "arrange," even if B intended to sound identical to A's arrangement.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>The pianist of a CD track is not mentioned here.</b>
+                        <br><br>
+                        I don't have a definite way to differentiate human performance and midi audio. If the performance is in video form and the pianist is visible, I will credit them. Otherwise I'm leaving this information blank for consistency. Unless otherwise stated, if you believe a certain performance is real, you can assume it's the arranger who played it.
+                        <br><br>
+                    </p>
+                    <p class="faq-entry">
+                        <b>How to contact you?</b>
+                        <br><br>
+                        Via email (on the namecard). You are welcome to discuss an arrangement posted here (about performances, transcription errors, difficulties etc.) or recommend new arrangements.
+                        <br><br>
+                    </p>
+                </div>
+
+                <div class="profile" id="profile">
+                    <img class="profile-image" src="favicon.bk.ico" width="128px" alt="profile-image">
+                    <p class="profile-entry"><b>Bloak, the Librarian</b></p><br>
+                    <a class="profile-entry" href="https://www.youtube.com/channel/UC3h9TaEt2AVNdLRdb6bOFbQ">Youtube channel</a>
+                    <a class="profile-entry" href="https://space.bilibili.com/320007886">Bilibili channel</a>
+                    <p class="profile-entry">Email: john.bloak@gmail.com</p>
+                </div>
+            </div>
+        </div>
+
+        <script src="assets/js/jquery-3.6.3.min.js"></script>
+        <script src="assets/js/add_navigation.js"></script>
+        <script src="assets/js/about.js"></script>
+    </body>
+</html>

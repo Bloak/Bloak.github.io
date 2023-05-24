@@ -1,0 +1,91 @@
+h1, h2, h3 {
+    font-family: "reimufont", sans-serif;
+    line-height: 1.5;
+}
+b, span, div, button {
+    font-family: "yuyukofont", sans-serif; 
+    line-height: 1.5;
+    font-size: x-large;
+}
+a, td, th, label {
+    font-family: "marisafont", "yuyukofont-jp", sans-serif; 
+    line-height: 1.5;
+    font-size: x-large;
+}
+p {
+    font-family: "Courier New", sans-serif; /* "Courier New" */
+    line-height: 1.5;
+    font-size: x-large;
+}
+
+body {
+    background-color: #fee;
+}
+
+nav {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.nav-element {
+    font-family: "yakumofont", sans-serif; 
+    font-weight: bold;
+    margin-left: 1em;
+    margin-right: 1em;
+    white-space: nowrap;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+    overflow-wrap: break-word;
+}
+
+table {
+    background-color: white;
+    border: 2px solid black;
+    border-collapse: collapse;
+    word-break: break-word;
+}
+
+th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+a:visited {
+    color: green;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+  
+a:active {
+    text-decoration: underline;
+}
+
+.nav-element:visited {
+    color: blue;
+}
+
+h1, h2 {
+    border-bottom: 1px solid;
+}
+
+.page {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 50px;
+}
+
+select {
+    color: black;
+}
+
+@media screen and (max-width: 500px) {
+    table {
+        font-size: 75%
+    }
+}

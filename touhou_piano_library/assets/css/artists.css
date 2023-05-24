@@ -1,0 +1,14 @@
+#table td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+#table thead {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+#table {
+    margin-top: 20px;
+    border: 2px solid black;
+}

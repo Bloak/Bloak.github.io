@@ -1,0 +1,29 @@
+select {
+    border: 1px solid #aaa;
+    border-radius: 3px;
+    background-color: white;
+    padding: 4px;
+}
+
+table {
+    margin-top: 10px;
+}
+
+th, td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+thead {
+    border-bottom: 2px solid black;
+}
+
+th {
+    text-align: left;
+}
+
+.result-count {
+    font-size: 75%;
+    font-style: italic;
+    margin-top: 20px;
+}

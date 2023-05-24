@@ -1,0 +1,162 @@
+{
+	"hr01": {
+		"title": "蓬莱人形",
+		"title_en": "Dolls in Pseudo Paradise",
+		"type": "Music CD"
+	},
+	"hr02": {
+		"title": "蓮台野夜行",
+		"title_en": "Ghostly Field Club",
+		"type": "Music CD"
+	},
+	"hr03": {
+		"title": "夢違科学世紀",
+		"title_en": "Changeability of Strange Dream",
+		"type": "Music CD"
+	},
+	"hr04": {
+		"title": "卯酉東海道",
+		"title_en": "Retrospective 53 minutes",
+		"type": "Music CD"
+	},
+	"hr05": {
+		"title": "大空魔術",
+		"title_en": "Magical Astronomy",
+		"type": "Music CD"
+	},
+	"th01": {
+		"title": "東方靈異伝",
+		"title_en": "Highly Responsive to Prayers",
+		"type": "PC-98 game"
+	},
+	"th02": {
+		"title": "東方封魔録",
+		"title_en": "the Story of Eastern Wonderland",
+		"type": "PC-98 game"
+	},
+	"th03": {
+		"title": "東方夢時空",
+		"title_en": "Phantasmagoria of Dim.Dream",
+		"type": "PC-98 game"
+	},
+	"th04": {
+		"title": "東方幻想郷",
+		"title_en": "Lotus Land Story",
+		"type": "PC-98 game"
+	},
+	"th05": {
+		"title": "東方怪綺談",
+		"title_en": "Mystic Square",
+		"type": "PC-98 game"
+	},
+	"th06": {
+		"title": "東方紅魔郷",
+		"title_en": "the Embodiment of Scarlet Devil",
+		"type": "Windows game"
+	},
+	"th07": {
+		"title": "東方妖々夢",
+		"title_en": "Perfect Cherry Blossom",
+		"type": "Windows game"
+	},
+	"th08": {
+		"title": "東方永夜抄",
+		"title_en": "Imperishable Night",
+		"type": "Windows game"
+	},
+	"th09": {
+		"title": "東方花映塚",
+		"title_en": "Phantasmagoria of Flower View",
+		"type": "Windows game"
+	},
+	"th10": {
+		"title": "東方風神録",
+		"title_en": "Mountain of Faith",
+		"type": "Windows game"
+	},
+	"th11": {
+		"title": "東方地霊殿",
+		"title_en": "Subterranean Animism",
+		"type": "Windows game"
+	},
+	"th12": {
+		"title": "東方星蓮船",
+		"title_en": "Undefined Fantastic Object",
+		"type": "Windows game"
+	},
+	"th13": {
+		"title": "東方神霊廟",
+		"title_en": "Ten Desires",
+		"type": "Windows game"
+	},
+	"th14": {
+		"title": "東方輝針城",
+		"title_en": "Double Dealing Character",
+		"type": "Windows game"
+	},
+	"th15": {
+		"title": "東方紺珠伝",
+		"title_en": "Legacy of Lunatic Kingdom",
+		"type": "Windows game"
+	},
+	"th16": {
+		"title": "東方天空璋",
+		"title_en": "Hidden Star in Four Seasons",
+		"type": "Windows game"
+	},
+	"th17": {
+		"title": "東方鬼形獣",
+		"title_en": "Wily Beast and Weakest Creature",
+		"type": "Windows game"
+	},
+	"th18": {
+		"title": "東方虹龍洞",
+		"title_en": "Unconnected Marketeers",
+		"type": "Windows game"
+	},
+    "th19": {
+		"title": "東方獣王園",
+		"title_en": "Unfinished Dream of All Living Ghost.",
+		"type": "Windows game"
+	},
+	"th075": {
+		"title": "東方萃夢想",
+		"title_en": "Immaterial and Missing Power",
+		"type": "spin-off"
+	},
+	"th095": {
+		"title": "東方文花帖",
+		"title_en": "Shoot the Bullet",
+		"type": "spin-off"
+	},
+	"th105": {
+		"title": "東方緋想天",
+		"title_en": "Scarlet Weather Rhapsody",
+		"type": "spin-off"
+	},
+	"th123": {
+		"title": "東方非想天則",
+		"title_en": "Hisoutensoku",
+		"type": "spin-off"
+	},
+    "th125": {
+		"title": "ダブルスポイラー 〜 東方文花帖",
+		"title_en": "Double Spoiler",
+		"type": "spin-off"
+	},
+    "th128": {
+		"title": "妖精大战争",
+		"title_en": "Great Fairy Wars",
+		"type": "spin-off"
+	},
+    "th155": {
+		"title": "東方憑依華",
+		"title_en": "Antinomy of Common Flowers",
+		"type": "spin-off"
+	},
+    "th185": {
+		"title": "バレットフィリア達の闇市場",
+		"title_en": "100th Black Market",
+		"type": "spin-off"
+	}
+}

@@ -1,0 +1,23 @@
+.in-text-number {
+    color: darkred;
+    font-weight: bold;
+}
+
+.intro, .language-setting {
+    margin-bottom: 50px;
+}
+
+.switch {
+    vertical-align: middle;
+}
+
+.text-after-label {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 10px;
+}
+
+ul {
+    padding: 0;
+    list-style-type: none;
+}

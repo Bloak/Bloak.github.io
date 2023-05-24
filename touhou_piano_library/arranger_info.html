@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Arranger Info</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/general_style.css">
+        <link rel="stylesheet" href="assets/css/arranger_info.css">
+    </head>
+    <body>
+        
+        <!-- loading -->
+        <link rel="stylesheet" href="assets/css/loading.css">
+        <div id="loading">
+          <img src="assets/images/loading.gif" alt="loading...">
+        </div>
+        <script src="assets/js/loading.js"></script>
+
+        <div id="nav-placeholder"></div>
+
+        <div class="page">
+            <h1 id="title">Placeholder Title</h1>
+
+            <table id="table">
+                <tr>
+                    <td>Title</td>
+                    <td>Original Theme</td>
+                    <td>Type</td>
+                    <td>Difficulty</td>
+                    <td>Score</td>
+                </tr>
+            </table>
+
+            <div class="block">
+                <h3>Links</h3>
+                <ul id="links"></ul>
+            </div>
+
+            <div class="block">
+                <h3>Additional Note</h3>
+                <p id="comment"></p>
+            </div>
+        </div>
+
+        <script src="assets/js/jquery-3.6.3.min.js"></script>
+        <script src="assets/js/add_navigation.js"></script>
+        <script src="assets/js/generic_fetch.js"></script>
+        <script src="assets/js/arranger_info.js"></script>
+    </body>
+</html>

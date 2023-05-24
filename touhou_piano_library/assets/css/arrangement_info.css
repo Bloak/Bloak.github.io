@@ -1,0 +1,43 @@
+.block {
+    margin-bottom: 30px;
+}
+
+.icon {
+    display: inline-block;
+    width: 24px;
+    vertical-align: middle;
+}
+
+.text-after-icon {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#sheet-music-link {
+    vertical-align: middle;
+}
+
+.metadata-table td:first-child {
+    font-weight: bold;
+    border-right: 2px solid black;
+}
+
+.metadata-table td {
+    padding-left: 0.5em;
+    padding-right: 2em;
+}
+
+#pdf-preview {
+    display: block;
+    border: 1px solid black;
+}
+
+.recordings-table td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+.recordings-table tr:first-child {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}

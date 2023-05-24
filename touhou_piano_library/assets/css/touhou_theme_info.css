@@ -1,0 +1,13 @@
+#table td {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+}
+
+#table tr:first-child {
+    font-weight: bold;
+    border-bottom: 2px solid black;
+}
+
+#table {
+    margin-top: 30px;
+}

@@ -1,0 +1,61 @@
+#template {
+    display: none;
+}
+
+.touhou-work {
+    margin: 20px 0;
+}
+
+.collapsible {
+    background-color: transparent;
+    color: black;
+    cursor: pointer;
+    padding: 4px;
+    width: 100%;
+    border: 2px solid black;
+    text-align: center;
+    outline: none;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.active, .collapsible:active{
+    background-color: black;
+    color: white;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .collapsible:hover {
+        background-color: black;
+        color: white;
+    }
+}
+
+.content {
+    /* display: none; */
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.3s ease-in-out;
+    margin-top: 0;
+    padding: 0;
+}
+
+.table {
+    width: 100%;
+    background-color: white;
+    border-top: 0;
+}
+
+.table thead {
+    border: 2px solid black;
+    border-top: 0;
+}
+
+.table td {
+    text-align: center;
+}
+
+.work-type {
+    margin-top: 50px;
+}
+  

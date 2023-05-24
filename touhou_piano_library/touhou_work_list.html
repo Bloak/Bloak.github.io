@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Touhou Themes</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/x-icon" href="favicon.ico">
+        <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/general_style.css">
+        <link rel="stylesheet" href="assets/css/touhou_work_list.css">
+    </head>
+    <body>
+        
+        <!-- loading -->
+        <link rel="stylesheet" href="assets/css/loading.css">
+        <div id="loading">
+          <img src="assets/images/loading.gif" alt="loading...">
+        </div>
+        <script src="assets/js/loading.js"></script>
+
+        <div id="nav-placeholder"></div>
+
+        <div class="page" id="page">
+            <h1 id="title">Touhou Themes</h1>
+
+            <p>The list of touhou themes is not yet complete. Please be patient while I'm updating the database.</p>
+
+            <div class="touhou-work" id="template">
+                <button type="button" class="collapsible">Open Collapsible</button>
+                <div class="content">
+                    <table class="table">
+                    <colgroup>
+                        <col span="1" style="width: 15%;">
+                        <col span="1" style="width: 60%;">
+                        <col span="1" style="width: 25%;">
+                    </colgroup>
+                    <thead>
+                        <th>Track id</th>
+                        <th>Title</th>
+                        <th>Arrangements</th>
+                    </thead>
+                    <tbody>
+                        
+                    </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="work-type" id="Windows game"><h2>Mainline Games</h2></div>
+            <div class="work-type" id="spin-off"><h2>Spin-off Games</h2></div>
+            <div class="work-type" id="PC-98 game"><h2>PC-98 Games</h2></div>
+            <div class="work-type" id="Music CD"><h2>Music CD</h2></div>
+        </div>
+
+        <script src="assets/js/jquery-3.6.3.min.js"></script>
+        <script src="assets/js/add_navigation.js"></script>
+        <script src="assets/js/generic_fetch.js"></script>
+        <script src="assets/js/touhou_work_list.js"></script>
+    </body>
+</html>
