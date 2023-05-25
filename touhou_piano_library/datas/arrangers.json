@@ -818,6 +818,27 @@
         "website": [
             {"title": "youtube", "url": "https://www.youtube.com/@Atrufulgium"}
         ]
+    },
+    "ARA":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/channel/UCmGGIvWZT0tb41HhKs6wQJw"}
+        ],
+        "comment": "The artist of 趣味工房にんじんわいん (Hobby atelier carrot wine). The circle's website was shut down unfortunately."
+    },
+    "光田晋哉":{
+        "alt_name": "Mitsuda Shin'ya",
+        "website": [
+            {"title": "Music Pandora", "url": "http://music-pandora.com"},
+            {"title": "youtube", "url": "https://www.youtube.com/@mitsudashinya"}
+        ],
+        "comment": "Music Pandora once published a score book \"Scores of a Spring Night\" for its album \"Songs of a Spring Night.\" The physical copy is no longer available, and there is only a sample version on the circle's website (http://music-pandora.com/img/scores_of_a_spring_night_sample.pdf)."
+    },
+    "Davidsan":{
+        "website": [
+            {"title": "氷結幻想", "url": "http://hyouketsu.web.fc2.com"},
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/42305000"},
+            {"title": "youtube", "url": "https://www.youtube.com/@davidsan3933"}
+        ]
     }
 }
 
