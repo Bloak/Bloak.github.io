@@ -185,6 +185,21 @@
 		"type": "arrange",
 		"difficulty": "5"
 	},
+    "hr06_01":{
+		"title": "満月の夜、弥終の夜",
+		"original": "hr06_01",
+		"circle": "EX Eientei",
+		"album": "夢十夜 A WAKING TEN DREAM",
+		"arranger": "ありおと",
+		"transcriber": "uneuro",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Fs37ifXypv4"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/05/24"
+	},
 	"th02_11":{
 		"title": null,
 		"original": "th02_11",
@@ -638,6 +653,21 @@
 		"type": "arrange",
 		"difficulty": "2",
 		"date": "2023/04/29"
+	},
+    "th06_09_5":{
+		"title": "A Witch's tragic love",
+		"original": "th06_09",
+		"circle": "趣味工房にんじんわいん",
+		"album": "東方発表会　第一部　ピアノとアンサンブル",
+		"arranger": "ARA",
+        "transcriber": "Netsouba",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mqY-UIUJOQY"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2023/05/24"
 	},
 	"th06_10":{
 		"title": null,
@@ -3470,6 +3500,18 @@
 		"type": "transcription",
 		"difficulty": "5"
 	},
+    "th18_15_2":{
+		"title": null,
+		"original": "th18_15",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=aSOyqhsFFDI"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "date": "2023/05/24"
+	},
     "th19_01":{
 		"title": null,
 		"original": "th19_01",
@@ -3481,6 +3523,19 @@
 		"type": "arrange",
 		"difficulty": "4",
         "date": "2023/05/13"
+	},
+    "th19_01_2":{
+		"title": "A (Beastly) Premonition",
+		"original": "th19_01",
+        "original_ex": ["th19_00"],
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=PBOGc1jooaI"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "date": "2023/05/24"
 	},
     "th19_03":{
 		"title": null,

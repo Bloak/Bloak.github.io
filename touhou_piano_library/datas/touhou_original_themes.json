@@ -99,6 +99,11 @@
 		"title_en": "The Far Side of the Moon",
 		"collection": "hr05"
 	},
+    "hr06_01": {
+		"title": "未知の花 魅知の旅",
+		"title_en": "Unknown Flower, Mesmerizing Journey",
+		"collection": "hr06"
+	},
     "th02_11": {
 		"title": "Complete Darkness",
 		"collection": "th02"
@@ -1115,6 +1120,50 @@
 		"title": "あの賑やかな市場は今どこに　～ Immemorial Marketeers",
 		"title_en": "Where Is That Bustling Marketplace Now ~ Immemorial Marketeers",
 		"collection": "th18"
+	},
+    "th18_14": {
+		"title": "幻想の地下大線路網",
+		"title_en": "The Great Fantastic Underground Railway Network",
+		"collection": "th18"
+	},
+    "th18_15": {
+		"title": "龍王殺しのプリンセス",
+		"title_en": "The Princess Who Slays Dragon Kings",
+		"collection": "th18"
+	},
+    "th185_01": {
+		"title": "コレクターの憂鬱な午後",
+		"title_en": "The Collector's Melancholy Afternoon",
+		"collection": "th185"
+	},
+    "th185_02": {
+		"title": "ワクワクする見慣れた幻想郷",
+		"title_en": "An Exciting and Familiar Gensokyo",
+		"collection": "th185"
+	},
+    "th185_03": {
+		"title": "妖怪フックオン",
+		"title_en": "Youkai Hook On",
+		"collection": "th185"
+	},
+    "th185_04": {
+		"title": "闇市場は場所を選ばない",
+		"title_en": "Black Markets Can Happen Anywhere, Anytime",
+		"collection": "th185"
+	},
+    "th185_05": {
+		"title": "弾幕を持て、バレットフィリア達よ",
+		"title_en": "Take Thy Danmaku In Hand, O Bulletphiles",
+		"collection": "th185"
+	},
+    "th185_06": {
+		"title": "１００回目のブラックマーケット",
+		"title_en": "The Hundredth Black Market",
+		"collection": "th185"
+	},
+    "th19_00": {
+		"title": "Pre-Battle Theme",
+		"collection": "th19"
 	},
     "th19_01": {
 		"title": "獣の知性",
