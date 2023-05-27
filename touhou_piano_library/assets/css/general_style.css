@@ -1,21 +1,6 @@
-h1, h2, h3 {
-    font-family: "reimufont", sans-serif;
+a, h1, h2, h3, p, td, th, label, span, div, button {
+    font-family: "Open Sans", sans-serif;
     line-height: 1.5;
-}
-b, span, div, button {
-    font-family: "yuyukofont", sans-serif; 
-    line-height: 1.5;
-    font-size: x-large;
-}
-a, td, th, label {
-    font-family: "marisafont", "yuyukofont-jp", sans-serif; 
-    line-height: 1.5;
-    font-size: x-large;
-}
-p {
-    font-family: "Courier New", sans-serif; /* "Courier New" */
-    line-height: 1.5;
-    font-size: x-large;
 }
 
 body {
