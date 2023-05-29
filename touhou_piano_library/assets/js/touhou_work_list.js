@@ -42,7 +42,7 @@ function display_themes(touhou_themes, arrangements) {
             }
         }
 
-        var cell_1 = new_row.insertCell(); cell_1.innerHTML = theme_id;
+        var cell_1 = new_row.insertCell(); cell_1.innerHTML = "<a target=_blank href='https://thwiki.cc/文件:" + theme_id +  ".mp3'>" + theme_id + "</a>";
         var cell_2 = new_row.insertCell(); cell_2.appendChild(create_link("./touhou_theme_info.html?id="+theme_id, theme_title));
         var cell_3 = new_row.insertCell(); cell_3.innerHTML = arrangement_count;
     }

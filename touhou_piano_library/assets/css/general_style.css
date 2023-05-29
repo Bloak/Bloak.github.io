@@ -1,6 +1,17 @@
-a, h1, h2, h3, p, td, th, label, span, div, button {
+h1, h2, h3 {
+    font-family: "reimufont", sans-serif;
+    line-height: 1.5;
+}
+span, div {
+    font-family: "yuyukofont", sans-serif; 
+    line-height: 1.5;
+}
+p, b, a, label, button, td, th {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5;
+}
+.log {
+    font-family: "Courier New", sans-serif;
 }
 
 body {

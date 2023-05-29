@@ -35,7 +35,7 @@ async function find_recent_uploads(data) {
         var new_entry_text = document.createElement("p");
         var link = await create_arrangement_link(id, arrangement_data);
         var author_link = await create_person_links(arrangement_data.arranger);
-        new_entry_text.innerHTML = `<b>${arrangement_data.date}</b>: ` + link.outerHTML + " by " + author_link.innerText;
+        new_entry_text.innerHTML = `<b class="log">${arrangement_data.date}</b>: ` + link.outerHTML + ' <span class="log">by</span> ' + author_link.innerText;
         new_entry.appendChild(new_entry_text);
         list.appendChild(new_entry);
     }

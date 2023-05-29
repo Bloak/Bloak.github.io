@@ -1,3 +1,7 @@
+div, label, a.paginate_button {
+    font-family: "Courier New", sans-serif;
+}
+
 #table td {
     padding-left: 0.5em;
     padding-right: 0.5em;

@@ -91,9 +91,22 @@ async function show_source(data) {
     var works = await get_json("datas/touhou_works.json");
     var work_data = works[source];
     var title = (translation_enabled()) ? work_data.title_en : work_data.title;
+    var link = (translation_enabled()) ? "https://en.touhouwiki.net/index.php?search=" + work_data.title_en : "https://thwiki.cc/?search=" + work_data.title;
     
     var p = document.getElementById("source");
-    p.innerHTML = `(From <b>${title}</b>)`;
+    p.innerHTML = `(From <b><a target=_blank href='${link}'>${title}</a></b>)`;
+}
+
+async function show_info(data) {
+    var source = data.collection;
+    var works = await get_json("datas/touhou_works.json");
+    var work_data = works[source];
+    var title = (translation_enabled()) ? work_data.title_en : work_data.title;
+    var id = GetURLParameter("id");
+    var link = "https://thwiki.cc/文件:" + id +  ".mp3"
+    
+    var p = document.getElementById("info");
+    p.innerHTML = `<b><a target=_blank href='${link}'>THBWiki-Origin-Sound: ${id}</a></b>`;
 }
 
 async function main() {
@@ -107,6 +120,7 @@ async function main() {
     display_arrangements(current_theme_arrangement_ids, all_arrangements);
 
     show_source(data);
+    show_info(data);
 }
 
 document.onload = main();
