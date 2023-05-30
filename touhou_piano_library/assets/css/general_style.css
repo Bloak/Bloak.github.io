@@ -88,3 +88,9 @@ select {
         font-size: 75%
     }
 }
+
+@media screen and (min-width: 800px) {
+    .nav-element {
+        font-size: x-large;
+    }
+}
