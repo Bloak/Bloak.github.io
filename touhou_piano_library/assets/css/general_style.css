@@ -13,6 +13,9 @@ p, b, a, label, button, td, th {
 .log {
     font-family: "Courier New", sans-serif;
 }
+.data-header {
+    font-family: "Open Sans", sans-serif;
+}
 
 body {
     background-color: #fee;
