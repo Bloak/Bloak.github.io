@@ -1101,6 +1101,16 @@
 		"title_en": "Returning Home from the Underground",
 		"collection": "th17"
 	},
+    "th18_01": {
+		"title": "虹の架かる幻想郷",
+		"title_en": "A Rainbow Spanning Gensokyo",
+		"collection": "th18"
+	},
+    "th18_02": {
+		"title": "妖異達の通り雨",
+		"title_en": "A Shower of Strange Occurrences",
+		"collection": "th18"
+	},
 	"th18_03": {
 		"title": "大吉キトゥン",
 		"title_en": "Kitten of Great Fortune",
@@ -1109,6 +1119,41 @@
 	"th18_04": {
 		"title": "深緑に隠された断崖",
 		"title_en": "The Cliff Hidden in Deep Green",
+		"collection": "th18"
+	},
+    "th18_05": {
+		"title": "バンデットリィテクノロジー",
+		"title_en": "Banditry Technology",
+		"collection": "th18"
+	},
+    "th18_06": {
+		"title": "駒草咲くパーペチュアルスノー",
+		"title_en": "The Perpetual Snow of Komakusa Blossoms",
+		"collection": "th18"
+	},
+    "th18_07": {
+		"title": "スモーキングドラゴン",
+		"title_en": "Smoking Dragon",
+		"collection": "th18"
+	},
+    "th18_08": {
+		"title": "廃れゆく産業遺構",
+		"title_en": "The Obsolescent Industrial Remains",
+		"collection": "th18"
+	},
+    "th18_09": {
+		"title": "神代鉱石",
+		"title_en": "Ore from the Age of the Gods",
+		"collection": "th18"
+	},
+    "th18_10": {
+		"title": "待ちわびた逢魔が時",
+		"title_en": "The Long-Awaited Oumagatoki",
+		"collection": "th18"
+	},
+    "th18_11": {
+		"title": "星降る天魔の山",
+		"title_en": "Starry Mountain of Tenma",
 		"collection": "th18"
 	},
     "th18_12": {
@@ -1129,6 +1174,16 @@
     "th18_15": {
 		"title": "龍王殺しのプリンセス",
 		"title_en": "The Princess Who Slays Dragon Kings",
+		"collection": "th18"
+	},
+    "th18_16": {
+		"title": "嵐の後の日曜日",
+		"title_en": "The Sunday After the Storm",
+		"collection": "th18"
+	},
+    "th18_17": {
+		"title": "虹色の世界",
+		"title_en": "The Rainbow-Colored World",
 		"collection": "th18"
 	},
     "th185_01": {

@@ -1948,6 +1948,21 @@
 		"difficulty": "4",
         "date": "2023/04/29"
 	},
+    "th09_12":{
+		"title": null,
+		"original": "th09_12",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜花＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=v9iidxNPtbY"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/06/02"
+	},
     "th09_13":{
 		"title": null,
 		"original": "th09_13",
@@ -1975,6 +1990,21 @@
 		"difficulty": "?",
 		"comment": "If you find the pdf unreadable, please refer to the engraving by Knix: https://www.youtube.com/watch?v=055Dl_utjyY"
 	},
+    "th09_14_2":{
+		"title": null,
+		"original": "th09_14",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜花＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=6QjVWANGIUA"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/06/02"
+	},
     "th09_15_2":{
 		"title": "華鳥風月",
 		"original": "th09_15",
@@ -1988,6 +2018,22 @@
 		"difficulty": "4",
 		"comment": "The original vocal arrangement: https://www.youtube.com/watch?v=gXCI8vJTjqA \nThe first page should be 3/4 time instead of 6/8.",
         "date": "2023/01/30"
+	},
+    "th09_15_3":{
+		"title": null,
+		"original": "th09_15",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜花＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4U0JyKCFc6A"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"comment": "Right hand in measure 93 is missing. I believe it's a 36 chord like the previous measure.",
+        "date": "2023/06/02"
 	},
     "th09_18":{
 		"title": null,
@@ -2035,6 +2081,18 @@
 		"difficulty": "1",
         "comment": "Right hand accompaniment is pretty rare. I think it's a good etude on hand independence.",
         "date": "2023/03/29"
+	},
+    "th095_03":{
+		"title": null,
+		"original": "th095_03",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm37354471"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/06/02"
 	},
 	"th095_04_2":{
 		"title": null,
@@ -3333,6 +3391,36 @@
 		"type": "transcription",
 		"difficulty": "4",
         "date": "2023/04/07"
+	},
+    "th15_12":{
+		"title": null,
+		"original": "th15_12",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜紺＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EQVrAyKX4lc"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/06/02"
+	},
+    "th15_13":{
+		"title": null,
+		"original": "th15_13",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜紺＞",
+		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iEK3Vq967ro"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/06/02"
 	},
 	"th15_14":{
 		"title": null,

@@ -2,11 +2,7 @@ h1, h2, h3 {
     font-family: "reimufont", sans-serif;
     line-height: 1.5;
 }
-span, div {
-    font-family: "yuyukofont", sans-serif; 
-    line-height: 1.5;
-}
-p, b, a, label, button, td, th {
+p, b, a, label, button, td, th, div, span {
     font-family: "Open Sans", sans-serif;
     line-height: 1.5;
 }
@@ -15,6 +11,9 @@ p, b, a, label, button, td, th {
 }
 .data-header {
     font-family: "Open Sans", sans-serif;
+}
+.yuyuko-text {
+    font-family: "yuyukofont", "yuyukofont-jp", sans-serif;
 }
 
 body {
