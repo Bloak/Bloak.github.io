@@ -839,6 +839,17 @@
             {"title": "niconico", "url": "https://www.nicovideo.jp/user/42305000"},
             {"title": "youtube", "url": "https://www.youtube.com/@davidsan3933"}
         ]
+    },
+    "科波菲尔":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/632843.htm"},
+            {"title": "bilibili", "url": "https://space.bilibili.com/7490739"}
+        ]
+    },
+    "Cap":{
+        "website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/4176768"}
+        ]
     }
 }
 

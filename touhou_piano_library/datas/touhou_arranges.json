@@ -774,7 +774,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "?",
-		"comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)"
+		"comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー)."
 	},
 	"th06_13_3":{
 		"title": "紅魔最終楽章独奏",
@@ -1183,6 +1183,21 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+    "th07_12_3":{
+		"title": "东方妖妖梦第六面序曲、间奏与主题",
+        "title_en": "Perfect Cherry Blossom Stage 6 Overture, Interlude, and Theme",
+		"original": "th07_12",
+		"original_ex": ["th07_13", "th17_14"],
+		"arranger": "科波菲尔",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.gangqinpu.com/cchtml/890076.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Liszt Paganini Etude 1 reference?",
+        "date": "2023/06/05"
 	},
 	"th07_13":{
 		"title": "【西行妖】 - 幽雅に咲かせ、墨染の桜 -",
@@ -1875,6 +1890,23 @@
 		"type": "transcription",
 		"difficulty": "?",
 		"comment": "I examined the original midi and did found the part where the main melody meets the rushing 16th notes. It's hard to capture just by listening, similar to the beginning of \"Voyage 1969.\" I never saw a piano cover of this theme that included this specific part."
+	},
+    "th08_19_3":{
+		"title": null,
+		"original": "th08_19",
+        "original_ex": ["th08_18"],
+        "circle": "Assaultdoor",
+        "album": "月遊 ～ツキアソビ～",
+		"arranger": "Cap",
+        "transcriber": "科波菲尔",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=WUJdZDM8pKk"},
+            {"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm9360861"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/06/05"
 	},
 	"th08_20_2":{
 		"title": null,
@@ -2969,6 +3001,21 @@
 		],
 		"type": "arrange",
 		"difficulty": "4"
+	},
+    "th128_08_2":{
+		"title": null,
+		"original": "th128_08",
+		"circle": "いんぷれ。",
+		"album": "Presence Invisible",
+		"arranger": "ローズレッド",
+        "transcriber": "科波菲尔",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm15757753"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/06/05"
 	},
     "th13_01":{
 		"title": null,
