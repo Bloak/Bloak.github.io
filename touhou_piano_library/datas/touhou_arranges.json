@@ -1936,7 +1936,8 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-		"comment": "It seems that this arrangement went through multiple re-transcriptions. Kkcwkoh provided a musescore link to danichku's transcription. 5 Years ago (2017) a youtube comment said the link was broken (danichku indeed deleted their account). Axyo Rifelheim replied with a jellynote link which is (supposedly) a rehost of the original sheets, and they mentioned that the sheets were not free. This link is broken now (2022). 4 years ago (2018) 烏 replied that they made a transcription based on the previous sheets and provided the link. I was about to use it but found too many errors, so I did a new transcription myself."
+        "date": "2023/06/11",
+		"comment": "It seems that this arrangement went through multiple re-transcriptions. Kkcwkoh provided a musescore link to danichku's transcription. 5 Years ago (2017) a youtube comment said the link was broken (danichku indeed deleted their account). Axyo Rifelheim replied with a jellynote link which is (supposedly) a rehost of the original sheets, and they mentioned that the sheets were not free. This link is broken now (2022). 4 years ago (2018) 烏 replied that they made a transcription based on the previous sheets and provided the link. I was about to use it but found too many errors, so I did a new transcription myself. \nUpdate 2023/06/11: I added melody indicators and marked hand distributions. Also corrected some small errors. This should be the final version, and I will make a recording shortly."
 	},
     "th09_02_3":{
 		"title": "菜の花小径",
@@ -2936,6 +2937,23 @@
 		"type": "arrange",
 		"difficulty": "1",
 		"comment": "My recording has some deviations to the score... they're half prepared and half mistakes. The score, however, is a faithful transcription of the original work."
+	},
+    "th12_09_2":{
+		"title": "Melting Snow",
+		"original": "th12_09",
+        "original_ex": ["th12_08", "th09_07"],
+		"circle": "Music Pandora",
+		"album": "Songs of a Spring Night",
+		"arranger": "光田晋哉",
+        "transcriber": ["Rummsbatte", "Bloak"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=MoSZqfrH4ws"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The original recording is not available on any video sites, so I put Rummsbatte's midi audio here. I'll post my own recording after I finish learning this piece. By the way, the pedalling is tricky because of the sometimes melodic bass. I may post an update with pedal marks and fingerings later.\nThe 10/8 time in A section is interesting. Despite the dramatic rhythm change, the original theme is still clear to the ears. I also find it similar to TH10 stage 5 theme. \nThe C section comes from TH12 stage 4 theme. This is very hard to notice because the artist changed rhythm from 4 to 3 beats and also changed key from minor to major. \nThe D section is clearly Cirno's theme, though I don't know why the artist wrote that the original theme is the TH9 one instead of the TH6 one.",
+        "date": "2023/06/11"
 	},
 	"th12_10_2":{
 		"title": "魔界極東都市エソテリア",
