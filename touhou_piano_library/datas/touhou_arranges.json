@@ -561,6 +561,23 @@
 		"difficulty": "5",
 		"date": "2023/04/29"
 	},
+    "th06_07_7":{
+		"title": "真昼の虹の夢",
+        "title_en": "Afternoon Rainbow Dream",
+		"original": "th06_07",
+        "circle": "へちょ屋",
+        "album": "黒翼焔舞",
+		"arranger": "ヒッシー",
+        "transcriber": ["Quellatalo", "Knix6593"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://youtu.be/RK1I2LRGo4M"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "A small segment is taken from the original theme and converted to major key. Sounds very different, huh?",
+        "date": "2023/06/18"
+	},
 	"th06_08":{
 		"title": null,
 		"original": "th06_08",
@@ -668,6 +685,23 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"date": "2023/05/24"
+	},
+    "th06_09_6":{
+		"title": "祈り",
+        "title_en": "Prayer",
+		"original": "th06_09",
+        "circle": "へちょ屋",
+        "album": "Moon War III SP",
+		"arranger": "ヒッシー",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://youtu.be/9pGluXLZjH4"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "This piece is a prelude for 籠にて騎士を待つ少女 (https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th08_10_7) in the album Moon War III.",
+        "date": "2023/06/18"
 	},
 	"th06_10":{
 		"title": null,
@@ -1368,7 +1402,7 @@
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1v64y1y7gu"}
 		],
 		"type": "transcription",
-		"difficulty": "1"
+		"difficulty": "2"
 	},
     "th07_20":{
 		"title": null,
@@ -2948,11 +2982,11 @@
         "transcriber": ["Rummsbatte", "Bloak"],
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=MoSZqfrH4ws"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BPnjWXB7R44"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
-		"comment": "The original recording is not available on any video sites, so I put Rummsbatte's midi audio here. I'll post my own recording after I finish learning this piece. By the way, the pedalling is tricky because of the sometimes melodic bass. I may post an update with pedal marks and fingerings later.\nThe 10/8 time in A section is interesting. Despite the dramatic rhythm change, the original theme is still clear to the ears. I also find it similar to TH10 stage 5 theme. \nThe C section comes from TH12 stage 4 theme. This is very hard to notice because the artist changed rhythm from 4 to 3 beats and also changed key from minor to major. \nThe D section is clearly Cirno's theme, though I don't know why the artist wrote that the original theme is the TH9 one instead of the TH6 one.",
+		"comment": "The 10/8 time in A section is interesting. Despite the dramatic rhythm change, the original theme is still clear to the ears. I also find it similar to TH10 stage 5 theme. \nThe C section comes from TH12 stage 4 theme. This is very hard to notice because the artist changed rhythm from 4 to 3 beats and also changed key from minor to major. \nThe D section is clearly Cirno's theme, though I don't know why the artist wrote that the original theme is the TH9 one instead of the TH6 one.",
         "date": "2023/06/11"
 	},
 	"th12_10_2":{
@@ -3687,7 +3721,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=PBOGc1jooaI"}
 		],
 		"type": "arrange",
-		"difficulty": "1",
+		"difficulty": "2",
         "date": "2023/05/24"
 	},
     "th19_03":{
@@ -3725,6 +3759,23 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/01/25"
+	},
+    "TFM-001b_16":{
+		"title": "境界の妖怪",
+        "title_en": "Youkai of Boundaries",
+		"original": "TFM-001b_16",
+        "circle": "へちょ屋",
+        "album": "Moon War III SP",
+		"arranger": "ヒッシー",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://youtu.be/UzYjgDsx4Bk"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "This piece is a prelude for \"Lunatic war -Piano Duo-\" (Necrofantasia arrangement) in the album Moon War III.",
+        "date": "2023/06/18"
 	},
     "TFM-001b_18_2":{
 		"title": null,
