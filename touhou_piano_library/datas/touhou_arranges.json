@@ -2484,7 +2484,7 @@
         "transcriber": "碧空金日",
 		"pdf": "default",
 		"performance": [
-			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4&list=WL&t=1465s"},
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4&t=1465s"},
             {"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1i4411X7yB"}
 		],
 		"type": "arrange",
