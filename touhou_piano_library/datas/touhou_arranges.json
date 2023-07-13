@@ -84,6 +84,21 @@
 		"difficulty": "2",
         "date": "2023/03/10"
 	},
+    "hr02_08_2":{
+		"title": "【Rhapsody】 - 過去の花 -",
+		"original": "hr02_08",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "yves.z",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0dkEJ_yfix4"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "date": "2023/07/12"
+	},
 	"hr02_11":{
 		"title": "Sonatine in G flat minor",
 		"original": "hr02_11",
@@ -2790,7 +2805,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=yCrNoEoVhXE"},
-			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=trDOAnNYGuU"}
+			{"performer": "earthvision", "link": "https://www.youtube.com/watch?v=trDOAnNYGuU"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=Ajxk2xbINYk"}
 		],
 		"type": "arrange",
 		"difficulty": "4",
@@ -3352,6 +3368,22 @@
 		"difficulty": "5",
         "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
         "date": "2023/02/06"
+	},
+    "th14_07_2":{
+		"title": "Piano Sonata No.4 in F minor, Op.5-1（3rd Mov.：Allegro ma non troppo）",
+		"original": "th14_07",
+        "original_ex": ["th14_06"],
+        "circle": "As/Hi Soundworks",
+        "album": "輝針城の主題による2つのピアノソナタ Op.5",
+		"arranger": "柊秀雪",
+        "transcriber": "yves.z",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=QA43J4qc-JI"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/07/12"
 	},
     "th14_08":{
 		"title": null,
@@ -4033,5 +4065,18 @@
 		"type": "transcription",
 		"difficulty": "?",
         "date": "2023/05/13"
+	},
+    "SaBND01_02":{
+		"title": null,
+		"original": "SaBND01_02",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7614428"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "Those 32nd notes are too fast and need to be simplified. Maybe omit one note in each group so they become triplets.",
+        "date": "2023/07/12"
 	}
 }
