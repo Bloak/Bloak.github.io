@@ -857,6 +857,22 @@
 		"difficulty": "4",
 		"date": "2023/04/29"
 	},
+    "th06_13_5":{
+		"title": "看不見的那個姐姐 ～ Invisible Elder Sister",
+		"original": "th06_13",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://youtu.be/vMhK6b3Jutg"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "It actually uses the highest note on the piano! \nI like how the right hand altenates between two registers (in page 2) like two singers singing a duetto. This compositional style is prevalent throughout the album. The entry of the higher register always sounds refreshing. \nOne thing I don't like about this piece (and many other pieces in the same album) is the lack of form. The music materials are not repeated enough. The last page alone introduces three new passages and there's no revisit of the climax (page 2).",
+		"date": "2023/07/26"
+	},
 	"th06_14":{
 		"title": null,
 		"original": "th06_14",
@@ -3002,7 +3018,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
-		"comment": "The 10/8 time in A section is interesting. Despite the dramatic rhythm change, the original theme is still clear to the ears. I also find it similar to TH10 stage 5 theme. \nThe C section comes from TH12 stage 4 theme. This is very hard to notice because the artist changed rhythm from 4 to 3 beats and also changed key from minor to major. \nThe D section is clearly Cirno's theme, though I don't know why the artist wrote that the original theme is the TH9 one instead of the TH6 one.",
+		"comment": "The 10/8 time in A section is interesting. Despite the dramatic rhythm change, the original theme is still clear to the ears. I also find it similar to TH10 stage 5 theme. \nThe C section comes from TH12 stage 4 theme. This is very hard to notice because the artist changed rhythm from 4 to 3 beats and also changed key from minor to major. \nThe D section is clearly Cirno's theme, though I don't know why the artist wrote that the original theme is the TH9 one instead of the TH6 one. \nPedaling tip: Since there are melodic segments in the left hand, I recommend practicing without pedal first. My experience is to only add pedal where a sustained bass note is harmonically desirable and cannot be held physically. However, our pianos are different so you may want to experiment with pedaling yourself.",
         "date": "2023/06/11"
 	},
 	"th12_10_2":{
