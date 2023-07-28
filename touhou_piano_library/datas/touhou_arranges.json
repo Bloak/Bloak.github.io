@@ -3062,6 +3062,34 @@
         "comment": "Be careful with the rhythm. There is normal 4/4 but also 3+3+3+3+2+2/16, which form polyrhythm.",
         "date": "2023/02/11"
 	},
+    "th12_14":{
+		"title": null,
+		"original": "th12_14",
+		"arranger": "Calamari",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EVfBu4lpAIM"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "comment": "Unfortunately the dynamics of the original theme wasn't added to the midi performance.",
+        "date": "2023/07/28"
+	},
+    "th12_15_2":{
+		"title": null,
+		"original": "th12_15",
+        "circle": "Assaultdoor",
+        "album": "奏乱絵巻",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": "猫娘。", "link": "https://www.nicovideo.jp/watch/sm26026600"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Most dissonant touhou theme?",
+        "date": "2023/07/28"
+	},
 	"th125_05":{
 		"title": null,
 		"original": "th125_05",
