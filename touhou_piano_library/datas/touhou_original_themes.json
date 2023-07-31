@@ -1,5 +1,10 @@
 {
-	"hr01_07": {
+	"hr01_01": {
+		"title": "蓬莱伝説",
+		"title_en": "Legend of Hourai",
+		"collection": "hr01"
+	},
+    "hr01_07": {
 		"title": "サーカスレヴァリエ",
 		"title_en": "Circus Reverie",
 		"collection": "hr01"
@@ -1370,6 +1375,16 @@
 	"TFM-004_15": {
 		"title": "ぼくらの非想天則",
 		"title_en": "Our Hisoutensoku",
+		"collection": "th123"
+	},
+    "TFM-004_17": {
+		"title": "悠久の蒸気機関",
+		"title_en": "The Eternal Steam Engine",
+		"collection": "th123"
+	},
+    "TFM-004_19": {
+		"title": "ぼくらの非想天則 (Full ver.)",
+		"title_en": "Our Hisoutensoku (Full ver.)",
 		"collection": "th123"
 	},
     "TFM-009a_13": {

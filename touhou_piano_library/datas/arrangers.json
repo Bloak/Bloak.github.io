@@ -855,6 +855,12 @@
         "website": [
             {"title": "musescore", "url": "https://musescore.com/user/14053796"}
         ]
+    },
+    "トーナ":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@user-ut9lr3gw6n"},
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/4127864/mylist/7405416"}
+        ]
     }
 }
 

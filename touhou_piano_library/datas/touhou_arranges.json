@@ -1,5 +1,17 @@
 {
-	"hr01_07":{
+	"hr01_01_2":{
+		"title": "雨と蓬莱伝説",
+		"original": "hr01_01",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7754532"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "date": "2023/07/31"
+	},
+    "hr01_07":{
 		"title": null,
 		"original": "hr01_07",
 		"circle": "Assaultdoor",
@@ -2782,7 +2794,8 @@
 		"arranger": "Xe",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=Pjm8JDYLaaA"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Pjm8JDYLaaA"},
+            {"performer": "トーナ", "link": "https://www.youtube.com/watch?v=c2zvr2vCNu0"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -4099,6 +4112,32 @@
 		"type": "transcription",
 		"difficulty": "3",
 		"comment": "The only difficulty is the repeated notes at the beginning. To simplify, combine the second pair of 16th notes into one 8th note."
+	},
+    "TFM-004_17":{
+		"title": null,
+		"original": "TFM-004_17",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8088624"},
+            {"performer": "トーナ", "link": "https://www.youtube.com/watch?v=cMtqvozASbc"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/07/31"
+	},
+    "TFM-004_19":{
+		"title": null,
+		"original": "TFM-004_19",
+		"arranger": "uneuro",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=r7CQfBZqcpI"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "comment": "The grey notes are for second loop only. If the span is too big you need to cut off the bottom note.",
+        "date": "2023/07/31"
 	},
     "TFM-009a_13":{
 		"title": null,
