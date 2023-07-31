@@ -2020,6 +2020,22 @@
 		"difficulty": "3",
         "date": "2023/03/02"
 	},
+    "th09_02_4":{
+		"title": "Song of a Spring Night",
+		"original": "th09_02",
+        "original_ex": ["th08_09"],
+		"circle": "Music Pandora",
+		"album": "Songs of a Spring Night",
+		"arranger": "光田晋哉",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=rhbiZlXu7fQ"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "Rare classical style arrangement. \nMaiden's Cappriccio theme is transposed to major and appears in measures 5-8, 21-24, etc. Hard to capture only through listening.",
+        "date": "2023/07/31"
+	},
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",
@@ -2322,7 +2338,9 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"}
 		],
 		"type": "arrange",
-		"difficulty": "1"
+		"difficulty": "1",
+        "comment": "Update 2023/07/31: I made a new sheet that's more sight-reading friendly. The main change is notating the leading tones (C#, F#) as sharps rather than flats. Other changes include rhythm in the intro section, linear structure (instead of DS + Coda), and comfortable hand division.",
+        "date": "2023/07/31"
 	},
 	"th10_06_2":{
 		"title": null,
