@@ -861,6 +861,16 @@
             {"title": "youtube", "url": "https://www.youtube.com/@user-ut9lr3gw6n"},
             {"title": "niconico", "url": "https://www.nicovideo.jp/user/4127864/mylist/7405416"}
         ]
+    },
+    "ice":{
+        "website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/898061"}
+        ]
+    },
+    "李四橙":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/104020"}
+        ]
     }
 }
 

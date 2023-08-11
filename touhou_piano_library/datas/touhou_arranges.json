@@ -2009,7 +2009,8 @@
 		"transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=C10XnW7GACw"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=C10XnW7GACw"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=CAsltOjYRao"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
@@ -2247,7 +2248,8 @@
             {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV19M411j7aR"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "2",
+        "comment": "I transposed it a semitone up (1 flat -> 6 sharps) because I feel the left hand is easier with more black keys."
 	},
 	"th095_05_2":{
 		"title": null,
@@ -2351,7 +2353,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-        "comment": "Update 2023/07/31: I made a new sheet that's more sight-reading friendly. The main change is notating the leading tones (C#, F#) as sharps rather than flats. Other changes include rhythm in the intro section, linear structure (instead of DS + Coda), and comfortable hand division.",
+        "comment": "Update 2023/07/31: I made a new sheet that's more sight-reading friendly. The main change is notating C#, F# as sharps rather than flats. Other changes include rhythm in the intro section, linear structure (instead of DS + Coda), and comfortable hand division.",
         "date": "2023/07/31"
 	},
 	"th10_06_2":{
@@ -2361,7 +2363,8 @@
 		"transcriber": "nari",
 		"pdf": "default",
 		"performance": [
-			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"}
+			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"},
+            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1wN41187vc"}
 		],
 		"type": "transcription",
 		"difficulty": "4"
@@ -3093,6 +3096,18 @@
         "comment": "Be careful with the rhythm. There is normal 4/4 but also 3+3+3+3+2+2/16, which form polyrhythm.",
         "date": "2023/02/11"
 	},
+    "th12_13_2":{
+		"title": null,
+		"original": "th12_13",
+		"arranger": "ローズレッド",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm32472653"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/08/05"
+	},
     "th12_14":{
 		"title": null,
 		"original": "th12_14",
@@ -3192,7 +3207,7 @@
 		"arranger": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=vQ-EAYEQF-Y"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=oqo9YfGOWgg"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -3909,7 +3924,8 @@
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"},
 			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"},
-            {"performer": "Midori Yakumo", "link": "https://www.youtube.com/watch?v=CYfmppYlRUs"}
+            {"performer": "Midori Yakumo", "link": "https://www.youtube.com/watch?v=CYfmppYlRUs"},
+            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1i5411p7uA"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
