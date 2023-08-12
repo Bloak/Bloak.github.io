@@ -885,6 +885,21 @@
         "comment": "It actually uses the highest note on the piano! \nI like how the right hand altenates between two registers (in page 2) like two singers singing a duetto. This compositional style is prevalent throughout the album. The entry of the higher register always sounds refreshing. \nOne thing I don't like about this piece (and many other pieces in the same album) is the lack of form. The music materials are not repeated enough. The last page alone introduces three new passages and there's no revisit of the climax (page 2).",
 		"date": "2023/07/26"
 	},
+    "th06_13_6":{
+		"title": null,
+		"original": "th06_13",
+		"circle": "来夢緑",
+		"album": "Ring-a-ring o'roses",
+		"arranger": "Notzan ACT",
+		"transcriber": "UnknownEX1",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=RYTEJ7fdDrg"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/08/11"
+	},
 	"th06_14":{
 		"title": null,
 		"original": "th06_14",
@@ -1589,6 +1604,23 @@
 		"type": "arrange",
 		"difficulty": "1",
         "date": "2023/02/18"
+	},
+    "th08_05_5":{
+		"title": "うたのあと",
+        "title_en": "After the Song",
+		"original": "th08_05",
+        "circle": "光と闇の協奏曲",
+        "album": "Touhou pianoforte Ⅱ -Lunatic Rhapsodia-",
+		"arranger": "ice",
+		"transcriber": "Quellatalo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1Oo8a5DBNDc"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "This arrangement was clearly not intended for human playing, so feel free to remove the middle voice. \n Some melodic errors in the score: \n1. measure 4 top Eb should be D. \n2. Measure 61 both top G should be Eb. There is a vague G sound in the audio but I think it's from the reverb. Using G as top note doesn't sound wrong though.",
+        "date": "2023/08/11"
 	},
 	"th08_06":{
 		"title": null,
@@ -2349,7 +2381,8 @@
 		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HmXu8ZA8Be8"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=ATdvipt2nfQ"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
