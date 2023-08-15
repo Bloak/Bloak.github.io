@@ -402,8 +402,10 @@
 	},
 	"ひごむれ":{
 		"website": [
-			{"title": "youtube", "url": "https://www.youtube.com/channel/UC5tPVcYMvY-5bKjwlWLp3og"}
-		]
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UC5tPVcYMvY-5bKjwlWLp3og"},
+            {"title": "home page", "url": "https://twpf.jp/37467524"}
+		],
+        "comment": "aka 37467524"
 	},
 	"Wayfinder":{
 		"website": [
@@ -870,6 +872,11 @@
     "李四橙":{
         "website": [
             {"title": "bilibili", "url": "https://space.bilibili.com/104020"}
+        ]
+    },
+    "Touhocaloid":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@Touhocaloid"}
         ]
     }
 }

@@ -3773,6 +3773,18 @@
 		"difficulty": "5",
         "date": "2023/05/13"
 	},
+    "th17_09":{
+		"title": null,
+		"original": "th17_09",
+		"arranger": "Touhocaloid",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=oEHgYpjVrnw"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/08/15"
+	},
     "th17_10":{
 		"title": null,
 		"original": "th17_10",
@@ -3808,6 +3820,19 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+    "th17_15":{
+		"title": null,
+		"original": "th17_15",
+		"arranger": "EpreTroll",
+        "transcriber": "Touhocaloid",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=cra4Ek_7URo"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/08/15"
+	},
 	"th18_04":{
 		"title": null,
 		"original": "th18_04",
@@ -3818,6 +3843,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th18_10_2":{
+		"title": null,
+		"original": "th18_10",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=JiQZ_Se4dTY"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/08/15"
 	},
 	"th18_12":{
 		"title": null,
