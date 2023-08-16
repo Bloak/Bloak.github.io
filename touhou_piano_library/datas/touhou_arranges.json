@@ -900,6 +900,21 @@
 		"difficulty": "3",
         "date": "2023/08/11"
 	},
+    "th06_13_7":{
+		"title": "Crystalline",
+		"original": "th06_13",
+		"circle": "幻想Bakery",
+		"album": "Crystalline",
+		"arranger": "MUE",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://soundcloud.com/fish6571/crystalline"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/08/16"
+	},
 	"th06_14":{
 		"title": null,
 		"original": "th06_14",
@@ -1853,13 +1868,16 @@
 		"circle": "へちょ屋",
 		"album": "Red Eyes",
 		"arranger": "ヒッシー",
+        "transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=vwJ7lCk924c"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=QmyNnIAinAI"}
 		],
 		"type": "arrange",
-		"difficulty": "?"
+		"difficulty": "?",
+        "comment": "Update 2023/08/16: Knix made a new score based on the arranger's original one (link in pdf). The main difference is the time change from 3/4 to 6/8, which I think makes the score more readable. \nI removed the previous score transcribed by Quellatalo. You can find it here: https://www.youtube.com/watch?v=FgFdFO6M1Ks.",
+        "date": "2023/08/16"
 	},
 	"th08_12":{
 		"title": null,

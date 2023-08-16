@@ -878,6 +878,11 @@
         "website": [
             {"title": "youtube", "url": "https://www.youtube.com/@Touhocaloid"}
         ]
+    },
+    "MUE":{
+        "website": [
+            {"title": "soundcloud", "url": "https://soundcloud.com/fish6571"}
+        ]
     }
 }
 
