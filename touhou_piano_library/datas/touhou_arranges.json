@@ -696,7 +696,8 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
-		"date": "2023/04/29"
+        "comment": "Update 2023/08/29: I remade page 3 to make it easier to read. I also corrected some errors in other pages using red ink.",
+		"date": "2023/08/29"
 	},
     "th06_09_5":{
 		"title": "A Witch's tragic love",
@@ -3862,6 +3863,18 @@
 		"type": "transcription",
 		"difficulty": "4"
 	},
+    "th18_07":{
+		"title": null,
+		"original": "th18_07",
+		"arranger": "2分の1",
+		"pdf": "default",
+		"performance": [
+			{"performer": "2分の1", "link": "https://www.youtube.com/watch?v=utpvCIxriI8"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/08/29"
+	},
     "th18_10_2":{
 		"title": null,
 		"original": "th18_10",
@@ -3908,6 +3921,18 @@
 		"type": "arrange",
 		"difficulty": "5",
         "date": "2023/05/24"
+	},
+    "th185_01":{
+		"title": null,
+		"original": "th185_01",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=4xLTW1EJ2q0"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/08/29"
 	},
     "th19_01":{
 		"title": null,
