@@ -2100,6 +2100,23 @@
         "comment": "Rare classical style arrangement. \nMaiden's Cappriccio theme is transposed to major and appears in measures 5-8, 21-24, etc. Hard to capture only through listening.",
         "date": "2023/07/31"
 	},
+    "th09_02_5":{
+		"title": "春の小径のプレリュード",
+        "title_en": "Spring Lane Prelude",
+		"original": "th09_02",
+		"circle": "氷結幻想",
+		"album": "小さな夢へのアンダンテ",
+		"arranger": "Davidsan",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The harmony constantly switches between major and minor. I marked the key signature as minor because the melody doesn't change much from the original theme.",
+        "date": "2023/09/07"
+	},
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",

@@ -1260,6 +1260,36 @@
 		"title_en": "Magical Beast Scramble",
 		"collection": "th19"
 	},
+    "th19_04": {
+		"title": "鬼は悠久の山に",
+		"title_en": "The Oni Go to the Perpetual Mountain",
+		"collection": "th19"
+	},
+    "th19_05": {
+		"title": "タイニーシャングリラ",
+		"title_en": "Tiny Shangri-La",
+		"collection": "th19"
+	},
+    "th19_06": {
+		"title": "勇敢で有閑な妖獣",
+		"title_en": "A Brave and Leisurely Beast",
+		"collection": "th19"
+	},
+    "th19_07": {
+		"title": "吸血怪獣チュパカブラ",
+		"title_en": "Vampiric Cryptid Chupacabra",
+		"collection": "th19"
+	},
+    "th19_08": {
+		"title": "振り向かない黄泉の道",
+		"title_en": "The Path to Yomi Where None Turn Back",
+		"collection": "th19"
+	},
+    "th19_09": {
+		"title": "逸脱者達の無礙光　～ Kingdam of Nothingness.",
+		"title_en": "The Deviants' Unobstructed Light ~ Kingdom of Nothingness.",
+		"collection": "th19"
+	},
 	"TFM-001b_01": {
 		"title": "萃夢想",
 		"title_en": "Memory of Forgathering Dream",
