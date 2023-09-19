@@ -883,6 +883,18 @@
         "website": [
             {"title": "soundcloud", "url": "https://soundcloud.com/fish6571"}
         ]
+    },
+    "snekmuffin":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@snekmuffin"},
+            {"title": "musescore", "url": "https://musescore.com/snekmuffin"}
+        ]
+    },
+    "58JPYのごま":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@58jpygoma"},
+            {"title": "home page", "url": "https://58jpygoma.sub.jp"}
+        ]
     }
 }
 

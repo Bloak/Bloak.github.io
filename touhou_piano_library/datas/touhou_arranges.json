@@ -718,6 +718,7 @@
 		"title": "祈り",
         "title_en": "Prayer",
 		"original": "th06_09",
+        "original_ex": ["th06_08"],
         "circle": "へちょ屋",
         "album": "Moon War III SP",
 		"arranger": "ヒッシー",
@@ -1377,8 +1378,24 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-        "comment": "This piece is a prelude for 鎮魂花 in the album Moon War III.",
+        "comment": "This piece is a prelude for 鎮魂花 ( https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th07_13_6 ).",
 		"date": "2023/03/17"
+	},
+    "th07_13_6":{
+		"title": "鎮魂花",
+		"original": "th07_13",
+		"circle": "へちょ屋",
+		"album": "Moon War III",
+		"arranger": "ヒッシー",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": ""}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "comment": "Audio currently unavailable.",
+		"date": "2023/09/19"
 	},
 	"th07_14":{
 		"title": "幽雅に咲かせ、墨染めの桜～ボーダーオブライフ",
@@ -2110,7 +2127,7 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			
+			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=M-xPxhvCzpg"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
@@ -2183,7 +2200,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "?",
-		"comment": "If you find the pdf unreadable, please refer to the engraving by Knix: https://www.youtube.com/watch?v=055Dl_utjyY"
+		"comment": "Update 2023/09/19: Uploaded Knix's revised score. Aojiru's original score can be found here: https://touhou.pub/touhou_piano_library/datas/sheets/th09_13_2_original.pdf ."
 	},
     "th09_14_2":{
 		"title": null,
@@ -3976,6 +3993,18 @@
 		"difficulty": "2",
         "date": "2023/05/24"
 	},
+    "th19_02":{
+		"title": null,
+		"original": "th19_02",
+		"arranger": "snekmuffin",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FuoK63jfbq8"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/09/19"
+	},
     "th19_03":{
 		"title": null,
 		"original": "th19_03",
@@ -3987,6 +4016,18 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/05/16"
+	},
+    "th19_05":{
+		"title": null,
+		"original": "th19_05",
+		"arranger": "Kijiriki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=l5OGQLgxiMQ"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/09/19"
 	},
 	"TFM-001b_01_3":{
 		"title": null,
@@ -4312,6 +4353,18 @@
 		"type": "transcription",
 		"difficulty": "?",
         "date": "2023/05/13"
+	},
+    "TFM-010b_08":{
+		"title": null,
+		"original": "TFM-010b_08",
+		"arranger": "58JPYのごま",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0OitS8egShc"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/09/19"
 	},
     "SaBND01_02":{
 		"title": null,
