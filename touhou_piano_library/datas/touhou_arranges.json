@@ -973,6 +973,20 @@
 		"type": "arrange",
 		"difficulty": "1"
 	},
+    "th06_15_6":{
+		"title": null,
+		"original": "th06_15",
+		"arranger": "ローズレッド",
+		"transcriber": "鎖々ほうき",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.gangqinpu.com/cchtml/924895.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー). 白鷺ゆっきー provided the orchestra score and the transcriber copied from it. \nKano Masaaki made a score video: https://www.youtube.com/watch?v=SfPbtmFyE_4. The score in the video was edited for playability. \nThis piano arrangement probably came from one of いんぷれ's albums, but I'm not sure as I can't find an audio of it.",
+        "date": "2023/09/20"
+	},
     "th06_17":{
 		"title": null,
 		"original": "th06_17",
@@ -1655,6 +1669,21 @@
         "comment": "This arrangement was clearly not intended for human playing, so feel free to remove the middle voice. \n Some melodic errors in the score: \n1. measure 4 top Eb should be D. \n2. Measure 61 both top G should be Eb. There is a vague G sound in the audio but I think it's from the reverb. Using G as top note doesn't sound wrong though.",
         "date": "2023/08/11"
 	},
+    "th08_05_6":{
+		"title": "もう寝息しか闻こえない",
+		"original": "th08_05",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞",
+		"arranger": "まらしぃ",
+        "transcriber": "15' Torpedo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=CsvLmsSJf5E"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"date": "2023/09/20"
+	},
 	"th08_06":{
 		"title": null,
 		"original": "th08_06",
@@ -1796,6 +1825,25 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+    "th08_09_3":{
+		"title": "少女眠想曲 ～ Dream Battle",
+		"original": "th08_09",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞3",
+		"arranger": "まらしぃ",
+        "transcriber": "15' Torpedo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=iwQxFZFZoT8"},
+            {"performer": "示右", "link": "https://www.youtube.com/watch?v=_XwwdYbpTQc"},
+            {"performer": "夢鼠木 オクナ", "link": "https://www.youtube.com/watch?v=UfioL_YYz4g"},
+            {"performer": "魔法少女wifi酱", "link": "https://www.bilibili.com/video/BV1Gh4y1R7zu"},
+            {"performer": "SeparaterMu", "link": "https://www.bilibili.com/video/BV1Li4y1o7dZ"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2023/09/20"
 	},
 	"th08_10_3":{
 		"title": null,
@@ -2537,6 +2585,19 @@
 		"type": "arrange",
 		"difficulty": "4"
 	},
+    "th10_09_3":{
+		"title": null,
+		"original": "th10_09",
+		"arranger": "ローズレッド",
+		"transcriber": "鎖々ほうき",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23827967"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/09/20"
+	},
 	"th10_10":{
 		"title": null,
 		"original": "th10_10",
@@ -3030,13 +3091,14 @@
 		"title": null,
 		"original": "th11_14",
 		"arranger": "まらしぃ",
+        "transcriber": "Alfetite",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=RiYr2qWunSg"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
-		"comment": "Unfortunately I couldn't find marasy's performance video or any audio from one of the two CDs 幻想遊戯＜地＞ / 幻想遊戯＜雅＞3."
+		"comment": "Alfetite referred to two versions from 幻想遊戯＜地＞ and 幻想遊戯＜雅＞3. The former ( https://www.youtube.com/watch?v=MbfyM7_Xa9A ) is a little different from the score. The latter is a newer release and I can't find any audio."
 	},
     "th11_14_3":{
 		"title": "月に叢雲華に風",
@@ -3066,6 +3128,38 @@
 		"difficulty": "2",
         "comment": "The arranger uses quite a lot of arpeggios, though they are not marked on the score.",
         "date": "2023/04/12"
+	},
+    "th11_15_4":{
+		"title": null,
+		"original": "th11_15",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜地＞",
+		"arranger": "まらしぃ",
+        "transcriber": "0445",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=YrSS1XW2yoU"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+		"date": "2023/09/20"
+	},
+    "th11_15_5":{
+		"title": "ハルトマンの睡眠少女",
+        "title_en": "Hartmann's Sleeping Girl",
+		"original": "th11_15",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞3",
+		"arranger": "まらしぃ",
+        "transcriber": "15' Torpedo",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=49-ARrXV9Kw"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "comment": "There are some differences between the score and the recording.\nTranscriber's comment: 几年了，没有大佬提供谱子，所以试着自己弄了一下，第一次扒谱，错误会很多，尤其中间和最后的一点，实在是不知道猴大左手弹了什么。有改动，让协调不好的也可以弹。只有一个地方（我记得）一次性跨九度，手小一点也应该能弹。指法踏板什么的，懒得加了，自己加一下，也不会很难",
+		"date": "2023/09/20"
 	},
 	"th12_02":{
 		"title": null,
