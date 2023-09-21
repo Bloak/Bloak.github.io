@@ -2019,6 +2019,23 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+    "th08_15_4":{
+		"title": "永遠より覚めし夢の跡",
+        "title_en": "Waking from Eternity, Traces of a Dream",
+		"original": "th08_15",
+        "circle": "へちょ屋",
+        "album": "Moon War III SP",
+		"arranger": "ヒッシー",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": ""}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "This piece is a prelude for \"Endless night\" in the album Moon War III.",
+        "date": "2023/09/21"
+	},
 	"th08_17":{
 		"title": null,
 		"original": "th08_17",
