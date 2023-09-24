@@ -1,4 +1,12 @@
-a {
-    display: block;
+body {
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+p {
     margin-top: 10px;
+}
+
+a {
+   color: blue;
 }
