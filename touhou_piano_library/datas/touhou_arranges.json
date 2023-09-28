@@ -1662,7 +1662,8 @@
 		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=1Oo8a5DBNDc"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=1Oo8a5DBNDc"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=zgpVPrqjQ9Y"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
@@ -1682,6 +1683,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "3",
+        "comment": "There are some obvious mistakes on the score that you can correct while listening to the recording. I might remake the score when I feel like learning this piece.",
 		"date": "2023/09/20"
 	},
 	"th08_06":{
@@ -2567,7 +2569,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm8347362"},
-            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1hL411f7x5"}
+            {"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1hL411f7x5"},
+            {"performer": "张晨", "link": "https://www.bilibili.com/video/BV1GV411P7we"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
