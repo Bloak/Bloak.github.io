@@ -792,7 +792,9 @@
 		"transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=pV53pVfzCig"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pV53pVfzCig"},
+            {"performer": "parame", "link": "https://www.youtube.com/watch?v=rf729Seg6VA"},
+            {"performer": "AndrewFMs", "link": "https://www.youtube.com/watch?v=J0220dkDImA"}
 		],
 		"type": "arrange",
 		"difficulty": "4"
@@ -986,6 +988,23 @@
 		"difficulty": "?",
         "comment": "Concerto version: https://www.nicovideo.jp/watch/sm18243634 (orchestration by 白鷺ゆっきー). 白鷺ゆっきー provided the orchestra score and the transcriber copied from it. \nKano Masaaki made a score video: https://www.youtube.com/watch?v=SfPbtmFyE_4. The score in the video was edited for playability. \nThis piano arrangement probably came from one of いんぷれ's albums, but I'm not sure as I can't find an audio of it.",
         "date": "2023/09/20"
+	},
+    "th06_15_7":{
+		"title": "U.N.オーエンは寝てしまったのか？",
+		"original": "th06_15",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞",
+		"arranger": "まらしぃ",
+		"transcriber": "cfy3625",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1xx411A7Am"},
+            {"performer": "日罔", "link": "https://www.bilibili.com/video/BV1Rx41147bg"},
+            {"performer": "かねきyu", "link": "https://www.bilibili.com/video/BV1ua411j7L3"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/10/05"
 	},
     "th06_17":{
 		"title": null,
@@ -1522,7 +1541,7 @@
             {"performer": "John Shin", "link": "https://www.youtube.com/watch?v=cnSJQV_z72U"}
 		],
 		"type": "arrange",
-		"difficulty": "2",
+		"difficulty": "1",
         "comment": "The score looks way slower than the actual tempo of the piece. It makes more sense to halve the value of every note and merge every two bars into one 4/4 bar. \nThe left hand has some upbeat tied notes, which are just arpeggiation explicitly written out. I guess the transcriber's program couldn't handle custom arpeggiation.",
         "date": "2023/02/15"
 	},
@@ -2227,6 +2246,22 @@
 		"difficulty": "4",
         "date": "2023/04/29"
 	},
+    "th09_10_2":{
+		"title": null,
+		"original": "th09_10",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜花＞",
+		"arranger": "まらしぃ",
+        "transcriber": "苍火568",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=yC-B91FyFn0"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "comment": "The ossia is for the second repetition.",
+        "date": "2023/10/05"
+	},
     "th09_12":{
 		"title": null,
 		"original": "th09_12",
@@ -2239,7 +2274,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=v9iidxNPtbY"}
 		],
 		"type": "transcription",
-		"difficulty": "5",
+		"difficulty": "4",
         "date": "2023/06/02"
 	},
     "th09_13":{
@@ -2517,7 +2552,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": "まらしぃ", "link": "https://www.nicovideo.jp/watch/sm7782880"},
-            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1wN41187vc"}
+            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1wN41187vc"},
+            {"performer": "AndrewFMs", "link": "https://www.youtube.com/watch?v=qdBICxVfJVI"}
 		],
 		"type": "transcription",
 		"difficulty": "4"
@@ -3645,6 +3681,21 @@
         "comment": "The pdf score was lost along with Mitty's website.",
         "date": "2023/02/06"
 	},
+    "th14_06_2":{
+		"title": "眠月の竹林",
+		"original": "th14_06",
+        "circle": "まらしぃ",
+        "album": "幻想遊戯＜眠＞3",
+		"arranger": "まらしぃ",
+        "transcriber": "苍火568",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hYxwsD7XUD4"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "date": "2023/10/05"
+	},
     "th14_07":{
 		"title": null,
 		"original": "th14_07",
@@ -3725,6 +3776,22 @@
 		"type": "transcription",
 		"difficulty": "?",
         "date": "2023/02/06"
+	},
+    "th14_13_2":{
+		"title": "Piano Sonata No.5 in B minor, Op.5-2 / 4th Mov.：Rondo（Allegro con brio）",
+		"original": "th14_13",
+        "original_ex": ["th14_09", "th14_11", "th14_12", "th14_15"],
+        "circle": "As/Hi Soundworks",
+        "album": "輝針城の主題による2つのピアノソナタ Op.5",
+		"arranger": "柊秀雪",
+        "transcriber": "卡诺热机之梦",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=LEQmDrybIKA"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/05"
 	},
 	"th15_03":{
 		"title": null,
