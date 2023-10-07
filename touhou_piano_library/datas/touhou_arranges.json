@@ -1416,6 +1416,7 @@
 	},
     "th07_13_6":{
 		"title": "鎮魂花",
+        "title_en": "Repose of Flowers",
 		"original": "th07_13",
 		"circle": "へちょ屋",
 		"album": "Moon War III",
@@ -1423,12 +1424,11 @@
 		"transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": ""}
+			{"performer": null, "link": "https://youtube.com/watch?v=CAhzPTnxdng"}
 		],
 		"type": "arrange",
 		"difficulty": "5",
-        "comment": "Audio currently unavailable.",
-		"date": "2023/09/19"
+		"date": "2023/10/07"
 	},
 	"th07_14":{
 		"title": "幽雅に咲かせ、墨染めの桜～ボーダーオブライフ",
@@ -1817,6 +1817,22 @@
 		],
 		"type": "arrange",
 		"difficulty": "2"
+	},
+    "th08_08_4":{
+		"title": null,
+		"original": "th08_08",
+		"circle": "Assaultdoor",
+		"album": "奏乱絵巻",
+		"arranger": "Mitty",
+		"transcriber": "Tis",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=m6o0UdclT3E"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "PSLCL is currently remaking the sheet music: https://musescore.com/user/68393008/scores/12449644 ",
+        "date": "2023/10/07"
 	},
 	"th08_09":{
 		"title": null,
@@ -2491,12 +2507,13 @@
 		"album": "ピアノのための東方小品集 Op.1",
 		"arranger": "柊秀雪",
 		"transcriber": "蓬莱人形FireBird7",
-		"pdf": "https://www.bilibili.com/video/BV1VB4y1T7nw",
+		"pdf": "default",
 		"performance": [
 			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=r5L3kFiyZv4"}
 		],
 		"type": "arrange",
-		"difficulty": "3"
+		"difficulty": "3",
+        "date": "2023/10/07"
 	},
     "th10_05_2":{
 		"title": null,
@@ -3793,18 +3810,20 @@
 		"difficulty": "?",
         "date": "2023/10/05"
 	},
-	"th15_03":{
+	"th15_03_2":{
 		"title": null,
 		"original": "th15_03",
 		"arranger": "Mitty",
-		"pdf": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s",
+        "transcriber": "PSLCL",
+		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=qIz1PgpDKnw&t=408s"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=dBz4VxUma5M"}
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "Sightread 7 staves at once!?"
+		"comment": "The pdf is a reduction of the original 7-staff arrangement (see Mitty's video). I fixed some key signature and accidental issues. There also seems to be issues with note durations but I don't know how to fix. The piece looks impossible to play. \nWiilly's recording was before PSLCL's transcription so he must have used his own transcription or he just sightread 7 staves at once.",
+        "date": "2023/10/07"
 	},
 	"th15_04":{
 		"title": null,
