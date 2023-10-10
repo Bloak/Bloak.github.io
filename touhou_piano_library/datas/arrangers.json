@@ -944,6 +944,22 @@
         "website": [
             {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2081202.htm"}
         ]
+    },
+    "Pachirisue":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/381925051"}
+        ]
+    },
+    "羽落わ":{
+        "alt_name": "Rith",
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/1629092792"}
+        ]
+    },
+    "Messier":{
+        "website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/18711328"}
+        ]
     }
 }
 

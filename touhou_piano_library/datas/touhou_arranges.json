@@ -1006,6 +1006,21 @@
 		"difficulty": "3",
         "date": "2023/10/05"
 	},
+    "th06_15_8":{
+		"title": "If it was the last Clavier",
+		"original": "th06_15",
+        "circle": "Assaultdoor",
+        "album": "Daydream Tunes",
+		"arranger": "Messier",
+		"transcriber": "GNaugEH",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Z7411a7Lp"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "date": "2023/10/10"
+	},
     "th06_17":{
 		"title": null,
 		"original": "th06_17",
@@ -3038,6 +3053,20 @@
         "comment": "Based on Beethoven's Sonata Pathetique.",
         "date": "2023/05/03"
 	},
+    "th11_09_6":{
+		"title": "La cafe de Satori",
+		"original": "th11_09",
+        "circle": "幻想Bakery",
+        "album": "Innocent Story",
+		"arranger": "Messier",
+		"pdf": "https://www.nicovideo.jp/watch/sm23322204",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23322204"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/10"
+	},
 	"th11_10_3":{
 		"title": "One Night Hell Screen",
 		"original": "th11_10",
@@ -3707,7 +3736,8 @@
         "transcriber": "苍火568",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=hYxwsD7XUD4"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=hYxwsD7XUD4"},
+            {"performer": "Pachirisue", "link": "https://www.bilibili.com/video/BV11A411o7xa"}
 		],
 		"type": "arrange",
 		"difficulty": "5",
@@ -4296,7 +4326,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=IXlFbUOBK2c"},
 			{"performer": "Svcu", "link": "https://www.bilibili.com/video/BV15s411U7nb"},
             {"performer": "Midori Yakumo", "link": "https://www.youtube.com/watch?v=CYfmppYlRUs"},
-            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1i5411p7uA"}
+            {"performer": "李四橙", "link": "https://www.bilibili.com/video/BV1i5411p7uA"},
+            {"performer": "Pachirisue", "link": "https://www.bilibili.com/video/BV1LW4y137Fh"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -4553,6 +4584,18 @@
 		"type": "transcription",
 		"difficulty": "?",
         "date": "2023/05/13"
+	},
+    "TFM-009b_14_2":{
+		"title": null,
+		"original": "TFM-009b_14",
+		"arranger": "羽落わ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV11c411c7yq"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/10/07"
 	},
     "TFM-010b_08":{
 		"title": null,
