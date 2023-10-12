@@ -65,6 +65,22 @@
 		"difficulty": "5",
         "date": "2023/03/18"
 	},
+    "hr02_02_2":{
+		"title": "もしも貴女が望むなら",
+        "title_en": "If you wish",
+		"original": "hr02_02",
+        "circle": "Eurystomus",
+        "album": "Hediard",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=xd5z7gQNfsw&t=693s"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "comment": "The main difficulty is the left hand in page 4. This is my first time seeing this pattern and it's killing my hand. The original speed is about Q=120 while I can only reach Q=80. Maybe there's some trick that I don't know. Btw, it's possible to cheat by repeating the same triad (or 7th chord) three times, but it doesn't sound as good as the original.",
+        "date": "2023/10/11"
+	},
     "hr02_06":{
 		"title": null,
 		"original": "hr02_06",
@@ -183,6 +199,68 @@
 		],
 		"type": "arrange",
 		"difficulty": "2"
+	},
+    "hr05_01":{
+		"title": "vignette",
+		"original": "hr05_01",
+        "circle": "Eurystomus",
+        "album": "Hediard",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=xd5z7gQNfsw"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/10/11"
+	},
+    "hr05_04_2":{
+		"title": "the au lait",
+		"original": "hr05_04",
+        "circle": "Eurystomus",
+        "album": "Hediard",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=xd5z7gQNfsw&t=364s"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "comment": "The title means \"milk tea.\"",
+        "date": "2023/10/11"
+	},
+    "hr05_06":{
+		"title": "二人でお茶を",
+        "title_en": "Tea for two",
+		"original": "hr05_06",
+        "circle": "Eurystomus",
+        "album": "Hediard",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm19730447"},
+            {"performer": "TKDL", "link": "https://www.youtube.com/watch?v=w-fVwyarOoE"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "comment": "The music is pleasant but the score is rhythmic hell.",
+        "date": "2023/10/11"
+	},
+    "hr05_07":{
+		"title": "踊りましょう？",
+        "title_en": "Shall we dance?",
+		"original": "hr05_07",
+        "original_ex": ["th05_08"],
+        "circle": "Eurystomus",
+        "album": "Hediard",
+		"arranger": "らん",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=xd5z7gQNfsw&t=518s"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/11"
 	},
     "hr05_09":{
 		"title": null,
@@ -692,7 +770,8 @@
         "transcriber": "Quellatalo",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=DpmuB05uQo4"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DpmuB05uQo4"},
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=iJBMEM3CTaE"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
@@ -2244,6 +2323,7 @@
         "transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=l5CU8P2UpLo"},
 			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=M-xPxhvCzpg"}
 		],
 		"type": "arrange",

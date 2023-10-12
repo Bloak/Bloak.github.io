@@ -94,6 +94,35 @@
 		"title_en": "The Purest Sky and Sea",
 		"collection": "hr04"
 	},
+    "hr05_01": {
+		"title": "月面ツアーへようこそ",
+		"title_en": "Welcome to the Moon Tour",
+		"collection": "hr05"
+	},
+    "hr05_02": {
+		"title": "天空のグリニッジ",
+		"title_en": "Greenwich in the Sky",
+		"collection": "hr05"
+	},
+    "hr05_04": {
+		"title": "車椅子の未来宇宙",
+		"title_en": "Future Universe of Wheelchair",
+		"collection": "hr05"
+	},
+    "hr05_06": {
+		"title": "衛星カフェテラス",
+		"title_en": "Satellite Café Terrace",
+		"collection": "hr05"
+	},
+    "hr05_07": {
+		"title": "G Free",
+		"collection": "hr05"
+	},
+    "hr05_08": {
+		"title": "大空魔術　～ Magical Astronomy",
+        "title_en": "Celestial Wizardry ~ Magical Astronomy",
+		"collection": "hr05"
+	},
     "hr05_09": {
 		"title": "ネクロファンタジア",
 		"title_en": "Necro-Fantasia",

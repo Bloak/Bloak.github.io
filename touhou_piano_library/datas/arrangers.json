@@ -30,7 +30,7 @@
 			{"title": "アルトノイラント", "url":"https://altneuland.net"},
             {"title": "booth", "url":"https://altneuland.booth.pm"}
 		],
-		"comment": "I decided to not include any of Hiroyo's works in the databse, because I think they are too \"untouhou\" and might confuse those of you who searched by original themes. That being said, Hiroyo's music are absolutely brilliant and I recommend going to his website and take a listen. You may also want to look into pianist TKDL (https://www.youtube.com/c/TKDLa) who has performed Hiroyo's works."
+		"comment": "I decided to not include any of Hiroyo's works in the databse, because I think they are too \"untouhou\" and might confuse those of you who searched by original themes. That being said, Hiroyo's music are absolutely brilliant and I recommend going to his website and take a listen. You may also want to look into pianist TKDL (https://www.youtube.com/c/TKDLa) and lent (https://www.nicovideo.jp/user/10583721) who have performed Hiroyo's works."
 	},
 	"BZ.esmun":{
 		"website": [
@@ -51,8 +51,10 @@
 		"alt_name": "lent",
 		"website": [
 			{"title": "Eurystomus", "url":"https://eurystomus.jimdofree.com"},
-			{"title": "youtube", "url":"https://www.youtube.com/user/Lentarde"}
-		]
+			{"title": "youtube", "url":"https://www.youtube.com/user/Lentarde"},
+            {"title": "niconico", "url":"https://www.nicovideo.jp/user/10583721"}
+		],
+        "comment": "The artist studied composition under 弘世 and they collectively published an album 叙景的ピアノ競作集「春の海」 in 2013."
 	},
 	"しらは":{
 		"alt_name": "Shiraha",
@@ -449,7 +451,8 @@
 	},
 	"蓬莱人形FireBird7":{
 		"website": [
-			{"title": "bilibili", "url": "https://space.bilibili.com/7087496"}
+			{"title": "bilibili", "url": "https://space.bilibili.com/7087496"},
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2196567.htm"}
 		]
 	},
 	"after":{
