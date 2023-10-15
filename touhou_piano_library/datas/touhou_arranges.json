@@ -250,7 +250,7 @@
 		"title": "踊りましょう？",
         "title_en": "Shall we dance?",
 		"original": "hr05_07",
-        "original_ex": ["th05_08"],
+        "original_ex": ["hr05_08"],
         "circle": "Eurystomus",
         "album": "Hediard",
 		"arranger": "らん",
@@ -316,6 +316,20 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "It would make more sense to merge every two bars into one, so that the 3+3+3+3 rhythm fits in a single bar."
+	},
+    "th03_04_2":{
+		"title": null,
+		"original": "th03_04",
+        "original_ex": ["hr01_10"],
+		"arranger": "Mitty",
+		"transcriber": "PSLCL",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm27625578"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/15"
 	},
 	"th03_08_2":{
 		"title": null,
@@ -1505,7 +1519,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-        "comment": "This piece is a prelude for 鎮魂花 ( https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th07_13_6 ).",
+        "comment": "This piece is a prelude for 鎮魂花 ( https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th07_13_6 ) in the album Moon War III.",
 		"date": "2023/03/17"
 	},
     "th07_13_6":{
@@ -2111,6 +2125,23 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+    "th08_13_3":{
+		"title": "皓き御風",
+        "title_en": "White Breeze",
+        "original": "th08_13",
+        "circle": "へちょ屋",
+        "album": "Moon War III SP",
+		"arranger": "ヒッシー",
+        "transcriber": "Knix",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": ""}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "comment": "This piece is a prelude for \"Rabbit Waltz\" ( https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th08_11_3 ) in the album Moon War III.",
+        "date": "2023/10/15"
+	},
 	"th08_13b_2":{
 		"title": "Voyage into a Cage...",
 		"original": "th08_13b",
@@ -2414,6 +2445,22 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"comment": "Update 2023/09/19: Uploaded Knix's revised score. Aojiru's original score can be found here: https://touhou.pub/touhou_piano_library/datas/sheets/th09_13_2_original.pdf ."
+	},
+    "th09_13_3":{
+		"title": "太陽花畑のスケルツェット",
+        "title_en": "Sunflower Field Scherzetto",
+		"original": "th09_13",
+		"circle": "氷結幻想",
+		"album": "小さな夢へのアンダンテ",
+		"arranger": "Davidsan",
+        "transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=l5CU8P2UpLo&t=268s"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/10/15"
 	},
     "th09_14_2":{
 		"title": null,
