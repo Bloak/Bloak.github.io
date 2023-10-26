@@ -1538,6 +1538,22 @@
 		"difficulty": "5",
 		"date": "2023/10/07"
 	},
+    "th07_13_7":{
+		"title": null,
+		"original": "th07_13",
+		"circle": "Assaultdoor",
+		"album": "風神さまの箱庭",
+		"arranger": "ローズレッド",
+		"transcriber": "Tis",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=15MDaKfbybw"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "Some double notes and chords in fast passages seem out of place. While some of them are meant to be played by two hands, I believe there are many transcription errors. \nBy the way, while most of the arranger's works are midi, this one is played by ありおと.",
+		"date": "2023/10/20"
+	},
 	"th07_14":{
 		"title": "幽雅に咲かせ、墨染めの桜～ボーダーオブライフ",
 		"original": "th07_14",
@@ -1924,7 +1940,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=D4EMdfZEA5I"}
 		],
 		"type": "arrange",
-		"difficulty": "2"
+		"difficulty": "3"
 	},
     "th08_08_4":{
 		"title": null,
@@ -2135,7 +2151,7 @@
         "transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": ""}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=CEj4wfzN1eo"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -2191,7 +2207,7 @@
         "transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": ""}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=10s0veYnCb8"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
@@ -3568,6 +3584,21 @@
 		],
 		"type": "arrange",
 		"difficulty": "4"
+	},
+    "th128_04":{
+		"title": "はだし駆け足好奇心",
+		"original": "th128_04",
+        "circle": "Assaultdoor",
+        "album": "Daydream Tunes",
+		"arranger": "akikiki",
+        "transcriber": "卡诺热机之梦",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=yL4NRDEUt6Q"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/20"
 	},
     "th128_08_2":{
 		"title": null,
