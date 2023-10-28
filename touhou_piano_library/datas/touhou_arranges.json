@@ -424,7 +424,9 @@
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=b70uZz-iIO8"}
 		],
 		"type": "arrange",
-		"difficulty": "5"
+		"difficulty": "5",
+        "comment": "Update 2023/10/27: Knix made a new score for better readability. Score video: https://www.youtube.com/watch?v=cHqghzRHDF4",
+        "date": "2023/10/27"
 	},
 	"th06_02":{
 		"title": null,
@@ -3833,6 +3835,23 @@
 		"difficulty": "2",
         "comment": "Mitty's arrangement was written on 7 staves. Video (DDC demo): https://www.nicovideo.jp/watch/sm21025328",
         "date": "2023/02/06"
+	},
+    "th14_02_2":{
+		"title": "霧の湖のワルツ",
+        "title_en": "Misty Lake Waltz",
+		"original": "th14_02",
+        "original_ex": ["th14_03"],
+        "circle": "氷結幻想",
+        "album": "小さな夢へのアンダンテ",
+		"arranger": "Davidsan",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=l5CU8P2UpLo&t=150s"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/10/27"
 	},
 	"th14_03":{
 		"title": null,
