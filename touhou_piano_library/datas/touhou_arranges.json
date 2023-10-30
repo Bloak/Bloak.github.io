@@ -2008,6 +2008,20 @@
 		"difficulty": "4",
 		"date": "2023/09/20"
 	},
+    "th08_09_4":{
+		"title": "夜的绮想曲 ~ Dream Nocturne",
+        "title_en": "Night Capriccio ~ Dream Nocturne",
+		"original": "th08_09",
+		"arranger": "xwj",
+        "transcriber": "Purrvoice",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1zW411c7k3"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2023/10/30"
+	},
 	"th08_10_3":{
 		"title": null,
 		"original": "th08_10",
@@ -2215,6 +2229,21 @@
 		"difficulty": "1",
 		"comment": "This piece is a prelude for \"Endless night\" in the album Moon War III.",
         "date": "2023/09/21"
+	},
+    "th08_15_5":{
+		"title": "竹取飛翔/Help me， ERINNNNNN!!",
+		"original": "th08_15",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Shangri-La」",
+		"arranger": "TAM",
+        "transcriber": "Moist",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=F_EWn8_zedI"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+        "date": "2023/10/30"
 	},
 	"th08_17":{
 		"title": null,
@@ -3435,6 +3464,21 @@
 		"type": "arrange",
 		"difficulty": "?",
         "date": "2023/04/12"
+	},
+    "th12_03_2":{
+		"title": null,
+		"original": "th12_03",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方超絶技巧曲集",
+		"arranger": "TAM",
+        "transcriber": "√2",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.gangqinpu.com/cchtml/941893.htm"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/10/30"
 	},
 	"th12_05":{
 		"title": null,

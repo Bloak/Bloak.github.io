@@ -964,6 +964,27 @@
         "website": [
             {"title": "niconico", "url": "https://www.nicovideo.jp/user/18711328"}
         ]
+    },
+    "xwj":{
+        "website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/6932047"}
+        ]
+    },
+    "Purrvoice":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/789459.htm"},
+            {"title": "youtube", "url": "https://www.youtube.com/@purrvoice_hotdogpianosheet4932"}
+        ]
+    },
+    "√2":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2145036.htm"}
+        ]
+    },
+    "Moist":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/12024297.htm"}
+        ]
     }
 }
 
