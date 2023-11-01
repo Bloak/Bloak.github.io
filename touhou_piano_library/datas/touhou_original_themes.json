@@ -152,6 +152,11 @@
 		"title": "Complete Darkness",
 		"collection": "th02"
 	},
+    "th02_12": {
+		"title": "遠野の森",
+        "title_en": "Forest of Tono",
+		"collection": "th02"
+	},
     "th03_04": {
 		"title": "Reincarnation",
 		"collection": "th03"
@@ -944,6 +949,11 @@
 		"title_en": "Primordial Beat ~ Pristine Beat",
 		"collection": "th14"
 	},
+    "th15_01": {
+		"title": "宇宙巫女現る",
+		"title_en": "The Space Shrine Maiden Appears",
+		"collection": "th15"
+	},
     "th15_02": {
 		"title": "忘れがたき、よすがの緑",
 		"title_en": "Unforgettable, the Nostalgic Greenery",
@@ -1012,6 +1022,16 @@
     "th15_15": {
 		"title": "パンデモニックプラネット",
 		"title_en": "Pandemonic Planet",
+		"collection": "th15"
+	},
+    "th15_16": {
+		"title": "神社から見える月",
+		"title_en": "The Moon as Seen from the Shrine",
+		"collection": "th15"
+	},
+    "th15_17": {
+		"title": "宇宙巫女帰還する",
+		"title_en": "The Space Shrine Maiden Returns Home",
 		"collection": "th15"
 	},
     "th16_01": {

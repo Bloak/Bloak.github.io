@@ -82,6 +82,21 @@
         "comment": "The main difficulty is the left hand in page 4. This is my first time seeing this pattern and it's killing my hand. The original speed is about Q=120 while I can only reach Q=80. Maybe there's some trick that I don't know. Btw, it's possible to cheat by repeating the same triad (or 7th chord) three times, but it doesn't sound as good as the original.",
         "date": "2023/10/11"
 	},
+    "hr02_02_3":{
+		"title": "【Out of the Night】 - 少女秘封倶楽部 -",
+		"original": "hr02_02",
+        "circle": "As/Hi Soundworks",
+        "album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+        "transcriber": "永夜竜宫使",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=3227s"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/11/01"
+	},
     "hr02_06":{
 		"title": null,
 		"original": "hr02_06",
@@ -277,6 +292,21 @@
         "comment": "The music is pleasant but the score is rhythmic hell.",
         "date": "2023/10/11"
 	},
+    "hr05_06_2":{
+		"title": "【Nocturne】 - 衛星カフェテラス -",
+		"original": "hr05_06",
+        "circle": "As/Hi Soundworks",
+        "album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+        "transcriber": "永夜竜宫使",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=0T4XX-Qn7HU&t=751s"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/11/01"
+	},
     "hr05_07":{
 		"title": "踊りましょう？",
         "title_en": "Shall we dance?",
@@ -363,6 +393,23 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "It would make more sense to merge every two bars into one, so that the 3+3+3+3 rhythm fits in a single bar."
+	},
+    "th02_12":{
+		"title": "遠野の森　～ 花は幻想のままに",
+		"original": "th02_12",
+        "original_ex": ["th09_18"],
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "すめらぎ紫蓮",
+        "transcriber": "永夜竜宫使",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=THn4y4h2x0w"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "Piano trio (published earlier) in ピアノ三重奏による東方夜想曲集「Seal」: https://www.youtube.com/watch?v=ne7IIurgOPg. Piano: 紫蓮; Violin: TAM & Hikaru. \nPiano quartet in 東方四重奏 3: https://www.youtube.com/watch?v=8Zb5j6gYmF0.",
+		"date": "2023/11/01"
 	},
     "th03_04_2":{
 		"title": null,
@@ -630,6 +677,22 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+    "th06_05_7":{
+		"title": null,
+		"original": "th06_05",
+        "circle": "TAMUSIC",
+        "album": "ピアノのための東方夜想曲集「Shangri－La」",
+		"arranger": "TAM",
+        "transcriber": "AndreiWavelet",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9FRtAEJbakw"},
+            {"performer": "AndreiWavelet", "link": "https://www.youtube.com/watch?v=LcqZdbLyV_M"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "date": "2023/11/01"
 	},
     "th06_06":{
 		"title": "上海紅茶館",
@@ -1252,6 +1315,22 @@
 		"difficulty": "4",
 		"comment": "AC02's performance only covers the first half, which is easier and calmer than the rest of the piece."
 	},
+    "th07_02_5":{
+		"title": null,
+		"original": "th07_02",
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Kwaidan」",
+		"arranger": "すめらぎ紫蓮",
+        "transcriber": "永夜竜宫使",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=fGnnaWAauQU"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "Measure 26 sounds very much like yuyuko's theme...",
+        "date": "2023/11/01"
+	},
 	"th07_03":{
 		"title": "無何有の郷 ～ Deep Mountain & クリスタライズシルバー",
 		"original": "th07_03",
@@ -1763,6 +1842,19 @@
 		"type": "transcription",
 		"difficulty": "?",
 		"comment": "Much harder than it looks. The player must bring out the melody between octaves. The way the notes are assigned to two hands may seem unintuitive in some parts, but I believe there is certain reasoning behind these decisions, since the artist himself played exactly as the score shows. From my personal experience, splitting the octaves into each hand does not reduce the difficulty of voicing the melody."
+	},
+    "th08_01_2":{
+		"title": null,
+		"original": "th08_01",
+		"arranger": "柊秀雪",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=o81t2XK8Dls"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+		"date": "2023/11/01"
 	},
 	"th08_02":{
 		"title": "Blue Tears Night",
@@ -2300,7 +2392,7 @@
 		"title": "竹取飛翔/Help me， ERINNNNNN!!",
 		"original": "th08_15",
         "circle": "TAMUSIC",
-        "album": "ピアノのための東方夜想曲集「Shangri-La」",
+        "album": "ピアノのための東方夜想曲集「Shangri－La」",
 		"arranger": "TAM",
         "transcriber": "Moist",
 		"pdf": "default",
@@ -2308,7 +2400,8 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=F_EWn8_zedI"}
 		],
 		"type": "arrange",
-		"difficulty": "2",
+		"difficulty": "1",
+        "comment": "Piano quartet in 東方四重奏 3: https://www.youtube.com/watch?v=eZRpZBl8dNc",
         "date": "2023/10/30"
 	},
 	"th08_17":{
@@ -2981,7 +3074,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "1",
-		"comment": "Some corrections to the score: \nThe leading tone B# is denoted as C♮ throughout the score. It doesn't affect the sound, but is slightly difficult to sight-read. \nIn measure 44, the first chord should have a top note of E. In measure 50, the third note should be a trill on B. \nIn measure 52, the first chord should have a top note of E which is a trill. \n In measure 113, the ornament should be G#-B. \nIn measure 115, the ornament should be A-C#. In measure 121, the ornament should be B-D#. \nIn measure 139, the second half of right hand should be 3-3-1-1 rhythm instead of 2-2-2-2 (unit = 16th note). \nIn measure 149, the triplets should be four 16th notes, the last one being a B. \nMeasure 157 chord omits the top note E#."
+		"comment": "Some corrections to the score: \nThe leading tone B# is denoted as C♮ throughout the score. It doesn't affect the sound, but is slightly difficult to sight-read. \nIn measure 44, the first chord should have a top note of E. In measure 50, the third note should be a trill on B. \nIn measure 52, the first chord should have a top note of E which is a trill. \n In measure 113, the ornament should be G#-B. \nIn measure 115, the ornament should be A-C#. In measure 121, the ornament should be B-D#. \nIn measure 139, the second half of right hand should be 3-3-1-1 rhythm instead of 2-2-2-2 (unit = 16th note). \nIn measure 149, the triplets should be four 16th notes, the last one being a B. \nMeasure 157 chord omits the top note E#. \n\nPiano quartet in 東方四重奏: https://www.youtube.com/watch?v=fHvah3fR0zU"
 	},
     "th10_11_4":{
 		"title": null,
@@ -4270,6 +4363,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th15_16":{
+		"title": null,
+		"original": "th15_16",
+		"arranger": "BlueKirby",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/user/20529416/scores/7827683"}
+		],
+		"type": "transcription",
+		"difficulty": "1",
+        "date": "2023/11/01"
 	},
 	"th16_02":{
 		"title": null,

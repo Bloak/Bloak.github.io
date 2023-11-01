@@ -1003,6 +1003,16 @@
         "website": [
             {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/695770.htm"}
         ]
+    },
+    "BlueKirby":{
+        "website": [
+            {"title": "musescore", "url": "https://musescore.com/bluekirby"}
+        ]
+    },
+    "AndreiWavelet":{
+        "website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@Andrei1996MB"}
+        ]
     }
 }
 
