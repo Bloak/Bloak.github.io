@@ -5,7 +5,8 @@
 		"arranger": "akikiki",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7754532"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm7754532"},
+            {"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1KV411d7Ny"}
 		],
 		"type": "arrange",
 		"difficulty": "4",
@@ -155,6 +156,20 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+    "hr03_05":{
+		"title": null,
+		"original": "hr03_05",
+        "circle": "Assaultdoor",
+        "album": "Imitation Circus",
+		"arranger": "akikiki",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ViA-q0f41wk"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/10/31"
+	},
 	"hr04_01":{
 		"title": "【Etude Ⅰ】 - ヒロシゲ36号 -",
 		"original": "hr04_01",
@@ -213,6 +228,22 @@
 		"type": "arrange",
 		"difficulty": "2",
         "date": "2023/10/11"
+	},
+    "hr05_02":{
+		"title": "夜空のグリーンブリッジ",
+        "title_en": "Green Bridge in the Night Sky",
+		"original": "hr05_02",
+        "circle": "Assaultdoor",
+        "album": "Daydream Tunes",
+		"arranger": "setsugen",
+        "transcriber": "解题方案",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1t54y1n7iE?p=2"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/10/31"
 	},
     "hr05_04_2":{
 		"title": "the au lait",
@@ -304,6 +335,22 @@
 		"type": "arrange",
 		"difficulty": "3",
         "date": "2023/05/24"
+	},
+    "hr08_09":{
+		"title": null,
+		"original": "hr08_09",
+        "circle": "Assaultdoor",
+        "album": "微笑するフォレッタ",
+		"arranger": "ありおと",
+        "transcriber": "GNaugEH",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=dJt3Cp3oIvM"},
+            {"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1zA411i7Vp"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/10/31"
 	},
 	"th02_11":{
 		"title": null,
@@ -1402,13 +1449,15 @@
 		"circle": "TAMUSIC",
 		"album": "ピアノのための東方夜想曲集「Ju-roku-zakura」",
 		"arranger": "すめらぎ紫蓮",
-		"transcriber": "Quellatalo",
+		"transcriber": "永夜竜宫使",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=9ymsi_16FeU"}
 		],
 		"type": "arrange",
-		"difficulty": "4"
+		"difficulty": "3",
+        "comment": "Update 2023/10/31: Changed score. The old score transcribed by Quellatalo had quite a few errors.",
+        "date": "2023/10/31"
 	},
 	"th07_11_3":{
 		"title": "広有怪鳥ヲ射ル事",
@@ -1490,7 +1539,7 @@
 			{"performer": "すめらぎ紫蓮", "link": "https://www.youtube.com/watch?v=acFwGdDybUo"}
 		],
 		"type": "arrange",
-		"difficulty": "3"
+		"difficulty": "2"
 	},
 	"th07_13_4":{
 		"title": null,
@@ -1642,6 +1691,23 @@
 		],
 		"type": "transcription",
 		"difficulty": "5"
+	},
+    "th07_18_2":{
+		"title": "夢幻の境界",
+        "title_en": "Boundary of Fantasy",
+		"original": "th07_18",
+        "circle": "Assaultdoor",
+        "album": "パンデモニウムの鼓動",
+		"arranger": "桐生",
+        "transcriber": "GNaugEH",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9FRGYwFY5WY"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "The score doesn't look hard, but since I don't know anything about jazz I won't judge it.",
+        "date": "2023/10/31"
 	},
 	"th07_19":{
 		"title": null,
@@ -3492,6 +3558,20 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "The original pdf was horizontal. I merged every two pages to make it vertical. \nMeasure 4 16th notes: play the first one with left hand, and the rest with right hand (+ the final quarter note)."
+	},
+    "th12_08":{
+		"title": null,
+		"original": "th12_08",
+		"circle": "Assaultdoor",
+		"album": "Imitation Circus",
+		"arranger": "setsugen",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=MeoUeyEKf5w"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"date": "2023/10/31"
 	},
 	"th12_09":{
 		"title": null,

@@ -69,6 +69,11 @@
 		"title_en": "Dream of Arcadia",
 		"collection": "hr03"
 	},
+    "hr03_05": {
+		"title": "科学世紀の少年少女",
+		"title_en": "Boys and Girls of the Science Era",
+		"collection": "hr03"
+	},
     "hr03_09": {
 		"title": "夢と現の境界",
 		"title_en": "Border Between Dreams and Reality",
@@ -137,6 +142,11 @@
 		"title": "未知の花 魅知の旅",
 		"title_en": "Unknown Flower, Mesmerizing Journey",
 		"collection": "hr06"
+	},
+    "hr08_09": {
+		"title": "日本中の不思議を集めて",
+		"title_en": "Gathering the Mysterious from All Around Japan",
+		"collection": "hr08"
 	},
     "th02_11": {
 		"title": "Complete Darkness",

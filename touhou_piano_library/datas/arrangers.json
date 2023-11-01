@@ -372,7 +372,8 @@
 	},
 	"GNaugEH":{
 		"website": [
-			{"title": "bilibili", "url": "https://space.bilibili.com/35767129"}
+			{"title": "bilibili", "url": "https://space.bilibili.com/35767129"},
+            {"title": "虫虫钢琴", "url": "http://www.gangqinpu.com/member/738987.htm"}
 		]
 	},
 	"清水 嶺":{
@@ -947,7 +948,8 @@
     "Tis":{
         "website": [
             {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2081202.htm"}
-        ]
+        ],
+        "comment": "Probably the same person as Inori Kaze (https://bloak.github.io/touhou_piano_library/arranger_info.html?name=Inori%20Kaze) on bilibili."
     },
     "Pachirisue":{
         "website": [
@@ -984,6 +986,22 @@
     "Moist":{
         "website": [
             {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/12024297.htm"}
+        ]
+    },
+    "解题方案":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/11067506.htm"},
+            {"title": "bilibili", "url": "https://space.bilibili.com/362548347"}
+        ]
+    },
+    "桐生":{
+        "website": [
+            {"title": "硫酸ポリオミノ", "url": "http://h2so4.web-st.net"}
+        ]
+    },
+    "永夜竜宫使":{
+        "website": [
+            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/695770.htm"}
         ]
     }
 }
