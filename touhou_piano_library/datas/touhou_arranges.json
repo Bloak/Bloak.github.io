@@ -3852,13 +3852,16 @@
 		"circle": "As/Hi Soundworks",
 		"album": "ピアノのための東方小品集 Op.3",
 		"arranger": "柊秀雪",
-		"pdf": "https://www.youtube.com/watch?v=SBoAk1d5rkQ",
+        "transcriber": "Kijiriki",
+		"pdf": "default",
 		"performance": [
 			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=SBoAk1d5rkQ"},
 			{"performer": "Thelnsane", "link": "https://www.youtube.com/watch?v=L2tH2DveVHY"}
 		],
 		"type": "transcription",
-		"difficulty": "2"
+		"difficulty": "2",
+        "comment": "Update 2023/11/08: I found Kijiriki's transcription of this arrangement (https://www.youtube.com/watch?v=YXFnHXr1pCs). It was based on the arranger's own score on his website, but it has been taken down.",
+        "date": "2023/11/08"
 	},
     "th13_03_2":{
 		"title": "Ghost Lead Prelude",
@@ -4234,6 +4237,20 @@
 		"difficulty": "?",
         "date": "2023/10/05"
 	},
+    "th15_01":{
+		"title": null,
+		"original": "th15_01",
+		"arranger": "Mitty",
+        "transcriber": "PSLCL",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=o_M9ZGHLTnI"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "The transcriber provided a hand separation guide in the download link under video description.",
+        "date": "2023/11/08"
+	},
 	"th15_03_2":{
 		"title": null,
 		"original": "th15_03",
@@ -4363,6 +4380,19 @@
 		],
 		"type": "transcription",
 		"difficulty": "4"
+	},
+    "th15_15":{
+		"title": null,
+		"original": "th15_15",
+		"arranger": "かしわ丸餅",
+		"pdf": "https://twitter.com/marumarumochi2/status/1008006258987634688",
+		"performance": [
+			{"performer": null, "link": "https://twitter.com/marumarumochi2/status/1008006258987634688"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=KdVyGc-2BrY"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/11/08"
 	},
     "th15_16":{
 		"title": null,
@@ -5027,5 +5057,18 @@
 		"difficulty": "?",
         "comment": "Those 32nd notes are too fast and need to be simplified. Maybe omit one note in each group so they become triplets.",
         "date": "2023/07/12"
+	},
+    "sh01_18_2":{
+		"title": null,
+		"original": "sh01_18",
+		"arranger": "BlueKirby",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/user/20529416/scores/6982135"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "comment": "The left hand jumps are hard, but if you omit the middle note it becomes much easier. I often see pianists (like Marasy) playing this pattern effortlessly which I don't quite understand. Maybe it's something as natural as scales if you practice it long enough. From my understanding, if you play with fingering 5-21, the trace of your left hand will form an arc, with fingers 5 and 2 being the end points. This is problematic when 2 lands on white key and 1 lands on black key, in which case I find 5-12 more comfortable.",
+        "date": "2023/11/08"
 	}
 }

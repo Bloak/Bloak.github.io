@@ -198,5 +198,15 @@
 		"title": "東方三月精 ～ Strange and Bright Nature Deity",
 		"title_en": "Strange and Bright Nature Deity",
 		"type": "Book CD"
+	},
+    "sh01": {
+		"title": "秋霜玉",
+		"title_en": "Shuusou Gyoku",
+		"type": "Seihou"
+	},
+    "sh02": {
+		"title": "稀翁玉",
+		"title_en": "Kioh Gyoku",
+		"type": "Seihou"
 	}
 }
