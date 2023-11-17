@@ -1014,7 +1014,24 @@
         "website": [
             {"title": "youtube", "url": "https://www.youtube.com/@Andrei1996MB"}
         ]
-    }
+    },
+	"Electroll":{
+		"website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@ElectroIl"}
+        ]
+	},
+	"恶之员":{
+		"website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/4945989"}
+        ]
+	},
+	"va_amias":{
+		"comment": "Also known as junwen971.",
+		"website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@va_amias"},
+			{"title": "musescore", "url": "https://musescore.com/user/16303336"}
+        ]
+	}
 }
 
 

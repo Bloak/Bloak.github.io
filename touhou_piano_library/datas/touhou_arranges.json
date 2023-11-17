@@ -1328,7 +1328,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
-		"comment": "Measure 26 sounds very much like yuyuko's theme...",
+		"comment": "Measure 26 sounds very much like yuyuko's theme... \nShiren's live performance video: https://www.youtube.com/watch?v=MNyA453RMVI. The last part was cut out.",
         "date": "2023/11/01"
 	},
 	"th07_03":{
@@ -4468,6 +4468,19 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+	"th17_02":{
+		"title": null,
+		"original": "th17_02",
+		"arranger": "Electroll",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wna_BA8FeSc"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"comment": "Artist comment: Don't think it's possible to play everything fully but feel free to choose whatever voicings you want to play. For example, from Bar 33 to Bar 40, I have separated the bass clef into chords and the bass. Since it is almost impossible to play both together, feel free to choose which voicing to omit and which voicing to play.",
+        "date": "2023/11/17"
+	},
     "th17_03":{
 		"title": null,
 		"original": "th17_03",
@@ -4492,6 +4505,18 @@
 		"difficulty": "5",
         "date": "2023/05/13"
 	},
+	"th17_08":{
+		"title": null,
+		"original": "th17_08",
+		"arranger": "恶之员",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1go4y1d7EY"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2023/11/17"
+	},
     "th17_09":{
 		"title": null,
 		"original": "th17_09",
@@ -4515,6 +4540,18 @@
 		"type": "transcription",
 		"difficulty": "4",
         "date": "2023/05/13"
+	},
+	"th17_11":{
+		"title": null,
+		"original": "th17_11",
+		"arranger": "柊秀雪",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=h0nodfsOXcY"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/11/17"
 	},
     "th17_12":{
 		"title": null,
@@ -4574,6 +4611,18 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/08/29"
+	},
+	"th18_09":{
+		"title": null,
+		"original": "th18_09",
+		"arranger": "va_amias",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Qk51bk0sg-o"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "date": "2023/11/17"
 	},
     "th18_10_2":{
 		"title": null,
