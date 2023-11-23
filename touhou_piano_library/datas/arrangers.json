@@ -321,6 +321,7 @@
 		]
 	},
 	"かしわ丸餅":{
+		"alt_name": "Kashiwa Marumochi",
 		"website": [
 			{"title": "niconico", "url": "https://www.nicovideo.jp/user/21346265/mylist/54085589"},
             {"title": "youtube", "url": "https://www.youtube.com/channel/UCq-7aYSJFSOnRYaLx1pZQEA"}
@@ -426,6 +427,7 @@
 		]
 	},
 	"三日月夜歌":{
+		"alt_name": "Mikazuki Yoruka",
 		"website": [
 			{"title": "bilibili", "url": "https://space.bilibili.com/17539722"}
 		]
@@ -433,7 +435,8 @@
 	"嘉納芙未":{
 		"alt_name": "Flora Canou",
 		"website": [
-			{"title": "bilibili", "url": "https://space.bilibili.com/5670256"}
+			{"title": "bilibili", "url": "https://space.bilibili.com/5670256"},
+			{"title": "花映閣の書架", "url": "http://fccustom.ysepan.com"}
 		]
 	},
 	"Svcu":{

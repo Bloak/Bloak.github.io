@@ -1868,7 +1868,10 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=bobFBNe11c0"},
 			{"performer": "Dave Liu", "link": "https://www.youtube.com/watch?v=u4PTtEIg2Rs"},
 			{"performer": "三日月夜歌", "link": "https://www.bilibili.com/video/BV1tV411y7HT"},
-			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1nE411d7Yn"}
+			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1nE411d7Yn"},
+			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1mW411x7E3"},
+			{"performer": "大谷的游戏创作小屋", "link": "https://www.bilibili.com/video/BV1gx411c7hp"},
+			{"performer": "澄镜之水12", "link": "https://www.bilibili.com/video/BV1fJ411N7Nw"}
 		],
 		"type": "arrange",
 		"difficulty": "3"
@@ -2331,6 +2334,22 @@
 		"difficulty": "3",
         "comment": "This piece is a prelude for \"Rabbit Waltz\" ( https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th08_11_3 ) in the album Moon War III.",
         "date": "2023/10/15"
+	},
+	"th08_13_4":{
+		"title": "“旅人”超技练习曲",
+        "title_en": "Transendante Etude in E minor \"Voyager\" Op.2 No.4",
+        "original": "th08_13",
+		"original_ex": ["th08_13b"],
+        "circle": "四季如歌室内乐团",
+        "album": "寄梦华歌 ~ Der Anfang Aller Träume.",
+		"arranger": "三日月夜歌",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Cb4y1S7NR"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2023/11/22"
 	},
 	"th08_13b_2":{
 		"title": "Voyage into a Cage...",
@@ -4250,6 +4269,19 @@
 		"difficulty": "?",
 		"comment": "The transcriber provided a hand separation guide in the download link under video description.",
         "date": "2023/11/08"
+	},
+	"th15_02":{
+		"title": null,
+		"original": "th15_02",
+		"arranger": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/user/33806825/scores/13123543"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "The optional notes in section A are meant as echoes of the main melody. The main melody should be sustained and not compromised by the pedal change. If your piano doesn't allow half pedaling, feel free to omit the optional notes, and change the right hand fingerings. \nFor section C, you can omit the optional notes if bringing out the marked melody is too difficult.",
+        "date": "2023/11/20"
 	},
 	"th15_03_2":{
 		"title": null,
