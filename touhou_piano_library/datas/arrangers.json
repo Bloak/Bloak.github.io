@@ -369,7 +369,8 @@
 	},
 	"Inori Kaze":{
 		"website": [
-			{"title": "bilibili", "url": "https://space.bilibili.com/77908642"}
+			{"title": "bilibili", "url": "https://space.bilibili.com/77908642"},
+			{"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2081202.htm"}
 		]
 	},
 	"GNaugEH":{
@@ -948,12 +949,6 @@
         "website": [
             {"title": "musescore", "url": "https://musescore.com/user/68393008/sheetmusic"}
         ]
-    },
-    "Tis":{
-        "website": [
-            {"title": "虫虫钢琴", "url": "https://www.gangqinpu.com/member/2081202.htm"}
-        ],
-        "comment": "Probably the same person as Inori Kaze (https://bloak.github.io/touhou_piano_library/arranger_info.html?name=Inori%20Kaze) on bilibili."
     },
     "Pachirisue":{
         "website": [

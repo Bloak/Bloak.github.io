@@ -152,11 +152,11 @@
 		"transcriber": "Inori Kaze",
 		"pdf": "https://www.bilibili.com/video/BV1gg4y1q76h",
 		"performance": [
-			{"performer": null, "link": "https://www.bilibili.com/video/BV1gg4y1q76h"},
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0OTCBo20Z4g"},
 			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV18v411L7MB"}
 		],
 		"type": "arrange",
-		"difficulty": "4",
+		"difficulty": "5",
 		"comment": "But it's in G minor..."
 	},
 	"hr03_01":{
@@ -1674,7 +1674,7 @@
 		"circle": "Assaultdoor",
 		"album": "風神さまの箱庭",
 		"arranger": "ローズレッド",
-		"transcriber": "Tis",
+		"transcriber": "Inori Kaze",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=15MDaKfbybw"}
@@ -2111,7 +2111,7 @@
 		"circle": "Assaultdoor",
 		"album": "奏乱絵巻",
 		"arranger": "Mitty",
-		"transcriber": "Tis",
+		"transcriber": "Inori Kaze",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=m6o0UdclT3E"}
@@ -2364,6 +2364,22 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th08_14_2":{
+		"title": null,
+		"original": "th08_14",
+		"original_ex": ["th08_11", "th08_12", "th08_13"],
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Redemption」",
+		"arranger": "青汁",
+		"transcriber": ["Knix6593", "Wiilly"],
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=9srKVwojQqc"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2023/12/01"
 	},
 	"th08_15":{
 		"title": null,
@@ -4567,7 +4583,8 @@
 		"arranger": "Harmony",
 		"pdf": "default",
 		"performance": [
-			{"performer": "Harmony", "link": "https://www.bilibili.com/video/BV1b7411E7o1"}
+			{"performer": "Harmony", "link": "https://www.bilibili.com/video/BV1b7411E7o1"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1Ht4y1q7MN"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
@@ -5151,5 +5168,20 @@
 		"difficulty": "3",
         "comment": "The left hand jumps are hard, but if you omit the middle note it becomes much easier. I often see pianists (like Marasy) playing this pattern effortlessly which I don't quite understand. Maybe it's something as natural as scales if you practice it long enough. From my understanding, if you play with fingering 5-21, the trace of your left hand will form an arc, with fingers 5 and 2 being the end points. This is problematic when 2 lands on white key and 1 lands on black key, in which case I find 5-12 more comfortable.",
         "date": "2023/11/08"
+	},
+	"sh02_08_2":{
+		"title": null,
+		"original": "sh02_08",
+		"circle": "Assaultdoor",
+		"album": "奏乱絵巻",
+		"arranger": "after",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=0CXDaoY-12c"},
+			{"performer": "Inori Kaze", "link": "https://www.bilibili.com/video/BV1dE411s76k"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2023/12/01"
 	}
 }
