@@ -1876,6 +1876,33 @@
 		"type": "arrange",
 		"difficulty": "3"
 	},
+	"th08_02_3":{
+		"title": null,
+		"original": "th08_02",
+		"arranger": "柊秀雪",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=o81t2XK8Dls&t=78s"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"comment": "This piece is meant to be followed by 蠢々秋月 (https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th08_03_4). If you want to play this alone, you may want to change the ending a little bit.",
+		"date": "2023/12/04"
+	},
+	"th08_03_4":{
+		"title": null,
+		"original": "th08_03",
+		"arranger": "柊秀雪",
+        "transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=o81t2XK8Dls&t=285s"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"date": "2023/12/04"
+	},
 	"th08_04_3":{
 		"title": null,
 		"original": "th08_04",
