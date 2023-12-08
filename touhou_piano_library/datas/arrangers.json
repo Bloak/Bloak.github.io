@@ -11,7 +11,7 @@
 		"website": [
 			{"title": "白と黒の夢郷", "url":"http://aoz.sakura.ne.jp"}
 		],
-		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963 \nI created this entry in mid 2022, but unfortunately the artist's website was gone by 2022/8/20. I'll leave the link here since it's the only one. You may use https://web.archive.org to view it, but the contents (music, scores) are not accessible. I'm afraid this will happen to some other artists as well in the future, and there's really nothing I can do.\nSome more details about Aojiru's works. His circle \"白と黒の夢郷\" (Dreamland of White and Black) did not release any album. A quick search on thbwiki shows that most of his published arrangements were in TAMUSIC's albums. Beside those, he had one arrangement in 「Mirage ～夜奏幻樂団」, one in 「Touhou pianoforteⅡ-Lunatic Rhapsodia-」 and two in 「Eastern Piano & Ensemble -The Concert for Crimson Ladies-」, all of which you can find on youtube or niconico. His homepage had a list of works including both published ones and others (https://web.archive.org/web/20160920051447/http://aoz.sakura.ne.jp/Music.html), but it's not a full list. I recall that in a kkcwkoh video, someone asked where to find Aojiru's Necrofantasia arrangement and was provided a link, which is a touhou music compilation video on niconico. There probably are many more works burried in such type of videos.\nA side note: 白と黒の夢郷 had an older website pre-2011 and it has 209 captures in webarchive (!!). Some arrangement files has also been captured but I can only see a still image without audio. Perhaps it's a browser issue but more likely the audio files were lost. Here's the url if you're interested: https://web.archive.org/web/20111130103044/http://www.mukyou.jp/ \nUpdate 2023/09/19: Magstic is rehosting Aojiru's works: http://magstic.art/2023/05/11/02/"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv12062963 \nI created this entry in mid 2022, but unfortunately the artist's website was gone by 2022/8/20. I'll leave the link here since it's the only one. You may use https://web.archive.org to view it, but the contents (music, scores) are not accessible. I'm afraid this will happen to some other artists as well in the future, and there's really nothing I can do.\nSome more details about Aojiru's works. His circle \"白と黒の夢郷\" (Dreamland of White and Black) did not release any album. A quick search on thbwiki shows that most of his published arrangements were in TAMUSIC's albums. Beside those, he had one arrangement in 「Mirage ～夜奏幻樂団」, one in 「Touhou pianoforteⅡ-Lunatic Rhapsodia-」 and two in 「Eastern Piano & Ensemble -The Concert for Crimson Ladies-」, all of which you can find on youtube or niconico. His homepage had a list of works including both published ones and others (https://web.archive.org/web/20160920051447/http://aoz.sakura.ne.jp/Music.html), but it's not a full list. I recall that in a kkcwkoh video, someone asked where to find Aojiru's Necrofantasia arrangement and was provided a link, which is a touhou music compilation video on niconico. There probably are many more works burried in such type of videos.\nA side note: 白と黒の夢郷 had an older website pre-2011 and it has 209 captures in webarchive (!!). Some arrangement files has also been captured but I can only see a still image without audio. Perhaps it's a browser issue but more likely the audio files were lost. Here's the url if you're interested: https://web.archive.org/web/20111130103044/http://www.mukyou.jp/ \nUpdate 2023/09/19: Magstic is rehosting Aojiru's works: http://magstic.art/2023/05/11/02/ \nUpdate 2023/12/08: PSLCL made a playlist of Aojiru's touhou piano arrangements (https://www.youtube.com/playlist?list=PLOfFqm4fgQBCp2jfsv-PTtzBCvY8tJF2v) and one of his other works (https://www.youtube.com/playlist?list=PLOfFqm4fgQBAPd0U7KrL0TX8YGCspxo27)."
 	},
 	"朋夜":{
 		"alt_name": "tomoya",
@@ -110,7 +110,7 @@
 		"website": [
             {"title": "A-dash 「心の風が奏でるピアノ」", "url": "https://ameblo.jp/adash1/"}
         ],
-		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv17820946"
+		"comment": "Check out Magstic's article: https://www.bilibili.com/read/cv17820946 \nPlaylist of the artist's touhou piano arrangements: https://www.youtube.com/playlist?list=PL0rTV7SzhdKY_BNKgE9BHEcw_3UWxoBJr ."
 	},
 	"ローズレッド":{
 		"alt_name": "rose red",
@@ -1028,6 +1028,12 @@
 		"website": [
             {"title": "youtube", "url": "https://www.youtube.com/@va_amias"},
 			{"title": "musescore", "url": "https://musescore.com/user/16303336"}
+        ]
+	},
+	"chronondecay":{
+		"website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@chronondecay"},
+			{"title": "musescore", "url": "https://musescore.com/user/29625"}
         ]
 	}
 }

@@ -4493,6 +4493,18 @@
 		"difficulty": "5",
 		"comment": "Warning: Irregular left hand."
 	},
+	"th16_07":{
+		"title": null,
+		"original": "th16_07",
+		"arranger": "chorondecay",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=kAVuqXjFzzo"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"date": "2023/12/08"
+	},
 	"th16_08":{
 		"title": null,
 		"original": "th16_08",
@@ -4580,6 +4592,18 @@
 		"difficulty": "5",
         "date": "2023/05/13"
 	},
+	"th17_06":{
+		"title": null,
+		"original": "th17_06",
+		"arranger": "Atrufulgium",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Q664TzJekzo"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2023/12/08"
+	},
 	"th17_08":{
 		"title": null,
 		"original": "th17_08",
@@ -4665,6 +4689,31 @@
 		"difficulty": "5",
         "date": "2023/08/15"
 	},
+	"th18_01":{
+		"title": null,
+		"original": "th18_01",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=pZEwb0Im6k4"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"date": "2023/12/08"
+	},
+	"th18_02":{
+		"title": null,
+		"original": "th18_02",
+		"arranger": "Atrufulgium",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=FwRS8wjXDbI"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "The number of 46 chords is ungodly.",
+		"date": "2023/12/08"
+	},
 	"th18_04":{
 		"title": null,
 		"original": "th18_04",
@@ -4687,6 +4736,18 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/08/29"
+	},
+	"th18_08_2":{
+		"title": null,
+		"original": "th18_08",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wgp9NzcXVqU"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+        "date": "2023/12/05"
 	},
 	"th18_09":{
 		"title": null,
@@ -4711,6 +4772,18 @@
 		"type": "transcription",
 		"difficulty": "5",
         "date": "2023/08/15"
+	},
+	"th18_11":{
+		"title": null,
+		"original": "th18_11",
+		"arranger": "senka",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=eU_xFKoQweI"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2023/12/08"
 	},
 	"th18_12":{
 		"title": null,
