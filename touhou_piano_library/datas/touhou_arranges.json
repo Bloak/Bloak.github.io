@@ -1520,6 +1520,22 @@
 		"type": "arrange",
 		"difficulty": "3"
 	},
+	"th07_10_5":{
+		"title": "【桜の咎】 - 東方妖々夢 -",
+		"title_en": "\"Sakura Transgression\" - Eastern Ghostly Dream",
+		"original": "th07_10",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EzSjE9CWoFs"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"date": "2023/12/16"
+	},
 	"th07_11":{
 		"title": "東方妖々夢 ～ 広有射怪鳥事",
 		"title_en": "Mystic Oriental Dream ~ Hiroari Shoots a Strange Bird",
@@ -1886,7 +1902,7 @@
 			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=o81t2XK8Dls&t=78s"}
 		],
 		"type": "transcription",
-		"difficulty": "3",
+		"difficulty": "2",
 		"comment": "This piece is meant to be followed by 蠢々秋月 (https://bloak.github.io/touhou_piano_library/arrangement_info.html?id=th08_03_4). If you want to play this alone, you may want to change the ending a little bit.",
 		"date": "2023/12/04"
 	},
@@ -4701,18 +4717,17 @@
 		"difficulty": "3",
 		"date": "2023/12/08"
 	},
-	"th18_02":{
+	"th18_02_2":{
 		"title": null,
 		"original": "th18_02",
-		"arranger": "Atrufulgium",
+		"arranger": "ポンジョウ",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=FwRS8wjXDbI"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BEXEOovPTDo"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
-		"comment": "The number of 46 chords is ungodly.",
-		"date": "2023/12/08"
+		"date": "2023/12/16"
 	},
 	"th18_04":{
 		"title": null,
@@ -4723,7 +4738,20 @@
 			{"performer": null, "link": "https://www.bilibili.com/video/BV1N5411g7WN"}
 		],
 		"type": "transcription",
-		"difficulty": "4"
+		"difficulty": "4",
+		"comment": "As pointed out in a video comment, the minor 9ths in measures 50 and 54 are too dissonant. It'd be better just playing octaves. Also I noticed the weird dominant 7th ending and it's worse than a simple D or Dm. I have to admit I didn't know any music theory when I made this arrangement."
+	},
+	"th18_06":{
+		"title": null,
+		"original": "th18_06",
+		"arranger": "ポンジョウ",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-bpNqNvJaAA"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"date": "2023/12/16"
 	},
     "th18_07":{
 		"title": null,
