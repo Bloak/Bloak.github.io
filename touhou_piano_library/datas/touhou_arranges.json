@@ -1596,7 +1596,7 @@
         "date": "2023/06/05"
 	},
 	"th07_12_4":{
-		"title": "Ultimately, This is Truly a Line Cliche",
+		"title": "Ultimately, This is Truly a Chromatic Descent",
 		"original": "th07_12",
 		"arranger": "Knix6593",
 		"pdf": "default",
@@ -2239,6 +2239,18 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"date": "2023/10/30"
+	},
+	"th08_09_5":{
+		"title": "A Maiden's Resplendent Joy",
+		"original": "th08_09",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=elD7OXQaoi0"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"date": "2024/01/01"
 	},
 	"th08_10_3":{
 		"title": null,
