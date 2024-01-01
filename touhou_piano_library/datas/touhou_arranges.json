@@ -1595,6 +1595,19 @@
         "comment": "Liszt Paganini Etude 1 reference?",
         "date": "2023/06/05"
 	},
+	"th07_12_4":{
+		"title": "Ultimately, This is Truly a Line Cliche",
+		"original": "th07_12",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Bloak", "link": "https://youtu.be/04Bcbww1x9E"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+        "comment": "A へちょ屋 style prelude, though it doesn't have a sequel.",
+        "date": "2024/01/01"
+	},
 	"th07_13":{
 		"title": "【西行妖】 - 幽雅に咲かせ、墨染の桜 -",
 		"original": "th07_13",
@@ -1693,7 +1706,8 @@
 		"transcriber": "Inori Kaze",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=15MDaKfbybw"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=15MDaKfbybw"},
+			{"performer": "ionwin", "link": "https://www.bilibili.com/video/BV1xe411b7kX"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -2894,7 +2908,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
-		"comment": "All the triplets should be 3-3-2 rhythm instead."
+		"comment": "All the triplets should be 3-3-2 rhythm instead. \nViolin + Piano performance: https://www.bilibili.com/video/BV1Ne411k7kq (Violin: Tam; Piano: A')"
 	},
 	"th095_06_2":{
 		"title": null,
