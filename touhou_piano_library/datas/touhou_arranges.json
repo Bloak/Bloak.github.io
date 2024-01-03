@@ -1272,6 +1272,22 @@
         "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: datas/sheets/th07_01_3.pdf . It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
         "date": "2023/04/29"
 	},
+	"th07_01_5":{
+		"title": "【花、久遠に満つることなく】 - 妖々夢 -",
+		"title_en": "\"Flowers do not Bloom Eternally\" - Ghostly Dream",
+		"original": "th07_01",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "碧空金日",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DHdRL127S-c"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"date": "2024/01/03"
+	},
 	"th07_02_2":{
 		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第3楽章",
 		"title_en": "Piano Sonata No.9 \"こぉるどそなた\" 3rd Movement",
@@ -1530,7 +1546,8 @@
 		"transcriber": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=EzSjE9CWoFs"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EzSjE9CWoFs"},
+			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=I4uHjEHN9Zc"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
