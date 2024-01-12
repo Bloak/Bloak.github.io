@@ -1,4 +1,17 @@
 {
+	"ha05_15":{
+		"title": "Gensokyo, Reharmonized",
+		"original": "ha05_15",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Bloak", "link": "https://youtu.be/Wp8iUR-CoVI"}
+		],
+		"type": "arrange",
+		"difficulty": "1",
+		"comment": "It's easy if you play the middle voice with left hand whenever possible.",
+        "date": "2024/01/12"
+	},
 	"hr01_01_2":{
 		"title": "雨と蓬莱伝説",
 		"original": "hr01_01",
@@ -52,7 +65,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "4",
-        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM)"
+        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM) \n\n\nSome corrections to the score: \n1. In measures 13 the last four notes in the right hand should be B-F#-E-B instead of B-G-E-B. Same for measure 15 and 16. \n2. In measure 33 the top note should be G. \n3. In measure 40 the left hand should be B-F#-B(higher)-F#-C-G-D-A. Same for measure 41, 45, and 46. \n4. In measure 86, the C# in the right hand should be tied to the previous C#."
 	},
     "hr02_02":{
 		"title": null,
@@ -1016,6 +1029,20 @@
 		"type": "arrange",
 		"difficulty": "?"
 	},
+	"th06_11_5":{
+		"title": null,
+		"original": "th06_11",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=P4jHHqvqYj0"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Found on Musescore: https://musescore.com/user/68393008/scores/13823041",
+		"date": "2024/01/12"
+	},
 	"th06_12_2":{
 		"title": null,
 		"original": "th06_12",
@@ -1269,7 +1296,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "5",
-        "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: datas/sheets/th07_01_3.pdf . It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
+        "comment": "Update 2023/04/29: Replaced my transcription with Wiilly's, which includes chordal passages that I missed. Changed entry id to th07_01_4 because my video points to th07_01_3 and I don't want to break it. You can find the old pdf here: https://touhou.pub/touhou_piano_library/datas/sheets/th07_01_3.pdf. It's less faithful to Aojiru's arrangement, but you can treat it as an easier version.",
         "date": "2023/04/29"
 	},
 	"th07_01_5":{
@@ -1286,6 +1313,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
+		"comment": "Some corrections to the score: \n1. In measure 29, the last note in the right hand (F) should have a D under it. Also, in the previous measures there are similar thirds but the lower note is written in the lower clef. It's more intuitive to play both notes with right hand. \n2. In measure 50, the C-E chords in the left hand should be C-E♭-A. \n3. In measure 52, the F-B♭-D♭-F chord in the right hand sounds too dense. I think an empty octave is better. \n4. The D♭ in measure 40 and 48 should be notated as C#. \n\n\nI want to specifically talk about measures 31-36, which is the hardest part of this piece. First thing to notice is that there is no pedal. The bass notes are to be sustained manually, which means the middle voice should be distributed to two hands (unless your left hand is very large). Now we have two voices in the right hand, one legato, the other staccato. This reminds me of Chopin's nouvelle etude 3. \nIn the first two measures we use right hand to play the staccato D. In the third measure the melody C clashes with the staccato C, so we omit the first two staccato Cs. In the fourth measure it seems that left hand can play everything but it's still better to play the top C with right hand, so that left hand can play the descending bass line with 3 - 4 - 5. Be careful that the bass C is not part of the staccato chord, and should be played legato. For the bass line in measures 35-37, I use fingering 5 - (4 to 5) - 5. 4 to 5 on C is optional. You can use 4 all the way if the hand position is comfortable. When playing the last note of measure 36 (right hand E) you can press down the pedal to free your left hand from legato fingering.",
 		"date": "2024/01/03"
 	},
 	"th07_02_2":{
@@ -1834,6 +1862,23 @@
 		"difficulty": "?",
         "comment": "The score doesn't look hard, but since I don't know anything about jazz I won't judge it.",
         "date": "2023/10/31"
+	},
+	"th07_18_3":{
+		"title": "【金色の怪】 - ネクロファンタジア -",
+		"title_en": "\"Golden Apparition\" - Necrofantasia",
+		"original": "th07_18",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=zSEBlQ_USmY"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "Measures 15-22: I didn't divide the middle voice to two hands because it depends on hand size. Be aware that a 10th is unavoidable in measure 19.",
+		"date": "2024/01/12"
 	},
 	"th07_19":{
 		"title": null,
