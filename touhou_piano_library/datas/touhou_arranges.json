@@ -1082,7 +1082,8 @@
 		"arranger": "海老福",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=vAX902tSXkg"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vAX902tSXkg"},
+			{"performer": "mikage3k", "link": "https://www.youtube.com/watch?v=ysCzjq2QjmI"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -1966,7 +1967,8 @@
 			{"performer": "澄镜之水12", "link": "https://www.bilibili.com/video/BV1fJ411N7Nw"}
 		],
 		"type": "arrange",
-		"difficulty": "3"
+		"difficulty": "3",
+		"comment": "Violin + Piano performance (incomplete): https://www.bilibili.com/video/BV1ua4y127i3 (Violin: Tam; Piano: A')"
 	},
 	"th08_02_3":{
 		"title": null,

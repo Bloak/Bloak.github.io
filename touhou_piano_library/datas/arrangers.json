@@ -1035,6 +1035,12 @@
             {"title": "youtube", "url": "https://www.youtube.com/@chronondecay"},
 			{"title": "musescore", "url": "https://musescore.com/user/29625"}
         ]
+	},
+	"mikage3k":{
+		"website": [
+            {"title": "niconico", "url": "https://www.nicovideo.jp/user/72743"},
+			{"title": "youtube", "url": "https://www.youtube.com/@mikage3k"}
+        ]
 	}
 }
 
