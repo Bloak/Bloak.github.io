@@ -65,7 +65,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "4",
-        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM) \n\n\nSome corrections to the score: \n1. In measures 13 the last four notes in the right hand should be B-F#-E-B instead of B-G-E-B. Same for measure 15 and 16. \n2. In measure 33 the top note should be G. \n3. In measure 40 the left hand should be B-F#-B(higher)-F#-C-G-D-A. Same for measure 41, 45, and 46. \n4. In measure 86, the C# in the right hand should be tied to the previous C#."
+        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM) \n\n\nSome corrections to the score: \n1. In measures 13 the last four notes in the right hand should be B-F#-E-B instead of B-G-E-B. Same for measure 15 and 16. \n2. In measure 33 the top note should be G. \n3. In measure 40 the left hand should be B-F#-B(higher)-F#-C-G-D-A. Same for measure 41, 45, and 46. \n4. In measure 86, the C# in the right hand should be tied to the previous C#. \n\n\nPrototype: https://web.archive.org/web/20041223175734/http://park17.wakwak.com/~mukyou/eiennnomiko.mp3 (published prior to Dec 2004). \nAojiru's own orchestration: https://web.archive.org/web/20071026105008/http://park17.wakwak.com/~mukyou/r2pd.mp3 (published prior to Oct 2007). \nMany thanks to Magstic for finding this website." 
 	},
     "hr02_02":{
 		"title": null,
@@ -1654,8 +1654,27 @@
         "comment": "A へちょ屋 style prelude, though it doesn't have a sequel.",
         "date": "2024/01/01"
 	},
+	"th07_12_5":{
+		"title": "【還らずの楼の姫君】 - アルティメットトゥルース -",
+		"title_en": "\"The Unreturning Lady of the Tower\" - Ultimate Truth",
+		"original": "th07_12",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=HgAwu44MsPY"},
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=u-y18BSsTe8"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "The second video published in 2020 is a re-arranged version more faithful to the original theme. It's much faster and more difficult than the album version (first video). \nReally glad the artist posted a part of the score in his video, though there's a little difference between the two versions. The remaining part was easy to transcribe.",
+		"date": "2024/02/07"
+	},
 	"th07_13":{
 		"title": "【西行妖】 - 幽雅に咲かせ、墨染の桜 -",
+		"title_en": "\"Saigyou Ayakashi\" - Bloom Nobly, Ink-Black Cherry Blossom",
 		"original": "th07_13",
 		"circle": "As/Hi Soundworks",
 		"album": "ピアノのための東方小品集 Op.4「咎桜」",
@@ -3118,6 +3137,23 @@
 		"difficulty": "2",
 		"comment": "The time signature should be 6/8 instead of 3/4."
 	},
+	"th10_07_3":{
+		"title": "How to spend winter",
+		"original": "th10_07",
+		"circle": "趣味工房にんじんわいん",
+		"album": "東方発表会　第一部　ピアノとアンサンブル",
+		"arranger": "ARA",
+		"transcriber": "rilaku 418",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Yx_ACWm905s"},
+			{"performer": "rikalu 418", "link": "https://www.youtube.com/watch?v=WIwNcWzor5o"}
+		],
+		"type": "arrange",
+		"difficulty": "2",
+		"comment": "The original version by ARA (https://www.youtube.com/watch?v=hN5i2e5pSp4) has other instruments. Rilaku 418 made a piano cover and a performance video. The performance is from beginning to measure 88, where the rest is basically a repetition. The score is found here: https://musescore.com/user/58510696/scores/9869407 , engraved by GarfieldFluffJr.",
+		"date": "2024/02/07"
+	},
 	"th10_08":{
 		"title": null,
 		"original": "th10_08",
@@ -4239,6 +4275,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
+		"comment": "The artist used quite a lot of 36 and 46 chords. Typical touhou music mainly consists of 35 chords.",
         "date": "2023/10/27"
 	},
 	"th14_03":{

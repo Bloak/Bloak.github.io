@@ -317,7 +317,8 @@
 	"2分の1":{
 		"alt_name": "1/2",
 		"website": [
-			{"title": "youtube", "url": "https://www.youtube.com/channel/UCwmTAV78z6Y055YLMkJdhTw"}
+			{"title": "youtube", "url": "https://www.youtube.com/channel/UCwmTAV78z6Y055YLMkJdhTw"},
+			{"title": "booth", "url": "https://han-on.booth.pm"}
 		]
 	},
 	"かしわ丸餅":{
