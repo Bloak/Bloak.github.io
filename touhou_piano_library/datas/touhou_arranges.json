@@ -1254,6 +1254,18 @@
 		"difficulty": "5",
         "date": "2023/10/10"
 	},
+	"th06_15_9":{
+		"title": null,
+		"original": "th06_15",
+		"arranger": "MathyKatty",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/pianoneko/scores/6648585"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2024/03/25"
+	},
     "th06_17":{
 		"title": null,
 		"original": "th06_17",
@@ -1665,7 +1677,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=HgAwu44MsPY"},
-			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=u-y18BSsTe8"}
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=u-y18BSsTe8"},
+			{"performer": "Bloak", "link": "https://youtu.be/7zVUGZ9qBfY"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -2442,7 +2455,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=MCHmfcgvr24"},
-			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=FWOJ1dgoaDA"}
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=FWOJ1dgoaDA"},
+			{"performer": "あかみ", "link": "https://www.youtube.com/watch?v=IP7aX4mlliY"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
@@ -3251,6 +3265,20 @@
 		"type": "arrange",
 		"difficulty": "3",
         "date": "2023/03/29"
+	},
+	"th10_10_3":{
+		"title": "The Idyllic Memories of Japan the Girl Remembered",
+		"original": "th10_10",
+		"original_ex": ["th10_11"],
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=suGQO3pBO_8"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Sanae's theme (Faith is for the Transient People) starts at measure 67 in alto voice. I can't hear it though because the soprano has a stronger presence. \nDifficulty on hold. The score doesn't look difficult but there are some large chords which must be rolled.",
+        "date": "2024/03/25"
 	},
 	"th10_11_2":{
 		"title": null,

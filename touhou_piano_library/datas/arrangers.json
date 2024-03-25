@@ -1042,6 +1042,11 @@
             {"title": "niconico", "url": "https://www.nicovideo.jp/user/72743"},
 			{"title": "youtube", "url": "https://www.youtube.com/@mikage3k"}
         ]
+	},
+	"MathyKatty":{
+		"website": [
+            {"title": "musescore", "url": "https://musescore.com/pianoneko"}
+        ]
 	}
 }
 
