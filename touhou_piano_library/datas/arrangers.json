@@ -1047,6 +1047,27 @@
 		"website": [
             {"title": "musescore", "url": "https://musescore.com/pianoneko"}
         ]
+	},
+	"罹深":{
+		"website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/484767909"}
+        ]
+	},
+	"Radiancal":{
+		"website": [
+            {"title": "musescore", "url": "https://musescore.com/user/31826749"}
+        ]
+	},
+	"Vagoyiv":{
+		"website": [
+            {"title": "musescore", "url": "https://musescore.com/veogoya"},
+			{"title": "bilibili", "url": "https://space.bilibili.com/8884978"}
+        ]
+	},
+	"progrow6523":{
+		"website": [
+            {"title": "musescore", "url": "https://musescore.com/user/27344725"}
+        ]
 	}
 }
 

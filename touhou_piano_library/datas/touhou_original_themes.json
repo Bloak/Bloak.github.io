@@ -175,6 +175,10 @@
 		"title": "Phantasmagoria",
 		"collection": "th03"
 	},
+	"th04_07": {
+		"title": "Bad Apple!!",
+		"collection": "th04"
+	},
     "th04_09": {
 		"title": "アリスマエステラ",
         "title_en": "Alice Maestra",
@@ -1499,6 +1503,11 @@
 		"title": "ぼくらの非想天則 (Full ver.)",
 		"title_en": "Our Hisoutensoku (Full ver.)",
 		"collection": "th123"
+	},
+	"TFM-006a_17": {
+		"title": "暁雲",
+		"title_en": "Morning Clouds",
+		"collection": "th135"
 	},
     "TFM-009a_13": {
 		"title": "沢の河童の技術力",

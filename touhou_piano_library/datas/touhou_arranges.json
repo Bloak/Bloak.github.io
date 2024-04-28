@@ -447,7 +447,8 @@
 		"transcriber": "蓬莱人形FireBird7",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=VIBhNAhgFXQ"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=VIBhNAhgFXQ"},
+			{"performer": "罹深", "link": "https://www.bilibili.com/video/BV1LK421Y7E2"}
 		],
 		"type": "arrange",
 		"difficulty": "4"
@@ -463,6 +464,18 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "This track was not used in the game."
+	},
+	"th04_07_3":{
+		"title": null,
+		"original": "th04_07",
+		"arranger": "MathyKatty",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/pianoneko/scores/6276707"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2024/04/28"
 	},
     "th04_09":{
 		"title": null,
@@ -2605,6 +2618,18 @@
         "comment": "Piano quartet in 東方四重奏 3: https://www.youtube.com/watch?v=eZRpZBl8dNc",
         "date": "2023/10/30"
 	},
+	"th08_16_2":{
+		"title": null,
+		"original": "th08_16",
+		"arranger": "progrow6523",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/user/27344725/scores/6385580"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+		"date": "2024/04/28"
+	},
 	"th08_17":{
 		"title": null,
 		"original": "th08_17",
@@ -2769,6 +2794,18 @@
         "comment": "The harmony constantly switches between major and minor. I marked the key signature as minor because the melody doesn't change much from the original theme.",
         "date": "2023/09/07"
 	},
+	"th09_02_6":{
+		"title": "A Lively Spring",
+		"original": "th09_02",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=zUrtDFNc3wo"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2024/04/28"
+	},
 	"th09_04":{
 		"title": null,
 		"original": "th09_04",
@@ -2867,6 +2904,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "2",
+		"comment": "In measure 2, the left hand E at beat 4 should be a 16th note earlier and align with the right hand E. Same for measure 6.",
         "date": "2023/10/15"
 	},
     "th09_14_2":{
@@ -3279,6 +3317,18 @@
 		"difficulty": "?",
 		"comment": "Sanae's theme (Faith is for the Transient People) starts at measure 67 in alto voice. I can't hear it though because the soprano has a stronger presence. \nDifficulty on hold. The score doesn't look difficult but there are some large chords which must be rolled.",
         "date": "2024/03/25"
+	},
+	"th10_10_4":{
+		"title": null,
+		"original": "th10_10",
+		"arranger": "progrow6523",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://musescore.com/user/27344725/scores/6142812"}
+		],
+		"type": "transcription",
+		"difficulty": "5",
+        "date": "2024/04/28"
 	},
 	"th10_11_2":{
 		"title": null,
@@ -4701,6 +4751,18 @@
 		"difficulty": "4",
 		"comment": "Reminds me of Heller's etude op.45 no.1."
 	},
+	"th16_12":{
+		"title": null,
+		"original": "th16_12",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+            {"performer": null, "link": "https://www.youtube.com/watch?v=PoZh43sCjT0"}
+        ],
+		"type": "arrange",
+		"difficulty": "2",
+		"date": "2024/04/28"
+	},
 	"th16_13_2":{
 		"title": null,
 		"original": "th16_13",
@@ -5373,6 +5435,19 @@
 		"difficulty": "5",
         "comment": "The grey notes are for second loop only. If the span is too big you need to cut off the bottom note.",
         "date": "2023/07/31"
+	},
+	"TFM-006a_17":{
+		"title": null,
+		"original": "TFM-006a_17",
+		"arranger": "Harmony",
+		"pdf": "default",
+		"performance": [
+			{"performer": "Harmony", "link": "https://www.bilibili.com/video/BV1P4411U7n2"},
+			{"performer": "蓬莱人形FireBird7", "link": "https://www.bilibili.com/video/BV15T421m7LV"}
+		],
+		"type": "transcription",
+		"difficulty": "2",
+        "date": "2024/04/28"
 	},
     "TFM-009a_13":{
 		"title": null,
