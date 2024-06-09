@@ -2361,6 +2361,22 @@
 		"difficulty": "2",
 		"date": "2024/01/01"
 	},
+	"th08_09_6":{
+		"title": "博麗戀愛傳奇 ～ The Only Fancy Dream of God's Son",
+		"original": "th08_09",
+		"circle": "隙间方程",
+		"album": "东方音叶月~Imaginary World between Black and White Keys~",
+		"arranger": "九條咲夜",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=nb97XEXDrAY"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"comment": "This piece is very long so I divided it into small sections. The recurring themes are marked A, B, and C. The other themes are labeled interlude 1, transition, and interlude 2. The introduction (measures 1-16) and ending (measures 209+) are not labeled. Measures 97-104 is another independent theme, but I marked it A' because measures 97, 99, and 101 sound like rhythmic variations of theme A. Interlude 1 has elements from both A (measures 51 vs 29) and B (measures 50 vs 109). Interlude 2 could be seen as an extension of A3 because of similar LH patterns. The two interludes have oddly similar beginnings, but 1 stays cheerful while 2 becomes dramatic. \nThe transition section has 16 measures of bitonality, where LH stays in d# minor but RH moves to e minor.This kind of dissonance can also be found in other tracks from the album, but not as long as this one. This section gives me a mysterious feeling, as if something huge is about to happen. \nThe \"free rhythm\" and \"capriccioso\" sections are meant to be really free, unbound to tempo or time signature. There are some bars that are not 4/4 time, but they really don't matter. The LH patterns can be anything you want, as long as they follow the harmonic progression. The RH notes should not be aligned to the LH, so that the melody sounds like floating over the bass. The written-out notation of measures 81-84 is just an example of how to achieve this effect (as done by the arranger).",
+		"date": "2024/06/09"
+	},
 	"th08_10_3":{
 		"title": null,
 		"original": "th08_10",
