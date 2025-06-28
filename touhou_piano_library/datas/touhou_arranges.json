@@ -2287,6 +2287,24 @@
         "comment": "PSLCL is currently remaking the sheet music: https://musescore.com/user/68393008/scores/12449644 ",
         "date": "2023/10/07"
 	},
+	"th08_08_5":{
+		"title": "華麗なる大永夜抄",
+		"title_en": "Splendid Grand Eternal Night Vignette",
+		"original": "th08_08",
+		"original_ex": ["th08_01", "th08_16"],
+		"circle": "凋叶棕",
+		"album": "祭 -Matsuri-",
+		"arranger": "RD-Sounds",
+        "transcriber": "Radiancal",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=PzJ7ABAQxP8"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "The arrangement isn't for solo piano. Radiancal re-arranged the unplayable parts, watch: https://www.youtube.com/watch?v=EQvdYjrWfeU ",
+		"date": "2025/06/28"
+	},
 	"th08_09":{
 		"title": null,
 		"original": "th08_09",
@@ -4604,6 +4622,18 @@
 		"type": "transcription",
 		"difficulty": "2",
 		"comment": "It's probably not the artist's intention, but I think adding staccato like in the original theme would add some spice to this piece, both effect- and technique- wise."
+	},
+	"th15_06_2":{
+		"title": null,
+		"original": "th15_06",
+		"arranger": "novedua",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Ivv0ASS-bqU"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+		"date": "2025/06/28"
 	},
 	"th15_07_2":{
 		"title": null,

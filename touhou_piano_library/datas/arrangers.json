@@ -1055,7 +1055,8 @@
 	},
 	"Radiancal":{
 		"website": [
-            {"title": "musescore", "url": "https://musescore.com/user/31826749"}
+            {"title": "musescore", "url": "https://musescore.com/user/31826749"},
+            {"title": "youtube", "url": "https://www.youtube.com/@radiancal9071"}
         ]
 	},
 	"Vagoyiv":{
@@ -1067,6 +1068,11 @@
 	"progrow6523":{
 		"website": [
             {"title": "musescore", "url": "https://musescore.com/user/27344725"}
+        ]
+	},
+	"novedua":{
+		"website": [
+            {"title": "youtube", "url": "https://www.youtube.com/@novedua"}
         ]
 	}
 }
