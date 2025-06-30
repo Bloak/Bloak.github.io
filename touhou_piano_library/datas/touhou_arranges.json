@@ -1093,6 +1093,7 @@
 		"circle": "Everfades",
 		"album": "Reverie",
 		"arranger": "海老福",
+		"transcriber": "cupcirno",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=vAX902tSXkg"},
@@ -1100,7 +1101,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "?",
-		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=N4RotIZKXAc (violin by TAM)"
+		"comment": "Violin + Piano version: https://www.youtube.com/watch?v=N4RotIZKXAc (violin by TAM) \n\n Update 2025/6/30: Replaced the old score by abfuku with a more player friendly engraving. The small notes were on the original score but not played in the album track."
 	},
     "th06_13_4":{
 		"title": "紅魔館にピアノなんかあったっけ？",
@@ -1607,6 +1608,24 @@
 		"difficulty": "1",
 		"date": "2023/12/16"
 	},
+	"th07_10_6":{
+		"title": "前奏曲「東方妖々夢」",
+		"title_en": "Prelude \"Eastern Ghostly Dream\"",
+		"original": "th07_10",
+		"original_ex": ["th08_13b"],
+		"circle": "Everfades",
+		"album": "Reverie",
+		"arranger": "風街詠史",
+		"transcriber": "cupcirno",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=RZ_CE9S5bWI"},
+			{"performer": "あかみ", "link": "https://www.bilibili.com/video/BV1aW4y1G7d1"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2025/06/30"
+	},
 	"th07_11":{
 		"title": "東方妖々夢 ～ 広有射怪鳥事",
 		"title_en": "Mystic Oriental Dream ~ Hiroari Shoots a Strange Bird",
@@ -2000,7 +2019,7 @@
 		"circle": "Everfades",
 		"album": "Reverie",
 		"arranger": "A'",
-		"transcriber": "Midori Yakumo",
+		"transcriber": "cupcirno",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=bobFBNe11c0"},
@@ -2013,7 +2032,7 @@
 		],
 		"type": "arrange",
 		"difficulty": "3",
-		"comment": "Violin + Piano performance (incomplete): https://www.bilibili.com/video/BV1ua4y127i3 (Violin: Tam; Piano: A')"
+		"comment": "Violin + Piano performance (incomplete): https://www.bilibili.com/video/BV1ua4y127i3 (Violin: Tam; Piano: A') \n\n Update 2025/6/30: Replaced the old score by Midori Yakumo with a new one with better notations."
 	},
 	"th08_02_3":{
 		"title": null,
@@ -4574,7 +4593,7 @@
 		"arranger": "Bloak",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://musescore.com/user/33806825/scores/13123543"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=J5RuQj3bfQo"}
 		],
 		"type": "transcription",
 		"difficulty": "4",
@@ -5172,6 +5191,18 @@
 		"difficulty": "5",
         "date": "2023/05/16"
 	},
+	"th19_04":{
+		"title": null,
+		"original": "th19_04",
+		"arranger": "novedua",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=t-dhJ22AG4w"}
+		],
+		"type": "transcription",
+		"difficulty": "3",
+        "date": "2025/06/30"
+	},
     "th19_05":{
 		"title": null,
 		"original": "th19_05",
@@ -5535,6 +5566,19 @@
 		"difficulty": "5",
         "date": "2023/10/07"
 	},
+	"TFM-010b_07":{
+		"title": null,
+		"original": "TFM-010b_07",
+		"arranger": "novedua",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=7z1a-KeFDBo"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+		"comment": "This is the th19 version.",
+        "date": "2025/06/30"
+	},
     "TFM-010b_08":{
 		"title": null,
 		"original": "TFM-010b_08",
@@ -5579,6 +5623,7 @@
 		"circle": "Assaultdoor",
 		"album": "奏乱絵巻",
 		"arranger": "after",
+		"transcriber": "GNaugEH",
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=0CXDaoY-12c"},

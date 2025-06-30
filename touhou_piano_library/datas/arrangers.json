@@ -1074,6 +1074,17 @@
 		"website": [
             {"title": "youtube", "url": "https://www.youtube.com/@novedua"}
         ]
+	},
+	"cupcirno":{
+		"website": [
+            {"title": "bilibili", "url": "https://space.bilibili.com/83134881"}
+        ]
+	},
+	"風街詠史":{
+		"website": [
+			{"title": "菓子奉行所 (web archive)", "url": "https://web.archive.org/web/20070209030820/http://www.kashibugyo.from.tv/"}
+		],
+		"comment": "This artist produced only one touhou arrangement in 2005, according to every database."
 	}
 }
 
