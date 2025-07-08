@@ -1945,6 +1945,20 @@
 		"comment": "Measures 15-22: I didn't divide the middle voice to two hands because it depends on hand size. Be aware that a 10th is unavoidable in measure 19.",
 		"date": "2024/01/12"
 	},
+	"th07_18_4":{
+		"title": null,
+		"original": "th07_18",
+		"arranger": "青汁",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.bilibili.com/video/BV1Fe4y1c7Ww"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Measures 77-92, 126-157: In the original audio, Some RH chords are inconsistent between iterations (mostly in measures 81-82 and equivalents). The chords on the score are my logical guess based on the simpler part (measures 61-76). I think it sounds best when you just stack the new voice on top of it, except measure 83 beat 2.",
+		"date": "2025/07/08"
+	},
 	"th07_19":{
 		"title": null,
 		"original": "th07_19",
