@@ -65,7 +65,22 @@
 		],
 		"type": "arrange",
 		"difficulty": "4",
-        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM) \n\n\nSome corrections to the score: \n1. In measures 13 the last four notes in the right hand should be B-F#-E-B instead of B-G-E-B. Same for measure 15 and 16. \n2. In measure 33 the top note should be G. \n3. In measure 40 the left hand should be B-F#-B(higher)-F#-C-G-D-A. Same for measure 41, 45, and 46. \n4. In measure 86, the C# in the right hand should be tied to the previous C#. \n\n\nPrototype: https://web.archive.org/web/20041223175734/http://park17.wakwak.com/~mukyou/eiennnomiko.mp3 (published prior to Dec 2004). \nAojiru's own orchestration: https://web.archive.org/web/20071026105008/http://park17.wakwak.com/~mukyou/r2pd.mp3 (published prior to Oct 2007). \nMany thanks to Magstic for finding this website." 
+        "comment": "Violin + Piano version: https://www.youtube.com/watch?v=-l2BFpzNjmA (violin by TAM) \n\n\nPrototype: https://web.archive.org/web/20041223175734/http://park17.wakwak.com/~mukyou/eiennnomiko.mp3 (published prior to Dec 2004). \nAojiru's own orchestration: https://web.archive.org/web/20071026105008/http://park17.wakwak.com/~mukyou/r2pd.mp3 (published prior to Oct 2007). \nMany thanks to Magstic for finding this website. \n\n\nUpdate 2025/12/13: This is a revised score made by Knix. Fixed some mistakes in the previous version.",
+        "date": "2025/12/13"
+	},
+	"hr01_12_3":{
+		"title": "永遠の巫女 (old)",
+		"original": "hr01_12",
+		"arranger": "青汁",
+		"transcriber": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=LdN9ntJeK5U"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "comment": "This is an older arrangement of Eternal Shrine Maiden by Aojiru, published before Dec 2004.",
+        "date": "2025/12/13"
 	},
     "hr02_02":{
 		"title": null,
