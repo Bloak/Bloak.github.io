@@ -917,15 +917,15 @@
 		"circle": "TAMUSIC",
 		"album": "ピアノのための東方夜想曲集「Scarlet」",
 		"arranger": "青汁",
-        "transcriber": "Quellatalo",
+        "transcriber": ["Quellatalo", "Knix6593"],
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=eYj-i1Y9kHM"}
 		],
 		"type": "arrange",
 		"difficulty": "5",
-		"comment": "Piano trio (published earlier) in ピアノ三重奏による東方夜想曲集「Seal」: https://www.bilibili.com/video/BV1Xs411o76v/?p=6 . Piano: 青汁; Violin: TAM & Hikaru.",
-        "date": "2023/02/17"
+		"comment": "Piano trio (published earlier) in ピアノ三重奏による東方夜想曲集「Seal」: https://www.bilibili.com/video/BV1Xs411o76v/?p=6 . Piano: 青汁; Violin: TAM & Hikaru. \nKnix's score video: https://www.youtube.com/watch?v=KRKh1SZlIn0 \nQuellatalo's score video (old version): https://www.youtube.com/watch?v=-wISHcM0NeE \n\n\nMeasures 54-55 right hand is very fast, about the original tempo of Chopin's Winter Wind, but it's not much of a compromise if you only play the chromatic scale in the top line.",
+        "date": "2025/12/21"
 	},
     "th06_09_4":{
 		"title": "パチェも弾いてみなさいよ",
@@ -2512,7 +2512,7 @@
 			{"performer": null, "link": "https://www.youtube.com/watch?v=hSRw-mkXaFk"}
 		],
 		"type": "arrange",
-		"difficulty": "?",
+		"difficulty": "5",
         "date": "2023/03/08"
 	},
 	"th08_11_2":{
