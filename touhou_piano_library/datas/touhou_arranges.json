@@ -806,15 +806,15 @@
 		"circle": "TAMUSIC",
 		"album": "ピアノのための東方夜想曲集「Scarlet」",
 		"arranger": "青汁",
-        "transcriber": "Quellatalo",
+        "transcriber": ["Wiilly", "Knix6593"],
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=aahMt68U6QY"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
-		"comment": "The score is presented as a duet, but it seems like it can be handled by one person. Other piano works by 青汁 and other works in 東方夜想曲集 series don't contain a piano duet, as far as I know.",
-        "date": "2023/02/17"
+		"comment": "Score video: https://www.youtube.com/watch?v=GJ_DaXuY-30 \nThe old Quellatalo's transcription (presented as a duet): https://www.youtube.com/watch?v=jFVRbvHDElQ ",
+        "date": "2025/12/27"
 	},
     "th06_07_6":{
 		"title": "美鈴ちょっといらっしゃい",
@@ -1567,6 +1567,20 @@
 		"type": "transcription",
 		"difficulty": "3"
 	},
+	"th07_09_2":{
+		"title": null,
+		"original": "th07_09",
+		"arranger": "青汁",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Z0kkf56-XUo"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=ZxSL8TucptY"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"date": "2025/12/27"
+	},
 	"th07_10_2":{
 		"title": "東方妖々夢～月廃寺",
 		"original": "th07_10",
@@ -1671,6 +1685,23 @@
 		],
 		"type": "arrange",
 		"difficulty": "?"
+	},
+	"th07_11_4":{
+		"title": null,
+		"original": "th07_11",
+		"original_ex": ["th07_10","th07_13"],
+		"circle": "TAMUSIC",
+		"album": "ピアノのための東方夜想曲集「Spirit」",
+		"arranger": "青汁",
+        "transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=QHjfkeQoNYE"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"comment": "Score video: https://www.youtube.com/watch?v=ta5A6PscVDw ",
+        "date": "2025/12/27"
 	},
 	"th07_12_2":{
 		"title": null,
