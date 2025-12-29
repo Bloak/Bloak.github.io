@@ -766,6 +766,22 @@
 		"difficulty": "?",
 		"comment": "Denko's performance only covered the first half."
 	},
+	"th06_06_3":{
+		"title": "Innocent Story",
+		"original": "th06_06",
+        "circle": "幻想Bakery",
+        "album": "Innocent Story",
+		"arranger": "Messier",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=mQsLrxRhzq8"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=ciwqXHDZwOo"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2025/12/29"
+	},
 	"th06_07":{
 		"title": null,
 		"original": "th06_07",
