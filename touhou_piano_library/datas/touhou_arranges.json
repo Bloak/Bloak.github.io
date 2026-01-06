@@ -2852,10 +2852,13 @@
 		"transcriber": "Wiilly",
 		"pdf": "default",
 		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=8qdYaxLbsog&t=2401s"},
 			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=A1KU7hNceZA"}
 		],
 		"type": "arrange",
-		"difficulty": "?"
+		"difficulty": "?",
+		"comment": "Update 2026/01/06: Uploaded a cleaner score made by Knix. Also added a link to the original audio from the album.",
+		"date": "2026/01/06"
 	},
 	"th09_02_2":{
 		"title": "散りゆく花",
