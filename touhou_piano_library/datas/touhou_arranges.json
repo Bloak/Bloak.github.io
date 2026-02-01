@@ -2105,7 +2105,8 @@
 			{"performer": "嘉納芙未", "link": "https://www.bilibili.com/video/BV1nE411d7Yn"},
 			{"performer": "琉璃の鸟", "link": "https://www.bilibili.com/video/BV1mW411x7E3"},
 			{"performer": "大谷的游戏创作小屋", "link": "https://www.bilibili.com/video/BV1gx411c7hp"},
-			{"performer": "澄镜之水12", "link": "https://www.bilibili.com/video/BV1fJ411N7Nw"}
+			{"performer": "澄镜之水12", "link": "https://www.bilibili.com/video/BV1fJ411N7Nw"},
+			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=cf97ze3SqYE"}
 		],
 		"type": "arrange",
 		"difficulty": "3",
@@ -2689,6 +2690,21 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"date": "2023/12/01"
+	},
+	"th08_14_3":{
+		"title": "Endless Night",
+		"original": "th08_14",
+		"circle": "へちょ屋",
+		"album": "Moon War III",
+		"arranger": "ヒッシー",
+		"transcriber": "Bloak",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=EVEXuA-DCTg"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+		"date": "2026/02/01"
 	},
 	"th08_15":{
 		"title": null,
@@ -4947,6 +4963,20 @@
 		"type": "transcription",
 		"difficulty": "?"
 	},
+	"th17_01":{
+		"title": null,
+		"original": "th17_01",
+		"arranger": "FaceImplosion",
+		"transcriber": "Wiilly",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=lkbstIUDzzk"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=0V89XEs_SkQ"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2026/02/01"
+	},
 	"th17_02":{
 		"title": null,
 		"original": "th17_02",
@@ -5632,6 +5662,21 @@
 		"type": "transcription",
 		"difficulty": "2",
         "date": "2024/04/28"
+	},
+	"TFM-007a_16":{
+		"title": null,
+		"original": "TFM-007a_16",
+		"circle": "Assaultdoor",
+		"album": "Imitation Circus",
+		"arranger": "Mitty",
+		"transcriber": "Radiancal",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=BN89XXq5Bv0"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+        "date": "2026/02/01"
 	},
     "TFM-009a_13":{
 		"title": null,
