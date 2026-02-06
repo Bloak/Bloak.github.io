@@ -443,15 +443,18 @@
 		"title": null,
 		"original": "th03_04",
         "original_ex": ["hr01_10"],
+		"circle": "Assaultdoor",
+		"album": "Imitation Circus",
 		"arranger": "Mitty",
 		"transcriber": "PSLCL",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm27625578"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm27625578"},
+			{"performer": "ありおと", "link": "https://www.youtube.com/watch?v=NQMIKQOGhSw"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
-        "date": "2023/10/15"
+        "date": "2026/02/06"
 	},
 	"th03_08_2":{
 		"title": null,
@@ -4694,8 +4697,7 @@
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "The transcriber provided a hand separation guide in the download link under video description.",
-        "date": "2023/11/08"
+        "date": "2026/02/06"
 	},
 	"th15_02":{
 		"title": null,
@@ -4722,8 +4724,8 @@
 		],
 		"type": "transcription",
 		"difficulty": "?",
-		"comment": "The pdf is a reduction of the original 7-staff arrangement (see Mitty's video). I fixed some key signature and accidental issues. There also seems to be issues with note durations but I don't know how to fix. The piece looks impossible to play. \nWiilly's recording was before PSLCL's transcription so he must have used his own transcription or he just sightread 7 staves at once.",
-        "date": "2023/10/07"
+		"comment": "The pdf is a reduction of the original 7-staff arrangement (see Mitty's video). It looks impossible to play. \nWiilly's recording was before PSLCL's transcription so he must have used his own transcription or he just sightread 7 staves at once.",
+        "date": "2026/02/06"
 	},
 	"th15_04":{
 		"title": null,
