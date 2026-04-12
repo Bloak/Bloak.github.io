@@ -3840,13 +3840,16 @@
         "circle": "幻想Bakery",
         "album": "Innocent Story",
 		"arranger": "Messier",
-		"pdf": "https://www.nicovideo.jp/watch/sm23322204",
+		"transcriber": "Schneeheide",
+		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23322204"}
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm23322204"},
+			{"performer": "Wiilly", "link": "https://www.youtube.com/watch?v=LwAYZLYuLUM"}
 		],
 		"type": "arrange",
 		"difficulty": "?",
-        "date": "2023/10/10"
+		"comment": "Schneeheide re-engraved the sheet music based on Messier's score video.",
+        "date": "2026/04/12"
 	},
 	"th11_10_3":{
 		"title": "One Night Hell Screen",
@@ -4618,6 +4621,18 @@
 		"type": "arrange",
 		"difficulty": "?",
         "date": "2023/07/12"
+	},
+	"th14_07_3":{
+		"title": "Tischwolf",
+		"original": "th14_07",
+		"arranger": "Schneeheide",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=wARCxe9XnaE"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2026/04/12"
 	},
     "th14_08":{
 		"title": null,
