@@ -1200,6 +1200,19 @@
 		"difficulty": "?",
         "date": "2023/08/16"
 	},
+	"th06_13_8":{
+		"original": "th06_13",
+		"arranger": "青汁",
+		"transcriber": "Constellationary",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=XFyG7R7HdOg"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"comment": "This arrangement is for three hands. \n\nThe score is slightly edited by Knix. Constellationary's original score: https://musescore.com/user/96444016/scores/30570218",
+        "date": "2026/08/30"
+	},
 	"th06_14":{
 		"title": null,
 		"original": "th06_14",
@@ -1370,12 +1383,30 @@
 		"transcriber": "碧空金日",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=DHdRL127S-c"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=DHdRL127S-c"},
+			{"performer": "Bloak", "link": "https://www.bilibili.com/video/BV1pe41117jH"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
 		"comment": "Some corrections to the score: \n1. In measure 29, the last note in the right hand (F) should have a D under it. Also, in the previous measures there are similar thirds but the lower note is written in the lower clef. It's more intuitive to play both notes with right hand. \n2. In measure 50, the C-E chords in the left hand should be C-E♭-A. \n3. In measure 52, the F-B♭-D♭-F chord in the right hand sounds too dense. I think an empty octave is better. \n4. The D♭ in measure 40 and 48 should be notated as C#. \n\n\nI want to specifically talk about measures 31-36, which is the hardest part of this piece. First thing to notice is that there is no pedal. The bass notes are to be sustained manually, which means the middle voice should be distributed to two hands (unless your left hand is very large). Now we have two voices in the right hand, one legato, the other staccato. This reminds me of Chopin's nouvelle etude 3. \nIn the first two measures we use right hand to play the staccato D. In the third measure the melody C clashes with the staccato C, so we omit the first two staccato Cs. In the fourth measure it seems that left hand can play everything but it's still better to play the top C with right hand, so that left hand can play the descending bass line with 3 - 4 - 5. Be careful that the bass C is not part of the staccato chord, and should be played legato. For the bass line in measures 35-37, I use fingering 5 - (4 to 5) - 5. 4 to 5 on C is optional. You can use 4 all the way if the hand position is comfortable. When playing the last note of measure 36 (right hand E) you can press down the pedal to free your left hand from legato fingering.",
 		"date": "2024/01/03"
+	},
+	"th07_01_6":{
+		"title": "【Prologue】- 妖々夢 -",
+		"title_en": "Prologue - Ghostly Dream",
+		"original": "th07_01",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.4「咎桜」",
+		"arranger": "柊秀雪",
+		"transcriber": "Constellationary",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=crJL9n_WNrQ"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"comment": "I made some changes mainly on time signatures. The original score: https://musescore.com/user/96444016/scores/30810380",
+		"date": "2026/08/30"
 	},
 	"th07_02_2":{
 		"title": "ピアノソナタ⑨番 \"こぉるどそなた\" 第3楽章",
