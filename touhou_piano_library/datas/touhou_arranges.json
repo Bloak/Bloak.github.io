@@ -990,7 +990,8 @@
         "transcriber": "Knix6593",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://youtu.be/9pGluXLZjH4"}
+			{"performer": null, "link": "https://youtu.be/9pGluXLZjH4"},
+			{"performer": "Schneeheide", "link": "https://www.youtube.com/watch?v=b3_K-YUzedg"}
 		],
 		"type": "arrange",
 		"difficulty": "2",
@@ -1967,7 +1968,8 @@
 		"arranger": "戦ピー",
 		"pdf": "default",
 		"performance": [
-			{"performer": null, "link": "https://www.youtube.com/watch?v=K6mfDJh5Vx0"}
+			{"performer": null, "link": "https://www.youtube.com/watch?v=K6mfDJh5Vx0"},
+			{"performer": "Bloak", "link": "https://www.youtube.com/watch?v=YfvBGDQCAdA"}
 		],
 		"type": "arrange",
 		"difficulty": "3"
@@ -3896,6 +3898,21 @@
 		"difficulty": "?",
 		"comment": "Schneeheide re-engraved the sheet music based on Messier's score video.",
         "date": "2026/04/12"
+	},
+	"th11_09_8":{
+		"title": null,
+		"original": "th11_09",
+        "circle": "Assaultdoor",
+        "album": "月遊 ～ツキアソビ～",
+		"arranger": "Cap",
+        "transcriber": "Radiancal",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.nicovideo.jp/watch/sm13219288"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2026/09/24"
 	},
 	"th11_10_3":{
 		"title": "One Night Hell Screen",
