@@ -12,6 +12,18 @@
 		"comment": "It's easy if you play the middle voice with left hand whenever possible.",
         "date": "2024/01/12"
 	},
+	"ha05_15_2":{
+		"title": "The Illusory East",
+		"original": "ha05_15",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=ZhI1Btz_g1M"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "date": "2026/10/16"
+	},
 	"hr01_01_2":{
 		"title": "雨と蓬莱伝説",
 		"original": "hr01_01",
@@ -1329,6 +1341,19 @@
 		"difficulty": "4",
         "date": "2024/03/25"
 	},
+	"th06_15_10":{
+		"title": "Lullaby for a Scarlet Sister",
+		"original": "th06_15",
+		"original_ex": ["th06_12"],
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Bwk8zQ_Zahk"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2026/10/16"
+	},
     "th06_17":{
 		"title": null,
 		"original": "th06_17",
@@ -1546,6 +1571,18 @@
 		],
 		"type": "transcription",
 		"difficulty": "3"
+	},
+	"th07_06_3":{
+		"title": "Margatroid Dolls' Dance",
+		"original": "th07_06",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=-K2PoEWCmwY"}
+		],
+		"type": "arrange",
+		"difficulty": "?",
+		"date": "2026/10/09"
 	},
 	"th07_07":{
 		"title": null,
@@ -1790,7 +1827,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=YcumW39IGus"},
-			{"performer": "Bloak", "link": "https://youtu.be/04Bcbww1x9E"}
+			{"performer": "Bloak", "link": "https://youtu.be/04Bcbww1x9E"},
+			{"performer": "Schneeheide", "link": "https://www.youtube.com/watch?v=QJ9M3oRWfzo"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
@@ -1883,7 +1921,8 @@
 		"pdf": "default",
 		"performance": [
 			{"performer": null, "link": "https://www.youtube.com/watch?v=ACxMbWaP0Rw"},
-            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=BudUwaNLUcs"}
+            {"performer": "Bloak", "link": "https://www.youtube.com/watch?v=BudUwaNLUcs"},
+			{"performer": "Schneeheide", "link": "https://www.youtube.com/watch?v=JElCTmqD_hA"}
 		],
 		"type": "arrange",
 		"difficulty": "1",
@@ -3123,6 +3162,18 @@
 		"difficulty": "5",
         "date": "2023/06/02"
 	},
+	"th09_14_3":{
+		"title": "The Riverside",
+		"original": "th09_14",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Bwk8zQ_Zahk&t=100s"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+        "date": "2026/10/16"
+	},
     "th09_15_2":{
 		"title": "華鳥風月",
 		"original": "th09_15",
@@ -3489,6 +3540,18 @@
 		"difficulty": "?",
         "date": "2023/09/20"
 	},
+	"th10_09_4":{
+		"title": "Ballade in A Minor \"Aya\"",
+		"original": "th10_09",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Qw37-DqiuUI"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+        "date": "2026/10/08"
+	},
 	"th10_10":{
 		"title": null,
 		"original": "th10_10",
@@ -3792,6 +3855,18 @@
 		"difficulty": "1",
         "comment": "Based on Prelude No.4 by Chopin.",
         "date": "2023/04/11"
+	},
+	"th11_05_7":{
+		"title": "Rose-laden Bridge",
+		"original": "th11_05",
+		"arranger": "Knix6593",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=vKfONR3nqvI"}
+		],
+		"type": "arrange",
+		"difficulty": "4",
+        "date": "2026/10/09"
 	},
     "th11_06":{
 		"title": null,
