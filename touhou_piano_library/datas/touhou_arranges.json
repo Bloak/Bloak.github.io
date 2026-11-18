@@ -94,6 +94,22 @@
         "comment": "This is an older arrangement of Eternal Shrine Maiden by Aojiru, published before Dec 2004.",
         "date": "2025/12/13"
 	},
+	"hr02_01":{
+		"title": "【Prelude】 - 夜のデンデラ野を逝く -",
+		"original": "hr02_01",
+		"circle": "As/Hi Soundworks",
+		"album": "ピアノのための東方小品集 Op.2",
+		"arranger": "柊秀雪",
+		"transcriber": "Constellationary",
+		"pdf": "default",
+		"performance": [
+			{"performer": "柊秀雪", "link": "https://www.youtube.com/watch?v=M3YqqOceWZI"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"comment": "The transcription has mistakes in measure 37, 41, and 74 (maybe some more I didn't find). You can check the score in the video to correct them.",
+        "date": "2026/11/18"
+	},
     "hr02_02":{
 		"title": null,
 		"original": "hr02_02",
@@ -560,6 +576,19 @@
 		"type": "arrange",
 		"difficulty": "4",
 		"comment": "This is a piano duet."
+	},
+	"th05_16_3":{
+		"title": null,
+		"original": "th05_16",
+		"arranger": "まらしぃ",
+		"transcriber": "Alfetite",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=H1zHkdgt5ew"}
+		],
+		"type": "arrange",
+		"difficulty": "3",
+		"date": "2026/11/18"
 	},
 	"th06_01":{
 		"title": null,
@@ -1583,6 +1612,22 @@
 		"type": "arrange",
 		"difficulty": "?",
 		"date": "2026/10/09"
+	},
+	"th07_06_4":{
+		"title": "妄想ラスボス",
+		"title_en": "Last Boss Delusion",
+		"original": "th07_06",
+		"circle": "まらしぃ",
+		"album": "東方幻奏響UROBOROS参",
+		"arranger": "まらしぃ",
+		"transcriber": "koiee",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=lzc-mEFMSEc"}
+		],
+		"type": "arrange",
+		"difficulty": "5",
+		"date": "2026/11/18"
 	},
 	"th07_07":{
 		"title": null,
@@ -4341,6 +4386,18 @@
 		"difficulty": "?",
         "date": "2023/08/05"
 	},
+	"th12_13_3":{
+		"title": null,
+		"original": "th12_13",
+		"arranger": "いるか",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=PpyuvGXUPGs"}
+		],
+		"type": "transcription",
+		"difficulty": "4",
+        "date": "2026/11/18"
+	},
     "th12_14":{
 		"title": null,
 		"original": "th12_14",
@@ -5055,6 +5112,20 @@
 		"type": "transcription",
 		"difficulty": "4",
 		"date": "2023/12/08"
+	},
+	"th16_07_2":{
+		"title": null,
+		"original": "th16_07",
+		"arranger": "ひごむれ",
+		"transcriber": "Xavier R. Lor",
+		"pdf": "default",
+		"performance": [
+			{"performer": null, "link": "https://www.youtube.com/watch?v=Vl3-1eOpb34"}
+		],
+		"type": "transcription",
+		"difficulty": "?",
+		"date": "2026/11/18",
+		"comment": "This is a piano duet."
 	},
 	"th16_08":{
 		"title": null,

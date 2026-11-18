@@ -413,6 +413,7 @@
 	"ひごむれ":{
 		"website": [
 			{"title": "youtube", "url": "https://www.youtube.com/channel/UC5tPVcYMvY-5bKjwlWLp3og"},
+			{"title": "niconico", "url": "https://www.nicovideo.jp/user/21464682"},
             {"title": "home page", "url": "https://twpf.jp/37467524"}
 		],
         "comment": "aka 37467524"
@@ -1101,6 +1102,18 @@
 		"website": [
 			{"title": "youtube", "url":"https://www.youtube.com/@Constellationary-S"}
 		]
+	},
+	"いるか":{
+		"alt_name": "Iruka",
+		"website": [
+			{"title": "幻想のしらべ", "url":"http://iruka33.web.fc2.com/index.html"},
+			{"title": "niconico", "url":"https://www.nicovideo.jp/user/1783945/mylist/8370387"}
+		]
+	},
+	"koiee":{
+		"website": [
+            {"title": "musescore", "url": "https://musescore.com/user/36934548"}
+        ]
 	}
 }
 
